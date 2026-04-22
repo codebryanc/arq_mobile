@@ -27,5 +27,9 @@
   "popularMoviesTitle": "Películas populares",
   "@popularMoviesTitle": {
       "description": "Section title for the popular movies list"
+  },
+  "moviesByCategoryTitle": "Películas de",
+  "@moviesByCategoryTitle": {
+      "description": "Section title prefix for movies filtered by category"
   }
 }

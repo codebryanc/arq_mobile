@@ -28,4 +28,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get popularMoviesTitle => 'Películas populares';
+
+  @override
+  String get moviesByCategoryTitle => 'Películas de';
 }

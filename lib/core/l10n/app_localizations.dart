@@ -135,6 +135,12 @@ abstract class AppLocalizations {
   /// In es, this message translates to:
   /// **'Películas populares'**
   String get popularMoviesTitle;
+
+  /// Section title prefix for movies filtered by category
+  ///
+  /// In es, this message translates to:
+  /// **'Películas de'**
+  String get moviesByCategoryTitle;
 }
 
 class _AppLocalizationsDelegate

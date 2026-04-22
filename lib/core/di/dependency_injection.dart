@@ -13,6 +13,11 @@ import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movi
 import 'package:arq_mobile/features/popular_movies/data/repositories/popular_movies_repository_impl.dart';
 import 'package:arq_mobile/features/popular_movies/domain/repositories/popular_movies_repository.dart';
 import 'package:arq_mobile/features/popular_movies/domain/usecases/get_popular_movies_usecase.dart';
+import 'package:arq_mobile/features/movies_by_category/data/datasources/movies_by_category_remote_datasource.dart';
+import 'package:arq_mobile/features/movies_by_category/data/repositories/movies_by_category_repository_impl.dart';
+import 'package:arq_mobile/features/movies_by_category/domain/repositories/movies_by_category_repository.dart';
+import 'package:arq_mobile/features/movies_by_category/domain/usecases/get_movies_by_category_usecase.dart';
+import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_bloc.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_bloc.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_event.dart';
 
@@ -37,6 +42,9 @@ class DependencyInjection {
     sl.registerLazySingleton<PopularMoviesRemoteDataSource>(
       () => PopularMoviesRemoteDataSourceImpl(dio: sl()),
     );
+    sl.registerLazySingleton<MoviesByCategoryRemoteDataSource>(
+      () => MoviesByCategoryRemoteDataSourceImpl(dio: sl()),
+    );
 
     // Repositories
     sl.registerLazySingleton<CategoryRepository>(
@@ -45,10 +53,14 @@ class DependencyInjection {
     sl.registerLazySingleton<PopularMoviesRepository>(
       () => PopularMoviesRepositoryImpl(remoteDataSource: sl()),
     );
+    sl.registerLazySingleton<MoviesByCategoryRepository>(
+      () => MoviesByCategoryRepositoryImpl(remoteDataSource: sl()),
+    );
 
     // Use cases
     sl.registerLazySingleton(() => GetCategoriesUseCase(sl()));
     sl.registerLazySingleton(() => GetPopularMoviesUseCase(sl()));
+    sl.registerLazySingleton(() => GetMoviesByCategoryUseCase(sl()));
 
     // BLoCs
     sl.registerFactory<HomeBloc>(() => HomeBloc());
@@ -58,6 +70,9 @@ class DependencyInjection {
     sl.registerFactory<PopularMoviesBloc>(
       () => PopularMoviesBloc(getPopularMovies: sl())
         ..add(const LoadPopularMovies()),
+    );
+    sl.registerFactory<MoviesByCategoryBloc>(
+      () => MoviesByCategoryBloc(getMoviesByCategory: sl()),
     );
   }
 }
