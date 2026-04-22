@@ -48,3 +48,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# IA
+Claude.md
+Claude_core_rules.md
+Claude_features_rules.md
