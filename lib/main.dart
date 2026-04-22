@@ -5,6 +5,7 @@ import 'package:arq_mobile/core/di/dependency_injection.dart';
 import 'package:arq_mobile/core/l10n/app_localizations_es.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_bloc.dart';
 import 'package:arq_mobile/features/home/presentation/bloc/home_bloc.dart';
+import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_bloc.dart';
 
 import 'app.dart';
 
@@ -22,6 +23,9 @@ void main() {
         ),
         BlocProvider<CategoryBloc>(
           create: (BuildContext context) => sl<CategoryBloc>(),
+        ),
+        BlocProvider<PopularMoviesBloc>(
+          create: (BuildContext context) => sl<PopularMoviesBloc>(),
         ),
       ],
       child: const App(),

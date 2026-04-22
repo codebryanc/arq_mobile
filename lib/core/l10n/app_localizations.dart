@@ -129,6 +129,12 @@ abstract class AppLocalizations {
   /// In es, this message translates to:
   /// **'Selecciona una categoría'**
   String get categorySelectPlaceholder;
+
+  /// Section title for the popular movies list
+  ///
+  /// In es, this message translates to:
+  /// **'Películas populares'**
+  String get popularMoviesTitle;
 }
 
 class _AppLocalizationsDelegate

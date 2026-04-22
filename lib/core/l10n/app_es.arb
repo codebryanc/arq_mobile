@@ -23,5 +23,9 @@
   "categorySelectPlaceholder": "Selecciona una categoría",
   "@categorySelectPlaceholder": {
       "description": "Placeholder shown in the category dropdown when no category is selected"
+  },
+  "popularMoviesTitle": "Películas populares",
+  "@popularMoviesTitle": {
+      "description": "Section title for the popular movies list"
   }
 }

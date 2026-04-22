@@ -25,4 +25,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get categorySelectPlaceholder => 'Selecciona una categoría';
+
+  @override
+  String get popularMoviesTitle => 'Películas populares';
 }
