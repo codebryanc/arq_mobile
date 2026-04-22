@@ -12,8 +12,8 @@ class PopularMoviesBloc extends Bloc<PopularMoviesEvent, PopularMoviesState> {
 
   // [Constructor]
   PopularMoviesBloc({required GetPopularMoviesUseCase getPopularMovies})
-      : _getPopularMovies = getPopularMovies,
-        super(const PopularMoviesInitial()) {
+    : _getPopularMovies = getPopularMovies,
+      super(const PopularMoviesInitial()) {
     on<LoadPopularMovies>(_onLoadPopularMovies);
   }
 

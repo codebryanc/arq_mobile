@@ -20,7 +20,10 @@ class MoviesByCategoryRepositoryImpl implements MoviesByCategoryRepository {
     int page,
   ) async {
     try {
-      final result = await remoteDataSource.getMoviesByCategory(categoryId, page);
+      final result = await remoteDataSource.getMoviesByCategory(
+        categoryId,
+        page,
+      );
       return Right((result.movies, result.totalPages));
     } on NetworkException {
       return Left(const NetworkFailure());

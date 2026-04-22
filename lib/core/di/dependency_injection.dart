@@ -84,8 +84,9 @@ class DependencyInjection {
       () => CategoryBloc(getCategories: sl())..add(const LoadCategories()),
     );
     sl.registerFactory<PopularMoviesBloc>(
-      () => PopularMoviesBloc(getPopularMovies: sl())
-        ..add(const LoadPopularMovies()),
+      () =>
+          PopularMoviesBloc(getPopularMovies: sl())
+            ..add(const LoadPopularMovies()),
     );
     sl.registerFactory<MoviesByCategoryBloc>(
       () => MoviesByCategoryBloc(getMoviesByCategory: sl()),

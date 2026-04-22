@@ -39,13 +39,12 @@ final class MoviesByCategoryLoaded extends MoviesByCategoryState {
     int? currentPage,
     int? totalPages,
     bool? isLoadingMore,
-  }) =>
-      MoviesByCategoryLoaded(
-        movies ?? this.movies,
-        currentPage: currentPage ?? this.currentPage,
-        totalPages: totalPages ?? this.totalPages,
-        isLoadingMore: isLoadingMore ?? this.isLoadingMore,
-      );
+  }) => MoviesByCategoryLoaded(
+    movies ?? this.movies,
+    currentPage: currentPage ?? this.currentPage,
+    totalPages: totalPages ?? this.totalPages,
+    isLoadingMore: isLoadingMore ?? this.isLoadingMore,
+  );
 }
 
 final class MoviesByCategoryError extends MoviesByCategoryState {

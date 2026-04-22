@@ -94,12 +94,15 @@ class HomePage extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Padding(
-                                padding: const EdgeInsets.only(top: 12.0, left: 16.0),
+                                padding: const EdgeInsets.only(
+                                  top: 12.0,
+                                  left: 16.0,
+                                ),
                                 child: Text(
-                                  AppLocalizations.of(context)!.popularMoviesTitle,
-                                  style: Theme.of(context)
-                                      .textTheme
-                                      .titleSmall
+                                  AppLocalizations.of(
+                                    context,
+                                  )!.popularMoviesTitle,
+                                  style: Theme.of(context).textTheme.titleSmall
                                       ?.copyWith(
                                         fontWeight: FontWeight.bold,
                                         color: AppColors.secondary,
@@ -118,7 +121,8 @@ class HomePage extends StatelessWidget {
                   // Pin image — only visible when no category is selected
                   BlocBuilder<CategoryBloc, CategoryState>(
                     builder: (context, state) {
-                      final hasSelection = state is CategoryLoaded &&
+                      final hasSelection =
+                          state is CategoryLoaded &&
                           state.selectedCategory != null;
                       if (hasSelection) return const SizedBox.shrink();
                       return Align(

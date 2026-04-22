@@ -8,7 +8,8 @@ abstract class PopularMoviesRemoteDataSource {
   Future<List<MovieModel>> getPopularMovies();
 }
 
-class PopularMoviesRemoteDataSourceImpl implements PopularMoviesRemoteDataSource {
+class PopularMoviesRemoteDataSourceImpl
+    implements PopularMoviesRemoteDataSource {
   // [Properties]
   final Dio dio;
   static const String _endpoint = '/movie/popular';

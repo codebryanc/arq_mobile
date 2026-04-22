@@ -20,50 +20,48 @@ class PopularMovieCardWidget extends StatelessWidget {
     return GestureDetector(
       onTap: onTap,
       child: SizedBox(
-      width: 280,
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          // Show poster movie
-          ClipRRect(
-            borderRadius: BorderRadius.circular(8),
-            child: AspectRatio(
-              aspectRatio: 2 / 3,
-              child: movie.posterPath.isNotEmpty
-                  ? Image.network(
-                      '${AppConfig.imageBaseUrl}${movie.posterPath}',
-                      fit: BoxFit.cover,
-                      errorBuilder: (_, _, _) => _Placeholder(colorScheme),
-                    )
-                  : _Placeholder(colorScheme),
-            ),
-          ),
-          const SizedBox(height: 6),
-
-          // Show title and rating movie
-          Text(
-            movie.title,
-            maxLines: 2,
-            overflow: TextOverflow.ellipsis,
-            style: textTheme.bodySmall?.copyWith(
-              fontWeight: FontWeight.w600,
-            ),
-          ),
-          const SizedBox(height: 2),
-
-          // Show rating movie
-          Row(
-            children: [
-              Icon(Icons.star_rounded, size: 14, color: colorScheme.primary),
-              const SizedBox(width: 2),
-              Text(
-                movie.voteAverage.toStringAsFixed(1),
-                style: textTheme.labelSmall,
+        width: 280,
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            // Show poster movie
+            ClipRRect(
+              borderRadius: BorderRadius.circular(8),
+              child: AspectRatio(
+                aspectRatio: 2 / 3,
+                child: movie.posterPath.isNotEmpty
+                    ? Image.network(
+                        '${AppConfig.imageBaseUrl}${movie.posterPath}',
+                        fit: BoxFit.cover,
+                        errorBuilder: (_, _, _) => _Placeholder(colorScheme),
+                      )
+                    : _Placeholder(colorScheme),
               ),
-            ],
-          ),
-        ],
-      ),
+            ),
+            const SizedBox(height: 6),
+
+            // Show title and rating movie
+            Text(
+              movie.title,
+              maxLines: 2,
+              overflow: TextOverflow.ellipsis,
+              style: textTheme.bodySmall?.copyWith(fontWeight: FontWeight.w600),
+            ),
+            const SizedBox(height: 2),
+
+            // Show rating movie
+            Row(
+              children: [
+                Icon(Icons.star_rounded, size: 14, color: colorScheme.primary),
+                const SizedBox(width: 2),
+                Text(
+                  movie.voteAverage.toStringAsFixed(1),
+                  style: textTheme.labelSmall,
+                ),
+              ],
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -76,9 +74,9 @@ class _Placeholder extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => ColoredBox(
-        color: colorScheme.surfaceContainerHighest,
-        child: Center(
-          child: Icon(Icons.movie_outlined, color: colorScheme.onSurface),
-        ),
-      );
+    color: colorScheme.surfaceContainerHighest,
+    child: Center(
+      child: Icon(Icons.movie_outlined, color: colorScheme.onSurface),
+    ),
+  );
 }

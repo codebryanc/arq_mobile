@@ -22,81 +22,93 @@ class MoviesByCategoryListWidget extends StatelessWidget {
       builder: (context, state) => switch (state) {
         // Loading
         MoviesByCategoryLoading() => const SizedBox(
-            height: 220,
-            child: Center(child: CircularProgressIndicator.adaptive()),
-          ),
+          height: 220,
+          child: Center(child: CircularProgressIndicator.adaptive()),
+        ),
         // Loaded
-        MoviesByCategoryLoaded(:final movies, :final isLoadingMore, :final hasMore) =>
+        MoviesByCategoryLoaded(
+          :final movies,
+          :final isLoadingMore,
+          :final hasMore,
+        ) =>
           LayoutBuilder(
             builder: (context, constraints) {
-                const horizontalPadding = 32.0;
-                const spacing = 12.0;
-                const textHeight = 58.0; // SizedBox(6) + title(32) + SizedBox(2) + rating(14)
+              const horizontalPadding = 32.0;
+              const spacing = 12.0;
+              const textHeight =
+                  58.0; // SizedBox(6) + title(32) + SizedBox(2) + rating(14)
 
-                final isLandscape = MediaQuery.of(context).orientation == Orientation.landscape;
-                final crossAxisCount = isLandscape ? 3 : 2;
+              final isLandscape =
+                  MediaQuery.of(context).orientation == Orientation.landscape;
+              final crossAxisCount = isLandscape ? 3 : 2;
 
-                final cellWidth = (constraints.maxWidth - horizontalPadding - spacing * (crossAxisCount - 1)) / crossAxisCount;
-                final posterHeight = cellWidth * 1.5; // AspectRatio(2/3)
-                final cardHeight = posterHeight + textHeight;
-                final aspectRatio = cellWidth / cardHeight;
+              final cellWidth =
+                  (constraints.maxWidth -
+                      horizontalPadding -
+                      spacing * (crossAxisCount - 1)) /
+                  crossAxisCount;
+              final posterHeight = cellWidth * 1.5; // AspectRatio(2/3)
+              final cardHeight = posterHeight + textHeight;
+              final aspectRatio = cellWidth / cardHeight;
 
-                return Column(
-                  children: [
-                    GridView.builder(
-                      shrinkWrap: true,
-                      physics: const NeverScrollableScrollPhysics(),
-                      padding: const EdgeInsets.symmetric(horizontal: 16),
-                      gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                        crossAxisCount: crossAxisCount,
-                        childAspectRatio: aspectRatio,
-                        crossAxisSpacing: spacing,
-                        mainAxisSpacing: spacing,
-                      ),
-                      itemCount: movies.length,
-                      itemBuilder: (_, i) => PopularMovieCardWidget(
-                        movie: movies[i],
-                        onTap: () => Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                            builder: (_) =>
-                                MovieDetailPage(movieId: movies[i].id),
-                          ),
+              return Column(
+                children: [
+                  GridView.builder(
+                    shrinkWrap: true,
+                    physics: const NeverScrollableScrollPhysics(),
+                    padding: const EdgeInsets.symmetric(horizontal: 16),
+                    gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                      crossAxisCount: crossAxisCount,
+                      childAspectRatio: aspectRatio,
+                      crossAxisSpacing: spacing,
+                      mainAxisSpacing: spacing,
+                    ),
+                    itemCount: movies.length,
+                    itemBuilder: (_, i) => PopularMovieCardWidget(
+                      movie: movies[i],
+                      onTap: () => Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) =>
+                              MovieDetailPage(movieId: movies[i].id),
                         ),
                       ),
                     ),
-                    if (hasMore)
-                      Padding(
-                        padding: const EdgeInsets.symmetric(vertical: 16),
-                        child: isLoadingMore
-                            ? const CircularProgressIndicator.adaptive()
-                            : ElevatedButton(
-                                onPressed: () => context
-                                    .read<MoviesByCategoryBloc>()
-                                    .add(const LoadMoreMoviesByCategory()),
-                                style: ElevatedButton.styleFrom(
-                                  backgroundColor: AppColors.primary,
-                                  foregroundColor: AppColors.white,
-                                  padding: const EdgeInsets.symmetric(
-                                    horizontal: 32,
-                                    vertical: 12,
-                                  ),
-                                  shape: RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(24),
-                                  ),
+                  ),
+                  if (hasMore)
+                    Padding(
+                      padding: const EdgeInsets.symmetric(vertical: 16),
+                      child: isLoadingMore
+                          ? const CircularProgressIndicator.adaptive()
+                          : ElevatedButton(
+                              onPressed: () => context
+                                  .read<MoviesByCategoryBloc>()
+                                  .add(const LoadMoreMoviesByCategory()),
+                              style: ElevatedButton.styleFrom(
+                                backgroundColor: AppColors.primary,
+                                foregroundColor: AppColors.white,
+                                padding: const EdgeInsets.symmetric(
+                                  horizontal: 32,
+                                  vertical: 12,
                                 ),
-                                child: Text(AppLocalizations.of(context)!.loadMore),
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(24),
+                                ),
                               ),
-                      ),
-                  ],
-                );
-              },
+                              child: Text(
+                                AppLocalizations.of(context)!.loadMore,
+                              ),
+                            ),
+                    ),
+                ],
+              );
+            },
           ),
         // Error
         MoviesByCategoryError(:final failure) => Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 16),
-            child: Text(_mapFailure(context, failure)),
-          ),
+          padding: const EdgeInsets.symmetric(horizontal: 16),
+          child: Text(_mapFailure(context, failure)),
+        ),
         // Initial
         MoviesByCategoryInitial() => const SizedBox.shrink(),
       },

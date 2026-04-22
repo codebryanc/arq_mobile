@@ -43,97 +43,97 @@ class _MovieDetailView extends StatelessWidget {
       builder: (context, state) => switch (state) {
         // Loading
         MovieDetailLoading() || MovieDetailInitial() => const Scaffold(
-            body: Center(child: CircularProgressIndicator.adaptive()),
-          ),
+          body: Center(child: CircularProgressIndicator.adaptive()),
+        ),
         // Loaded
         MovieDetailLoaded(:final detail, :final cast, :final images) => Scaffold(
-            bottomNavigationBar: SafeArea(
-              child: Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-                // Recommend button
-                child: ElevatedButton(
-                  onPressed: () {},
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: AppColors.secondary,
-                    foregroundColor: AppColors.white,
-                    minimumSize: const Size(double.infinity, 48),
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(24),
-                    ),
+          bottomNavigationBar: SafeArea(
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+              // Recommend button
+              child: ElevatedButton(
+                onPressed: () {},
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: AppColors.secondary,
+                  foregroundColor: AppColors.white,
+                  minimumSize: const Size(double.infinity, 48),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(24),
                   ),
-                  child: Text(l10n.recommend),
                 ),
+                child: Text(l10n.recommend),
               ),
             ),
-            body: SafeArea(
-              top: false,
-              child: CustomScrollView(
-                slivers: [
-                  // Backdrop image
-                  SliverAppBar(
-                    expandedHeight: 280,
-                    pinned: true,
-                    stretch: true,
-                    backgroundColor: Colors.transparent,
-                    forceMaterialTransparency: true,
-                    iconTheme: const IconThemeData(color: AppColors.secondary),
-                    flexibleSpace: FlexibleSpaceBar(
-                      stretchModes: const [StretchMode.zoomBackground],
-                      background: Stack(
-                        fit: StackFit.expand,
-                        children: [
-                          detail.backdropPath.isNotEmpty
-                              ? Image.network(
-                                  '${AppConfig.imageBackdropUrl}${detail.backdropPath}',
-                                  fit: BoxFit.cover,
-                                  errorBuilder: (_, _, _) =>
-                                      const _BackdropPlaceholder(),
-                                )
-                              : const _BackdropPlaceholder(),
-                          // Gradient so back button stays readable on any image
-                          const DecoratedBox(
-                            decoration: BoxDecoration(
-                              gradient: LinearGradient(
-                                begin: Alignment.topCenter,
-                                end: Alignment.center,
-                                colors: [Colors.black54, Colors.transparent],
-                              ),
+          ),
+          body: SafeArea(
+            top: false,
+            child: CustomScrollView(
+              slivers: [
+                // Backdrop image
+                SliverAppBar(
+                  expandedHeight: 280,
+                  pinned: true,
+                  stretch: true,
+                  backgroundColor: Colors.transparent,
+                  forceMaterialTransparency: true,
+                  iconTheme: const IconThemeData(color: AppColors.secondary),
+                  flexibleSpace: FlexibleSpaceBar(
+                    stretchModes: const [StretchMode.zoomBackground],
+                    background: Stack(
+                      fit: StackFit.expand,
+                      children: [
+                        detail.backdropPath.isNotEmpty
+                            ? Image.network(
+                                '${AppConfig.imageBackdropUrl}${detail.backdropPath}',
+                                fit: BoxFit.cover,
+                                errorBuilder: (_, _, _) =>
+                                    const _BackdropPlaceholder(),
+                              )
+                            : const _BackdropPlaceholder(),
+                        // Gradient so back button stays readable on any image
+                        const DecoratedBox(
+                          decoration: BoxDecoration(
+                            gradient: LinearGradient(
+                              begin: Alignment.topCenter,
+                              end: Alignment.center,
+                              colors: [Colors.black54, Colors.transparent],
                             ),
                           ),
-                        ],
-                      ),
+                        ),
+                      ],
                     ),
                   ),
-                  // Movie info, cast, and images
-                  SliverToBoxAdapter(
-                    child: Padding(
-                      padding: const EdgeInsets.all(16),
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          MovieInfoWidget(detail: detail),
-                          if (cast.isNotEmpty) ...[
-                            const SizedBox(height: 24),
-                            CastListWidget(cast: cast),
-                          ],
-                          if (images.isNotEmpty) ...[
-                            const SizedBox(height: 24),
-                            ImageCarouselWidget(images: images),
-                          ],
-                          const SizedBox(height: 16),
+                ),
+                // Movie info, cast, and images
+                SliverToBoxAdapter(
+                  child: Padding(
+                    padding: const EdgeInsets.all(16),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        MovieInfoWidget(detail: detail),
+                        if (cast.isNotEmpty) ...[
+                          const SizedBox(height: 24),
+                          CastListWidget(cast: cast),
                         ],
-                      ),
+                        if (images.isNotEmpty) ...[
+                          const SizedBox(height: 24),
+                          ImageCarouselWidget(images: images),
+                        ],
+                        const SizedBox(height: 16),
+                      ],
                     ),
                   ),
-                ],
-              ),
+                ),
+              ],
             ),
           ),
+        ),
         // Error
         MovieDetailError(:final failure) => Scaffold(
-            appBar: AppBar(),
-            body: Center(child: Text(_mapFailure(context, failure))),
-          ),
+          appBar: AppBar(),
+          body: Center(child: Text(_mapFailure(context, failure))),
+        ),
       },
     );
   }

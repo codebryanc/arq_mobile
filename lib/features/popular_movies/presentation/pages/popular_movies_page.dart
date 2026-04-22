@@ -20,34 +20,33 @@ class PopularMoviesPage extends StatelessWidget {
       builder: (context, state) => switch (state) {
         // Loading
         PopularMoviesLoading() => const SizedBox(
-            height: 480,
-            child: Center(child: CircularProgressIndicator.adaptive()),
-          ),
+          height: 480,
+          child: Center(child: CircularProgressIndicator.adaptive()),
+        ),
         // Loaded
         PopularMoviesLoaded(:final movies) => SizedBox(
-            height: 480,
-            child: ListView.separated(
-              scrollDirection: Axis.horizontal,
-              padding: const EdgeInsets.symmetric(horizontal: 16),
-              itemCount: movies.length,
-              separatorBuilder: (_, _) => const SizedBox(width: 12),
-              itemBuilder: (_, i) => PopularMovieCardWidget(
-                movie: movies[i],
-                onTap: () => Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (_) =>
-                        MovieDetailPage(movieId: movies[i].id),
-                  ),
+          height: 480,
+          child: ListView.separated(
+            scrollDirection: Axis.horizontal,
+            padding: const EdgeInsets.symmetric(horizontal: 16),
+            itemCount: movies.length,
+            separatorBuilder: (_, _) => const SizedBox(width: 12),
+            itemBuilder: (_, i) => PopularMovieCardWidget(
+              movie: movies[i],
+              onTap: () => Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (_) => MovieDetailPage(movieId: movies[i].id),
                 ),
               ),
             ),
           ),
+        ),
         // Error
         PopularMoviesError(:final failure) => Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 16),
-            child: Text(_mapFailure(context, failure)),
-          ),
+          padding: const EdgeInsets.symmetric(horizontal: 16),
+          child: Text(_mapFailure(context, failure)),
+        ),
         // Initial
         PopularMoviesInitial() => const SizedBox.shrink(),
       },

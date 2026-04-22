@@ -36,9 +36,8 @@ class CastListWidget extends StatelessWidget {
                           width: 68,
                           height: 68,
                           fit: BoxFit.cover,
-                          errorBuilder: (_, _, _) => _AvatarPlaceholder(
-                            colorScheme: colorScheme,
-                          ),
+                          errorBuilder: (_, _, _) =>
+                              _AvatarPlaceholder(colorScheme: colorScheme),
                         )
                       : _AvatarPlaceholder(colorScheme: colorScheme),
                 ),
@@ -48,14 +47,18 @@ class CastListWidget extends StatelessWidget {
                   maxLines: 2,
                   overflow: TextOverflow.ellipsis,
                   textAlign: TextAlign.center,
-                  style: textTheme.labelSmall?.copyWith(fontWeight: FontWeight.w600),
+                  style: textTheme.labelSmall?.copyWith(
+                    fontWeight: FontWeight.w600,
+                  ),
                 ),
                 Text(
                   actor.character,
                   maxLines: 1,
                   overflow: TextOverflow.ellipsis,
                   textAlign: TextAlign.center,
-                  style: textTheme.labelSmall?.copyWith(color: colorScheme.outline),
+                  style: textTheme.labelSmall?.copyWith(
+                    color: colorScheme.outline,
+                  ),
                 ),
               ],
             ),
@@ -73,11 +76,11 @@ class _AvatarPlaceholder extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => ColoredBox(
-        color: colorScheme.surfaceContainerHighest,
-        child: SizedBox(
-          width: 68,
-          height: 68,
-          child: Icon(Icons.person_outline, color: colorScheme.onSurface),
-        ),
-      );
+    color: colorScheme.surfaceContainerHighest,
+    child: SizedBox(
+      width: 68,
+      height: 68,
+      child: Icon(Icons.person_outline, color: colorScheme.onSurface),
+    ),
+  );
 }

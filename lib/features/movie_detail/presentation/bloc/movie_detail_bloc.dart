@@ -17,10 +17,10 @@ class MovieDetailBloc extends Bloc<MovieDetailEvent, MovieDetailState> {
     required GetMovieDetailUseCase getMovieDetail,
     required GetMovieCastUseCase getMovieCast,
     required GetMovieImagesUseCase getMovieImages,
-  })  : _getMovieDetail = getMovieDetail,
-        _getMovieCast = getMovieCast,
-        _getMovieImages = getMovieImages,
-        super(const MovieDetailInitial()) {
+  }) : _getMovieDetail = getMovieDetail,
+       _getMovieCast = getMovieCast,
+       _getMovieImages = getMovieImages,
+       super(const MovieDetailInitial()) {
     on<LoadMovieDetail>(_onLoadMovieDetail);
   }
 
@@ -45,11 +45,13 @@ class MovieDetailBloc extends Bloc<MovieDetailEvent, MovieDetailState> {
           emit(MovieDetailError(failure)),
       (detail) =>
           // Loaded — cast and images degrade gracefully to empty list if they fail
-          emit(MovieDetailLoaded(
-            detail: detail,
-            cast: castResult.fold((_) => [], (c) => c),
-            images: imagesResult.fold((_) => [], (i) => i),
-          )),
+          emit(
+            MovieDetailLoaded(
+              detail: detail,
+              cast: castResult.fold((_) => [], (c) => c),
+              images: imagesResult.fold((_) => [], (i) => i),
+            ),
+          ),
     );
   }
 }

@@ -34,7 +34,9 @@ class MovieInfoWidget extends StatelessWidget {
             const SizedBox(width: 4),
             Text(
               detail.voteAverage.toStringAsFixed(1),
-              style: textTheme.bodyMedium?.copyWith(fontWeight: FontWeight.w600),
+              style: textTheme.bodyMedium?.copyWith(
+                fontWeight: FontWeight.w600,
+              ),
             ),
             const SizedBox(width: 16),
             Icon(Icons.schedule_outlined, size: 16, color: colorScheme.outline),
@@ -67,7 +69,11 @@ class MovieInfoWidget extends StatelessWidget {
           ),
         ],
         const SizedBox(height: 12),
-        Text(detail.overview, style: textTheme.bodyMedium, textAlign: TextAlign.justify),
+        Text(
+          detail.overview,
+          style: textTheme.bodyMedium,
+          textAlign: TextAlign.justify,
+        ),
       ],
     );
   }

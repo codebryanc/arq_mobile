@@ -11,9 +11,9 @@ class ActorModel extends Actor {
 
   // [Methods]
   factory ActorModel.fromJson(Map<String, dynamic> json) => ActorModel(
-        id: json['id'] as int,
-        name: json['name'] as String,
-        character: json['character'] as String? ?? '',
-        profilePath: json['profile_path'] as String? ?? '',
-      );
+    id: json['id'] as int,
+    name: json['name'] as String,
+    character: json['character'] as String? ?? '',
+    profilePath: json['profile_path'] as String? ?? '',
+  );
 }

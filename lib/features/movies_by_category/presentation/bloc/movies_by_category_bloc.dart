@@ -13,8 +13,8 @@ class MoviesByCategoryBloc
   // [Constructor]
   MoviesByCategoryBloc({
     required GetMoviesByCategoryUseCase getMoviesByCategory,
-  })  : _getMoviesByCategory = getMoviesByCategory,
-        super(const MoviesByCategoryInitial()) {
+  }) : _getMoviesByCategory = getMoviesByCategory,
+       super(const MoviesByCategoryInitial()) {
     on<LoadMoviesByCategory>(_onLoadMoviesByCategory);
     on<LoadMoreMoviesByCategory>(_onLoadMoreMoviesByCategory);
   }
@@ -39,11 +39,13 @@ class MoviesByCategoryBloc
       (record) {
         final (movies, totalPages) = record;
         // Loaded
-        emit(MoviesByCategoryLoaded(
-          movies,
-          currentPage: event.page,
-          totalPages: totalPages,
-        ));
+        emit(
+          MoviesByCategoryLoaded(
+            movies,
+            currentPage: event.page,
+            totalPages: totalPages,
+          ),
+        );
       },
     );
   }
@@ -72,12 +74,14 @@ class MoviesByCategoryBloc
       (record) {
         final (movies, totalPages) = record;
         // Loaded more — append to existing list
-        emit(current.copyWith(
-          movies: [...current.movies, ...movies],
-          currentPage: nextPage,
-          totalPages: totalPages,
-          isLoadingMore: false,
-        ));
+        emit(
+          current.copyWith(
+            movies: [...current.movies, ...movies],
+            currentPage: nextPage,
+            totalPages: totalPages,
+            isLoadingMore: false,
+          ),
+        );
       },
     );
   }
