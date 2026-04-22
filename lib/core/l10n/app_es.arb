@@ -1,0 +1,7 @@
+{
+  "@@locale": "es",
+  "appTitle": "The Movie App",
+  "errorNetwork": "Sin conexión a internet",
+  "errorUnknown": "Error desconocido",
+  "errorServer": "Error del servidor"
+}

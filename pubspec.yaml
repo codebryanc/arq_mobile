@@ -10,6 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localizations:
+    sdk: flutter
 
   cupertino_icons: ^1.0.8
 
@@ -18,7 +20,10 @@ dependencies:
   bloc: ^8.1.4
 
   # Formatting
-  intl: ^0.19.0
+  intl: ^0.20.2
+
+  # Networking
+  dio: ^5.7.0
 
   # Native splash screen
   flutter_native_splash: ^2.4.2
@@ -32,7 +37,7 @@ flutter_native_splash:
   color: "#ffffff"
   image: assets/splash/portrait.png
   android: true
-  ios: false
+  ios: true
   web: false
 
   color_dark: "#000000"
@@ -44,6 +49,7 @@ flutter_native_splash:
     icon_background_color: "#ffffff"
 
 flutter:
+  generate: true
   uses-material-design: true
 
   assets:
