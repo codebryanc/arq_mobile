@@ -18,24 +18,27 @@ class HomePage extends StatelessWidget {
         children: [
           Container(
             width: double.infinity,
-            padding: const EdgeInsets.only(top: 80, bottom: 14),
+            padding: const EdgeInsets.only(top: 10, bottom: 18),
             color: Theme.of(context).colorScheme.primary,
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                const HeaderWidget(),
-                const SizedBox(height: 12),
-                SizedBox(
-                  height: 48,
-                  child: BlocBuilder<HomeBloc, HomeState>(
-                    builder: (context, state) => CategoryPage(
-                      viewMode: state is HomeChipsView
-                          ? CategoryViewMode.chips
-                          : CategoryViewMode.list,
+            child: SafeArea(
+              bottom: false,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const HeaderWidget(),
+                  const SizedBox(height: 12),
+                  SizedBox(
+                    height: 48,
+                    child: BlocBuilder<HomeBloc, HomeState>(
+                      builder: (context, state) => CategoryPage(
+                        viewMode: state is HomeChipsView
+                            ? CategoryViewMode.chips
+                            : CategoryViewMode.list,
+                      ),
                     ),
                   ),
-                ),
-              ],
+                ],
+              ),
             ),
           ),
         ],

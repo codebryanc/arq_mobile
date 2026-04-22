@@ -12,9 +12,11 @@ class CategoryBloc extends Bloc<CategoryEvent, CategoryState> {
   Category? selectedCategory;
 
   // [Constructor]
-  CategoryBloc({required GetCategoriesUseCase getCategories, this.selectedCategory})
-      : _getCategories = getCategories,
-        super(const CategoryInitial()) {
+  CategoryBloc({
+    required GetCategoriesUseCase getCategories,
+    this.selectedCategory,
+  }) : _getCategories = getCategories,
+       super(const CategoryInitial()) {
     on<LoadCategories>(_onLoadCategories);
     on<SelectCategory>(_onSelectCategory);
     on<ClearCategory>(_onClearCategory);
@@ -44,9 +46,11 @@ class CategoryBloc extends Bloc<CategoryEvent, CategoryState> {
     if (current is CategoryLoaded) {
       // Update selected category
       selectedCategory = event.category;
-      
+
       // Loaded with selected category
-      emit(CategoryLoaded(current.categories, selectedCategory: event.category));
+      emit(
+        CategoryLoaded(current.categories, selectedCategory: event.category),
+      );
     }
   }
 

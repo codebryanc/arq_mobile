@@ -43,66 +43,65 @@ class CategoryListWidget extends StatelessWidget {
       builder: (context, state) => switch (state) {
         // Loading
         CategoryLoading() => const SizedBox(
-            height: 48,
-            child: Center(child: CircularProgressIndicator.adaptive()),
-          ),
+          height: 48,
+          child: Center(child: CircularProgressIndicator.adaptive()),
+        ),
         // Loaded
         CategoryLoaded(:final categories, :final selectedCategory) => Row(
-            children: [
-              if (selectedCategory != null)
-                IconButton(
-                  icon: const Icon(Icons.close, color: AppColors.white),
-                  onPressed: () =>
-                      context.read<CategoryBloc>().add(const ClearCategory()),
+          children: [
+            if (selectedCategory != null)
+              IconButton(
+                icon: const Icon(Icons.close, color: AppColors.white),
+                onPressed: () =>
+                    context.read<CategoryBloc>().add(const ClearCategory()),
+              ),
+            Expanded(
+              child: Padding(
+                padding: EdgeInsets.only(
+                  left: selectedCategory == null ? 12 : 0,
+                  right: 12,
                 ),
-              Expanded(
-                child: Padding(
-                  padding: EdgeInsets.only(
-                    left: selectedCategory == null ? 12 : 0,
-                    right: 12,
-                  ),
-                  child: InkWell(
-                    onTap: () =>
-                        _openPicker(context, categories, selectedCategory),
-                    borderRadius: BorderRadius.circular(8),
-                    child: Container(
-                      height: double.infinity,
-                      padding: const EdgeInsets.symmetric(horizontal: 12),
-                      decoration: BoxDecoration(
-                        color: AppColors.white,
-                        borderRadius: BorderRadius.circular(8),
-                        border: Border.all(color: AppColors.white),
-                      ),
-                      child: Row(
-                        children: [
-                          Expanded(
-                            child: Text(
-                              selectedCategory?.name ??
-                                  AppLocalizations.of(context)!
-                                      .categorySelectPlaceholder,
-                              style: Theme.of(context)
-                                  .textTheme
-                                  .bodyMedium
-                                  ?.copyWith(color: AppColors.primary),
-                            ),
+                child: InkWell(
+                  onTap: () =>
+                      _openPicker(context, categories, selectedCategory),
+                  borderRadius: BorderRadius.circular(8),
+                  child: Container(
+                    height: double.infinity,
+                    padding: const EdgeInsets.symmetric(horizontal: 12),
+                    decoration: BoxDecoration(
+                      color: AppColors.white,
+                      borderRadius: BorderRadius.circular(8),
+                      border: Border.all(color: AppColors.white),
+                    ),
+                    child: Row(
+                      children: [
+                        Expanded(
+                          child: Text(
+                            selectedCategory?.name ??
+                                AppLocalizations.of(
+                                  context,
+                                )!.categorySelectPlaceholder,
+                            style: Theme.of(context).textTheme.bodyMedium
+                                ?.copyWith(color: AppColors.primary),
                           ),
-                          const Icon(
-                            Icons.arrow_drop_down,
-                            color: AppColors.primary,
-                          ),
-                        ],
-                      ),
+                        ),
+                        const Icon(
+                          Icons.arrow_drop_down,
+                          color: AppColors.primary,
+                        ),
+                      ],
                     ),
                   ),
                 ),
               ),
-            ],
-          ),
+            ),
+          ],
+        ),
         // Error
         CategoryError(:final failure) => Padding(
-            padding: const EdgeInsets.only(right: 16),
-            child: Text(_mapFailure(context, failure)),
-          ),
+          padding: const EdgeInsets.only(right: 16),
+          child: Text(_mapFailure(context, failure)),
+        ),
         // Initial
         CategoryInitial() => const SizedBox.shrink(),
       },
