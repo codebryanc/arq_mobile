@@ -3,10 +3,13 @@ import 'package:dio/dio.dart';
 import 'package:arq_mobile/core/errors/exceptions.dart';
 
 class ErrorInterceptor extends Interceptor {
-  const ErrorInterceptor({required this.defaultServerError});
+  // [Constructor]
+  const ErrorInterceptor({this.defaultServerError = ''});
 
+  // [Properties]
   final String defaultServerError;
 
+  // [Methods]
   @override
   void onError(DioException err, ErrorInterceptorHandler handler) {
     switch (err.type) {

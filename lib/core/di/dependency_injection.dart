@@ -1,0 +1,44 @@
+import 'package:dio/dio.dart';
+import 'package:get_it/get_it.dart';
+
+import 'package:arq_mobile/core/network/dio_client.dart';
+import 'package:arq_mobile/features/category/data/datasources/category_remote_datasource.dart';
+import 'package:arq_mobile/features/category/data/repositories/category_repository_impl.dart';
+import 'package:arq_mobile/features/category/domain/repositories/category_repository.dart';
+import 'package:arq_mobile/features/category/domain/usecases/get_categories_usecase.dart';
+import 'package:arq_mobile/features/category/presentation/bloc/category_bloc.dart';
+import 'package:arq_mobile/features/category/presentation/bloc/category_event.dart';
+import 'package:arq_mobile/features/home/presentation/bloc/home_bloc.dart';
+
+// Dependency Injection setup using GetIt
+final sl = GetIt.instance;
+
+class DependencyInjection {
+  // [Constructor]
+  DependencyInjection._();
+
+  // [Methods]
+  static void init() {
+    // Network
+    sl.registerLazySingleton<Dio>(() => DioClient.create());
+
+    // Data sources
+    sl.registerLazySingleton<CategoryRemoteDataSource>(
+      () => CategoryRemoteDataSourceImpl(dio: sl()),
+    );
+
+    // Repositories
+    sl.registerLazySingleton<CategoryRepository>(
+      () => CategoryRepositoryImpl(remoteDataSource: sl()),
+    );
+
+    // Use cases
+    sl.registerLazySingleton(() => GetCategoriesUseCase(sl()));
+
+    // BLoCs
+    sl.registerFactory<HomeBloc>(() => HomeBloc());
+    sl.registerFactory<CategoryBloc>(
+      () => CategoryBloc(getCategories: sl())..add(const LoadCategories()),
+    );
+  }
+}

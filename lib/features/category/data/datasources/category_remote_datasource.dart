@@ -8,20 +8,18 @@ abstract class CategoryRemoteDataSource {
 }
 
 class CategoryRemoteDataSourceImpl implements CategoryRemoteDataSource {
-  
   // [Properties]
-  final String _genreMovieList = '/genre/movie/list';
-  
+  final Dio dio;
+  static const String _endpoint = '/genre/movie/list';
+
   // [Constructor]
   const CategoryRemoteDataSourceImpl({required this.dio});
-
-  final Dio dio;
 
   // [Methods]
   @override
   Future<List<CategoryModel>> getCategories() async {
     try {
-      final response = await dio.get(_genreMovieList);
+      final response = await dio.get(_endpoint);
       final genres = response.data['genres'] as List<dynamic>;
       return genres
           .map((e) => CategoryModel.fromJson(e as Map<String, dynamic>))
