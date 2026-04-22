@@ -5,10 +5,11 @@ import 'package:arq_mobile/features/popular_movies/domain/entities/movie.dart';
 
 class PopularMovieCardWidget extends StatelessWidget {
   // [Constructor]
-  const PopularMovieCardWidget({super.key, required this.movie});
+  const PopularMovieCardWidget({super.key, required this.movie, this.onTap});
 
   // [Properties]
   final Movie movie;
+  final VoidCallback? onTap;
 
   // [Methods]
   @override
@@ -16,7 +17,9 @@ class PopularMovieCardWidget extends StatelessWidget {
     final textTheme = Theme.of(context).textTheme;
     final colorScheme = Theme.of(context).colorScheme;
 
-    return SizedBox(
+    return GestureDetector(
+      onTap: onTap,
+      child: SizedBox(
       width: 280,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -60,6 +63,7 @@ class PopularMovieCardWidget extends StatelessWidget {
             ],
           ),
         ],
+      ),
       ),
     );
   }

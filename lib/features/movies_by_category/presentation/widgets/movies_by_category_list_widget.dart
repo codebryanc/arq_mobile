@@ -5,6 +5,7 @@ import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
 import 'package:arq_mobile/core/theme/app_colors.dart';
 
+import 'package:arq_mobile/features/movie_detail/presentation/pages/movie_detail_page.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_bloc.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_event.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_state.dart';
@@ -53,7 +54,16 @@ class MoviesByCategoryListWidget extends StatelessWidget {
                         mainAxisSpacing: spacing,
                       ),
                       itemCount: movies.length,
-                      itemBuilder: (_, i) => PopularMovieCardWidget(movie: movies[i]),
+                      itemBuilder: (_, i) => PopularMovieCardWidget(
+                        movie: movies[i],
+                        onTap: () => Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (_) =>
+                                MovieDetailPage(movieId: movies[i].id),
+                          ),
+                        ),
+                      ),
                     ),
                     if (hasMore)
                       Padding(

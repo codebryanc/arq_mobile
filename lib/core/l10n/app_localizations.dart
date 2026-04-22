@@ -147,6 +147,12 @@ abstract class AppLocalizations {
   /// In es, this message translates to:
   /// **'Cargar más'**
   String get loadMore;
+
+  /// Button label to recommend a movie on the detail screen
+  ///
+  /// In es, this message translates to:
+  /// **'Recomendar'**
+  String get recommend;
 }
 
 class _AppLocalizationsDelegate

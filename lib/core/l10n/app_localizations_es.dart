@@ -34,4 +34,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get loadMore => 'Cargar más';
+
+  @override
+  String get recommend => 'Recomendar';
 }

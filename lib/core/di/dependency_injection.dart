@@ -17,6 +17,13 @@ import 'package:arq_mobile/features/movies_by_category/data/datasources/movies_b
 import 'package:arq_mobile/features/movies_by_category/data/repositories/movies_by_category_repository_impl.dart';
 import 'package:arq_mobile/features/movies_by_category/domain/repositories/movies_by_category_repository.dart';
 import 'package:arq_mobile/features/movies_by_category/domain/usecases/get_movies_by_category_usecase.dart';
+import 'package:arq_mobile/features/movie_detail/data/datasources/movie_detail_remote_datasource.dart';
+import 'package:arq_mobile/features/movie_detail/data/repositories/movie_detail_repository_impl.dart';
+import 'package:arq_mobile/features/movie_detail/domain/repositories/movie_detail_repository.dart';
+import 'package:arq_mobile/features/movie_detail/domain/usecases/get_movie_cast_usecase.dart';
+import 'package:arq_mobile/features/movie_detail/domain/usecases/get_movie_detail_usecase.dart';
+import 'package:arq_mobile/features/movie_detail/domain/usecases/get_movie_images_usecase.dart';
+import 'package:arq_mobile/features/movie_detail/presentation/bloc/movie_detail_bloc.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_bloc.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_bloc.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_event.dart';
@@ -45,6 +52,9 @@ class DependencyInjection {
     sl.registerLazySingleton<MoviesByCategoryRemoteDataSource>(
       () => MoviesByCategoryRemoteDataSourceImpl(dio: sl()),
     );
+    sl.registerLazySingleton<MovieDetailRemoteDataSource>(
+      () => MovieDetailRemoteDataSourceImpl(dio: sl()),
+    );
 
     // Repositories
     sl.registerLazySingleton<CategoryRepository>(
@@ -56,11 +66,17 @@ class DependencyInjection {
     sl.registerLazySingleton<MoviesByCategoryRepository>(
       () => MoviesByCategoryRepositoryImpl(remoteDataSource: sl()),
     );
+    sl.registerLazySingleton<MovieDetailRepository>(
+      () => MovieDetailRepositoryImpl(remoteDataSource: sl()),
+    );
 
     // Use cases
     sl.registerLazySingleton(() => GetCategoriesUseCase(sl()));
     sl.registerLazySingleton(() => GetPopularMoviesUseCase(sl()));
     sl.registerLazySingleton(() => GetMoviesByCategoryUseCase(sl()));
+    sl.registerLazySingleton(() => GetMovieDetailUseCase(sl()));
+    sl.registerLazySingleton(() => GetMovieCastUseCase(sl()));
+    sl.registerLazySingleton(() => GetMovieImagesUseCase(sl()));
 
     // BLoCs
     sl.registerFactory<HomeBloc>(() => HomeBloc());
@@ -73,6 +89,13 @@ class DependencyInjection {
     );
     sl.registerFactory<MoviesByCategoryBloc>(
       () => MoviesByCategoryBloc(getMoviesByCategory: sl()),
+    );
+    sl.registerFactory<MovieDetailBloc>(
+      () => MovieDetailBloc(
+        getMovieDetail: sl(),
+        getMovieCast: sl(),
+        getMovieImages: sl(),
+      ),
     );
   }
 }

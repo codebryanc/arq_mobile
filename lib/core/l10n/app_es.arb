@@ -35,5 +35,9 @@
   "loadMore": "Cargar más",
   "@loadMore": {
       "description": "Button label to load the next page of results"
+  },
+  "recommend": "Recomendar",
+  "@recommend": {
+      "description": "Button label to recommend a movie on the detail screen"
   }
 }

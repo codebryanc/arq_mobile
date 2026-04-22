@@ -4,6 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
 
+import 'package:arq_mobile/features/movie_detail/presentation/pages/movie_detail_page.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_bloc.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_state.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/widgets/popular_movie_card_widget.dart';
@@ -30,7 +31,16 @@ class PopularMoviesPage extends StatelessWidget {
               padding: const EdgeInsets.symmetric(horizontal: 16),
               itemCount: movies.length,
               separatorBuilder: (_, _) => const SizedBox(width: 12),
-              itemBuilder: (_, i) => PopularMovieCardWidget(movie: movies[i]),
+              itemBuilder: (_, i) => PopularMovieCardWidget(
+                movie: movies[i],
+                onTap: () => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) =>
+                        MovieDetailPage(movieId: movies[i].id),
+                  ),
+                ),
+              ),
             ),
           ),
         // Error
