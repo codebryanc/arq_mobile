@@ -141,6 +141,12 @@ abstract class AppLocalizations {
   /// In es, this message translates to:
   /// **'Películas de'**
   String get moviesByCategoryTitle;
+
+  /// Button label to load the next page of results
+  ///
+  /// In es, this message translates to:
+  /// **'Cargar más'**
+  String get loadMore;
 }
 
 class _AppLocalizationsDelegate

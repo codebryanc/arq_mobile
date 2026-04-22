@@ -3,49 +3,18 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
+import 'package:arq_mobile/core/theme/app_colors.dart';
 
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_bloc.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_event.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_state.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/widgets/popular_movie_card_widget.dart';
 
-class MoviesByCategoryListWidget extends StatefulWidget {
+class MoviesByCategoryListWidget extends StatelessWidget {
   // [Constructor]
   const MoviesByCategoryListWidget({super.key});
 
-  @override
-  State<MoviesByCategoryListWidget> createState() =>
-      _MoviesByCategoryListWidgetState();
-}
-
-class _MoviesByCategoryListWidgetState
-    extends State<MoviesByCategoryListWidget> {
-  // [Properties]
-  late final ScrollController _scrollController;
-
-  // [Constructor]
-  @override
-  void initState() {
-    super.initState();
-    _scrollController = ScrollController()..addListener(_onScroll);
-  }
-
-  @override
-  void dispose() {
-    _scrollController.dispose();
-    super.dispose();
-  }
-
   // [Methods]
-  void _onScroll() {
-    final position = _scrollController.position;
-    if (position.pixels >= position.maxScrollExtent - 200) {
-      context
-          .read<MoviesByCategoryBloc>()
-          .add(const LoadMoreMoviesByCategory());
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
     return BlocBuilder<MoviesByCategoryBloc, MoviesByCategoryState>(
@@ -56,26 +25,62 @@ class _MoviesByCategoryListWidgetState
             child: Center(child: CircularProgressIndicator.adaptive()),
           ),
         // Loaded
-        MoviesByCategoryLoaded(:final movies, :final isLoadingMore) => SizedBox(
-            height: 220,
-            child: ListView.separated(
-              controller: _scrollController,
-              scrollDirection: Axis.horizontal,
-              padding: const EdgeInsets.symmetric(horizontal: 16),
-              itemCount: movies.length + (isLoadingMore ? 1 : 0),
-              separatorBuilder: (_, _) => const SizedBox(width: 12),
-              itemBuilder: (_, i) {
-                if (i == movies.length) {
-                  return const Center(
-                    child: Padding(
-                      padding: EdgeInsets.all(8),
-                      child: CircularProgressIndicator.adaptive(),
+        MoviesByCategoryLoaded(:final movies, :final isLoadingMore, :final hasMore) =>
+          LayoutBuilder(
+            builder: (context, constraints) {
+                const horizontalPadding = 32.0;
+                const spacing = 12.0;
+                const textHeight = 58.0; // SizedBox(6) + title(32) + SizedBox(2) + rating(14)
+
+                final isLandscape = MediaQuery.of(context).orientation == Orientation.landscape;
+                final crossAxisCount = isLandscape ? 3 : 2;
+
+                final cellWidth = (constraints.maxWidth - horizontalPadding - spacing * (crossAxisCount - 1)) / crossAxisCount;
+                final posterHeight = cellWidth * 1.5; // AspectRatio(2/3)
+                final cardHeight = posterHeight + textHeight;
+                final aspectRatio = cellWidth / cardHeight;
+
+                return Column(
+                  children: [
+                    GridView.builder(
+                      shrinkWrap: true,
+                      physics: const NeverScrollableScrollPhysics(),
+                      padding: const EdgeInsets.symmetric(horizontal: 16),
+                      gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                        crossAxisCount: crossAxisCount,
+                        childAspectRatio: aspectRatio,
+                        crossAxisSpacing: spacing,
+                        mainAxisSpacing: spacing,
+                      ),
+                      itemCount: movies.length,
+                      itemBuilder: (_, i) => PopularMovieCardWidget(movie: movies[i]),
                     ),
-                  );
-                }
-                return PopularMovieCardWidget(movie: movies[i]);
+                    if (hasMore)
+                      Padding(
+                        padding: const EdgeInsets.symmetric(vertical: 16),
+                        child: isLoadingMore
+                            ? const CircularProgressIndicator.adaptive()
+                            : ElevatedButton(
+                                onPressed: () => context
+                                    .read<MoviesByCategoryBloc>()
+                                    .add(const LoadMoreMoviesByCategory()),
+                                style: ElevatedButton.styleFrom(
+                                  backgroundColor: AppColors.primary,
+                                  foregroundColor: AppColors.white,
+                                  padding: const EdgeInsets.symmetric(
+                                    horizontal: 32,
+                                    vertical: 12,
+                                  ),
+                                  shape: RoundedRectangleBorder(
+                                    borderRadius: BorderRadius.circular(24),
+                                  ),
+                                ),
+                                child: Text(AppLocalizations.of(context)!.loadMore),
+                              ),
+                      ),
+                  ],
+                );
               },
-            ),
           ),
         // Error
         MoviesByCategoryError(:final failure) => Padding(

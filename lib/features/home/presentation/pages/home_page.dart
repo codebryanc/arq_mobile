@@ -88,26 +88,28 @@ class HomePage extends StatelessWidget {
                         }
 
                         // Popular movies when no genre is selected
-                        return Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Padding(
-                              padding:
-                                  const EdgeInsets.only(top: 12.0, left: 16.0),
-                              child: Text(
-                                AppLocalizations.of(context)!.popularMoviesTitle,
-                                style: Theme.of(context)
-                                    .textTheme
-                                    .titleSmall
-                                    ?.copyWith(
-                                      fontWeight: FontWeight.bold,
-                                      color: AppColors.secondary,
-                                    ),
+                        return SafeArea(
+                          top: false,
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Padding(
+                                padding: const EdgeInsets.only(top: 12.0, left: 16.0),
+                                child: Text(
+                                  AppLocalizations.of(context)!.popularMoviesTitle,
+                                  style: Theme.of(context)
+                                      .textTheme
+                                      .titleSmall
+                                      ?.copyWith(
+                                        fontWeight: FontWeight.bold,
+                                        color: AppColors.secondary,
+                                      ),
+                                ),
                               ),
-                            ),
-                            const SizedBox(height: 12),
-                            const PopularMoviesPage(),
-                          ],
+                              const SizedBox(height: 12),
+                              const PopularMoviesPage(),
+                            ],
+                          ),
                         );
                       },
                     ),

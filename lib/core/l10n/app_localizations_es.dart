@@ -31,4 +31,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get moviesByCategoryTitle => 'Películas de';
+
+  @override
+  String get loadMore => 'Cargar más';
 }

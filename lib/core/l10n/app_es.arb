@@ -31,5 +31,9 @@
   "moviesByCategoryTitle": "Películas de",
   "@moviesByCategoryTitle": {
       "description": "Section title prefix for movies filtered by category"
+  },
+  "loadMore": "Cargar más",
+  "@loadMore": {
+      "description": "Button label to load the next page of results"
   }
 }
