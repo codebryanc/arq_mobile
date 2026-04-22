@@ -19,4 +19,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get errorServer => 'Error del servidor';
+
+  @override
+  String get homeGreeting => 'Saludos nuevamente';
 }

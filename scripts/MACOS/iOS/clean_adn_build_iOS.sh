@@ -12,6 +12,10 @@ echo "📦 Get pub packages..."
 echo " "
 flutter pub get
 
+echo "🌐 Generating l10n localizations..."
+echo " "
+flutter gen-l10n
+
 echo "🖋️ Format dart file..."
 echo " "
 dart format .

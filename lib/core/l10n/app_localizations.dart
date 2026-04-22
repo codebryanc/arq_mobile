@@ -94,29 +94,35 @@ abstract class AppLocalizations {
   /// A list of this localizations delegate's supported locales.
   static const List<Locale> supportedLocales = <Locale>[Locale('es')];
 
-  /// No description provided for @appTitle.
+  /// The title of the application
   ///
   /// In es, this message translates to:
   /// **'The Movie App'**
   String get appTitle;
 
-  /// No description provided for @errorNetwork.
+  /// Error message shown when there is no internet connection
   ///
   /// In es, this message translates to:
   /// **'Sin conexión a internet'**
   String get errorNetwork;
 
-  /// No description provided for @errorUnknown.
+  /// Error message shown when an unknown error occurs
   ///
   /// In es, this message translates to:
   /// **'Error desconocido'**
   String get errorUnknown;
 
-  /// No description provided for @errorServer.
+  /// Error message shown when there is a server error
   ///
   /// In es, this message translates to:
   /// **'Error del servidor'**
   String get errorServer;
+
+  /// Greeting shown on the home screen
+  ///
+  /// In es, this message translates to:
+  /// **'Saludos nuevamente'**
+  String get homeGreeting;
 }
 
 class _AppLocalizationsDelegate

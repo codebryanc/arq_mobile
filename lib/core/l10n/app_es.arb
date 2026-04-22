@@ -1,7 +1,23 @@
 {
   "@@locale": "es",
   "appTitle": "The Movie App",
+  "@appTitle": {
+      "description": "The title of the application"
+  },
   "errorNetwork": "Sin conexión a internet",
+  "@errorNetwork": {
+      "description": "Error message shown when there is no internet connection"
+  },  
   "errorUnknown": "Error desconocido",
-  "errorServer": "Error del servidor"
+  "@errorUnknown": {
+      "description": "Error message shown when an unknown error occurs"
+  },
+  "errorServer": "Error del servidor",
+  "@errorServer": {
+      "description": "Error message shown when there is a server error"
+  },
+  "homeGreeting": "Saludos nuevamente",
+  "@homeGreeting": {
+      "description": "Greeting shown on the home screen"
+  }
 }

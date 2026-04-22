@@ -1,3 +1,8 @@
+# Environment / secrets
+
+# En un proyecto real esto va comentado
+# .env.json
+
 # Miscellaneous
 *.class
 *.log
