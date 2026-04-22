@@ -18,9 +18,11 @@ class DependencyInjection {
   DependencyInjection._();
 
   // [Methods]
-  static void init() {
+  static void init({required String defaultServerError}) {
     // Network
-    sl.registerLazySingleton<Dio>(() => DioClient.create());
+    sl.registerLazySingleton<Dio>(
+      () => DioClient.create(defaultServerError: defaultServerError),
+    );
 
     // Data sources
     sl.registerLazySingleton<CategoryRemoteDataSource>(

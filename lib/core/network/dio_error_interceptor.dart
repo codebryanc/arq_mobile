@@ -4,7 +4,7 @@ import 'package:arq_mobile/core/errors/exceptions.dart';
 
 class ErrorInterceptor extends Interceptor {
   // [Constructor]
-  const ErrorInterceptor({this.defaultServerError = ''});
+  const ErrorInterceptor({required this.defaultServerError});
 
   // [Properties]
   final String defaultServerError;
