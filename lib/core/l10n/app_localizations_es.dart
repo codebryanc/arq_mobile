@@ -22,4 +22,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get homeGreeting => 'Saludos nuevamente';
+
+  @override
+  String get categorySelectPlaceholder => 'Selecciona una categoría';
 }

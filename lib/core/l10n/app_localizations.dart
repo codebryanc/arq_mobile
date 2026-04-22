@@ -123,6 +123,12 @@ abstract class AppLocalizations {
   /// In es, this message translates to:
   /// **'Saludos nuevamente'**
   String get homeGreeting;
+
+  /// Placeholder shown in the category dropdown when no category is selected
+  ///
+  /// In es, this message translates to:
+  /// **'Selecciona una categoría'**
+  String get categorySelectPlaceholder;
 }
 
 class _AppLocalizationsDelegate
