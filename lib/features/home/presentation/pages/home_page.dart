@@ -7,14 +7,23 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: SafeArea(
-        child: Column(
-          children: [
-            // Header Welcome Message
-            HeaderWidget()
-          ]
-        )
-      ));
+    return Scaffold(
+      body: Column(
+        children: [
+          Container(
+            width: double.infinity,
+            padding: const EdgeInsets.only(top: 80, bottom: 20),
+            color: Theme.of(context).colorScheme.primary,
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                // Header Widget (Welcome widget)
+                HeaderWidget()
+              ]
+            )
+          )
+        ]
+      ),
+    );
   }
 }
