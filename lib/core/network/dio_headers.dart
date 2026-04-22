@@ -6,13 +6,10 @@ class DioHeaders {
   DioHeaders._();
 
   static BaseOptions get baseOptions => BaseOptions(
-        baseUrl: AppConfig.baseUrl,
-        connectTimeout: AppConfig.connectTimeout,
-        receiveTimeout: AppConfig.receiveTimeout,
-        headers: {
-          'Authorization': 'Bearer ${AppConfig.apiReadToken}',
-          'Content-Type': 'application/json',
-          'Accept': 'application/json',
-        },
-      );
+    baseUrl: AppConfig.baseUrl,
+    connectTimeout: AppConfig.connectTimeout,
+    receiveTimeout: AppConfig.receiveTimeout,
+    queryParameters: {'api_key': AppConfig.apiKey},
+    headers: {'Content-Type': 'application/json', 'Accept': 'application/json'},
+  );
 }

@@ -13,5 +13,4 @@ abstract class AppTheme {
       brightness: Brightness.light,
     ),
   );
-
 }

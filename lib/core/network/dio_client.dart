@@ -16,7 +16,9 @@ class DioClient {
       );
     }
 
-    dio.interceptors.add(ErrorInterceptor(defaultServerError: defaultServerError));
+    dio.interceptors.add(
+      ErrorInterceptor(defaultServerError: defaultServerError),
+    );
 
     return dio;
   }
