@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
 
-import 'features/splash/presentation/pages/splash_page.dart';
+import 'core/l10n/app_localizations.dart';
+import 'core/theme/app_theme.dart';
+import 'features/home/presentation/pages/home_page.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
@@ -8,23 +11,17 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'The Movie DB',
+      onGenerateTitle: (context) => AppLocalizations.of(context)!.appTitle,
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF032541), // TMDB blue
-          brightness: Brightness.light,
-        ),
-        useMaterial3: true,
-      ),
-      darkTheme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF032541),
-          brightness: Brightness.dark,
-        ),
-        useMaterial3: true,
-      ),
-      home: const SplashPage(),
+      localizationsDelegates: const [
+        AppLocalizations.delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+      ],
+      supportedLocales: const [Locale('es')],
+      theme: AppTheme.light,
+      home: const HomePage(),
     );
   }
 }
