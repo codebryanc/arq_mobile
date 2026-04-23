@@ -2,6 +2,10 @@ sealed class HomeEvent {
   const HomeEvent();
 }
 
+final class HomeLoadViewMode extends HomeEvent {
+  const HomeLoadViewMode();
+}
+
 final class HomeShowChips extends HomeEvent {
   const HomeShowChips();
 }

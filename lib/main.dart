@@ -10,9 +10,9 @@ import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_mov
 
 import 'app.dart';
 
-void main() {
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  DependencyInjection.init(
+  await DependencyInjection.init(
     defaultServerError: AppLocalizationsEs().errorUnknown,
   );
 

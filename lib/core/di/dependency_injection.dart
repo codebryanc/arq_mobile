@@ -1,5 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 import 'package:arq_mobile/core/network/dio_client.dart';
 import 'package:arq_mobile/features/category/data/datasources/category_remote_datasource.dart';
@@ -8,6 +9,11 @@ import 'package:arq_mobile/features/category/domain/repositories/category_reposi
 import 'package:arq_mobile/features/category/domain/usecases/get_categories_usecase.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_bloc.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_event.dart';
+import 'package:arq_mobile/features/home/data/datasources/view_mode_local_datasource.dart';
+import 'package:arq_mobile/features/home/data/repositories/view_mode_repository_impl.dart';
+import 'package:arq_mobile/features/home/domain/repositories/view_mode_repository.dart';
+import 'package:arq_mobile/features/home/domain/usecases/get_view_mode_usecase.dart';
+import 'package:arq_mobile/features/home/domain/usecases/save_view_mode_usecase.dart';
 import 'package:arq_mobile/features/home/presentation/bloc/home_bloc.dart';
 import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movies_remote_datasource.dart';
 import 'package:arq_mobile/features/popular_movies/data/repositories/popular_movies_repository_impl.dart';
@@ -36,7 +42,11 @@ class DependencyInjection {
   DependencyInjection._();
 
   // [Methods]
-  static void init({required String defaultServerError}) {
+  static Future<void> init({required String defaultServerError}) async {
+    // Local storage
+    final prefs = await SharedPreferences.getInstance();
+    sl.registerSingleton<SharedPreferences>(prefs);
+
     // Network
     sl.registerLazySingleton<Dio>(
       () => DioClient.create(defaultServerError: defaultServerError),
@@ -78,8 +88,20 @@ class DependencyInjection {
     sl.registerLazySingleton(() => GetMovieCastUseCase(sl()));
     sl.registerLazySingleton(() => GetMovieImagesUseCase(sl()));
 
+    // ViewMode (local)
+    sl.registerLazySingleton<ViewModeLocalDataSource>(
+      () => ViewModeLocalDataSourceImpl(prefs: sl()),
+    );
+    sl.registerLazySingleton<ViewModeRepository>(
+      () => ViewModeRepositoryImpl(localDataSource: sl()),
+    );
+    sl.registerLazySingleton(() => GetViewModeUseCase(sl()));
+    sl.registerLazySingleton(() => SaveViewModeUseCase(sl()));
+
     // BLoCs
-    sl.registerFactory<HomeBloc>(() => HomeBloc());
+    sl.registerFactory<HomeBloc>(
+      () => HomeBloc(getViewMode: sl(), saveViewMode: sl()),
+    );
     sl.registerFactory<CategoryBloc>(
       () => CategoryBloc(getCategories: sl())..add(const LoadCategories()),
     );

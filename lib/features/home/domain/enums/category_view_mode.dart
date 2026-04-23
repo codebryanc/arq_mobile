@@ -1,0 +1,1 @@
+enum CategoryViewMode { chips, list }
