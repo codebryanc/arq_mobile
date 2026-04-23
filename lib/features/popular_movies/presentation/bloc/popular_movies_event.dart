@@ -3,5 +3,7 @@ sealed class PopularMoviesEvent {
 }
 
 final class LoadPopularMovies extends PopularMoviesEvent {
-  const LoadPopularMovies();
+  const LoadPopularMovies({required this.isOnline});
+
+  final bool isOnline;
 }

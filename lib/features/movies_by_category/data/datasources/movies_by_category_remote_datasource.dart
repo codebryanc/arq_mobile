@@ -37,8 +37,14 @@ class MoviesByCategoryRemoteDataSourceImpl
       );
 
       // To save local data
-      if(FeaturesConfig.recordSession) {
-        unawaited(saveMock(FeaturesConfig.moviesByCategory, '${endpointToFileName(endpoint)}_${categoryId}_$page.json', response.data));
+      if (FeaturesConfig.recordSession) {
+        unawaited(
+          saveMock(
+            FeaturesConfig.moviesByCategory,
+            '${endpointToFileName(endpoint)}_${categoryId}_$page.json',
+            response.data,
+          ),
+        );
       }
 
       final data = response.data as Map<String, dynamic>;

@@ -33,8 +33,14 @@ class MovieDetailRemoteDataSourceImpl implements MovieDetailRemoteDataSource {
       final response = await dio.get(endpoint);
 
       // To save local data
-      if(FeaturesConfig.recordSession) {
-        unawaited(saveMock(FeaturesConfig.movieDetail, '${endpointToFileName(endpoint)}.json', response.data));
+      if (FeaturesConfig.recordSession) {
+        unawaited(
+          saveMock(
+            FeaturesConfig.movieDetail,
+            '${endpointToFileName(endpoint)}.json',
+            response.data,
+          ),
+        );
       }
 
       return MovieDetailModel.fromJson(response.data as Map<String, dynamic>);
@@ -52,8 +58,14 @@ class MovieDetailRemoteDataSourceImpl implements MovieDetailRemoteDataSource {
       final response = await dio.get(endpoint);
 
       // To save local data
-      if(FeaturesConfig.recordSession) {
-        unawaited(saveMock(FeaturesConfig.movieDetail, '${endpointToFileName(endpoint)}.json', response.data));
+      if (FeaturesConfig.recordSession) {
+        unawaited(
+          saveMock(
+            FeaturesConfig.movieDetail,
+            '${endpointToFileName(endpoint)}.json',
+            response.data,
+          ),
+        );
       }
 
       final cast = response.data['cast'] as List<dynamic>;
@@ -79,8 +91,14 @@ class MovieDetailRemoteDataSourceImpl implements MovieDetailRemoteDataSource {
       );
 
       // To save local data
-      if(FeaturesConfig.recordSession) {
-        unawaited(saveMock(FeaturesConfig.movieDetail, '${endpointToFileName(endpoint)}.json', response.data));
+      if (FeaturesConfig.recordSession) {
+        unawaited(
+          saveMock(
+            FeaturesConfig.movieDetail,
+            '${endpointToFileName(endpoint)}.json',
+            response.data,
+          ),
+        );
       }
 
       final backdrops = response.data['backdrops'] as List<dynamic>;

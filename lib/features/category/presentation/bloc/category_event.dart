@@ -5,7 +5,9 @@ sealed class CategoryEvent {
 }
 
 final class LoadCategories extends CategoryEvent {
-  const LoadCategories();
+  const LoadCategories({required this.isOnline});
+
+  final bool isOnline;
 }
 
 final class SelectCategory extends CategoryEvent {

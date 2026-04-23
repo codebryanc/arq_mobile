@@ -16,7 +16,12 @@ class MovieDetailRepositoryImpl implements MovieDetailRepository {
 
   // [Methods]
   @override
-  Future<Either<Failure, MovieDetail>> getMovieDetail(int movieId) async {
+  Future<Either<Failure, MovieDetail>> getMovieDetail(
+    int movieId, {
+    required bool isOnline,
+  }) async {
+    if (!isOnline) return Left(const NetworkFailure());
+
     try {
       return Right(await remoteDataSource.getMovieDetail(movieId));
     } on NetworkException {
@@ -27,7 +32,12 @@ class MovieDetailRepositoryImpl implements MovieDetailRepository {
   }
 
   @override
-  Future<Either<Failure, List<Actor>>> getMovieCast(int movieId) async {
+  Future<Either<Failure, List<Actor>>> getMovieCast(
+    int movieId, {
+    required bool isOnline,
+  }) async {
+    if (!isOnline) return const Right([]);
+
     try {
       return Right(await remoteDataSource.getMovieCast(movieId));
     } on NetworkException {
@@ -38,7 +48,12 @@ class MovieDetailRepositoryImpl implements MovieDetailRepository {
   }
 
   @override
-  Future<Either<Failure, List<MovieImage>>> getMovieImages(int movieId) async {
+  Future<Either<Failure, List<MovieImage>>> getMovieImages(
+    int movieId, {
+    required bool isOnline,
+  }) async {
+    if (!isOnline) return const Right([]);
+
     try {
       return Right(await remoteDataSource.getMovieImages(movieId));
     } on NetworkException {

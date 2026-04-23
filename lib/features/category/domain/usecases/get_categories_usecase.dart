@@ -4,18 +4,15 @@ import 'package:arq_mobile/core/utils/either.dart';
 import 'package:arq_mobile/features/category/domain/entities/category.dart';
 import 'package:arq_mobile/features/category/domain/repositories/category_repository.dart';
 
-class GetCategoriesUseCase implements UseCase<List<Category>, NoParams> {
+class GetCategoriesUseCase implements UseCase<List<Category>, OnlineParams> {
   // [Properties]
   final CategoryRepository _repository;
-
-  // flip to true to use remote data
-  static const bool isOnline = true;
 
   // [Constructor]
   const GetCategoriesUseCase(this._repository);
 
   // [Methods]
   @override
-  Future<Either<Failure, List<Category>>> call(NoParams params) =>
-      _repository.getCategories(isOnline: isOnline);
+  Future<Either<Failure, List<Category>>> call(OnlineParams params) =>
+      _repository.getCategories(isOnline: params.isOnline);
 }

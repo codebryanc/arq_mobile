@@ -24,7 +24,7 @@ class PopularMoviesBloc extends Bloc<PopularMoviesEvent, PopularMoviesState> {
     // Loading
     emit(const PopularMoviesLoading());
 
-    final result = await _getPopularMovies(const NoParams());
+    final result = await _getPopularMovies(OnlineParams(isOnline: event.isOnline));
     result.fold(
       (failure) =>
           // Error

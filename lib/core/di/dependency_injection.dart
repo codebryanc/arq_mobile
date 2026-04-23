@@ -5,13 +5,11 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:arq_mobile/core/network/dio_client.dart';
 import 'package:arq_mobile/features/category/data/datasources/category_local_datasource.dart';
 import 'package:arq_mobile/features/category/data/datasources/category_remote_datasource.dart';
-import 'package:arq_mobile/features/category/data/repositories/category_repository_impl.dart';
 import 'package:arq_mobile/features/category/domain/repositories/category_repository.dart';
 import 'package:arq_mobile/features/category/domain/usecases/get_categories_usecase.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_bloc.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_event.dart';
 import 'package:arq_mobile/features/home/data/datasources/view_mode_local_datasource.dart';
-import 'package:arq_mobile/features/home/data/repositories/view_mode_repository_impl.dart';
 import 'package:arq_mobile/features/home/domain/repositories/view_mode_repository.dart';
 import 'package:arq_mobile/features/home/domain/usecases/get_connection_mode_usecase.dart';
 import 'package:arq_mobile/features/home/domain/usecases/get_view_mode_usecase.dart';
@@ -20,14 +18,16 @@ import 'package:arq_mobile/features/home/domain/usecases/save_view_mode_usecase.
 import 'package:arq_mobile/features/home/presentation/bloc/home_bloc.dart';
 import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movies_local_datasource.dart';
 import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movies_remote_datasource.dart';
-import 'package:arq_mobile/features/popular_movies/data/repositories/popular_movies_repository_impl.dart';
 import 'package:arq_mobile/features/popular_movies/domain/repositories/popular_movies_repository.dart';
 import 'package:arq_mobile/features/popular_movies/domain/usecases/get_popular_movies_usecase.dart';
 import 'package:arq_mobile/features/movies_by_category/data/datasources/movies_by_category_remote_datasource.dart';
-import 'package:arq_mobile/features/movies_by_category/data/repositories/movies_by_category_repository_impl.dart';
 import 'package:arq_mobile/features/movies_by_category/domain/repositories/movies_by_category_repository.dart';
 import 'package:arq_mobile/features/movies_by_category/domain/usecases/get_movies_by_category_usecase.dart';
 import 'package:arq_mobile/features/movie_detail/data/datasources/movie_detail_remote_datasource.dart';
+import 'package:arq_mobile/features/movies_by_category/data/repositories/movies_by_category_repository_impl.dart';
+import 'package:arq_mobile/features/category/data/repositories/category_repository_impl.dart';
+import 'package:arq_mobile/features/home/data/repositories/view_mode_repository_impl.dart';
+import 'package:arq_mobile/features/popular_movies/data/repositories/popular_movies_repository_impl.dart';
 import 'package:arq_mobile/features/movie_detail/data/repositories/movie_detail_repository_impl.dart';
 import 'package:arq_mobile/features/movie_detail/domain/repositories/movie_detail_repository.dart';
 import 'package:arq_mobile/features/movie_detail/domain/usecases/get_movie_cast_usecase.dart';
@@ -124,12 +124,12 @@ class DependencyInjection {
       ),
     );
     sl.registerFactory<CategoryBloc>(
-      () => CategoryBloc(getCategories: sl())..add(const LoadCategories()),
+      () => CategoryBloc(getCategories: sl())..add(const LoadCategories(isOnline: true)),
     );
     sl.registerFactory<PopularMoviesBloc>(
       () =>
           PopularMoviesBloc(getPopularMovies: sl())
-            ..add(const LoadPopularMovies()),
+            ..add(const LoadPopularMovies(isOnline: true)),
     );
     sl.registerFactory<MoviesByCategoryBloc>(
       () => MoviesByCategoryBloc(getMoviesByCategory: sl()),

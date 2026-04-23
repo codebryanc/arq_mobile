@@ -27,10 +27,16 @@ class CategoryRemoteDataSourceImpl implements CategoryRemoteDataSource {
       final genres = response.data['genres'] as List<dynamic>;
 
       // To save local data
-      if(FeaturesConfig.recordSession) {
-        unawaited(saveMock(FeaturesConfig.category, '${endpointToFileName(_endpoint)}.json', response.data));
+      if (FeaturesConfig.recordSession) {
+        unawaited(
+          saveMock(
+            FeaturesConfig.category,
+            '${endpointToFileName(_endpoint)}.json',
+            response.data,
+          ),
+        );
       }
-      
+
       return genres
           .map((e) => CategoryModel.fromJson(e as Map<String, dynamic>))
           .toList();

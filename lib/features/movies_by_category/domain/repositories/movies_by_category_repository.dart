@@ -6,6 +6,7 @@ import 'package:arq_mobile/features/popular_movies/domain/entities/movie.dart';
 abstract class MoviesByCategoryRepository {
   Future<Either<Failure, (List<Movie>, int totalPages)>> getMoviesByCategory(
     int categoryId,
-    int page,
-  );
+    int page, {
+    required bool isOnline,
+  });
 }

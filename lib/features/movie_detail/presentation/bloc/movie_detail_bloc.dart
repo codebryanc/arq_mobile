@@ -33,10 +33,11 @@ class MovieDetailBloc extends Bloc<MovieDetailEvent, MovieDetailState> {
     emit(const MovieDetailLoading());
 
     // Call all 3 endpoints in parallel
+    final params = MovieDetailParams(movieId: event.movieId, isOnline: event.isOnline);
     final (detailResult, castResult, imagesResult) = await (
-      _getMovieDetail(event.movieId),
-      _getMovieCast(event.movieId),
-      _getMovieImages(event.movieId),
+      _getMovieDetail(params),
+      _getMovieCast(params),
+      _getMovieImages(params),
     ).wait;
 
     detailResult.fold(

@@ -30,7 +30,7 @@ class CategoryBloc extends Bloc<CategoryEvent, CategoryState> {
     // Loading
     emit(const CategoryLoading());
 
-    final result = await _getCategories(const NoParams());
+    final result = await _getCategories(OnlineParams(isOnline: event.isOnline));
     result.fold(
       (failure) =>
           // Error

@@ -4,7 +4,16 @@ import 'package:arq_mobile/core/utils/either.dart';
 import 'package:arq_mobile/features/movie_detail/domain/entities/movie_detail.dart';
 import 'package:arq_mobile/features/movie_detail/domain/repositories/movie_detail_repository.dart';
 
-class GetMovieDetailUseCase implements UseCase<MovieDetail, int> {
+class MovieDetailParams {
+  // [Constructor]
+  const MovieDetailParams({required this.movieId, required this.isOnline});
+
+  // [Properties]
+  final int movieId;
+  final bool isOnline;
+}
+
+class GetMovieDetailUseCase implements UseCase<MovieDetail, MovieDetailParams> {
   // [Properties]
   final MovieDetailRepository _repository;
 
@@ -13,6 +22,6 @@ class GetMovieDetailUseCase implements UseCase<MovieDetail, int> {
 
   // [Methods]
   @override
-  Future<Either<Failure, MovieDetail>> call(int movieId) =>
-      _repository.getMovieDetail(movieId);
+  Future<Either<Failure, MovieDetail>> call(MovieDetailParams params) =>
+      _repository.getMovieDetail(params.movieId, isOnline: params.isOnline);
 }

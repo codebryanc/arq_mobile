@@ -8,3 +8,8 @@ abstract class UseCase<Output, Params> {
 class NoParams {
   const NoParams();
 }
+
+class OnlineParams {
+  const OnlineParams({required this.isOnline});
+  final bool isOnline;
+}

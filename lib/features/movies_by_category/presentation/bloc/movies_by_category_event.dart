@@ -4,11 +4,16 @@ sealed class MoviesByCategoryEvent {
 
 final class LoadMoviesByCategory extends MoviesByCategoryEvent {
   // [Constructor]
-  const LoadMoviesByCategory({required this.categoryId, this.page = 1});
+  const LoadMoviesByCategory({
+    required this.categoryId,
+    required this.isOnline,
+    this.page = 1,
+  });
 
   // [Properties]
   final int categoryId;
   final int page;
+  final bool isOnline;
 }
 
 final class LoadMoreMoviesByCategory extends MoviesByCategoryEvent {

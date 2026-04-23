@@ -27,8 +27,14 @@ class PopularMoviesRemoteDataSourceImpl
       final response = await dio.get(_endpoint);
 
       // To save local data
-      if(FeaturesConfig.recordSession) {
-        unawaited(saveMock(FeaturesConfig.popularMovies, '${endpointToFileName(_endpoint)}.json', response.data));
+      if (FeaturesConfig.recordSession) {
+        unawaited(
+          saveMock(
+            FeaturesConfig.popularMovies,
+            '${endpointToFileName(_endpoint)}.json',
+            response.data,
+          ),
+        );
       }
 
       final results = response.data['results'] as List<dynamic>;

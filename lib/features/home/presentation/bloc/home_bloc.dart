@@ -40,6 +40,7 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
     final viewResult = await _getViewMode(const NoParams());
     final connResult = await _getConnectionMode(const NoParams());
 
+    // Used switch expressions to handle the connection mode result, providing a default value of true (online) in case of an error.
     final isOnline = switch (connResult) {
       Right(:final value) => value,
       Left() => true,

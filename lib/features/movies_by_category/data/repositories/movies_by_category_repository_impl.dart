@@ -17,8 +17,11 @@ class MoviesByCategoryRepositoryImpl implements MoviesByCategoryRepository {
   @override
   Future<Either<Failure, (List<Movie>, int)>> getMoviesByCategory(
     int categoryId,
-    int page,
-  ) async {
+    int page, {
+    required bool isOnline,
+  }) async {
+    if (!isOnline) return const Right(([], 0));
+
     try {
       final result = await remoteDataSource.getMoviesByCategory(
         categoryId,

@@ -7,11 +7,16 @@ import 'package:arq_mobile/features/popular_movies/domain/entities/movie.dart';
 
 class CategoryParams {
   // [Constructor]
-  const CategoryParams({required this.categoryId, this.page = 1});
+  const CategoryParams({
+    required this.categoryId,
+    required this.isOnline,
+    this.page = 1,
+  });
 
   // [Properties]
   final int categoryId;
   final int page;
+  final bool isOnline;
 }
 
 class GetMoviesByCategoryUseCase
@@ -25,5 +30,9 @@ class GetMoviesByCategoryUseCase
   // [Methods]
   @override
   Future<Either<Failure, (List<Movie>, int)>> call(CategoryParams params) =>
-      _repository.getMoviesByCategory(params.categoryId, params.page);
+      _repository.getMoviesByCategory(
+        params.categoryId,
+        params.page,
+        isOnline: params.isOnline,
+      );
 }

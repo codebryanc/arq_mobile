@@ -5,7 +5,16 @@ import 'package:arq_mobile/features/movie_detail/domain/entities/movie_detail.da
 import 'package:arq_mobile/features/movie_detail/domain/entities/movie_image.dart';
 
 abstract class MovieDetailRepository {
-  Future<Either<Failure, MovieDetail>> getMovieDetail(int movieId);
-  Future<Either<Failure, List<Actor>>> getMovieCast(int movieId);
-  Future<Either<Failure, List<MovieImage>>> getMovieImages(int movieId);
+  Future<Either<Failure, MovieDetail>> getMovieDetail(
+    int movieId, {
+    required bool isOnline,
+  });
+  Future<Either<Failure, List<Actor>>> getMovieCast(
+    int movieId, {
+    required bool isOnline,
+  });
+  Future<Either<Failure, List<MovieImage>>> getMovieImages(
+    int movieId, {
+    required bool isOnline,
+  });
 }

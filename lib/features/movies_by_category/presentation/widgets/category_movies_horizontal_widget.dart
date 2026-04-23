@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:arq_mobile/core/di/dependency_injection.dart';
+import 'package:arq_mobile/features/home/presentation/bloc/home_bloc.dart';
 import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
 import 'package:arq_mobile/features/movie_detail/presentation/pages/movie_detail_page.dart';
@@ -32,8 +33,9 @@ class _CategoryMoviesHorizontalWidgetState
   @override
   void initState() {
     super.initState();
+    final isOnline = context.read<HomeBloc>().state.isOnline;
     _bloc = sl<MoviesByCategoryBloc>()
-      ..add(LoadMoviesByCategory(categoryId: widget.categoryId));
+      ..add(LoadMoviesByCategory(categoryId: widget.categoryId, isOnline: isOnline));
     _scrollController = ScrollController()..addListener(_onScroll);
   }
 
