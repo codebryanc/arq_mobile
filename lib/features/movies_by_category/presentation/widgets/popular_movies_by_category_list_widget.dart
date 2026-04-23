@@ -9,11 +9,11 @@ import 'package:arq_mobile/features/movie_detail/presentation/pages/movie_detail
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_bloc.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_event.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_state.dart';
-import 'package:arq_mobile/features/popular_movies/presentation/widgets/popular_movie_card_widget.dart';
+import 'package:arq_mobile/features/movies_by_category/presentation/widgets/movie_by_category_card_widget.dart';
 
-class MoviesByCategoryListWidget extends StatelessWidget {
+class PopularMoviesByCategoryListWidget extends StatelessWidget {
   // [Constructor]
-  const MoviesByCategoryListWidget({super.key});
+  const PopularMoviesByCategoryListWidget({super.key});
 
   // [Methods]
   @override
@@ -64,7 +64,7 @@ class MoviesByCategoryListWidget extends StatelessWidget {
                       mainAxisSpacing: spacing,
                     ),
                     itemCount: movies.length,
-                    itemBuilder: (_, i) => PopularMovieCardWidget(
+                    itemBuilder: (_, i) => MovieByCategoryCardWidget(
                       movie: movies[i],
                       onTap: () => Navigator.push(
                         context,

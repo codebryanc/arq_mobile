@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:arq_mobile/core/theme/app_colors.dart';
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
+import 'package:arq_mobile/features/category/domain/entities/category.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_bloc.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_state.dart';
 import 'package:arq_mobile/features/category/presentation/pages/category_page.dart';
@@ -79,38 +80,46 @@ class HomePage extends StatelessWidget {
                         final selected = state is CategoryLoaded
                             ? state.selectedCategory
                             : null;
+                        final List<Category> categories = state is CategoryLoaded
+                            ? state.categories
+                            : [];
 
-                        // Movies by category when a genre is selected
-                        if (selected != null) {
-                          return MoviesByCategoryPage(
-                            categoryName: selected.name,
-                          );
-                        }
-
-                        // Popular movies when no genre is selected
                         return SafeArea(
                           top: false,
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
-                              Padding(
-                                padding: const EdgeInsets.only(
-                                  top: 12.0,
-                                  left: 16.0,
-                                ),
-                                child: Text(
-                                  AppLocalizations.of(
-                                    context,
-                                  )!.popularMoviesTitle,
-                                  style: Theme.of(context).textTheme.titleSmall
-                                      ?.copyWith(
-                                        fontWeight: FontWeight.bold,
-                                        color: AppColors.secondary,
+                              Visibility(
+                                visible: selected == null,
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    // Popular movies title
+                                    Padding(
+                                      padding: const EdgeInsets.only(top: 12, left: 16),
+                                      child: Text(
+                                        AppLocalizations.of(context)!.popularMoviesTitle,
+                                        style: Theme.of(context).textTheme.titleSmall
+                                            ?.copyWith(
+                                              fontWeight: FontWeight.bold,
+                                              color: AppColors.secondary,
+                                            ),
                                       ),
+                                    ),
+
+                                    // Popular movies
+                                    const SizedBox(height: 12),
+                                    const PopularMoviesPage(),
+                                  ]
                                 ),
                               ),
-                              const SizedBox(height: 12),
-                              const PopularMoviesPage(),
+
+                              // Movies by category (title + grid) or category list
+                              MoviesByCategoryPage(
+                                categories: categories,
+                                isSelected: selected != null,
+                                categoryName: selected?.name ?? '',
+                              ),
                             ],
                           ),
                         );
