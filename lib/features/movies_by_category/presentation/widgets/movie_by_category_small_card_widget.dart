@@ -49,7 +49,9 @@ class MovieByCategorySmallCardWidget extends StatelessWidget {
               movie.title,
               maxLines: 2,
               overflow: TextOverflow.ellipsis,
-              style: textTheme.labelSmall?.copyWith(fontWeight: FontWeight.w600),
+              style: textTheme.labelSmall?.copyWith(
+                fontWeight: FontWeight.w600,
+              ),
             ),
             const SizedBox(height: 2),
             // [Rating]

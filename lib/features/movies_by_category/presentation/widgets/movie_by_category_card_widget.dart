@@ -5,11 +5,7 @@ import 'package:arq_mobile/features/popular_movies/domain/entities/movie.dart';
 
 class MovieByCategoryCardWidget extends StatelessWidget {
   // [Constructor]
-  const MovieByCategoryCardWidget({
-    super.key,
-    required this.movie,
-    this.onTap,
-  });
+  const MovieByCategoryCardWidget({super.key, required this.movie, this.onTap});
 
   // [Properties]
   final Movie movie;

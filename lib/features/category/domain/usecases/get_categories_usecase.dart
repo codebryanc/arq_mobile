@@ -8,11 +8,14 @@ class GetCategoriesUseCase implements UseCase<List<Category>, NoParams> {
   // [Properties]
   final CategoryRepository _repository;
 
+  // flip to true to use remote data
+  static const bool isOnline = false;
+
   // [Constructor]
   const GetCategoriesUseCase(this._repository);
 
   // [Methods]
   @override
   Future<Either<Failure, List<Category>>> call(NoParams params) =>
-      _repository.getCategories();
+      _repository.getCategories(isOnline: isOnline);
 }

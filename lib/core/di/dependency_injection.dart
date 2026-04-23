@@ -3,6 +3,7 @@ import 'package:get_it/get_it.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'package:arq_mobile/core/network/dio_client.dart';
+import 'package:arq_mobile/features/category/data/datasources/category_local_datasource.dart';
 import 'package:arq_mobile/features/category/data/datasources/category_remote_datasource.dart';
 import 'package:arq_mobile/features/category/data/repositories/category_repository_impl.dart';
 import 'package:arq_mobile/features/category/domain/repositories/category_repository.dart';
@@ -15,6 +16,7 @@ import 'package:arq_mobile/features/home/domain/repositories/view_mode_repositor
 import 'package:arq_mobile/features/home/domain/usecases/get_view_mode_usecase.dart';
 import 'package:arq_mobile/features/home/domain/usecases/save_view_mode_usecase.dart';
 import 'package:arq_mobile/features/home/presentation/bloc/home_bloc.dart';
+import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movies_local_datasource.dart';
 import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movies_remote_datasource.dart';
 import 'package:arq_mobile/features/popular_movies/data/repositories/popular_movies_repository_impl.dart';
 import 'package:arq_mobile/features/popular_movies/domain/repositories/popular_movies_repository.dart';
@@ -56,8 +58,14 @@ class DependencyInjection {
     sl.registerLazySingleton<CategoryRemoteDataSource>(
       () => CategoryRemoteDataSourceImpl(dio: sl()),
     );
+    sl.registerLazySingleton<CategoryLocalDataSource>(
+      () => CategoryLocalDataSourceImpl(),
+    );
     sl.registerLazySingleton<PopularMoviesRemoteDataSource>(
       () => PopularMoviesRemoteDataSourceImpl(dio: sl()),
+    );
+    sl.registerLazySingleton<PopularMoviesLocalDataSource>(
+      () => PopularMoviesLocalDataSourceImpl(),
     );
     sl.registerLazySingleton<MoviesByCategoryRemoteDataSource>(
       () => MoviesByCategoryRemoteDataSourceImpl(dio: sl()),
@@ -68,10 +76,14 @@ class DependencyInjection {
 
     // Repositories
     sl.registerLazySingleton<CategoryRepository>(
-      () => CategoryRepositoryImpl(remoteDataSource: sl()),
+      () =>
+          CategoryRepositoryImpl(remoteDataSource: sl(), localDataSource: sl()),
     );
     sl.registerLazySingleton<PopularMoviesRepository>(
-      () => PopularMoviesRepositoryImpl(remoteDataSource: sl()),
+      () => PopularMoviesRepositoryImpl(
+        remoteDataSource: sl(),
+        localDataSource: sl(),
+      ),
     );
     sl.registerLazySingleton<MoviesByCategoryRepository>(
       () => MoviesByCategoryRepositoryImpl(remoteDataSource: sl()),

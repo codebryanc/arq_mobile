@@ -49,10 +49,7 @@ class AppSemanticColors extends ThemeExtension<AppSemanticColors> {
   );
 
   @override
-  AppSemanticColors lerp(
-    covariant AppSemanticColors? target,
-    double progress,
-  ) {
+  AppSemanticColors lerp(covariant AppSemanticColors? target, double progress) {
     if (target == null) return this;
     return AppSemanticColors(
       success: Color.lerp(success, target.success, progress)!,

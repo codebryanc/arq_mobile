@@ -46,7 +46,9 @@ class _RecommendModalWidgetState extends State<RecommendModalWidget> {
     final pageContext = Navigator.of(context).context;
 
     return Padding(
-      padding: EdgeInsets.only(bottom: MediaQuery.of(context).viewInsets.bottom),
+      padding: EdgeInsets.only(
+        bottom: MediaQuery.of(context).viewInsets.bottom,
+      ),
       child: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.fromLTRB(20, 16, 20, 28),
@@ -69,13 +71,17 @@ class _RecommendModalWidgetState extends State<RecommendModalWidget> {
               // [Title]
               Text(
                 l10n.recommendModalTitle,
-                style: textTheme.titleMedium?.copyWith(fontWeight: FontWeight.bold),
+                style: textTheme.titleMedium?.copyWith(
+                  fontWeight: FontWeight.bold,
+                ),
               ),
               const SizedBox(height: 12),
               // [Movie overview]
               Text(
                 widget.detail.overview,
-                style: textTheme.bodyMedium?.copyWith(color: colorScheme.onSurfaceVariant),
+                style: textTheme.bodyMedium?.copyWith(
+                  color: colorScheme.onSurfaceVariant,
+                ),
                 textAlign: TextAlign.justify,
               ),
               const SizedBox(height: 20),
@@ -90,7 +96,10 @@ class _RecommendModalWidgetState extends State<RecommendModalWidget> {
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(12),
                   ),
-                  contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+                  contentPadding: const EdgeInsets.symmetric(
+                    horizontal: 12,
+                    vertical: 10,
+                  ),
                 ),
               ),
               const SizedBox(height: 20),

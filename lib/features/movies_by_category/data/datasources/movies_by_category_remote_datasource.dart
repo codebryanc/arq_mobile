@@ -35,7 +35,11 @@ class MoviesByCategoryRemoteDataSourceImpl
       return (
         movies: results
             .map((e) => e as Map<String, dynamic>)
-            .where((e) => e['poster_path'] != null && (e['poster_path'] as String).isNotEmpty)
+            .where(
+              (e) =>
+                  e['poster_path'] != null &&
+                  (e['poster_path'] as String).isNotEmpty,
+            )
             .map(MovieModel.fromJson)
             .toList(),
         totalPages: data['total_pages'] as int,

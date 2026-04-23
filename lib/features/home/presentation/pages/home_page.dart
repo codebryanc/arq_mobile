@@ -80,9 +80,8 @@ class HomePage extends StatelessWidget {
                         final selected = state is CategoryLoaded
                             ? state.selectedCategory
                             : null;
-                        final List<Category> categories = state is CategoryLoaded
-                            ? state.categories
-                            : [];
+                        final List<Category> categories =
+                            state is CategoryLoaded ? state.categories : [];
 
                         return SafeArea(
                           top: false,
@@ -96,10 +95,17 @@ class HomePage extends StatelessWidget {
                                   children: [
                                     // Popular movies title
                                     Padding(
-                                      padding: const EdgeInsets.only(top: 12, left: 16),
+                                      padding: const EdgeInsets.only(
+                                        top: 12,
+                                        left: 16,
+                                      ),
                                       child: Text(
-                                        AppLocalizations.of(context)!.popularMoviesTitle,
-                                        style: Theme.of(context).textTheme.titleSmall
+                                        AppLocalizations.of(
+                                          context,
+                                        )!.popularMoviesTitle,
+                                        style: Theme.of(context)
+                                            .textTheme
+                                            .titleSmall
                                             ?.copyWith(
                                               fontWeight: FontWeight.bold,
                                               color: AppColors.secondary,
@@ -110,7 +116,7 @@ class HomePage extends StatelessWidget {
                                     // Popular movies
                                     const SizedBox(height: 12),
                                     const PopularMoviesPage(),
-                                  ]
+                                  ],
                                 ),
                               ),
 

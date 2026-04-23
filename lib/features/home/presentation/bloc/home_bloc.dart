@@ -12,9 +12,9 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
   HomeBloc({
     required GetViewModeUseCase getViewMode,
     required SaveViewModeUseCase saveViewMode,
-  })  : _getViewMode = getViewMode,
-        _saveViewMode = saveViewMode,
-        super(const HomeChipsView()) {
+  }) : _getViewMode = getViewMode,
+       _saveViewMode = saveViewMode,
+       super(const HomeChipsView()) {
     on<HomeLoadViewMode>(_onLoad);
     on<HomeShowChips>(_onShowChips);
     on<HomeShowList>(_onShowList);
@@ -28,17 +28,22 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
   // [Methods]
   Future<void> _onLoad(HomeLoadViewMode event, Emitter<HomeState> emit) async {
     final result = await _getViewMode(const NoParams());
-    
+
     // Used fold to handle success and error cases explicitly and safely.
     result.fold(
       (_) {},
       (mode) => emit(
-        mode == CategoryViewMode.list ? const HomeListView() : const HomeChipsView(),
+        mode == CategoryViewMode.list
+            ? const HomeListView()
+            : const HomeChipsView(),
       ),
     );
   }
 
-  Future<void> _onShowChips(HomeShowChips event, Emitter<HomeState> emit) async {
+  Future<void> _onShowChips(
+    HomeShowChips event,
+    Emitter<HomeState> emit,
+  ) async {
     // Loading
     emit(const HomeChipsView());
     await _saveViewMode(CategoryViewMode.chips);

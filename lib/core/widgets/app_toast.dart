@@ -15,9 +15,21 @@ abstract class AppToast {
     final textTheme = Theme.of(context).textTheme;
 
     final (backgroundColor, foregroundColor, icon) = switch (type) {
-      ToastType.success => (semantic.success, semantic.onSuccess, Icons.check_circle_outline_rounded),
-      ToastType.error   => (semantic.error,   semantic.onError,   Icons.error_outline_rounded),
-      ToastType.alert   => (semantic.alert,   semantic.onAlert,   Icons.warning_amber_rounded),
+      ToastType.success => (
+        semantic.success,
+        semantic.onSuccess,
+        Icons.check_circle_outline_rounded,
+      ),
+      ToastType.error => (
+        semantic.error,
+        semantic.onError,
+        Icons.error_outline_rounded,
+      ),
+      ToastType.alert => (
+        semantic.alert,
+        semantic.onAlert,
+        Icons.warning_amber_rounded,
+      ),
     };
 
     ScaffoldMessenger.of(context)
