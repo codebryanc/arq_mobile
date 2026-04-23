@@ -21,8 +21,8 @@
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.75,
-      "vote_count": 572
+      "vote_average": 6.742,
+      "vote_count": 576
     },
     {
       "adult": false,
@@ -64,8 +64,8 @@
       "release_date": "2025-12-17",
       "softcore": false,
       "video": false,
-      "vote_average": 7.373,
-      "vote_count": 2686
+      "vote_average": 7.372,
+      "vote_count": 2689
     },
     {
       "adult": false,
@@ -84,8 +84,8 @@
       "release_date": "2026-03-15",
       "softcore": false,
       "video": false,
-      "vote_average": 8.224,
-      "vote_count": 1666
+      "vote_average": 8.219,
+      "vote_count": 1668
     },
     {
       "adult": false,
@@ -107,8 +107,8 @@
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.585,
-      "vote_count": 500
+      "vote_average": 7.589,
+      "vote_count": 506
     },
     {
       "adult": false,
@@ -128,8 +128,8 @@
       "release_date": "2026-04-15",
       "softcore": false,
       "video": false,
-      "vote_average": 5.668,
-      "vote_count": 110
+      "vote_average": 5.623,
+      "vote_count": 114
     },
     {
       "adult": false,
@@ -140,17 +140,17 @@
         878
       ],
       "id": 840464,
-      "title": "Greenland 2: Migración",
+      "title": "Greenland 2",
       "original_language": "en",
       "original_title": "Greenland 2: Migration",
-      "overview": "La familia Garrity superviviente debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
+      "overview": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer Allison y su hijo Nathan, deciden abandonar el búnker que les ha mantenido a salvo cinco años para buscar una zona en Europa que podría ser habitable. Así, el último refugio es el principio de un nuevo comienzo. Juntos emprenderán un viaje donde los desastres naturales y los humanos que sobrevivieron han convertido el mundo en un auténtico infierno.",
       "popularity": 156.953,
-      "poster_path": "/d6LG93i2sDaYpavISSM9t47C2Qy.jpg",
+      "poster_path": "/vPftEQkiMXzOEYfz1VjmERPcCa0.jpg",
       "release_date": "2026-01-07",
       "softcore": false,
       "video": false,
-      "vote_average": 6.462,
-      "vote_count": 897
+      "vote_average": 6.46,
+      "vote_count": 899
     },
     {
       "adult": false,
@@ -173,7 +173,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.587,
-      "vote_count": 10511
+      "vote_count": 10513
     },
     {
       "adult": false,
@@ -195,8 +195,8 @@
       "release_date": "2025-11-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.608,
-      "vote_count": 2591
+      "vote_average": 7.609,
+      "vote_count": 2594
     },
     {
       "adult": false,
@@ -216,8 +216,8 @@
       "release_date": "2025-12-24",
       "softcore": false,
       "video": false,
-      "vote_average": 5.86,
-      "vote_count": 1033
+      "vote_average": 5.861,
+      "vote_count": 1036
     },
     {
       "adult": false,
@@ -238,7 +238,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.934,
-      "vote_count": 21821
+      "vote_count": 21822
     },
     {
       "adult": false,
@@ -257,8 +257,8 @@
       "release_date": "2026-02-27",
       "softcore": false,
       "video": false,
-      "vote_average": 6.964,
-      "vote_count": 14
+      "vote_average": 6.833,
+      "vote_count": 15
     },
     {
       "adult": false,
@@ -281,11 +281,11 @@
       "softcore": false,
       "video": false,
       "vote_average": 5.986,
-      "vote_count": 4863
+      "vote_count": 4864
     },
     {
       "adult": false,
-      "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+      "backdrop_path": "/gaKFXcB5J1gz0QqYj8bWIfrPc04.jpg",
       "genre_ids": [
         28,
         878,
@@ -302,7 +302,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.695,
-      "vote_count": 2644
+      "vote_count": 2645
     },
     {
       "adult": false,
@@ -323,7 +323,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.47,
-      "vote_count": 39454
+      "vote_count": 39457
     },
     {
       "adult": false,
@@ -343,8 +343,8 @@
       "release_date": "2012-04-25",
       "softcore": false,
       "video": false,
-      "vote_average": 8.005,
-      "vote_count": 37377
+      "vote_average": 8.006,
+      "vote_count": 37382
     },
     {
       "adult": false,
@@ -365,7 +365,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.233,
-      "vote_count": 31775
+      "vote_count": 31776
     },
     {
       "adult": false,
@@ -385,8 +385,8 @@
       "release_date": "2025-07-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.272,
-      "vote_count": 3239
+      "vote_average": 6.273,
+      "vote_count": 3240
     },
     {
       "adult": false,
@@ -407,7 +407,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.234,
-      "vote_count": 27540
+      "vote_count": 27542
     },
     {
       "adult": false,
@@ -428,9 +428,9 @@
       "softcore": false,
       "video": false,
       "vote_average": 6.755,
-      "vote_count": 16241
+      "vote_count": 16243
     }
   ],
-  "total_pages": 1353,
-  "total_results": 27059
+  "total_pages": 1354,
+  "total_results": 27066
 }

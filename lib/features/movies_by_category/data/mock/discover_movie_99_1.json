@@ -174,8 +174,8 @@
       "release_date": "2026-04-16",
       "softcore": false,
       "video": false,
-      "vote_average": 8.067,
-      "vote_count": 15
+      "vote_average": 7.882,
+      "vote_count": 17
     },
     {
       "adult": false,
@@ -392,6 +392,6 @@
       "vote_count": 142
     }
   ],
-  "total_pages": 10823,
-  "total_results": 216442
+  "total_pages": 10826,
+  "total_results": 216507
 }
