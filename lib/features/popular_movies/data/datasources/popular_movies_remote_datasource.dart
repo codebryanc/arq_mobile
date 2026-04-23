@@ -24,7 +24,9 @@ class PopularMoviesRemoteDataSourceImpl
       final response = await dio.get(_endpoint);
       final results = response.data['results'] as List<dynamic>;
       return results
-          .map((e) => MovieModel.fromJson(e as Map<String, dynamic>))
+          .map((e) => e as Map<String, dynamic>)
+          .where((e) => e['poster_path'] != null && (e['poster_path'] as String).isNotEmpty)
+          .map(MovieModel.fromJson)
           .toList();
     } on DioException catch (e) {
       if (e.error is NetworkException) throw const NetworkException();

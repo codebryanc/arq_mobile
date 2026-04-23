@@ -28,6 +28,8 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
   // [Methods]
   Future<void> _onLoad(HomeLoadViewMode event, Emitter<HomeState> emit) async {
     final result = await _getViewMode(const NoParams());
+    
+    // Used fold to handle success and error cases explicitly and safely.
     result.fold(
       (_) {},
       (mode) => emit(

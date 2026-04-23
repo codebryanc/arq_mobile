@@ -54,6 +54,7 @@ class PopularMoviesByCategoryListWidget extends StatelessWidget {
               return Column(
                 children: [
                   GridView.builder(
+                    // Disable GridView's own scrolling to allow the parent ListView to scroll
                     shrinkWrap: true,
                     physics: const NeverScrollableScrollPhysics(),
                     padding: const EdgeInsets.symmetric(horizontal: 16),

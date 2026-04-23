@@ -20,12 +20,12 @@ class PopularMoviesPage extends StatelessWidget {
       builder: (context, state) => switch (state) {
         // Loading
         PopularMoviesLoading() => const SizedBox(
-          height: 480,
+          height: 476,
           child: Center(child: CircularProgressIndicator.adaptive()),
         ),
         // Loaded
         PopularMoviesLoaded(:final movies) => SizedBox(
-          height: 480,
+          height: 476,
           child: ListView.separated(
             scrollDirection: Axis.horizontal,
             padding: const EdgeInsets.symmetric(horizontal: 16),
