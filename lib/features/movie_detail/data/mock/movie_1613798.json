@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Acción"
+    },
+    {
+      "id": 53,
+      "name": "Suspense"
+    }
+  ],
+  "homepage": "",
+  "id": 1613798,
+  "imdb_id": "tt37989803",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Venganza",
+  "overview": "Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.",
+  "popularity": 248.2392,
+  "poster_path": "/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
+  "production_companies": [
+    {
+      "id": 94730,
+      "logo_path": "/1fwoMRV4eUpdosHjiveHV91LaXJ.png",
+      "name": "El Estudio",
+      "origin_country": "ES"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-26",
+  "revenue": 0,
+  "runtime": 103,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Venganza",
+  "video": false,
+  "vote_average": 6.713,
+  "vote_count": 68
+}

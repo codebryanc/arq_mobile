@@ -1,0 +1,423 @@
+{
+  "page": 5,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xOCcp04PVGHuR3gBKzquBm9DMyP.jpg",
+      "genre_ids": [
+        9648
+      ],
+      "id": 232078,
+      "title": "Triple Crossed",
+      "original_language": "en",
+      "original_title": "Triple Crossed",
+      "overview": "EEUU /// Chris Jensen, un combatiente en la Guerra de Afganistán, está desarrollando un trauma psicológico tras volver a California y deberá recurrir a la auto-medicación para poder hacer frente a los duros ecos de la violencia que tuvo que soportar durante su enfrentamiento militar. Debido a su dificultad para volver al frente, Chris decidirá alistarse en la sección de operaciones especiales como medio de ganarse la vida. Sin embargo, en su nuevo trabajo deberá asesinar a Andrew Warner, un bello hombre del que acabará enamorándose.",
+      "popularity": 9.1031,
+      "poster_path": "/doK75PABYpMHqiiHFoOJsC0pAn0.jpg",
+      "release_date": "2013-11-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.1,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9V6Yq2ZVUmyAPcPyDcCBPnkluKF.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        878
+      ],
+      "id": 51876,
+      "title": "Sin límites",
+      "original_language": "en",
+      "original_title": "Limitless",
+      "overview": "Un escritor (Bradley Cooper), que sufre una crisis de creatividad, prueba un día una nueva droga que lo pone en condiciones de usar al máximo todas sus facultades mentales; es una especie de píldora inteligente gracias a la cual consigue triunfar en Nueva York. Un poderoso financiero de Wall Street (De Niro) siente una extraordinaria curiosidad por averiguar qué se esconde detrás de tanto éxito...",
+      "popularity": 9.016,
+      "poster_path": "/sEMTs4XRq9oUwDG2bCUb9NGfbQG.jpg",
+      "release_date": "2011-03-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.197,
+      "vote_count": 11392
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6EO11KoiMMG29ISaQrm2G5DCe1X.jpg",
+      "genre_ids": [
+        9648,
+        27,
+        53
+      ],
+      "id": 838209,
+      "title": "Exhuma",
+      "original_language": "ko",
+      "original_title": "파묘",
+      "overview": "Una renombrada chamana (Kim Go-eun) y su aprendiz son contratados por una enigmática familia adinerada para investigar la enfermedad sobrenatural que afecta a su hijo primogénito. Con la ayuda de un embalsamador y el experto en feng shui más famoso del país (Choi Min-sik), rastrean una tumba familiar oculta, ubicada en tierra sagrada. Percibiendo un aura ominosa alrededor del lugar, el equipo opta por exhumar y reubicar los restos ancestrales de inmediato. Pero algo mucho más oscuro emerge en la remota montaña, desatando fuerzas sobrenaturales que amenazan con destruirlos a todos.",
+      "popularity": 9.006,
+      "poster_path": "/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg",
+      "release_date": "2024-02-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.493,
+      "vote_count": 657
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
+      "genre_ids": [
+        878,
+        53,
+        9648
+      ],
+      "id": 63,
+      "title": "12 monos",
+      "original_language": "en",
+      "original_title": "Twelve Monkeys",
+      "overview": "En el año 2035, un virus mortal ha arrasado la humanidad y los supervivientes viven bajo tierra. Un convicto llamado James Cole se ofrece como voluntario para viajar al pasado y averiguar el origen de la plaga. Su misión es encontrar al 'Ejército de los Doce Monos', una organización terrorista que se cree que liberó el virus. Sin embargo, su viaje se complica por los errores temporales, las visiones recurrentes y la duda sobre su propia cordura. Con la ayuda de una psiquiatra llamada Kathryn Railly y un loco llamado Jeffrey Goines, Cole intenta salvar el futuro antes de que sea demasiado tarde.",
+      "popularity": 8.9894,
+      "poster_path": "/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg",
+      "release_date": "1995-12-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 9057
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/udYOmbW1JEZjVd726PWHlmptxPi.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        9648,
+        878
+      ],
+      "id": 158852,
+      "title": "Tomorrowland: El mundo del mañana",
+      "original_language": "en",
+      "original_title": "Tomorrowland",
+      "overview": "Unidos por el mismo destino, una adolescente inteligente y optimista, llena de curiosidad científica, y un antiguo niño prodigio inventor, hastiado por las desilusiones, se embarcan en una peligrosa misión para desenterrar los secretos de un enigmático lugar localizado en algún lugar del tiempo y el espacio, conocido en la memoria colectiva como “Tomorrowland”, y así salvar a la humanidad.",
+      "popularity": 8.9553,
+      "poster_path": "/go6qA8ksn5gkXcDnW3WtMeqzAg8.jpg",
+      "release_date": "2015-05-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.29,
+      "vote_count": 7326
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kMZIMqEXO5MFd5Y1Ha2jZZF4pvF.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 882598,
+      "title": "Smile",
+      "original_language": "en",
+      "original_title": "Smile",
+      "overview": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
+      "popularity": 8.933,
+      "poster_path": "/qJO54b6LsBmEkMxdW8ZziL9Mnam.jpg",
+      "release_date": "2022-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.664,
+      "vote_count": 3999
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/olz8Xw3yOLpBAHKgPoSRwmomdM.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "id": 13448,
+      "title": "Ángeles y demonios",
+      "original_language": "en",
+      "original_title": "Angels & Demons",
+      "overview": "Robert Langdon descubre la prueba de la reaparición de una antigua hermandad secreta conocida como los Illuminati: la más poderosa organización secreta en la historia, que a su vez también se enfrenta a una amenaza que hace que peligre su existencia: la Iglesia Católica. Cuando Langdon se entera de que los Illuminati conspiran en contra de la Iglesia intentando detonar una bomba de antimateria, él se dirige a Roma, donde une fuerzas con Vittoria Vetra.",
+      "popularity": 8.8872,
+      "poster_path": "/kLTpEwwVyquJmWak9qKGc4icFMK.jpg",
+      "release_date": "2009-04-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.718,
+      "vote_count": 7279
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
+      "genre_ids": [
+        53,
+        80,
+        18,
+        9648
+      ],
+      "id": 322,
+      "title": "Río místico",
+      "original_language": "en",
+      "original_title": "Mystic River",
+      "overview": "Cuando Jimmy Markum, Dave Boyle y Sean Devine eran unos niños que crecían juntos en un peligroso barrio obrero de Boston, pasaban los días jugando al hockey en la calle. Pero, un día, a Dave le ocurrió algo que marcó para siempre su vida y las de sus amigos. Veinticinco años más tarde, otra tragedia los vuelve a unir: el asesinato de Katie, la hija de 19 años de Jimmy. A Sean, que es policía, le asignan el caso; pero también tiene que estar muy pendiente de Jimmy porque, en su desesperación, está intentando tomarse la justicia por su mano.",
+      "popularity": 8.8448,
+      "poster_path": "/b6j7T4uBjXdG8FBMuDFsHttgIK2.jpg",
+      "release_date": "2003-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.744,
+      "vote_count": 7394
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dZM71rHXh3Oo3WZlw8YpMMsoVB5.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648,
+        53
+      ],
+      "id": 1592,
+      "title": "Las dos caras de la verdad",
+      "original_language": "en",
+      "original_title": "Primal Fear",
+      "overview": "Martin Vail (Richard Gere) es un ambicioso abogado de Chicago, capaz de aceptar cualquier caso con tal de salir en la prensa. Un día acepta un caso en apariencia imposible de ganar: la defensa de Aaron (Edward Norton), un joven acusado de asesinar al arzobispo de Chicago tras ser detenido huyendo del lugar del crimen. El caso parece fácil, pero la pesadilla para Martin acaba de empezar.",
+      "popularity": 8.8031,
+      "poster_path": "/8EkX8965Hb2hZdkpEcFShrlrklw.jpg",
+      "release_date": "1996-04-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 3869
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dZJcOyRonN0Kb7kJR3DE3esGn16.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "id": 1050035,
+      "title": "Monstruo",
+      "original_language": "ja",
+      "original_title": "怪物",
+      "overview": "Cuando su joven hijo Minato empieza a comportarse de forma extraña, su madre siente que algo va mal. Al descubrir que el responsable de todo ello es un profesor, irrumpe en la escuela exigiendo saber qué está pasando. Pero a medida que la historia se desarrolla a través de los ojos de la madre, el profesor y el niño, la verdad va saliendo a la luz, poco a poco...",
+      "popularity": 8.732,
+      "poster_path": "/8frC5TllwK0jnQCqgZDE8xzsT5b.jpg",
+      "release_date": "2023-06-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.912,
+      "vote_count": 861
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rbBe9WQ1OqCxzgwskOTnaY6JdUA.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 1933,
+      "title": "Los otros",
+      "original_language": "en",
+      "original_title": "The Others",
+      "overview": "Grace educa sola a sus hijos en un aislado caserón victoriano bajo estrictas normas religiosas. Los tres nuevos sirvientes deben aprender una regla vital, la casa estará siempre en penumbra y nunca se abrirá una puerta si no se ha cerrado la anterior  porque los niños sufren una extraña alergia a la luz del día.",
+      "popularity": 8.613,
+      "poster_path": "/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
+      "release_date": "2001-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.617,
+      "vote_count": 7110
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vlnSG1EQi0ez2A6MkFfjovPfkES.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "id": 591,
+      "title": "El código Da Vinci",
+      "original_language": "en",
+      "original_title": "The Da Vinci Code",
+      "overview": "El catedrático y afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el asesinato de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas. Con la ayuda de la criptógrafa de la policía Sophie Neveu y poniendo en juego su propia vida, Langdon descubre que la obra de Leonardo Da Vinci esconde una serie de misterios que apuntan a una sociedad secreta encargada de custodiar un antiguo secreto que ha permanecido oculto durante dos mil años...",
+      "popularity": 8.5727,
+      "poster_path": "/r5DHVCB5AV7B7GLmXMyA71Y4Yu4.jpg",
+      "release_date": "2006-05-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.725,
+      "vote_count": 10000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 565,
+      "title": "The Ring (La señal)",
+      "original_language": "en",
+      "original_title": "The Ring",
+      "overview": "Rachel Keller es una periodista de investigación que no da mucho crédito a lo que considera una especie de leyenda urbana: al parecer, circula por ahí una cinta de vídeo con imágenes aterradoras, que va acompañada de una llamada telefónica en la que se predice, con una semana de antelación, la muerte de quien las ha visto. Sin embargo, cuando cuatro adolescentes encuentran la muerte exactamente una semana después de ver el vídeo, la curiosidad se apodera de ella y no parará hasta encontrar la cinta y verla.",
+      "popularity": 8.5697,
+      "poster_path": "/4TPPSB8OAtgYo9EdFzr7tsTsLDB.jpg",
+      "release_date": "2002-10-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 6626
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tAi9xQKBgYJVkBTfAtZ0OHEaXfb.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        80,
+        53
+      ],
+      "id": 38410,
+      "title": "Recuerdos perversos",
+      "original_language": "en",
+      "original_title": "The Poughkeepsie Tapes",
+      "overview": "En los años 90 un asesino en serie aterrorizó la Ciudad de Nueva York, dejando una masacre tras de sí. Años más tarde, la policía halló cientos de cintas de video en una casa abandonada, siendo la prueba de asesinatos, torturas, violaciones de un único asesino. Esta es una compilación de las cintas.",
+      "popularity": 8.5598,
+      "poster_path": "/8ppkhu3pO3fnXr05YeE7ryKloVd.jpg",
+      "release_date": "2007-04-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.561,
+      "vote_count": 743
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lRbDyjI7HEaXxflFQbYpqHRGFBJ.jpg",
+      "genre_ids": [
+        9648,
+        80,
+        53
+      ],
+      "id": 505026,
+      "title": "Muerte en el Nilo",
+      "original_language": "en",
+      "original_title": "Death on the Nile",
+      "overview": "Las vacaciones egipcias del detective belga Hércules Poirot, a bordo de un glamuroso barco de vapor, se ven alteradas por la búsqueda de un asesino cuando la idílica luna de miel de una pareja perfecta se ve truncada de la forma más trágica.",
+      "popularity": 8.5498,
+      "poster_path": "/4Fbl3qZSraPXdgmQQzQIDJA736N.jpg",
+      "release_date": "2022-02-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.415,
+      "vote_count": 4146
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c7bTGTFCAdWjZtBqsUjijuzzX4Z.jpg",
+      "genre_ids": [
+        9648,
+        27
+      ],
+      "id": 57100,
+      "title": "Doble visión",
+      "original_language": "zh",
+      "original_title": "雙瞳",
+      "overview": "El gran detective Huang Huo-tu (Tony Leung Ka-fai) se está desmoronando. Como pago a su aportación para deshacer una trama de corrupción en el cuerpo, es trasladado a hacer en el peor trabajo de la Oficina de Asuntos Exteriores. Sus compañeros le han dado la espalda, y su mujer, Ching-fang (Rene Liu) está en trámites de divorcio. Pero, entonces, tres horribles asesinatos sacuden el departamento. Las víctimas no están relacionadas, pero el Coronel (Yang Kwei-Mei) encuentra un misterioso fango negro en sus cerebro, junto con la evidencia de que todos han muerto en un estado alucinógeno. Claramente hay un asesino en serie en libertad, pero es el primero en la historia de Taiwan, y la policía no está preparada para llevar el caso. (FILMAFFINITY)",
+      "popularity": 8.5412,
+      "poster_path": "/6nynn9NPvxpKH8KYvfAuXrYnDP8.jpg",
+      "release_date": "2002-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.638,
+      "vote_count": 80
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dWLoSzvw52y1gt7ni9gZXdy693e.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        35
+      ],
+      "id": 22970,
+      "title": "La cabaña en el bosque",
+      "original_language": "en",
+      "original_title": "The Cabin in the Woods",
+      "overview": "Cinco jóvenes se preparan para pasar el fin de semana en una aislada cabaña en el bosque, sin ningún tipo de comunicación con el exterior. En el sótano encuentran una extraña colección de reliquias y entre ellas, un diario que habla de la antigua familia que ocupó la casa. Lo que no sospechan es que están siendo observados y que sus acciones marcarán el destino de algo mucho más grande que ellos.",
+      "popularity": 8.4971,
+      "poster_path": "/40Sjxp3rXLC3UV2Wbgxxu4HwMJK.jpg",
+      "release_date": "2012-04-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 8477
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 270303,
+      "title": "It Follows",
+      "original_language": "en",
+      "original_title": "It Follows",
+      "overview": "Jay, de 18 años, tiene su primer encuentro sexual con su novio en la parte trasera del coche. Tras el hecho, aparentemente inocente, la situación se pone algo tensa cuando su novio hace que ella se desmaye aplicándole cloroformo.  Al despertar, el novio le explica que lo hizo para ahuyentar a una serie de espíritus que lo acosan. A partir de ese momento, es Jay quien sufrirá las consecuencias de ese acoso, encontrándose sumergida en visiones y pesadillas; teniendo la sensación de que alguien o algo la observa.",
+      "popularity": 8.4951,
+      "poster_path": "/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg",
+      "release_date": "2015-02-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.584,
+      "vote_count": 6867
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k32XKMjmXMGeydykD32jfER3BVI.jpg",
+      "genre_ids": [
+        28,
+        9648,
+        18
+      ],
+      "id": 1045938,
+      "title": "G20",
+      "original_language": "en",
+      "original_title": "G20",
+      "overview": "Cuando la cumbre del G20 sufre un ataque, la presidenta de EE. UU. Danielle Sutton se convierte en el objetivo número uno. Tras evitar ser capturada por los atacantes, debe derrotar al enemigo para proteger a su familia, defender a su país y poner a salvo a los líderes del mundo en esta trepidante película cargada de acción.",
+      "popularity": 8.4686,
+      "poster_path": "/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg",
+      "release_date": "2025-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.387,
+      "vote_count": 661
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hfWsEZRTpqSfzofIhjjy7VL4o61.jpg",
+      "genre_ids": [
+        9648,
+        28,
+        878
+      ],
+      "id": 13183,
+      "title": "Watchmen",
+      "original_language": "en",
+      "original_title": "Watchmen",
+      "overview": "Estados Unidos, años 80. La Guerra Fría está en su apogeo, y los superhéroes, que antes habían sido admirados, ahora son perseguidos por la ley. Un día aparece muerto uno de ellos, \"El Comediante\", que trabajaba para la CIA. Su amigo Rorschach, el único héroe enmascarado en activo, emprenderá la investigación de su muerte, tras la que se oculta algo muy importante. Esperadísima adaptación del cómic de Alan Moore y Dave Gibbons (1986).",
+      "popularity": 8.4491,
+      "poster_path": "/bQ1fT5xjhFesHqKe1NgY088yOT8.jpg",
+      "release_date": "2009-03-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.351,
+      "vote_count": 9918
+    }
+  ],
+  "total_pages": 1287,
+  "total_results": 25726
+}

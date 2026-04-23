@@ -1,0 +1,425 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1582770,
+      "title": "Dhurandhar The Revenge",
+      "original_language": "hi",
+      "original_title": "धुरंधर: द रिवेंज",
+      "overview": "Hamza Ali Mazari, cuya verdadera identidad es Jaskirat Singh Rangi, continúa su operación encubierta en el mundo criminal de Pakistán mientras rastrea a Majo.",
+      "popularity": 31.4561,
+      "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "release_date": "2026-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.697,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 252969,
+      "title": "Secret Pleasures",
+      "original_language": "en",
+      "original_title": "Secret Pleasures",
+      "overview": "",
+      "popularity": 30.3678,
+      "poster_path": "/j0Qu5opplDTot70kMqVqzURFXHY.jpg",
+      "release_date": "2002-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.6,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Mq428bLVcBixhsKP4dAyEL1Ycu.jpg",
+      "genre_ids": [
+        35,
+        80,
+        9648,
+        53
+      ],
+      "id": 5236,
+      "title": "Kiss Kiss Bang Bang",
+      "original_language": "en",
+      "original_title": "Kiss Kiss Bang Bang",
+      "overview": "Harry Lockhart es en esencia un tipo decente. Es cierto que es un ladrón de poca monta, pero quiere hacer lo correcto. La eterna mala suerte de Harry empieza a mejorar cuando él y su socio están haciendo algunas \"compras\" navideñas fuera de horas en una tienda de juguetes de Nueva York y la alarma de seguridad acaba con la fiesta. En su frenética huída de la policía, Harry se ve metido sin querer en una audición para una película de detectives de Hollywood y, en un abrir y cerrar de ojos, el productor lo lleva en avión a Los Angeles para hacerle una prueba.",
+      "popularity": 26.9702,
+      "poster_path": "/yMAoom93EhCzp39vG59ka42hGIk.jpg",
+      "release_date": "2005-09-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 2983
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hiazLNa1UXuX35OTnMQRKOx3eTk.jpg",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "id": 1054867,
+      "title": "Una batalla tras otra",
+      "original_language": "en",
+      "original_title": "One Battle After Another",
+      "overview": "Un ex revolucionario, tras años apartado de la lucha, se ve obligado a volver a la acción para enfrentar a viejos enemigos en un ambiente cargado de tensión política, racismo y violencia militar... Adaptación modernizada de la novela 'Vineland', de Thomas Pynchon (1990), sobre los movimientos radicales de los años sesenta.",
+      "popularity": 26.6688,
+      "poster_path": "/iZ1499F6hYxDxiqioy8oSUaxipG.jpg",
+      "release_date": "2025-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.368,
+      "vote_count": 3525
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 807,
+      "title": "Seven",
+      "original_language": "en",
+      "original_title": "Se7en",
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "popularity": 25.0927,
+      "poster_path": "/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "release_date": "1995-09-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 22927
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+      "genre_ids": [
+        80,
+        18,
+        35
+      ],
+      "id": 106646,
+      "title": "El lobo de Wall Street",
+      "original_language": "en",
+      "original_title": "The Wolf of Wall Street",
+      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "popularity": 25.0095,
+      "poster_path": "/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "release_date": "2013-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 25767
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
+      "genre_ids": [
+        14,
+        18,
+        80
+      ],
+      "id": 497,
+      "title": "La milla verde",
+      "original_language": "en",
+      "original_title": "The Green Mile",
+      "overview": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
+      "popularity": 24.8157,
+      "poster_path": "/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
+      "release_date": "1999-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.504,
+      "vote_count": 19110
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 240,
+      "title": "El Padrino Parte II",
+      "original_language": "en",
+      "original_title": "The Godfather Part II",
+      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "popularity": 24.5913,
+      "poster_path": "/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "release_date": "1974-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.571,
+      "vote_count": 13807
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nSVwus6Vcnw06zqKAa1ioacrpUF.jpg",
+      "genre_ids": [
+        80,
+        35
+      ],
+      "id": 877817,
+      "title": "Wolfs",
+      "original_language": "en",
+      "original_title": "Wolfs",
+      "overview": "Dos “solucionadores” rivales cruzan sus caminos cuando los llaman a ambos para ayudar a ocultar el desliz de una importante funcionaria de Nueva York. Durante una noche muy intensa, deberán dejar de lado sus pequeñas rencillas -y sus egos- para terminar el trabajo.",
+      "popularity": 24.2463,
+      "poster_path": "/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",
+      "release_date": "2024-09-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 1400
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 769,
+      "title": "Uno de los nuestros",
+      "original_language": "en",
+      "original_title": "GoodFellas",
+      "overview": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+      "popularity": 22.9049,
+      "poster_path": "/3Yy0zBO9AlyAZH1cTI8Ko2ouCi.jpg",
+      "release_date": "1990-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.453,
+      "vote_count": 14228
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1197306,
+      "title": "A Working Man",
+      "original_language": "en",
+      "original_title": "A Working Man",
+      "overview": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
+      "popularity": 22.1128,
+      "poster_path": "/eLBWBW4hariYCgTS5BL1tpMAYiG.jpg",
+      "release_date": "2025-03-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.68,
+      "vote_count": 1854
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1291608,
+      "title": "धुरंधर",
+      "original_language": "hi",
+      "original_title": "धुरंधर",
+      "overview": "",
+      "popularity": 21.5799,
+      "poster_path": "/kOLkpkS2T4HAdA6J7uq4eipNTup.jpg",
+      "release_date": "2025-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.074,
+      "vote_count": 257
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 12153,
+      "title": "Dos rubias de pelo en pecho",
+      "original_language": "en",
+      "original_title": "White Chicks",
+      "overview": "Dos ambiciosos -pero con poca fortuna- agentes del FBI (Shawn y Marlon Wayans) se hacen pasar por mujeres, novatas en la alta sociedad, en el exclusivo complejo Hamptons para investigar un círculo de secuestros. Pero mientras preparan su actuación en el mayor acontecimiento social del año se encuentran que irrumpir en la alta sociedad es mucho más duro de lo que parecía.",
+      "popularity": 20.8885,
+      "poster_path": "/sgg5mR2Iz6QV4eWkqGrTgxOERaH.jpg",
+      "release_date": "2004-06-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 4469
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1yktYsxkmUtUFTUnCAUaqG6FEiz.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 541671,
+      "title": "Ballerina",
+      "original_language": "en",
+      "original_title": "Ballerina",
+      "overview": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado.",
+      "popularity": 20.8568,
+      "poster_path": "/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+      "release_date": "2025-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 2505
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 866398,
+      "title": "Beekeeper: El protector",
+      "original_language": "en",
+      "original_title": "The Beekeeper",
+      "overview": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
+      "popularity": 20.4868,
+      "poster_path": "/gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg",
+      "release_date": "2024-01-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 4129
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/99W7BptqslScAyupDqg9NADLhh1.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1242332,
+      "title": "Normal",
+      "original_language": "en",
+      "original_title": "Normal",
+      "overview": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+      "popularity": 20.0389,
+      "poster_path": "/nVIOGKbUdRxud0EXYJDMGCGcYbo.jpg",
+      "release_date": "2026-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.262,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 111,
+      "title": "El precio del poder",
+      "original_language": "en",
+      "original_title": "Scarface",
+      "overview": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
+      "popularity": 20.0159,
+      "poster_path": "/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
+      "release_date": "1983-12-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.155,
+      "vote_count": 12913
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "id": 156022,
+      "title": "The equalizer (El protector)",
+      "original_language": "en",
+      "original_title": "The Equalizer",
+      "overview": "Robert McCall, un antiguo agente de la CIA que lleva ahora una vida tranquila, abandona su retiro para ayudar a Teri, que está siendo explotada por la mafia rusa. A pesar de que aseguró no volver a ser violento, contemplar tanta crueldad despertará en Robert un implacable y renovado deseo de justicia.",
+      "popularity": 19.5407,
+      "poster_path": "/7tiub1UB4KF9zpacEldfbWAXDi6.jpg",
+      "release_date": "2014-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.284,
+      "vote_count": 9867
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 414906,
+      "title": "The Batman",
+      "original_language": "en",
+      "original_title": "The Batman",
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "popularity": 19.294,
+      "poster_path": "/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "release_date": "2022-03-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 11806
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8FWLJHuWB72UXBmiMtxwTvQVumN.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        80,
+        12,
+        16
+      ],
+      "id": 1175942,
+      "title": "Los tipos malos 2",
+      "original_language": "en",
+      "original_title": "The Bad Guys 2",
+      "overview": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
+      "popularity": 19.1515,
+      "poster_path": "/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg",
+      "release_date": "2025-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.651,
+      "vote_count": 754
+    }
+  ],
+  "total_pages": 2055,
+  "total_results": 41088
+}

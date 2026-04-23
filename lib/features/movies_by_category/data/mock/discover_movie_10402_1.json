@@ -1,0 +1,431 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 936075,
+      "title": "Michael",
+      "original_language": "en",
+      "original_title": "Michael",
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "popularity": 79.8068,
+      "poster_path": "/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "release_date": "2026-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.352,
+      "vote_count": 71
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
+      "genre_ids": [
+        10402,
+        53,
+        28,
+        27
+      ],
+      "id": 1084187,
+      "title": "Lindas y letales",
+      "original_language": "en",
+      "original_title": "Pretty Lethal",
+      "overview": "Un grupo de bailarinas lucha por sobrevivir mientras intentan escapar de una remota posada después de que su autobús se averíe de camino a una competición.",
+      "popularity": 68.9927,
+      "poster_path": "/cmZqxJQ9MdNQEoD49HYghOXsiwH.jpg",
+      "release_date": "2026-03-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.798,
+      "vote_count": 297
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "genre_ids": [
+        14,
+        10402,
+        35,
+        16
+      ],
+      "id": 803796,
+      "title": "Las guerreras k-pop",
+      "original_language": "en",
+      "original_title": "KPop Demon Hunters",
+      "overview": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
+      "popularity": 40.65,
+      "poster_path": "/6EQMqEmdG5HoGe2zT1WwWUMvVhv.jpg",
+      "release_date": "2025-06-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.013,
+      "vote_count": 2662
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        18,
+        10402
+      ],
+      "id": 1167307,
+      "title": "David",
+      "original_language": "en",
+      "original_title": "David",
+      "overview": "En un reino gobernado por el miedo, un joven pastor se atreve a enfrentarse a un gigante y a la oscuridad que se oculta tras él. Su valor despertará a una nación y demostrará que la verdadera fuerza proviene de la confianza, no del poder.",
+      "popularity": 25.8223,
+      "poster_path": "/dRGOzTWMvRPGeOXKU0FIyG3YVO5.jpg",
+      "release_date": "2025-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 129
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gt1uXhgjrjZKfCIgPnbtazKCmEd.jpg",
+      "genre_ids": [
+        10402
+      ],
+      "id": 1192548,
+      "title": "Hannah Waddingham: En casa por Navidad",
+      "original_language": "en",
+      "original_title": "Hannah Waddingham: Home for Christmas",
+      "overview": "Celebra la Navidad con Hannah Waddingham, ganadora de un Emmy, y sus invitados especiales en un espectáculo musical en el Coliseum de Londres.",
+      "popularity": 25.7187,
+      "poster_path": "/awIudzXsPsFbH8a982dZl4D6biC.jpg",
+      "release_date": "2023-11-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.147,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wbQa0EnWUyRzQ5d1pHLNRlmsCUP.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        53
+      ],
+      "id": 244786,
+      "title": "Whiplash",
+      "original_language": "en",
+      "original_title": "Whiplash",
+      "overview": "El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un profesor conocido tanto por su talento como por sus rigurosos métodos de enseñanza, dirige el mejor conjunto de jazz del Conservatorio. Cuando Fletcher elige a Andrew y para formar parte del conjunto musical que dirige, cambia para siempre la vida del joven. La pasión de Andrew por alcanzar la perfección se convierte en obsesión, al tiempo que su despiadado profesor lo lleva al límite de su capacidad y de su salud mental.",
+      "popularity": 22.2885,
+      "poster_path": "/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
+      "release_date": "2014-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.375,
+      "vote_count": 16510
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        10402,
+        12
+      ],
+      "id": 354912,
+      "title": "Coco",
+      "original_language": "en",
+      "original_title": "Coco",
+      "overview": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+      "popularity": 19.3477,
+      "poster_path": "/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
+      "release_date": "2017-10-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.197,
+      "vote_count": 20846
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10402,
+        878
+      ],
+      "id": 1575337,
+      "title": "La princesa Kaguya del cosmos",
+      "original_language": "ja",
+      "original_title": "超かぐや姫！",
+      "overview": "La vida de Iroha se sale de control cuando Kaguya, una despreocupada fugitiva de la Luna, se muda con ella y la convence para actuar juntas en un mundo virtual.",
+      "popularity": 13.9199,
+      "poster_path": "/9YrbOSKoreS4oIjuwx9YjkAU8KP.jpg",
+      "release_date": "2026-01-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.407,
+      "vote_count": 70
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
+      "genre_ids": [
+        10402,
+        35,
+        10749,
+        18
+      ],
+      "id": 843527,
+      "title": "La idea de tenerte",
+      "original_language": "en",
+      "original_title": "The Idea of You",
+      "overview": "Solène, madre soltera de 40 años, comienza un romance inesperado con Hayes Campbell, de 24 años, el cantante principal de August Moon, la banda de chicos más popular del planeta.",
+      "popularity": 13.7414,
+      "poster_path": "/y1WpsgfBA5GywXIuqLm9D4aQHNd.jpg",
+      "release_date": "2024-05-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1909
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        10402
+      ],
+      "id": 1100782,
+      "title": "Smile 2",
+      "original_language": "en",
+      "original_title": "Smile 2",
+      "overview": "La estrella del pop mundial Skye Riley está a punto de embarcarse en una nueva gira mundial cuando empieza a experimentar una serie de sucesos cada vez más aterradores e inexplicables. Angustiada por la espiral de horrores y la abrumadora presión de la fama, Skye tendrá que enfrentarse a su oscuro pasado para recuperar el control de su vida antes de que sea demasiado tarde. Secuela del exitoso film de terror 'Smile' (2022).",
+      "popularity": 12.8571,
+      "poster_path": "/aQtWauWpy5KQEHsBURDnoTD6svd.jpg",
+      "release_date": "2024-10-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 2093
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qU7tNIMpRqkizIObXfkJY3haTqh.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 27,
+      "title": "Nueve canciones",
+      "original_language": "en",
+      "original_title": "9 Songs",
+      "overview": "Lisa es una estudiante estadounidense que está pasando un año en Londres. Matt la conoce en un concierto de Black Rebel Motorcycle en Brixton Academy y se enamora de ella. Entre la música y los grupos vemos a Matt y a Lisa haciendo el amor y cómo a través de esos encuentros sexuales se va desarrollando su relación, que dura hasta las navidades, cuando Lisa regresa a Estados Unidos.",
+      "popularity": 12.5684,
+      "poster_path": "/7Bkt2Z989GasK0YKykIMyLPYOGz.jpg",
+      "release_date": "2004-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.531,
+      "vote_count": 572
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        18,
+        10402,
+        14
+      ],
+      "id": 508442,
+      "title": "Soul",
+      "original_language": "en",
+      "original_title": "Soul",
+      "overview": "¿Alguna vez te has preguntado de dónde provienen tu pasión, tus sueños y tus intereses? ¿Qué es lo que te hace ser... tú? Viaja desde las calles de Nueva York a los reinos cósmicos para descubrir las respuestas a las preguntas más importantes de la vida.",
+      "popularity": 12.4932,
+      "poster_path": "/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+      "release_date": "2020-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.093,
+      "vote_count": 11332
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 424694,
+      "title": "Bohemian Rhapsody",
+      "original_language": "en",
+      "original_title": "Bohemian Rhapsody",
+      "overview": "Londres, 1970. El joven Farrokh (al que sus amigos llaman Freddie) vive en Londres, trabaja en el aeropuerto, estudia diseño gráfico y escribe canciones. Un día, tras escuchar al grupo Smile en un bar, se ofrece como cantante de la banda al enterarse de que se han quedado sin vocalista. Los otros miembros de Smile se llaman Brian May y Roger Taylor.",
+      "popularity": 11.9342,
+      "poster_path": "/gk6IErM0acV6HJRwKZy8ecBoddc.jpg",
+      "release_date": "2018-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.958,
+      "vote_count": 17682
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u3MWQCdHyCK7IADtat4sVmBXd9U.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 1022256,
+      "title": "Selena Gomez: Mi mente y yo",
+      "original_language": "en",
+      "original_title": "Selena Gomez: My Mind & Me",
+      "overview": "Tras años en el candelero, Selena Gómez alcanza un estatus de estrella inimaginable. Sin embargo, justo cuando conquista una nueva cima, un giro inesperado la sume en la oscuridad. Este documental, de una crudeza e intimidad únicas, abarca su viaje de seis años hacia una nueva luz.",
+      "popularity": 11.9326,
+      "poster_path": "/tPlQkVzDoIuhV5he0kntNXDcBrK.jpg",
+      "release_date": "2022-11-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.519,
+      "vote_count": 585
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
+      "genre_ids": [
+        16,
+        10402,
+        35,
+        10751
+      ],
+      "id": 438695,
+      "title": "¡Canta! 2",
+      "original_language": "en",
+      "original_title": "Sing 2",
+      "overview": "Buster Moon y sus amigos deben persuadir a la estrella del rock Clay Calloway para que se una a ellos en el estreno de un nuevo espectáculo.",
+      "popularity": 10.6492,
+      "poster_path": "/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg",
+      "release_date": "2021-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.832,
+      "vote_count": 4737
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w9NnNrq1aOu9hXhhUyMhQMts1oM.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 1637319,
+      "title": "Hannah Montana: Especial 20 aniversario",
+      "original_language": "en",
+      "original_title": "Hannah Montana 20th Anniversary Special",
+      "overview": "Miley Cyrus vuelve a casa para celebrar el 20 aniversario de Hannah Montana, la serie de referencia que marcó a una generación y se convirtió en un icono de la cultura pop. El especial incluye una exclusiva e íntima entrevista a Miley Cyrus de la mano de Alex Cooper, con recreaciones del salón original de los Stewart y el ya legendario armario de Hannah Montana como telón de fondo. Los espectadores podrán disfrutar también de imágenes desde detrás de las cámaras y de elementos de la colección de archivo de Miley y ver caras conocidas, invitados sorpresa y una interpretación musical especial de Miley Cyrus.",
+      "popularity": 10.1029,
+      "poster_path": "/bP1N9GUpy4sGgfpkD8Vx4kdrc8Z.jpg",
+      "release_date": "2026-03-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.212,
+      "vote_count": 73
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
+      "genre_ids": [
+        10402,
+        18,
+        35
+      ],
+      "id": 1620551,
+      "title": "Sobran las palabras",
+      "original_language": "it",
+      "original_title": "Non abbiam bisogno di parole",
+      "overview": "Tras descubrir su talento para el canto, una tímida adolescente que es la única persona no sorda de su familia deberá elegir entre cumplir con su deber o seguir su propio camino.",
+      "popularity": 10.0624,
+      "poster_path": "/tQd773a9flb3utTxwYWzsThU6j9.jpg",
+      "release_date": "2026-04-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.663,
+      "vote_count": 89
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+      "genre_ids": [
+        16,
+        10402,
+        35,
+        10751
+      ],
+      "id": 335797,
+      "title": "¡Canta!",
+      "original_language": "en",
+      "original_title": "Sing",
+      "overview": "Buster es un koala que posee y dirige un gran teatro que está pasando por un momento muy delicado. Para arreglar la situación y recuperar la gloria perdida, organizará el concurso de canto más grande del mundo, que atrae a multitud de animales que buscan convertirse en estrellas. Entre ellos encontramos a un bromista y arrogante ratón, una elefanta adolescente que tiene pánico escénico, una cerda que padece estrés debido a su camada de 25 lechones, un joven gorila proveniente de una familia de gánsteres y una puercoespín que tiene su propia banda de rock alternativo.",
+      "popularity": 9.4121,
+      "poster_path": "/5EyWAoHFGKfcIOT7tj0Cwe9Zx57.jpg",
+      "release_date": "2016-11-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.122,
+      "vote_count": 8394
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 776503,
+      "title": "CODA: Los sonidos del silencio",
+      "original_language": "en",
+      "original_title": "CODA",
+      "overview": "Como CODA (acrónimo en inglés de 'hija de adultos con sordera'), Ruby es la única de su familia que puede oír. Cuando el negocio familiar de pesca se ve amenazado, Ruby debe elegir entre su amor por la música y su miedo a abandonar a sus padres.",
+      "popularity": 9.1631,
+      "poster_path": "/sSkEkCxsEs9LuHZzA2IZYyvd9x4.jpg",
+      "release_date": "2021-08-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.891,
+      "vote_count": 2558
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/isKS6cjAbvfNoCI3pzHsLn1LZmx.jpg",
+      "genre_ids": [
+        10402,
+        18,
+        53
+      ],
+      "id": 1102883,
+      "title": "Mother Mary",
+      "original_language": "en",
+      "original_title": "Mother Mary",
+      "overview": "",
+      "popularity": 8.8152,
+      "poster_path": "/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
+      "release_date": "2026-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.5,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 2635,
+  "total_results": 52694
+}

@@ -1,0 +1,423 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/5PJkK2iVXRO1ydrtgwuJdevmnOe.jpg",
+      "genre_ids": [
+        37,
+        35,
+        80
+      ],
+      "id": 648878,
+      "title": "Eddington",
+      "original_language": "en",
+      "original_title": "Eddington",
+      "overview": "En mayo de 2020, la disputa entre el sheriff de un pequeño pueblo y su alcalde prende un auténtico polvorín al enfrentar a los vecinos de Eddington, Nuevo México.",
+      "popularity": 6.9277,
+      "poster_path": "/2uB5UFi0ZMpFglg0QhMAVKCf27X.jpg",
+      "release_date": "2025-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.462,
+      "vote_count": 765
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9gMkOYzk7P9QXwndhLRAC8cMZcJ.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 391,
+      "title": "Por un puñado de dólares",
+      "original_language": "it",
+      "original_title": "Per un pugno di dollari",
+      "overview": "Tras la muerte de Juárez, en México dominan la injusticia y el terror. Joe, un pistolero vagabundo, llega al pueblo fronterizo de San Miguel, donde dos familias se disputan el control del territorio, y entra al servicio del clan Rojo. Una noche, Joe es testigo del intercambio de oro por armas entre mexicanos y soldados de la Unión...",
+      "popularity": 6.8904,
+      "poster_path": "/la1A6gknPnZd0bZgL6C7poN11v.jpg",
+      "release_date": "1964-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.825,
+      "vote_count": 4672
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pzWkw7Acgn7OyAwMHTlrB6PGnNa.jpg",
+      "genre_ids": [
+        37,
+        12,
+        18,
+        28
+      ],
+      "id": 15573,
+      "title": "Los cowboys",
+      "original_language": "en",
+      "original_title": "The Cowboys",
+      "overview": "En la época de la fiebre del oro, un ranchero (John Wayne) se queda sin empleados y se ve obligado a contratar chicos que todavía van a la escuela. En su primera expedición, intenta conducir 1.200 reses a través de un largo y duro recorrido.",
+      "popularity": 6.8605,
+      "poster_path": "/pPy99rk3Bxz9KcNzEwTz0iGa5Se.jpg",
+      "release_date": "1972-01-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 261
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/x0bQvdpr88xVhMrVM93tEIKSM2q.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 938,
+      "title": "La muerte tenía un precio",
+      "original_language": "it",
+      "original_title": "Per qualche dollaro in più",
+      "overview": "Dos cazadores de asesinos, rivales entre sí al principio, acaban por unirse para conseguir una misma presa, \"El Indio\", un peligroso y sanguinario bandido por el que se ofrece la más alta recompensa conocida. Cada uno tiene motivos diferentes para dar caza al bandido, uno, su obsesión por conseguir el dinero que ofrecen, y el otro, para vengar el asesinato de su hija a manos del brutal asesino. También sus estilos son distintos, aunque infalibles, uno rápido y el otro frío y técnico.",
+      "popularity": 6.6719,
+      "poster_path": "/qY5gbsSBDETBhyH42XkKxBrJnqB.jpg",
+      "release_date": "1965-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.015,
+      "vote_count": 4394
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mqMCvFJ3fRc7RXa0w6A0VRZ1b7F.jpg",
+      "genre_ids": [
+        18,
+        37,
+        10749
+      ],
+      "id": 12501,
+      "title": "Horizontes de grandeza",
+      "original_language": "en",
+      "original_title": "The Big Country",
+      "overview": "James McKay, un capitán naval retirado, llega, desde el Este, a las vastas llanuras de Texas para casarse con Pat Terrill, la hija de un rico ganadero. El choque entre McKay, hombre pacífico y educado, y los violentos y toscos rancheros es inevitable. No sólo tendrá que enfrentarse con el capataz Steve Leech, sino que, incluso su novia se sentirá decepcionada por su comportamiento. Mientras tanto, el padre de Pat y el clan de los Hannassey luchan encarnizadamente por el control del agua para abrevar el ganado.",
+      "popularity": 6.5872,
+      "poster_path": "/3W9z9nc9a9ZIAQfJDXz9YhMftEA.jpg",
+      "release_date": "1958-08-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.577,
+      "vote_count": 402
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5ZDM988DfYLFPBqy4CNvQ9AXnp4.jpg",
+      "genre_ids": [
+        35,
+        37
+      ],
+      "id": 188161,
+      "title": "Mil maneras de morder el polvo",
+      "original_language": "en",
+      "original_title": "A Million Ways to Die in the West",
+      "overview": "Albert, un granjero cobarde, que al echarse atrás en un duelo pistolero, su novia decide abandonarlo por otro hombre. Sin embargo, llegará a la ciudad una hermosa mujer, de quien se enamora y que lo ayudará a descubrir su coraje que será puesto a prueba inmediatamente, dado que esta llamativa mujer arrastra un marido prófugo que reclama venganza.",
+      "popularity": 6.5867,
+      "poster_path": "/vm0dutP6EqrVf1w7qZPYKkXpkn5.jpg",
+      "release_date": "2014-05-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.053,
+      "vote_count": 4375
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5dwlH8Krm2bsuc2Pubw2cBb03g5.jpg",
+      "genre_ids": [
+        18,
+        12,
+        37
+      ],
+      "id": 44264,
+      "title": "Valor de ley",
+      "original_language": "en",
+      "original_title": "True Grit",
+      "overview": "Después del asesinato de su padre por Tom Chaney, Mattie Ross, una chica de catorce años firmemente decidida a hacer justicia, contrata los servicios del veterano sheriff Rooster Cogburn, un borracho de gatillo fácil. Ambos perseguirán al criminal hasta territorio indio e intentarán atraparlo antes de que lo haga LaBoeuf, un ranger de Texas, cuya misión es llevarlo consigo para que sea juzgado por el asesinato de otro hombre... Nueva adaptación de la novela de Charles Portis, que ya había llevado al cine Henry Hathaway (True Grit, 1969) con John Wayne como protagonista",
+      "popularity": 6.5214,
+      "poster_path": "/3O16Iq2v8FbTI6B2H91CsrKi4q1.jpg",
+      "release_date": "2010-12-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.305,
+      "vote_count": 5707
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zcryORb9ySjyYi4EEka4YmDEGVC.jpg",
+      "genre_ids": [
+        12,
+        37
+      ],
+      "id": 72573,
+      "title": "El último rey de los incas",
+      "original_language": "de",
+      "original_title": "Das Vermächtnis des Inka",
+      "overview": "El presidente del Perú asigna al último descendiente de los incas la tarea de tratar de detener una tribu indígena, con la ayuda de un jefe de los bandidos y de revolucionario, y que tratar de expulsar a todos los blancos y resucitar el Imperio Inca.",
+      "popularity": 6.5159,
+      "poster_path": "/lWUDLH0UM3w3L8rdyqQ1jRcCUot.jpg",
+      "release_date": "1965-09-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zrqHFQrF2HngVcEFRtW6sf1nIBD.jpg",
+      "genre_ids": [
+        28,
+        12,
+        37
+      ],
+      "id": 1656,
+      "title": "La leyenda del Zorro",
+      "original_language": "en",
+      "original_title": "The Legend of Zorro",
+      "overview": "Tras ayudar con su espada a que California se convierta en el estado número 31 de la Unión, el Zorro debe cumplir la promesa que le hizo a su mujer Elena: abandonar su identidad secreta y llevar una vida normal como Alejandro de la Vega.",
+      "popularity": 6.4462,
+      "poster_path": "/vfJ0AKLoP4aEyjg1sDKAU94o9rU.jpg",
+      "release_date": "2005-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.121,
+      "vote_count": 3069
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg",
+      "genre_ids": [
+        37,
+        35,
+        18
+      ],
+      "id": 537996,
+      "title": "La balada de Buster Scruggs",
+      "original_language": "en",
+      "original_title": "The Ballad of Buster Scruggs",
+      "overview": "Antología de seis capítulos, cada uno enfocado desde una perspectiva distinta con respecto a la frontera norteamericana y a los peculiares personajes que habitan en sus alrededores. Cada parte cuenta una historia distinta basada en las convenciones del Lejano Oeste de los Estados Unidos.",
+      "popularity": 6.3456,
+      "poster_path": "/yFuOyhrC6ipT1tJwIUM9PFs1o77.jpg",
+      "release_date": "2018-11-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.136,
+      "vote_count": 4397
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vHd8RTXTGFwexUC2Mj1HOgSy9J3.jpg",
+      "genre_ids": [
+        28,
+        12,
+        37
+      ],
+      "id": 57201,
+      "title": "El Llanero Solitario",
+      "original_language": "en",
+      "original_title": "The Lone Ranger",
+      "overview": "Estamos ante una prometedora producción repleta de aventuras, no exentas de humor, en la que el popular cowboy enmascarado, que nació como un relato radiofónico, tomará un rostro y una apariencia renovada por completo. Tonto, es un nativo americano, curtido en mil batallas, que narra los increíbles relatos que convirtieron a John Reid, en el brazo ejecutor de la ley, toda una leyenda de los Estados Unidos. Esta insólita pareja se verá obligada a trabajar unida y a luchar contra la codicia y el crimen en una época en la que todavía prima la ley del más fuerte.",
+      "popularity": 6.1582,
+      "poster_path": "/d3CDpP25e1sDluuvEbgnhl1Ovte.jpg",
+      "release_date": "2013-07-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.123,
+      "vote_count": 6123
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sQNPWOTzl5kkZTW5ogSu0uSnreB.jpg",
+      "genre_ids": [
+        37,
+        12
+      ],
+      "id": 9086,
+      "title": "Intrépidos forajidos: Arma Joven II",
+      "original_language": "en",
+      "original_title": "Young Guns II",
+      "overview": "El legendario malhechor, Billy the Kid, y su pandilla se dirigen a la frontera mexicana, para escapar de Pat Garrett.",
+      "popularity": 6.1548,
+      "poster_path": "/cfZxNJiNepAV1Cy0P1b3RJohqkf.jpg",
+      "release_date": "1990-08-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.502,
+      "vote_count": 593
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg",
+      "genre_ids": [
+        37,
+        12,
+        80
+      ],
+      "id": 1195518,
+      "title": "Maldita trinidad",
+      "original_language": "en",
+      "original_title": "The Unholy Trinity",
+      "overview": "Los secretos enterrados de un pueblo de Montana en la década de 1870 provocan una oleada de violencia cuando un joven regresa para reclamar su legado y queda atrapado entre un sheriff decidido a mantener el orden y un misterioso extraño empeñado en destruirlo.",
+      "popularity": 5.8602,
+      "poster_path": "/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",
+      "release_date": "2025-06-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.293,
+      "vote_count": 191
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dC15RaDX4mmPB0omILrjTKMGy6W.jpg",
+      "genre_ids": [
+        53,
+        37
+      ],
+      "id": 1200320,
+      "title": "Miradas asesinas",
+      "original_language": "en",
+      "original_title": "Killing Faith",
+      "overview": "En 1849, una esclava recién liberada cree que su misteriosa hija caucásica está poseída porque todo lo que toca muere, y convence a un médico viudo para que las lleve en un viaje para encontrar a un sanador de fe que se encuentra en una zona remota.",
+      "popularity": 5.747,
+      "poster_path": "/jsejtb7ceAGtNxOJOF1lD6qPByr.jpg",
+      "release_date": "2025-10-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.317,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6s8BdbXyWf1SZJXupsepayLj3su.jpg",
+      "genre_ids": [
+        37,
+        80,
+        18
+      ],
+      "id": 338766,
+      "title": "Comanchería",
+      "original_language": "en",
+      "original_title": "Hell or High Water",
+      "overview": "Un padre divorciado y su hermano, un ex presidiario recién salido de la cárcel, se dirigen al Oeste de Texas con el objetivo realizar una serie de robos en una serie de sucursales bancarias, con el fin de poder conseguir el dinero suficiente como para poder salvar la granja familiar.",
+      "popularity": 5.7458,
+      "poster_path": "/rGihwoxhAjPrnrjpTPowuIOU3jy.jpg",
+      "release_date": "2016-08-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 4822
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/x4dH86KvLTGlIBMQb7kNTB0svy5.jpg",
+      "genre_ids": [
+        12,
+        28,
+        35,
+        37
+      ],
+      "id": 8584,
+      "title": "Shanghai Kid, del este al oeste",
+      "original_language": "en",
+      "original_title": "Shanghai Noon",
+      "overview": "Corre el año 1881 y Chon Wang (Jackie Chan) es un guardián del emperador chino. Cuando la princesa Pei Pei (Lucy Liu) es secuestrada y retenida en el oeste de Nevada en los Estados Unidos de América, él decide ir en su búsqueda junto con otros guardias imperiales. Una vez allí, se encuentra con una banda de pistoleros liderados por Roy O'Bannon (Owen Wilson), quien se muestra muy interesado por la princesa y en su recompensa, por lo cual decide ayudar a Chon en su ardua tarea de búsqueda.",
+      "popularity": 5.7223,
+      "poster_path": "/1HTFEi2aifnmNMWYb5amvyAG86z.jpg",
+      "release_date": "2000-05-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.414,
+      "vote_count": 2745
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vBSsIyWExRpe3Robi8SAnayrMq1.jpg",
+      "genre_ids": [
+        18,
+        37,
+        36,
+        12
+      ],
+      "id": 384680,
+      "title": "Hostiles",
+      "original_language": "en",
+      "original_title": "Hostiles",
+      "overview": "El legendario capitán del ejército Joseph J. Blocker se compromete para acompañar a un moribundo jefe de guerra Cheyenne y a su familia de regreso a las tierras de su tribu. Para ello tendrán que emprender un peligroso viaje por las praderas montañosas de Nuevo México, dónde se encontrarán con una joven viuda cuya familia fue asesinada en las llanuras por un grupo de comanches que aún rondan por la zona. Juntos, tendrán que unir fuerzas para sobrevivir al castigador paisaje y a las hostiles tribus Comanche que se encuentran por el camino.",
+      "popularity": 5.7202,
+      "poster_path": "/6FxhTzubzDdFE6ZyzbxgTwIyx7l.jpg",
+      "release_date": "2017-12-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 2486
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/orXMq2jZy8wFmePv7zXS2Kor7Ug.jpg",
+      "genre_ids": [
+        37,
+        27,
+        18
+      ],
+      "id": 294963,
+      "title": "Bone Tomahawk",
+      "original_language": "en",
+      "original_title": "Bone Tomahawk",
+      "overview": "A la localidad de Bright Hope llega un forastero que rápidamente despierta las sospechas del sheriff, que termina por arrestarlo tras dispararle en la pierna. Samantha O'Dwyer se encarga de extraerle la bala en el calabozo. Pero esa noche un joven en un establo es asesinado y el ayudante del sheriff, la Sra. O'Dwyer y el detenido han desaparecido. Siguiendo la única pista que tiene, una flecha india, el sheriff buscará a la joven con la ayuda de algunos hombres, entre ellos un vaquero y un anciano.",
+      "popularity": 5.7027,
+      "poster_path": "/rFAE4LhOsjevrhUmYoVtRLuy6I6.jpg",
+      "release_date": "2015-10-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.882,
+      "vote_count": 2506
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "id": 600583,
+      "title": "El poder del perro",
+      "original_language": "en",
+      "original_title": "The Power of the Dog",
+      "overview": "Los acaudalados hermanos Phil y George Burbank son las dos caras de la misma moneda. Phil es elegante, genial y cruel, mientras George es impasible, quisquilloso y amable. Juntos son copropietarios de un enorme rancho en Montana. Es un lugar donde la rápida modernización del siglo XX se mantiene y en el que la figura de Bronco Henry, el mayor cowboy que Phil ha conocido jamás, es venerado. Cuando George se casa en secreto con Rose, una viuda del pueblo, Phil, sorprendido y furioso, lleva a cabo una guerra sádica e implacable para destruirla por completo usando a su afeminado hijo, Peter, como peón.",
+      "popularity": 5.6654,
+      "poster_path": "/1l9aOf6vL01NAiljwDczv3YlwHN.jpg",
+      "release_date": "2021-10-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.742,
+      "vote_count": 2932
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wwdzmWC1Ra9SqPBrtCyRNJ4oYUO.jpg",
+      "genre_ids": [
+        37,
+        28,
+        18,
+        10749,
+        53
+      ],
+      "id": 12106,
+      "title": "Rápida y mortal",
+      "original_language": "en",
+      "original_title": "The Quick and the Dead",
+      "overview": "Ellen, una bella y misteriosa extranjera, llega a una pequeña ciudad del Oeste y se inscribe en una peligrosa competición en la que pistoleros procedentes de todas partes arriesgan sus vidas a cambio de fama y dinero. Los motivos de Ellen son muy distintos: quiere vengarse de Herod, un hombre sin escrúpulos que domina la ciudad, por el daño que le hizo a su familia en otros tiempos.",
+      "popularity": 5.5769,
+      "poster_path": "/lxu6zIY0Df8Wgr5HlqdlSvFuvVp.jpg",
+      "release_date": "1995-02-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 1928
+    }
+  ],
+  "total_pages": 502,
+  "total_results": 10035
+}

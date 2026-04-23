@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+  "belongs_to_collection": null,
+  "budget": 90000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animación"
+    },
+    {
+      "id": 35,
+      "name": "Comedia"
+    },
+    {
+      "id": 10751,
+      "name": "Familia"
+    }
+  ],
+  "homepage": "",
+  "id": 1297842,
+  "imdb_id": "tt27613895",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "GOAT",
+  "overview": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
+  "popularity": 132.4376,
+  "poster_path": "/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
+  "production_companies": [
+    {
+      "id": 2251,
+      "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+      "name": "Sony Pictures Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 120524,
+      "logo_path": "/6G31NBE33avSwnSw9OGiFhCOpkS.png",
+      "name": "Unanimous Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 184287,
+      "logo_path": "/yH5Zbs5SaOiXCazdQwrt00vK9Pj.png",
+      "name": "Modern Magic",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 79426,
+      "logo_path": "/8aEC7xem9YwHNCDojSFEPQgoFC3.png",
+      "name": "MACRO",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-11",
+  "revenue": 190327098,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nunca eres demasiado pequeño para soñar en grande.",
+  "title": "GOAT: Como cabras",
+  "video": false,
+  "vote_average": 7.909,
+  "vote_count": 424
+}

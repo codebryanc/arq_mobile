@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 53,
+      "name": "Suspense"
+    },
+    {
+      "id": 35,
+      "name": "Comedia"
+    }
+  ],
+  "homepage": "",
+  "id": 1198994,
+  "imdb_id": "tt8036976",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Send Help",
+  "overview": "Después de que un accidente de avión deje varados en una isla remota a una competente empleada y a su insoportable jefe, ella deberá utilizar sus habilidades de supervivencia para mantenerlos a ambos con vida, a pesar de su difícil relación.",
+  "popularity": 309.1211,
+  "poster_path": "/qXZZtyzuTX3KMfSLssCR6J0mODd.jpg",
+  "production_companies": [
+    {
+      "id": 122323,
+      "logo_path": "/gWiaDcDxt0AkSE9hxsUn5naFGRT.png",
+      "name": "Raimi Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 127928,
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-22",
+  "revenue": 94041481,
+  "runtime": 113,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Esta es Linda Liddle... Trabaja en estrategia y planificación... Ahora es la jefa.",
+  "title": "SEND HELP (Enviad ayuda)",
+  "video": false,
+  "vote_average": 7.041,
+  "vote_count": 1056
+}

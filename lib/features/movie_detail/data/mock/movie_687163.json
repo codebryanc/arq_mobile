@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+  "belongs_to_collection": null,
+  "budget": 200000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Ciencia ficción"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    }
+  ],
+  "homepage": "https://www.sonypictures.es/pelicula/proyecto-salvacion",
+  "id": 687163,
+  "imdb_id": "tt12042730",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Project Hail Mary",
+  "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+  "popularity": 213.1689,
+  "poster_path": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+  "production_companies": [
+    {
+      "id": 77973,
+      "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+      "name": "Lord Miller",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 84041,
+      "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+      "name": "Pascal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 232193,
+      "logo_path": null,
+      "name": "Open Invite Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 22842,
+      "logo_path": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
+      "name": "Waypoint Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-15",
+  "revenue": 573150314,
+  "runtime": 157,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Proyecto Salvación",
+  "video": false,
+  "vote_average": 8.224,
+  "vote_count": 1666
+}

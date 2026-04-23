@@ -1,0 +1,432 @@
+{
+  "page": 4,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/sBt6tZpyzgZxc7woBn6vhyHEX1u.jpg",
+      "genre_ids": [
+        35,
+        37,
+        28
+      ],
+      "id": 8388,
+      "title": "¡Tres amigos!",
+      "original_language": "en",
+      "original_title": "¡Three Amigos!",
+      "overview": "Tres actores de cine mudo y sin empleo, Dusty Bottoms (Chevy Chase), Lucky Day (Steve Martin) y Ned Nederlander (Martin Short), llegan por accidente a un pueblo mexicano que está siendo asolado por una banda de forajidos dirigida por \"El Guapo\" (Alfonso Arau). Pensando haber sido contratados para una actuación, los habitantes del pueblo creen que serán sus salvadores frente a los peligrosos delincuentes.",
+      "popularity": 4.763,
+      "poster_path": "/rwwOz8ACJcy9WK8Z7hFw0C6yaXb.jpg",
+      "release_date": "1986-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.318,
+      "vote_count": 1138
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xwXks2DPyscyo2hOkf9YOCMByfp.jpg",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "id": 3110,
+      "title": "Raíces profundas",
+      "original_language": "en",
+      "original_title": "Shane",
+      "overview": "Alabama, finales del siglo XIX. Shane, un hastiado pistolero, llega a la granja de los Starretts, un matrimonio con un hijo que, al igual que los demás campesinos del valle, se encuentra en graves dificultades, pues el poderoso ganadero Rufus Ryker pretende apoderarse de sus tierras. Cuando Ryker se entera de que Shane es un hábil pistolero, le propone que trabaje para él. Ante su negativa, contrata a Jack Wilson, un peligroso asesino a sueldo.",
+      "popularity": 4.7568,
+      "poster_path": "/goDI3aR3Yncm0dWs1OLyhZpmfoX.jpg",
+      "release_date": "1953-04-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 675
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+      "genre_ids": [
+        37,
+        35
+      ],
+      "id": 11072,
+      "title": "Sillas de montar calientes",
+      "original_language": "en",
+      "original_title": "Blazing Saddles",
+      "overview": "El avaricioso gobernador Lepetomane y su malvado ayudante Hedley Lamarr quieren que los habitantes de Rock Ridge abandonen la ciudad, para vender los terrenos a una compañía de ferrocarril. Para facilitar sus maquiavélicos planes, nombran sheriff a Bart, un negro condenado a la horca, para que fomente el desorden y la anarquía en la ciudad.",
+      "popularity": 4.7326,
+      "poster_path": "/kDvMQxOR91G3kwF6jEYqmg31Bjx.jpg",
+      "release_date": "1974-02-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.241,
+      "vote_count": 2055
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tbzWgnaqhFwN5mCIiwbgN5oiw0V.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        878,
+        37
+      ],
+      "id": 8487,
+      "title": "Wild Wild West",
+      "original_language": "en",
+      "original_title": "Wild Wild West",
+      "overview": "Jim West es un viejo héroe de la guerra de Secesión (1861-1865). Artemus Gordon es un imaginativo shériff que lo supera en el arte del disfraz. Cuando los Estados Unidos se ven amenazados por Arliss Loveless, un lunático confederado, el presidente Ulysses Grant encarga a esta excéntrica pareja que se ocupe de él. En un movido viaje desde Washington a Utah, nuestros héroes deberán enfrentarse a los diabólicos artilugios de Loveless.",
+      "popularity": 4.6885,
+      "poster_path": "/ouXYnBoBKZO8tiZrj2qK1c5308O.jpg",
+      "release_date": "1999-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.319,
+      "vote_count": 3557
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ctzKCslTsMRsOJNvAm1Mw8ytiHY.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        18,
+        37
+      ],
+      "id": 9359,
+      "title": "Maverick",
+      "original_language": "en",
+      "original_title": "Maverick",
+      "overview": "Bret Maverick es un atractivo timador con una extraordinaria facilidad para escabullirse de los enredos que él mismo provoca. Sólo una persona es capaz de perturbarle: Annabelle, una habilidosa jugadora de póquer que se cruza en su camino.",
+      "popularity": 4.6786,
+      "poster_path": "/8NT1BRwKbm6qeG24SwRI1Em7ave.jpg",
+      "release_date": "1994-05-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.894,
+      "vote_count": 1749
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qkymqmJW6IdZBIRWD66Ns4HHGJq.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        37
+      ],
+      "id": 506281,
+      "title": "El mundo que viene",
+      "original_language": "en",
+      "original_title": "The World to Come",
+      "overview": "En algún lugar a lo largo de la frontera de la costa este estadounidense de mediados del siglo XIX, dos parejas vecinas luchan contra las dificultades y el aislamiento, en un entorno que les desafía tanto física como psicológicamente. En el norte del estado de Nueva York, en la década de 1850, Abigail comienza un nuevo año en la granja rural donde vive con su marido Dyer. Llega la primavera y Abigail conoce a Tallie, una recién llegada emocionalmente sincera y fascinantemente bella que alquila una granja vecina con su marido, Finney. Las dos entablan una relación incierta, y así llenan un vacío en sus vidas que ninguna sabía que existía.",
+      "popularity": 4.6143,
+      "poster_path": "/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg",
+      "release_date": "2021-02-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.99,
+      "vote_count": 393
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Qf6lzJFhNiRVQrS2N05PQbInmY.jpg",
+      "genre_ids": [
+        12,
+        18,
+        10749,
+        37
+      ],
+      "id": 11259,
+      "title": "Un horizonte muy lejano",
+      "original_language": "en",
+      "original_title": "Far and Away",
+      "overview": "A comienzos del siglo XX, Joseph y sus dos hermanos malviven del cultivo de unas tierras que son propiedad, como toda la comarca, del poderoso señor Christie. Cuando el padre de Joseph muere en un accidente provocado por los hombres de Christie, el joven decide vengarse, pero no lo consigue. Poco después, para evitar un duelo, emigra a América, y en el barco coincide con Shannon, la bella hija de Christie. Nada más llegar a los Estados Unidos, a Shannon le roban todo su dinero; entonces Joseph decide protegerla haciéndola pasar por su hermana.",
+      "popularity": 4.5964,
+      "poster_path": "/apO0fuyIGqIBqcOqSaYF9AvT5bR.jpg",
+      "release_date": "1992-05-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1289
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sm3ErHMXQLaNdo74vbIa1JRXIXS.jpg",
+      "genre_ids": [
+        18,
+        37,
+        10749
+      ],
+      "id": 1712,
+      "title": "Gigante",
+      "original_language": "en",
+      "original_title": "Giant",
+      "overview": "Jordan \"Bick\" Benedict, un joven terrateniente, llega a su inmenso rancho de Texas con su flamante esposa Leslie Benedict, una rica y bella muchacha del Este. No tardan mucho en descubrir que pertenecen a mundos radicalmente opuestos y que los separa un abismo. Jett Rink es un arrogante y joven empleado de los Benedict que tiene la suerte de encontrar petróleo en unas tierras que le ha dejado en su testamento Luz, la hermana de Jordan; pero, a pesar de su inmensa fortuna, no consigue lo que realmente le importa: Leslie.",
+      "popularity": 4.5905,
+      "poster_path": "/oruoMYVned5WVdd5uRBXIuRcE1B.jpg",
+      "release_date": "1956-11-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 745
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Nhn88ZaR8txXSLptWMBgWm3QnJ.jpg",
+      "genre_ids": [
+        37,
+        18,
+        28,
+        12
+      ],
+      "id": 12160,
+      "title": "Wyatt Earp",
+      "original_language": "en",
+      "original_title": "Wyatt Earp",
+      "overview": "Wyatt Earp es miembro de un familia de granjeros de Iowa que, al no prosperar su negocio, deciden participar en la Conquista del Oeste. En los nuevos estados que ya forman parte de los Estados Unidos reina la anarquía, por lo que Wyatt Earp decide hacerse agente de la ley, con todos los riesgos que comporta. Pronto hará amistad con Doc Holliday, un personaje mítico con un pasado que le precede y que le ayudará en unos momentos muy especiales.",
+      "popularity": 4.4689,
+      "poster_path": "/7gkewU8uomZPnMItpg2n0g72ZTD.jpg",
+      "release_date": "1994-06-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.773,
+      "vote_count": 921
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/15D770lMpkZQdjkMW8X3neESedE.jpg",
+      "genre_ids": [
+        37,
+        18,
+        9648
+      ],
+      "id": 11901,
+      "title": "Infierno de cobardes",
+      "original_language": "en",
+      "original_title": "High Plains Drifter",
+      "overview": "En 1870 un Forastero pasa a caballo ante la tumba de un antiguo Sheriff, Jim Duncan, en la ciudad fronteriza de Lago en el Sudoeste de Estados Unidos. Los propietarios de la compañía minera de Lago, Dave Drake y Morgan Allen obtienen el apoyo de los vecinos de la pequeña ciudad para contratar al Forastero. Debe proteger a la comunidad contra tres pistoleros, cuya llegada se hace inminente al haber sido liberados tras cumplir condena por acusaciones falsas de la compañía minera Drake-Allen. El Forastero acepta el contrato a condición de llevarlo a cabo con los tres forajidos y, entre otras cosas, pide que pinten el pueblo entero de color rojo vivo y que le cambien el nombre y pasa a llamarse \"Infierno\".",
+      "popularity": 4.4649,
+      "poster_path": "/wjDXOhds3c0is5gGkBpxy0EjuI6.jpg",
+      "release_date": "1973-04-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.312,
+      "vote_count": 1321
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aB32C9FLuZXEATtFHvlbhARTDbi.jpg",
+      "genre_ids": [
+        37,
+        28,
+        18
+      ],
+      "id": 710258,
+      "title": "Dos forajidos",
+      "original_language": "en",
+      "original_title": "Rust",
+      "overview": "Harland Rust tiene la mala reputación de fuera de la ley despiadado, con precio por su cabeza. Cuando se entera de que su nieto de trece años ha sido condenado a la horca por un supuesto asesinato, decide viajar a Kansas. Después de un violento enfrentamiento, Rust consigue sacarlo de la prisión y huir hacia la frontera. Rust y su nieto tendrán que unir sus fuerzas para escapar del legendario alguacil Wood Helm y de un infame cazarrecompensas.",
+      "popularity": 4.4485,
+      "poster_path": "/gXal8mHwlUwtaEfLwADC9rtvv1k.jpg",
+      "release_date": "2025-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 154
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AoXqOWzD0HGZttYi0wHMvvGJZhZ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        37
+      ],
+      "id": 6038,
+      "title": "Los rebeldes de Shanghai",
+      "original_language": "en",
+      "original_title": "Shanghai Knights",
+      "overview": "Secuela de las aventuras vividas en el salvaje oeste por la peculiar pareja formada por Chon Wang (Jackie Chan) y Roy O'Bannon (Owen Wilson). Corre el año 1887 cuando un chino rebelde asesina al padre de Chong y escapa a Inglaterra, Chon y Roy se encaminan a Londres en busca de venganza. Mientras, la hermana de Chon, que también quiere vengarse, tropieza con lo que parece ser una conspiración contra la familia real.",
+      "popularity": 4.4341,
+      "poster_path": "/ltJ75DrYs3PppNFJufjHGVzH1mf.jpg",
+      "release_date": "2003-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 2421
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v0DsJiF7LAeJtqFObQfq3eU6rag.jpg",
+      "genre_ids": [
+        18,
+        37,
+        36
+      ],
+      "id": 10935,
+      "title": "La puerta del cielo",
+      "original_language": "en",
+      "original_title": "Heaven's Gate",
+      "overview": "En el verano de 1870, Averill e Irvine terminan sus estudios en la Universidad de Harvard. Veinte años después, viven en circunstancias muy distintas. Averill, más serio y visiblemente más viejo, se ha convertido en un \"marshall\" federal. Por su parte, Irvine, destruido y arruinado por la bebida, pero todavía en su sano juicio, es miembro de la asociación Stock Growers Agricultores, que está involucrada en un conflicto.",
+      "popularity": 4.4189,
+      "poster_path": "/uDBkPS7hCWFdvKRadUn7QvbX1EN.jpg",
+      "release_date": "1980-11-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.751,
+      "vote_count": 404
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+      "genre_ids": [
+        12,
+        37,
+        80,
+        18,
+        36
+      ],
+      "id": 642,
+      "title": "Dos hombres y un destino",
+      "original_language": "en",
+      "original_title": "Butch Cassidy and the Sundance Kid",
+      "overview": "Un grupo de jóvenes pistoleros se dedica a asaltar los bancos del estado de Wyoming y el tren-correo de la Union Pacific. El jefe de la banda es el carismático Butch Cassidy, y Sundance Kid es su inseparable compañero. Un día, después de un atraco, el grupo se disuelve. Será entonces cuando Butch, Sundance y una joven maestra de Denver formen un trío de románticos forajidos que, huyendo de la ley, llegan hasta Bolivia.",
+      "popularity": 4.3947,
+      "poster_path": "/2w6Ik8P1E20KOH5ykQlfTjawAIf.jpg",
+      "release_date": "1969-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.611,
+      "vote_count": 2441
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3m7252MFY0YkOrr7SmnPEhuSha6.jpg",
+      "genre_ids": [
+        37,
+        80,
+        53
+      ],
+      "id": 395817,
+      "title": "The Thicket",
+      "original_language": "en",
+      "original_title": "The Thicket",
+      "overview": "Peter Dinklage protagoniza este violento wéstern de venganza, ambientado en la Era del Petróleo en Texas a principios del siglo XX. En un mundo de pozos petrolíferos, sangre y redención, interpreta a un cazarrecompensas elocuente y resentido que ayuda a un joven a rescatar a su hermana, secuestrada por un ladrón de bancos. Con un reparto destacado, dirigido por Elliott Lester, la película combina acción, drama y una ambientación cruda e implacable.",
+      "popularity": 4.3586,
+      "poster_path": "/8VzpKL8v5vFQsf00CKJ0dTfimJ8.jpg",
+      "release_date": "2024-09-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.425,
+      "vote_count": 161
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1lp39afLVrgLpMDCB2FT87Z3Scd.jpg",
+      "genre_ids": [
+        80,
+        28,
+        37,
+        18
+      ],
+      "id": 9333,
+      "title": "El último hombre",
+      "original_language": "en",
+      "original_title": "Last Man Standing",
+      "overview": "John Smith es un pistolero sin moral que llega a un pueblo de Texas en la época de la prohibición. El pueblo vive en un ambiente sórdido en el que dos bandas rivales se apoderan del pueblo. Smith descubre entonces en él un peculiar sentido del honor.",
+      "popularity": 4.34,
+      "poster_path": "/lMzXEtP0kSwxeo3AfUfGkb2Ykia.jpg",
+      "release_date": "1996-09-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.36,
+      "vote_count": 973
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/57dG6BzU2RcPtLgoA3oyHUIb2rI.jpg",
+      "genre_ids": [
+        18,
+        37,
+        12
+      ],
+      "id": 581032,
+      "title": "Noticias del gran mundo",
+      "original_language": "en",
+      "original_title": "News of the World",
+      "overview": "Cinco años después del fin de la Guerra Civil estadounidense, el capitán Jefferson Kyle Kidd, veterano no de una, sino de tres guerras, va de ciudad en ciudad narrando noticias, hablando de presidentes y reinas, de luchas gloriosas, devastadoras catástrofes y apasionantes aventuras que tienen lugar en cualquier rincón del mundo. Un día, en las llanuras de Texas, el capitán conoce a Johanna, una niña de diez años que fue secuestrada seis años atrás por la tribu Kiowa, y que durante este tiempo fue educada como uno de ellos. Johanna, en contra de su voluntad, debe irse a vivir a casa de sus tíos, un lugar hostil y desconocido para ella. El capitán Kidd acepta entregar a la niña a sus tutores legales. En el viaje, ambos recorrerán cientos de kilómetros a través de una inhóspita naturaleza, y deberán enfrentarse a enormes dificultades, humanas y naturales, en búsqueda de un lugar al que puedan llamar “hogar”.",
+      "popularity": 4.3396,
+      "poster_path": "/8ZKTXjgIVZQ20w70jdJ9WV3A2OP.jpg",
+      "release_date": "2020-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.93,
+      "vote_count": 1926
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f8H7cPsumy03oDaztaClookBf0z.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 39287,
+      "title": "Hacia los grandes horizontes",
+      "original_language": "en",
+      "original_title": "Stagecoach",
+      "overview": "A pesar de que los sioux de Caballo Loco están en pie de guerra, una diligencia parte para Cheyenne. Durante el largo y duro viaje, se producirán tensiones de todo tipo entre los variopintos pasajeros, pero tanto ellos como el conductor, a quien acompaña el sheriff, deberán olvidar sus diferencias para defenderse de un ataque de los indios. Remake en Cinemascope del famoso filme de John Ford \"La diligencia\" (Stagecoach) protagonizada por John Wayne, en 1939.",
+      "popularity": 4.3376,
+      "poster_path": "/cSPxJNU93DpEzS1IHayJjURzi2Z.jpg",
+      "release_date": "1966-04-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 47
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gec3e76TRGUBx1Ut0c6yuSahVDp.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        37
+      ],
+      "id": 15067,
+      "title": "El bueno, el malo y el raro",
+      "original_language": "ko",
+      "original_title": "좋은 놈, 나쁜 놈, 이상한 놈",
+      "overview": "En la convulsa Manchuria de los años 30, el mapa de un tesoro va a poner tras su pista a chinos, japoneses y coreanos y va a enfrentar en duelo a tres bandas a un cazarecompesas (el bueno), un asesino a sueldo aficionado a cortar dedos (el malo) y un inclasificable bandido (el raro). Homenaje con sabor kimchi a una de las obras capitales de Sergio Leone, The Good, the Bad, the Weird es ante todo una colosal aventura, una fiesta para los ojos que arranca con el espectacular asalto a un tren y alcanza el éxtasis en el desierto de Gobi, entre cañonazos y galope de caballos.",
+      "popularity": 4.3225,
+      "poster_path": "/qSR0IDi5UXbDetpD0pxlyYDaCBQ.jpg",
+      "release_date": "2008-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.163,
+      "vote_count": 802
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rhwGCD3AosYcPK7rTFHmL4NdrP1.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 6644,
+      "title": "El Dorado",
+      "original_language": "en",
+      "original_title": "El Dorado",
+      "overview": "Cole Thornton, un pistolero a sueldo, une fuerzas con un viejo amigo, el sheriff JP Hara. Junto con un viejo luchador indio y jugador, ayudan a un ranchero y su familia luchar contra un ranchero rival que está tratando de robar su agua.",
+      "popularity": 4.319,
+      "poster_path": "/gCA1Zb1Kw1Zo6wSodCIlZPVfwpo.jpg",
+      "release_date": "1966-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 576
+    }
+  ],
+  "total_pages": 502,
+  "total_results": 10035
+}

@@ -1,0 +1,423 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xcBlMEvzuaHoWANKYn5PGvcW4OC.jpg",
+      "genre_ids": [
+        27,
+        28,
+        53
+      ],
+      "id": 1110034,
+      "title": "Kraken",
+      "original_language": "no",
+      "original_title": "Kraken",
+      "overview": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales muertes de dos adolescentes de la localidad, todos los indicios apuntan al profundo fiordo. ¿Puede haber más en las profundidades de lo que el ojo puede ver? En el fondo del fiordo más profundo de Noruega descansa un monstruo mítico tan grande como una montaña, con una miríada de brazos dispuestos a aplastar y devorar todo lo que puedan agarrar.",
+      "popularity": 43.3809,
+      "poster_path": "/8ExwomWgJoXBdY3u1Otiw2zY9wZ.jpg",
+      "release_date": "2026-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 425274,
+      "title": "Ahora me ves 3",
+      "original_language": "en",
+      "original_title": "Now You See Me: Now You Don't",
+      "overview": "Los Cuatro Jinetes regresan junto a una nueva generación de ilusionistas en una extraordinaria aventura que contiene giros asombrosos, sorpresas alucinantes y trucos de magia nunca vistos en la gran pantalla.",
+      "popularity": 43.0964,
+      "poster_path": "/Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg",
+      "release_date": "2025-11-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.506,
+      "vote_count": 1397
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/po1niVuud0tX86xOFegO5omQ2wX.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53,
+        80
+      ],
+      "id": 1236153,
+      "title": "Sin piedad",
+      "original_language": "en",
+      "original_title": "Mercy",
+      "overview": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
+      "popularity": 41.9953,
+      "poster_path": "/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
+      "release_date": "2026-01-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.969,
+      "vote_count": 1145
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fyv3Cmsdq4pfiKU6M3azRATwBBU.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1088434,
+      "title": "Hellfire",
+      "original_language": "en",
+      "original_title": "Hellfire",
+      "overview": "Un hombre solitario llega a un pequeño pueblo y descubre que sus habitantes viven bajo el control de un líder cruel, así que decide intervenir para intentar liberarlos.",
+      "popularity": 41.6475,
+      "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "release_date": "2026-02-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 73
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        53
+      ],
+      "id": 1010581,
+      "title": "Culpa mía",
+      "original_language": "es",
+      "original_title": "Culpa mía",
+      "overview": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión de William Leister, el flamante y rico marido de su madre Rafaela. Por otro lado, con 17 años, orgullosa e independiente, Noah se resiste a vivir en una mansión rodeada de lujo. Allí conoce a Nick, su nuevo hermanastro, y el choque de sus fuertes personalidades se hace evidente desde el primer momento.",
+      "popularity": 40.1905,
+      "poster_path": "/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
+      "release_date": "2023-06-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.747,
+      "vote_count": 4033
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cfDHxkco8RrslL0Vk2XPTwTVFCe.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1472951,
+      "title": "Infiltrate",
+      "original_language": "en",
+      "original_title": "Infiltrate",
+      "overview": "En una ciudad invadida por el crimen, la agente del gobierno Lily Chen se ve obligada a elegir entre su deber y su familia cuando secuestran a su marido y la chantajean para que asesine a criminales de alto nivel para salvarlo. A medida que se adentra en el submundo criminal, la implacable búsqueda de justicia de Lily desenmaraña una red de corrupción que la llevará a tomar una decisión final que cambiará su mundo para siempre.",
+      "popularity": 37.3442,
+      "poster_path": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+      "release_date": "2026-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.35,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1306368,
+      "title": "El botín",
+      "original_language": "en",
+      "original_title": "The Rip",
+      "overview": "El descubrimiento de varios millones de dólares en efectivo en un zulo abandonado de Miami quiebra la confianza de un grupo de policías. Ahora, todo y todos están bajo sospecha.",
+      "popularity": 37.1037,
+      "poster_path": "/55C5loKFkw7Cj0nMLWux4FJCRHI.jpg",
+      "release_date": "2026-01-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.052,
+      "vote_count": 1524
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6xVAbjvUWKJlPSVYduQgkRzEQNy.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 1424965,
+      "title": "Infierno bajo cero",
+      "original_language": "en",
+      "original_title": "Ice Skater",
+      "overview": "Atrapada en una placa de hielo a la deriva en el Ártico, una patinadora artística lucha por sobrevivir mientras el hielo se fragmenta y la arrastra hacia aguas abiertas. Sin posibilidad de rescate, cada minuto es una batalla contra el frío extremo, el hambre y el agotamiento.",
+      "popularity": 35.581,
+      "poster_path": "/dQyyx00wZSiJlJEAT0oIo9NZVjn.jpg",
+      "release_date": "2026-02-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.447,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "id": 680,
+      "title": "Pulp Fiction",
+      "original_language": "en",
+      "original_title": "Pulp Fiction",
+      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "popularity": 33.3248,
+      "poster_path": "/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "release_date": "1994-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.485,
+      "vote_count": 30030
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1339876,
+      "title": "La mujer policia 3",
+      "original_language": "hi",
+      "original_title": "मर्दानी 3",
+      "overview": "Es una carrera contra el tiempo y no habrá piedad. Shivani Shivaji Roy regresa para rescatar a las chicas que desaparecen sin dejar rastro.",
+      "popularity": 33.3041,
+      "poster_path": "/o9aV83ZxGafGseLK8us9QNKKWzG.jpg",
+      "release_date": "2026-01-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 155,
+      "title": "El caballero oscuro",
+      "original_language": "en",
+      "original_title": "The Dark Knight",
+      "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+      "popularity": 32.0855,
+      "poster_path": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "release_date": "2008-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.528,
+      "vote_count": 35538
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 1387382,
+      "title": "Hunting Season",
+      "original_language": "en",
+      "original_title": "Hunting Season",
+      "overview": "Cuando una misteriosa joven aparece en la orilla de un río local, tanto la niña de doce años que la descubre como su sobreprotector padre cambian para siempre con la llegada de esta extraña a su hogar. Mientras, un despiadado capo de la droga no se detendrá ante nada para matarla de una vez por todas.",
+      "popularity": 31.7675,
+      "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+      "release_date": "2025-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.896,
+      "vote_count": 188
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1582770,
+      "title": "Dhurandhar The Revenge",
+      "original_language": "hi",
+      "original_title": "धुरंधर: द रिवेंज",
+      "overview": "Hamza Ali Mazari, cuya verdadera identidad es Jaskirat Singh Rangi, continúa su operación encubierta en el mundo criminal de Pakistán mientras rastrea a Majo.",
+      "popularity": 31.4561,
+      "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "release_date": "2026-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.697,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18
+      ],
+      "id": 496243,
+      "title": "Parásitos",
+      "original_language": "ko",
+      "original_title": "기생충",
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "popularity": 31.3543,
+      "poster_path": "/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "release_date": "2019-05-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.494,
+      "vote_count": 20458
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "genre_ids": [
+        27,
+        28,
+        53
+      ],
+      "id": 1233413,
+      "title": "Los pecadores",
+      "original_language": "en",
+      "original_title": "Sinners",
+      "overview": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+      "popularity": 29.8675,
+      "poster_path": "/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
+      "release_date": "2025-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.468,
+      "vote_count": 4361
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "genre_ids": [
+        10749,
+        878,
+        53
+      ],
+      "id": 950396,
+      "title": "El abismo secreto",
+      "original_language": "en",
+      "original_title": "The Gorge",
+      "overview": "Mandan a dos operativos de élite a vigilar lados opuestos de un misterioso abismo y allí intiman desde la distancia, pero deberán aunar fuerzas para sobrevivir al mal que esconde el abismo.",
+      "popularity": 28.7799,
+      "poster_path": "/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
+      "release_date": "2025-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.617,
+      "vote_count": 3599
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 550,
+      "title": "El club de la lucha",
+      "original_language": "en",
+      "original_title": "Fight Club",
+      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "popularity": 27.8583,
+      "poster_path": "/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "release_date": "1999-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.438,
+      "vote_count": 31839
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Mq428bLVcBixhsKP4dAyEL1Ycu.jpg",
+      "genre_ids": [
+        35,
+        80,
+        9648,
+        53
+      ],
+      "id": 5236,
+      "title": "Kiss Kiss Bang Bang",
+      "original_language": "en",
+      "original_title": "Kiss Kiss Bang Bang",
+      "overview": "Harry Lockhart es en esencia un tipo decente. Es cierto que es un ladrón de poca monta, pero quiere hacer lo correcto. La eterna mala suerte de Harry empieza a mejorar cuando él y su socio están haciendo algunas \"compras\" navideñas fuera de horas en una tienda de juguetes de Nueva York y la alarma de seguridad acaba con la fiesta. En su frenética huída de la policía, Harry se ve metido sin querer en una audición para una película de detectives de Hollywood y, en un abrir y cerrar de ojos, el productor lo lleva en avión a Los Angeles para hacerle una prueba.",
+      "popularity": 26.9702,
+      "poster_path": "/yMAoom93EhCzp39vG59ka42hGIk.jpg",
+      "release_date": "2005-09-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 2983
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hiazLNa1UXuX35OTnMQRKOx3eTk.jpg",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "id": 1054867,
+      "title": "Una batalla tras otra",
+      "original_language": "en",
+      "original_title": "One Battle After Another",
+      "overview": "Un ex revolucionario, tras años apartado de la lucha, se ve obligado a volver a la acción para enfrentar a viejos enemigos en un ambiente cargado de tensión política, racismo y violencia militar... Adaptación modernizada de la novela 'Vineland', de Thomas Pynchon (1990), sobre los movimientos radicales de los años sesenta.",
+      "popularity": 26.6688,
+      "poster_path": "/iZ1499F6hYxDxiqioy8oSUaxipG.jpg",
+      "release_date": "2025-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.368,
+      "vote_count": 3525
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4SKnHRIHv9SpsR1v45T7Los719O.jpg",
+      "genre_ids": [
+        35,
+        53
+      ],
+      "id": 467905,
+      "title": "Jugada Maestra",
+      "original_language": "en",
+      "original_title": "How to Make a Killing",
+      "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
+      "popularity": 26.1197,
+      "poster_path": "/wpAt80FtHAQySEC8SwsDGhFp8MF.jpg",
+      "release_date": "2026-02-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.956,
+      "vote_count": 295
+    }
+  ],
+  "total_pages": 2958,
+  "total_results": 59146
+}

@@ -1,0 +1,424 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1315303,
+      "title": "Primate",
+      "original_language": "en",
+      "original_title": "Primate",
+      "overview": "Lucy, una estudiante universitaria, pasa las vacaciones con sus amigos en la casa de su familia en Hawái, donde vive con su mascota, un chimpancé llamado Ben. Sin embargo, cuando Ben contrae rabia tras ser mordido por un animal rabioso, el grupo debe luchar por su vida para evitar al ahora violento chimpancé.",
+      "popularity": 25.8706,
+      "poster_path": "/cyqEghDphEUunLfongtpmROjpID.jpg",
+      "release_date": "2026-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.455,
+      "vote_count": 575
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 798645,
+      "title": "The Running Man",
+      "original_language": "en",
+      "original_title": "The Running Man",
+      "overview": "En una América distópica en el año 2025, Ben Richards participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma.",
+      "popularity": 25.6366,
+      "poster_path": "/iw4akkBscNvCLJZIbMT3PTc7csP.jpg",
+      "release_date": "2025-11-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1404
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 807,
+      "title": "Seven",
+      "original_language": "en",
+      "original_title": "Se7en",
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "popularity": 25.0927,
+      "poster_path": "/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "release_date": "1995-09-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 22927
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1228246,
+      "title": "Five Nights at Freddy's 2",
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "Un año después de la pesadilla sobrenatural en Freddy Fazbear's Pizza, las historias sobre lo ocurrido allí se han convertido en una leyenda local extravagante, inspirando el primer Fazfest del pueblo. Con la verdad oculta, Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy, desencadenando una serie de eventos aterradores que revelarán oscuros secretos sobre el verdadero origen de Freddy's y desatarán un horror oculto durante décadas.",
+      "popularity": 24.7257,
+      "poster_path": "/egHOFSRXrAaugFUD7VMEnXlTnzJ.jpg",
+      "release_date": "2025-12-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.661,
+      "vote_count": 884
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9NyHabsIT6aVdLKw7ZYsBn7Vw6R.jpg",
+      "genre_ids": [
+        10749,
+        53
+      ],
+      "id": 1620996,
+      "title": "La caja azul",
+      "original_language": "es",
+      "original_title": "La caja azul",
+      "overview": "Pablo, un joven millonario solitario que vive en la Patagonia, sigue perseguido por un trágico accidente automovilístico que le cambió la vida. Su rutina aislada comienza a cambiar cuando conoce a Lara a través de una aplicación de citas centrada en una premisa peculiar: el intercambio de un objeto misterioso conocido como «la caja azul». A medida que su conexión se profundiza, Lara saca gradualmente a Pablo de su soledad autoimpuesta. Sin embargo, una advertencia anónima pronto plantea interrogantes inquietantes sobre su identidad y sus verdaderas intenciones. Lo que comienza como una relación íntima se convierte rápidamente en un tenso juego psicológico de manipulación y sospecha",
+      "popularity": 23.8903,
+      "poster_path": "/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg",
+      "release_date": "2026-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uQmr1eJvNwa7mCd3rXEXquA6Z3c.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1383731,
+      "title": "Protector",
+      "original_language": "en",
+      "original_title": "Protector",
+      "overview": "La vida pacífica de Nikki, una exheroína de guerra, se ve destrozada cuando su hija es secuestrada. Inmersa en el submundo criminal mientras es perseguida por policías y militares, debe luchar para rescatar a su hija.",
+      "popularity": 23.4391,
+      "poster_path": "/Awvlydvag364audeksfRFldVslq.jpg",
+      "release_date": "2026-02-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wbQa0EnWUyRzQ5d1pHLNRlmsCUP.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        53
+      ],
+      "id": 244786,
+      "title": "Whiplash",
+      "original_language": "en",
+      "original_title": "Whiplash",
+      "overview": "El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un profesor conocido tanto por su talento como por sus rigurosos métodos de enseñanza, dirige el mejor conjunto de jazz del Conservatorio. Cuando Fletcher elige a Andrew y para formar parte del conjunto musical que dirige, cambia para siempre la vida del joven. La pasión de Andrew por alcanzar la perfección se convierte en obsesión, al tiempo que su despiadado profesor lo lleva al límite de su capacidad y de su salud mental.",
+      "popularity": 22.2885,
+      "poster_path": "/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
+      "release_date": "2014-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.375,
+      "vote_count": 16510
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+      "genre_ids": [
+        28,
+        53,
+        12
+      ],
+      "id": 575265,
+      "title": "Misión: Imposible - Sentencia final",
+      "original_language": "en",
+      "original_title": "Mission: Impossible - The Final Reckoning",
+      "overview": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\".",
+      "popularity": 22.2402,
+      "poster_path": "/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg",
+      "release_date": "2025-05-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.161,
+      "vote_count": 2722
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1197306,
+      "title": "A Working Man",
+      "original_language": "en",
+      "original_title": "A Working Man",
+      "overview": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
+      "popularity": 22.1128,
+      "poster_path": "/eLBWBW4hariYCgTS5BL1tpMAYiG.jpg",
+      "release_date": "2025-03-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.68,
+      "vote_count": 1854
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uorMP2U1F0AfogYMz4lYu2EbgYo.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        878
+      ],
+      "id": 524047,
+      "title": "Greenland: El último refugio",
+      "original_language": "en",
+      "original_title": "Greenland",
+      "overview": "Cuando el mundo es consciente de que el asteroide más grande de la historia va a impactar en la Tierra y aniquilar todo rastro de vida, los gobiernos de todo el mundo realizan un sorteo en el cual los afortunados podrán sobrevivir en refugios secretos. Esta decisión desata un caos a nivel mundial. Muchos tendrán que emprender un peligroso viaje donde se enfrentarán a los más imponentes peligros de la naturaleza, lo que les obligará a encontrar la manera de mantenerse unidos mientras encuentran la forma de sobrevivir.",
+      "popularity": 21.9048,
+      "poster_path": "/9iFkwShRf5M29yLABAdsEZyr9w6.jpg",
+      "release_date": "2020-07-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.125,
+      "vote_count": 5219
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        53
+      ],
+      "id": 216015,
+      "title": "Cincuenta sombras de Grey",
+      "original_language": "en",
+      "original_title": "Fifty Shades of Grey",
+      "overview": "Cuando la estudiante de Literatura Anastasia Steele recibe el encargo de entrevistar al exitoso y joven empresario Christian Grey, queda impresionada al encontrarse ante un hombre atractivo, seductor y también muy intimidante. La inexperta e inocente Ana intenta olvidarle, pero pronto comprende cuánto le desea. Cuando la pareja por fin inicia una apasionada relación, Ana se sorprende por las peculiares prácticas eróticas de Grey, al tiempo que descubre los límites de sus propios y más oscuros deseos.",
+      "popularity": 21.8832,
+      "poster_path": "/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
+      "release_date": "2015-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.87,
+      "vote_count": 12339
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1448560,
+      "title": "Wildcat: Misión Rescate",
+      "original_language": "en",
+      "original_title": "Wildcat",
+      "overview": "Londres, hoy. Kate Beckinsale es Ada Williams, una exoperativa de fuerzas especiales que dejó la violencia por su hija. Cuando una deuda criminal provoca el secuestro de la niña, Ada solo tiene una noche para salvarla. Con la ciudad sumida en el caos, reúne a su antiguo equipo y se adentra en el inframundo londinense en una carrera contrarreloj donde cada decisión puede ser mortal.",
+      "popularity": 21.6036,
+      "poster_path": "/2eQspDQBLDTvDOQtmErmi6uIi2.jpg",
+      "release_date": "2025-11-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.189,
+      "vote_count": 151
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1291608,
+      "title": "धुरंधर",
+      "original_language": "hi",
+      "original_title": "धुरंधर",
+      "overview": "",
+      "popularity": 21.5799,
+      "poster_path": "/kOLkpkS2T4HAdA6J7uq4eipNTup.jpg",
+      "release_date": "2025-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.074,
+      "vote_count": 257
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1yktYsxkmUtUFTUnCAUaqG6FEiz.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 541671,
+      "title": "Ballerina",
+      "original_language": "en",
+      "original_title": "Ballerina",
+      "overview": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado.",
+      "popularity": 20.8568,
+      "poster_path": "/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+      "release_date": "2025-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 2505
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 866398,
+      "title": "Beekeeper: El protector",
+      "original_language": "en",
+      "original_title": "The Beekeeper",
+      "overview": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
+      "popularity": 20.4868,
+      "poster_path": "/gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg",
+      "release_date": "2024-01-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.242,
+      "vote_count": 4129
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/impZCV9HiZ3bIrKK5bD1TKRsfVM.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1297454,
+      "title": "The Death That Awaits",
+      "original_language": "en",
+      "original_title": "The Death That Awaits",
+      "overview": "",
+      "popularity": 20.2718,
+      "poster_path": "/7hloUkIXB1Jc0xjSFlO4dcVfzdt.jpg",
+      "release_date": "2025-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.25,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg",
+      "genre_ids": [
+        28,
+        27,
+        878,
+        53
+      ],
+      "id": 72190,
+      "title": "Guerra Mundial Z",
+      "original_language": "en",
+      "original_title": "World War Z",
+      "overview": "Cuando el mundo comienza a ser invadido por una legión de muertos vivientes, Gerry Lane, un experto investigador de las Naciones Unidas, intentará evitar el fin de la civilización en una carrera contra el tiempo y el destino. La destrucción a la que se ve sometida la raza humana lo lleva a recorrer el mundo entero buscando la solución para frenar esa horrible epidemia.",
+      "popularity": 20.2317,
+      "poster_path": "/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
+      "release_date": "2013-06-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.825,
+      "vote_count": 16420
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/99W7BptqslScAyupDqg9NADLhh1.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1242332,
+      "title": "Normal",
+      "original_language": "en",
+      "original_title": "Normal",
+      "overview": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+      "popularity": 20.0389,
+      "poster_path": "/nVIOGKbUdRxud0EXYJDMGCGcYbo.jpg",
+      "release_date": "2026-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.262,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3pu0Opw5DZbYgLGpmf4yw5XolsA.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 1397937,
+      "title": "NN4444",
+      "original_language": "ja",
+      "original_title": "NN4444",
+      "overview": "",
+      "popularity": 19.9248,
+      "poster_path": "/lXal7UQkg9sNYcPj9uCEnjqkGle.jpg",
+      "release_date": "2024-02-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
+      "genre_ids": [
+        53,
+        27,
+        28,
+        9648,
+        878
+      ],
+      "id": 1412598,
+      "title": "Killer Whale",
+      "original_language": "en",
+      "original_title": "Killer Whale",
+      "overview": "Las mejores amigas Maddie y Trish quedan atrapadas en una remota laguna con la peligrosa orca Ceto.",
+      "popularity": 19.8334,
+      "poster_path": "/x8lIphxDZ0CIvyBCvYS0FwjyHco.jpg",
+      "release_date": "2026-01-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 79
+    }
+  ],
+  "total_pages": 2958,
+  "total_results": 59146
+}

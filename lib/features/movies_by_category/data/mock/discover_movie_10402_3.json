@@ -1,0 +1,428 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10749,
+        10402
+      ],
+      "id": 1643729,
+      "title": "Ishqa'n De Lekhe",
+      "original_language": "pa",
+      "original_title": "Ishqa'n De Lekhe",
+      "overview": "",
+      "popularity": 6.8309,
+      "poster_path": "/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
+      "release_date": "2026-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s3WFrpZV1QIo8Aao2TaAI5ERUTO.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 13763,
+      "title": "Prince: Purple Rain",
+      "original_language": "en",
+      "original_title": "Purple Rain",
+      "overview": "The Kid, un músico pobre y atormentado por los problemas familiares, reproduce el maltrato que su padre da a su madre en su relación amorosa. Luchando por sobrevivir a una turbulenta vida familiar y a su propia ira, su talento se refugia en su música y en su relación con la cantante Apollonia. Además, la tensión aumenta cuando su rival intenta conquistar a su novia y obtener la exclusividad del bar donde ambos cantan.",
+      "popularity": 6.7581,
+      "poster_path": "/vkQmzaSuDj8QyXmwNhCceCAmwUe.jpg",
+      "release_date": "1984-07-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 409
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
+      "genre_ids": [
+        10402,
+        99
+      ],
+      "id": 1445363,
+      "title": "EPiC: Elvis Presley in Concert",
+      "original_language": "en",
+      "original_title": "EPiC: Elvis Presley in Concert",
+      "overview": "Rescata la figura del gran Elvis Presley, con imágenes de archivo y grabaciones nunca vistas del Rey del rock.",
+      "popularity": 6.7255,
+      "poster_path": "/1hvvcvepX9Y2s1D2HwUqUE82gme.jpg",
+      "release_date": "2026-02-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.922,
+      "vote_count": 45
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bNiBuekwqwNKFGSqlJRDZIF4ADB.jpg",
+      "genre_ids": [
+        10402,
+        35
+      ],
+      "id": 2005,
+      "title": "Sister Act (Una monja de cuidado)",
+      "original_language": "en",
+      "original_title": "Sister Act",
+      "overview": "Deloris Van Cartier es una mediocre cantante de cabaret. Su amante Vince ha cometido un crimen, y ella decide acogerse al programa policial de protección de testigos. Así, Deloris consigue una nueva identidad como monja en un convento que, tan sólo con su presencia, perderá su habitual tranquilidad.",
+      "popularity": 6.6416,
+      "poster_path": "/yPBlWxugSoQMcm05TPwsELq110n.jpg",
+      "release_date": "1992-05-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.825,
+      "vote_count": 3422
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/umtxTkop7Ec9UFynjB7Z53lmkX1.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 1677,
+      "title": "Ray",
+      "original_language": "en",
+      "original_title": "Ray",
+      "overview": "La vida de Ray Charles es una alternancia de triunfos y fracasos personales que se suceden a lo largo de una dilatada y galardonada carrera en el mundo del espectáculo. Pero estamos hablando de un hombre que sintetizó sus luchas, su dolor y su oscuridad personal con la misma efectividad con la que supo fundir en su arte una miríada de estilos musicales: el jazz, el rhythm &amp; blues, el rock &amp; roll, el gospel y el country. Su historia tiene entonces un sentido muy distinto: la cadena de logros se transforma en el vibrante y conmovedor trayecto de un genio único con una visión propia que enseñó al mundo a escuchar música de una forma nueva. RAY es la biografía, nunca contada antes, de esa leyenda de la música americana que es Ray Charles. Se centra en el período más explosivo de la carrera de Charles, que comienza cuando este joven negro ciego se sube solo a un autobús en Florida y cruza el país para refinar su arte en la floreciente escena jazzística de Seattle.",
+      "popularity": 6.6255,
+      "poster_path": "/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "release_date": "2004-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.447,
+      "vote_count": 2186
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wqtaHWOEZ3rXDJ8c6ZZShulbo18.jpg",
+      "genre_ids": [
+        10402,
+        18,
+        10749
+      ],
+      "id": 332562,
+      "title": "Ha nacido una estrella",
+      "original_language": "en",
+      "original_title": "A Star Is Born",
+      "overview": "Jackson Maine es una estrella consagrada de la música que una noche conoce y se enamora de Ally, una joven artista que lucha por salir adelante en el mundo del espectáculo. Justo cuando Ally está a punto de abandonar su sueño de convertirse en cantante, Jack decide ayudarla en su carrera hacia la fama. Pero el camino será más duro de lo que imagina.",
+      "popularity": 6.6198,
+      "poster_path": "/jAdNHXbswMuIhcRInIzphZvJElA.jpg",
+      "release_date": "2018-10-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.492,
+      "vote_count": 12189
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k3AGi4UD8Ql2dKosXh6FrBSKm0s.jpg",
+      "genre_ids": [
+        10402,
+        18,
+        10749,
+        80
+      ],
+      "id": 9762,
+      "title": "Bailando (Step Up)",
+      "original_language": "en",
+      "original_title": "Step Up",
+      "overview": "Tyler Gage (Channing Tatum) ha crecido y pasado toda su vida en los barrios más peligrosos de la ciudad de Baltimore y sabe que es poco probable que alguna vez salga de ahí. Un día, tras un roce con la ley, Tyler es sentenciado a realizar un servicio comunitario en la Escuela de Artes de Maryland. Allí conoce a Nora (Jenna Dewan), una atractiva bailarina que está buscando desesperadamente a alguien que sustituya a su compañero, de baja por accidente, antes de la importantísima Exhibición Senior de la escuela.",
+      "popularity": 6.5648,
+      "poster_path": "/6yLy7EFXU3CKULLDWzR0L6XmmSi.jpg",
+      "release_date": "2006-08-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.871,
+      "vote_count": 3873
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 786,
+      "title": "Casi famosos",
+      "original_language": "en",
+      "original_title": "Almost Famous",
+      "overview": "Homenaje al rock de los 70. Gracias a sus buenas críticas musicales, un adolescente que aspira a ser periodista es contratado por la revista \"Rolling Stone\" para cubrir la gira de una famosa banda. A pesar de su juventud y de la oposición de su madre, el chico vivirá con los músicos y sus fans una aventura inolvidable. Basada en la propia experiencia de Crowe.",
+      "popularity": 6.5358,
+      "poster_path": "/2fEy9iTquhFy3aB2XACKjQ6wGRh.jpg",
+      "release_date": "2000-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 3079
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kLpIAD9WWku0VhGNWJ7bjUilPjK.jpg",
+      "genre_ids": [
+        16,
+        10402,
+        18,
+        878
+      ],
+      "id": 1322752,
+      "title": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+      "original_language": "ja",
+      "original_title": "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+      "overview": "",
+      "popularity": 6.5332,
+      "poster_path": "/qTBlcSSTauMyuuS08M6vkqJuZPx.jpg",
+      "release_date": "2025-01-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.776,
+      "vote_count": 38
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/omssu8qHikO7im78hKAgy7I7M6F.jpg",
+      "genre_ids": [
+        10402,
+        99
+      ],
+      "id": 1515899,
+      "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (en 3D)",
+      "original_language": "en",
+      "original_title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+      "overview": "Concierto de Billie Eilish dirigido por Billie Eilish y James Cameron. Capturado durante su gira mundial con todas las entradas agotadas, ofrece una innovadora experiencia de concierto en la gran pantalla de una de las artistas más celebradas y exitosas de su generación.",
+      "popularity": 6.3795,
+      "poster_path": "/8aCrzKY3cwkpS4T72BvcGyuaaX4.jpg",
+      "release_date": "2026-05-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f2MzXz3vjuNtSPn17ugFa6oTUmc.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10402,
+        10749
+      ],
+      "id": 6282,
+      "title": "El bar Coyote",
+      "original_language": "en",
+      "original_title": "Coyote Ugly",
+      "overview": "A sus 21 años, Violet Sanford llega a Nueva York con la esperanza de convertirse en letrista. Pero sus sueños de dedicarse al mundo de la música quedan aparcados momentáneamente por el éxito que alcanza trabajando como camarera en el bar Coyote. El bar Coyote es un nuevo club nocturno y el punto más caliente de la ciudad. Cuenta con un ambicioso plantel de chicas, todas jóvenes y muy atractivas. Lil es el cerebro y la estricta propietaria del local, que reina con autoridad sobre sus chicas. Entre ellas están la coqueta Cammie, la cabezota y variable Rachel y Zoe, la que más propinas consigue. Las \"chicas Coyote\", como las llaman cariñosamente, provocan a los clientes y a los medios de comunicación con sus atrevidos atuendos, y convierten el bar Coyote en el punto de atracción de los chicos que merodean por la zona.",
+      "popularity": 6.3708,
+      "poster_path": "/hPJttpB1vskxpYf4J5EgBt5sGEl.jpg",
+      "release_date": "2000-07-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 2258
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 10376,
+      "title": "La leyenda del pianista en el océano",
+      "original_language": "it",
+      "original_title": "La leggenda del pianista sull'oceano",
+      "overview": "Historia de un niño que fue abandonado sobre el piano del Virginia, un enorme trasatlántico. El niño es adoptado por un maquinista y le pone por nombre \"Novecento\", ya que lo encuentra justo en el cambio de siglo. Novecento se convertirá en un fabuloso pianista y amenizará las noches del Virginia. Pero nunca pisará tierra firme, ni tan sólo tras las súplicas de su amigo Max.",
+      "popularity": 6.3295,
+      "poster_path": "/td38NLfhvwotZhKKHGXd71BKiox.jpg",
+      "release_date": "1998-10-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.243,
+      "vote_count": 2429
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        10402
+      ],
+      "id": 891584,
+      "title": "The History of Sound",
+      "original_language": "en",
+      "original_title": "The History of Sound",
+      "overview": "En 1917, dos jóvenes estudiantes de música del Conservatorio de Boston se unen por su pasión mutua por la música folclórica. Unos años después se reencuentran al embarcarse en un viaje de recopilación de canciones por los remansos de Maine.",
+      "popularity": 6.0636,
+      "poster_path": "/xxNIFJdihUi3ZFW6iGiieeGjOCJ.jpg",
+      "release_date": "2025-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.494,
+      "vote_count": 89
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wWLUUGtemgrRyH24v8lAkSR58US.jpg",
+      "genre_ids": [
+        10751,
+        10770,
+        12,
+        14,
+        10402
+      ],
+      "id": 506574,
+      "title": "Los descendientes 3",
+      "original_language": "en",
+      "original_title": "Descendants 3",
+      "overview": "Mal, Evie, Carlos y Jay vuelven a la Isla de los Perdidos en busca de un nuevo grupo de hijos de villanos para que se unan a ellos en Auradon. Pero cuando Hades intenta colarse a través de la barrera mágica, Mal toma la decisión de cerrarla para siempre y así poder mantener a la gente de Auradon a salvo. Sin embargo, una fuerza maligna inesperada se cierne sobre el reino, por lo que Mal y el resto de los hijos de los villanos tendrán que unirse para salvar ambos mundos.",
+      "popularity": 6.027,
+      "poster_path": "/iQICsH7ckxRExHu0fvPrsczpKJu.jpg",
+      "release_date": "2019-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.673,
+      "vote_count": 1607
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8ys6VgwZCIQ7nN4Nv4z7GPPuFMv.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 654754,
+      "title": "Billie Eilish: The World's a Little Blurry",
+      "original_language": "en",
+      "original_title": "Billie Eilish: The World's a Little Blurry",
+      "overview": "Una mirada íntima a la trayectoria de Billie Eilish a través de la lente de R.J. Cutler, que nos muestra a la extraordinaria adolescente de gira, sobre el escenario y en casa con su familia mientras escribe y graba el álbum debut que cambió su vida.",
+      "popularity": 5.9268,
+      "poster_path": "/iSaM0hRbCqi65NAWTD5HgK21H4W.jpg",
+      "release_date": "2021-02-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.24,
+      "vote_count": 329
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/28PLbMHktbX8TnuEWSiTrRbI4p8.jpg",
+      "genre_ids": [
+        10402,
+        36,
+        18,
+        35
+      ],
+      "id": 1299655,
+      "title": "Blue Moon",
+      "original_language": "en",
+      "original_title": "Blue Moon",
+      "overview": "Drama biográfico que sigue a Lorenz Hart, aclamado letrista y mitad del famoso dúo de compositores Rodgers & Hart, durante la noche de estreno de \"Oklahoma!\" el 31 de marzo de 1943. En medio del éxito del nuevo musical escrito sin su colaboración, Hart lucha contra el alcoholismo, la depresión y la pérdida de su asociación creativa con Richard Rodgers. La película transcurre principalmente en el bar del restaurante Sardi's en Nueva York, donde Hart, interpretado magistralmente por Ethan Hawke, conversa con un barman y otros personajes mientras revela sus inseguridades, amores no correspondidos y reflexiones sobre su legado musical. La película ofrece un retrato íntimo y melancólico de un talento brillante en declive que enfrentó sus demonios personales con humor y desesperación, culminando en una exploración de la compleja relación artística y emocional entre Hart y Rodgers. Dirigida por Richard Linklater, es un homenaje emotivo a un genio olvidado del Great American Songbook.",
+      "popularity": 5.9055,
+      "poster_path": "/75SDzHOGS9megHbNgQivsxk4j4f.jpg",
+      "release_date": "2025-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.645,
+      "vote_count": 253
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Xz0bzUFTVgDZd4WZz1cJDQjLkB.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10402,
+        10749
+      ],
+      "id": 632632,
+      "title": "Given: The Movie",
+      "original_language": "ja",
+      "original_title": "映画 ギヴン",
+      "overview": "Después de la emisión del episodio final de la adaptación de anime de Given, la cuenta oficial de Twitter anunció que se lanzará una adaptación de largometraje en 2020, retomando directamente donde se detuvo la serie de televisión.  La historia se centra en Ritsuka, un guitarrista que ha perdido el interés por tocar. Un día, conoce a Mafuyu, que tiene una guitarra rota, y Ritsuka de mala gana comienza a enseñarle a Mafuyu a tocar la guitarra, pero cuando escucha la voz de Mafuyu, las cosas comienzan a cambiar de repente para Ritsuka.",
+      "popularity": 5.8802,
+      "poster_path": "/fsEq2LddodaHvhs4mTZAaqOV6sR.jpg",
+      "release_date": "2020-08-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 413
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AuKCLmUmdzhXPdaTaR8BMxc5Rv6.jpg",
+      "genre_ids": [
+        10402,
+        35
+      ],
+      "id": 353616,
+      "title": "Dando la nota 3",
+      "original_language": "en",
+      "original_title": "Pitch Perfect 3",
+      "overview": "Tras ganar el campeonato del mundo, las Bellas se separan y descubren que es difícil encontrar trabajo en el mundo de la música. Pero cuando tienen la oportunidad de reunirse para una gira por el extranjero, el grupo volverá a cantar y a tomar algunas decisiones dudosas.",
+      "popularity": 5.8547,
+      "poster_path": "/89dF7dFHlVlMMcTp0TXQW7fGAIj.jpg",
+      "release_date": "2017-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.507,
+      "vote_count": 3449
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3lf6YCItKcF3Wrrs7tp1PL0eyOT.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        16,
+        14,
+        10402
+      ],
+      "id": 23398,
+      "title": "Alvin y las ardillas 2",
+      "original_language": "en",
+      "original_title": "Alvin and the Chipmunks: The Squeakquel",
+      "overview": "Las ardillas más famosas y divertidas del cine regresan a la gran pantalla para protagonizar una nueva aventura. En ella, Alvin y sus compañeros deben enfrentarse a la presión de la escuela, a los problemas de la celebridad y a un grupo de chicas ardilla que les está haciendo la competencia",
+      "popularity": 5.7565,
+      "poster_path": "/1DqgIFHVJwjlaIITCcYtobrirfd.jpg",
+      "release_date": "2009-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 3111
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6C7ZGYeR8QpT3X6C2RFEu6yiSKK.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        10402
+      ],
+      "id": 622855,
+      "title": "La navidad mágica de los Jangle",
+      "original_language": "en",
+      "original_title": "Jingle Jangle: A Christmas Journey",
+      "overview": "Un mundo imaginario cobra vida en la historia de un excéntrico creador de juguetes, su aventurera nieta y una invención mágica que tiene el poder de cambiar sus vidas para siempre.",
+      "popularity": 5.6933,
+      "poster_path": "/7OXy4hlp4OiPp46Ey76yQWwfNdU.jpg",
+      "release_date": "2020-11-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.567,
+      "vote_count": 565
+    }
+  ],
+  "total_pages": 2635,
+  "total_results": 52696
+}

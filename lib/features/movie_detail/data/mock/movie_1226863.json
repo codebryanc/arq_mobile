@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+  "belongs_to_collection": {
+    "id": 1434561,
+    "name": "The Super Mario Collection",
+    "poster_path": "/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
+    "backdrop_path": "/hX6DycbhqpkHuYD5ia4YeQQ2RgV.jpg"
+  },
+  "budget": 110000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Familia"
+    },
+    {
+      "id": 35,
+      "name": "Comedia"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 14,
+      "name": "Fantasía"
+    },
+    {
+      "id": 16,
+      "name": "Animación"
+    }
+  ],
+  "homepage": "https://www.supermariobros-lapelicula.es/entradas",
+  "id": 1226863,
+  "imdb_id": "tt28650488",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Super Mario Galaxy Movie",
+  "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
+  "popularity": 650.7446,
+  "poster_path": "/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
+  "production_companies": [
+    {
+      "id": 6704,
+      "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+      "name": "Illumination",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 12288,
+      "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+      "name": "Nintendo",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-01",
+  "revenue": 750734310,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Super Mario Galaxy la película",
+  "video": false,
+  "vote_average": 6.757,
+  "vote_count": 571
+}

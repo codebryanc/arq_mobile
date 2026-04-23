@@ -1,0 +1,423 @@
+{
+  "page": 7,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/cT9ZfwoPDk8JbgkessmQgxAWiaM.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 1071585,
+      "title": "M3GAN 2.0",
+      "original_language": "en",
+      "original_title": "M3GAN 2.0",
+      "overview": "Con el futuro de la existencia humana en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN y darle unas cuantas mejoras, haciéndola más rápida, más fuerte y más letal.",
+      "popularity": 17.1294,
+      "poster_path": "/zgsdwQ6XciR0IzgeRXyKzVhzVzP.jpg",
+      "release_date": "2025-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.211,
+      "vote_count": 1274
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/82C04rTiXYZ7c8XZv91Nu53w82Y.jpg",
+      "genre_ids": [
+        28,
+        53,
+        35
+      ],
+      "id": 1007734,
+      "title": "Nadie 2",
+      "original_language": "en",
+      "original_title": "Nobody 2",
+      "overview": "Cuatro años después de enfrentarse involuntariamente a la mafia rusa, Hutch Mansell sigue intentando saldar una deuda de 30 millones de dólares con golpes a criminales internacionales. Agotado y distanciado de su familia, organiza unas vacaciones con su esposa e hijos en Plummerville, el lugar donde solía ir con su hermano de niño. Pero un pequeño altercado los convierte en el objetivo de un peligroso mafioso local y de su corrupto sheriff, poniendo en riesgo toda la familia.",
+      "popularity": 17.1003,
+      "poster_path": "/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
+      "release_date": "2025-08-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.945,
+      "vote_count": 1456
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kzeBfhXMRWiykBsqoL3UbfaM0S.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 1035259,
+      "title": "Agárralo como puedas",
+      "original_language": "en",
+      "original_title": "The Naked Gun",
+      "overview": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Película reboot basada en la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",
+      "popularity": 17.0592,
+      "poster_path": "/v8FpKw8mOsHxC0YElkgNNSCzGMl.jpg",
+      "release_date": "2025-07-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.36,
+      "vote_count": 1631
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1228710,
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "original_language": "en",
+      "original_title": "Star Wars: The Mandalorian and Grogu",
+      "overview": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "popularity": 16.9899,
+      "poster_path": "/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "release_date": "2026-05-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10749
+      ],
+      "id": 744,
+      "title": "Top Gun: Ídolos del aire",
+      "original_language": "en",
+      "original_title": "Top Gun",
+      "overview": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
+      "popularity": 16.9848,
+      "poster_path": "/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg",
+      "release_date": "1986-05-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.06,
+      "vote_count": 9462
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 823464,
+      "title": "Godzilla y Kong: El nuevo imperio",
+      "original_language": "en",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+      "popularity": 16.9826,
+      "poster_path": "/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+      "release_date": "2024-03-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.046,
+      "vote_count": 4601
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1930,
+      "title": "The Amazing Spider-Man",
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man",
+      "overview": "Como la mayoría de los adolescentes de su edad, Peter está intentando descubrir quién es y cómo ha llegado a ser lo que es. En su viaje para atar los cabos de su pasado descubre un secreto que guardaba su padre, un secreto que finalmente dará forma a su destino como Spiderman.",
+      "popularity": 16.9294,
+      "poster_path": "/swjygVNvJ84ztpgfFX9gRr2MPBZ.jpg",
+      "release_date": "2012-06-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.732,
+      "vote_count": 18405
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9NSXdVHeSfSHUv49OzLispFcpz1.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 560016,
+      "title": "Monkey Man",
+      "original_language": "en",
+      "original_title": "Monkey Man",
+      "overview": "Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adaptarse a un mundo marcado por la avaricia y carente de valores espirituales. Allí luchará por buscar venganza por la muerte de su madre y defender a las clases más desfavorecidas.",
+      "popularity": 16.9038,
+      "poster_path": "/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg",
+      "release_date": "2024-04-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 1377
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 447365,
+      "title": "Guardianes de la Galaxia: Volumen 3",
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Vol. 3",
+      "overview": "La querida banda de los Guardianes se instala en Knowhere. Pero sus vidas no tardan en verse alteradas por los ecos del turbulento pasado de Rocket. Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en una peligrosa misión para salvar la vida de Rocket, una misión que, si no se completa con éxito, podría muy posiblemente conducir al final de los Guardianes tal y como los conocemos.",
+      "popularity": 16.7601,
+      "poster_path": "/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
+      "release_date": "2023-05-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.923,
+      "vote_count": 8193
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 949,
+      "title": "Heat",
+      "original_language": "en",
+      "original_title": "Heat",
+      "overview": "Neil McCauley es un experto ladrón. Su filosofía consiste en vivir sin ataduras que puedan constituir un obstáculo, si las cosas se complican. Su banda la forman criminales profesionales tan cualificados que pueden impresionar incluso al detective Vincent Hanna. Pero Hannah vive tan obsesionado con su trabajo que llega incluso a poner en peligro su relación sentimental. Cuando la banda de McCauley prepara el golpe definitivo y el equipo de Hannah intenta evitarlo, cada uno de ellos comprende que tiene que vérselas con una de las mentes más brillantes a la que se ha enfrentado en su carrera.",
+      "popularity": 16.5355,
+      "poster_path": "/kRfh1NCkDXGFrWzL6zDmVnHjRKh.jpg",
+      "release_date": "1995-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.931,
+      "vote_count": 8250
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+      "genre_ids": [
+        28,
+        878,
+        18
+      ],
+      "id": 39254,
+      "title": "Acero Puro",
+      "original_language": "en",
+      "original_title": "Real Steel",
+      "overview": "En un futuro no muy lejano, el boxeo es robótico: en los combates ya no se enfrentan seres humanos, sino robots humanoides, sofisticadas máquinas diseñadas para luchar. Charlie Kenton, un antiguo púgil que casi llegó a alcanzar la gloria, está pasando una mala racha como promotor de combates. Un día, encuentra un viejo robot desechado y, al comprobar que es un gran boxeador, decide entrenarlo.",
+      "popularity": 16.4635,
+      "poster_path": "/gqjKG4Z24pjYxcOfCd9p6WAnYlG.jpg",
+      "release_date": "2011-09-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.069,
+      "vote_count": 9022
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 49051,
+      "title": "El hobbit: Un viaje inesperado",
+      "original_language": "en",
+      "original_title": "The Hobbit: An Unexpected Journey",
+      "overview": "Precuela de la trilogía \"El Señor de los Anillos\", obra de J.R.R. Tolkien. En compañía del mago Gandalf y de trece enanos, el hobbit Bilbo Bolsón emprende un viaje a través del país de los elfos y los bosques de los trolls, desde las mazmorras de los orcos hasta la Montaña Solitaria, donde el dragón Smaug esconde el tesoro de los Enanos. Finalmente, en las profundidades de la Tierra, encuentra el Anillo Único, hipnótico objeto que será posteriormente causa de tantas sangrientas batallas en la Tierra Media.",
+      "popularity": 16.4271,
+      "poster_path": "/3dJELUqdpGEkXVrMj7V3BiOjrtf.jpg",
+      "release_date": "2012-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.37,
+      "vote_count": 19519
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1584215,
+      "title": "The Internship",
+      "original_language": "en",
+      "original_title": "The Internship",
+      "overview": "Una asesina entrenada por la CIA recluta a otros graduados de su programa secreto de la infancia, The Internship, para destruir violentamente la organización. La CIA contraataca con fuerza letal.",
+      "popularity": 16.4237,
+      "poster_path": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+      "release_date": "2026-01-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 65
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 283995,
+      "title": "Guardianes de la Galaxia Vol. 2",
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Vol. 2",
+      "overview": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el universo cinematográfico de Marvel continúa expandiéndose.",
+      "popularity": 16.4012,
+      "poster_path": "/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
+      "release_date": "2017-04-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.609,
+      "vote_count": 22817
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 1305781,
+      "title": "镖人：风起大漠",
+      "original_language": "zh",
+      "original_title": "镖人：风起大漠",
+      "overview": "",
+      "popularity": 16.3295,
+      "poster_path": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
+      "release_date": "2026-02-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 539972,
+      "title": "Kraven the Hunter",
+      "original_language": "en",
+      "original_title": "Kraven the Hunter",
+      "overview": "Kraven, un hombre cuya compleja relación con su despiadado padre, Nikolai Kravinoff, le hace emprender un camino de venganza con brutales consecuencias, motivándole a convertirse no sólo en el mejor cazador del mundo, sino también en uno de los más temidos.",
+      "popularity": 16.2908,
+      "poster_path": "/gz5w7GbX3phXLjmoJNqAlAO2Vrq.jpg",
+      "release_date": "2024-12-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 2292
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sNhzcUw5cg4JwICjnHZ5XhTKNrU.jpg",
+      "genre_ids": [
+        53,
+        28,
+        878
+      ],
+      "id": 766507,
+      "title": "Predator: La presa",
+      "original_language": "en",
+      "original_title": "Prey",
+      "overview": "Ambientada hace 300 años en la Nación Comanche. Naru es una joven guerrera, feroz y altamente hábil, que se crió a la sombra de algunos de los cazadores más legendarios que deambulan por las Grandes Llanuras. Cuando el peligro amenaza su campamento, se dispone a proteger a su gente. La presa a la que acecha y, en última instancia, se enfrenta, resulta ser un depredador alienígena evolucionado con un arsenal técnicamente avanzado, lo que deriva en un enfrentamiento cruel y aterrador entre los dos adversarios.",
+      "popularity": 16.1607,
+      "poster_path": "/sNAMqQ9T7YnXnvUSufeWzaRgK6Y.jpg",
+      "release_date": "2022-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 7636
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5BZtN173AXqReBJTxE2ZikBDCl7.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 218,
+      "title": "Terminator",
+      "original_language": "en",
+      "original_title": "The Terminator",
+      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
+      "popularity": 16.1003,
+      "poster_path": "/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+      "release_date": "1984-10-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.678,
+      "vote_count": 14475
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12
+      ],
+      "id": 453395,
+      "title": "Doctor Strange en el multiverso de la locura",
+      "original_language": "en",
+      "original_title": "Doctor Strange in the Multiverse of Madness",
+      "overview": "Viaja a lo desconocido con el Doctor Strange, quien, con la ayuda de tanto antiguos como nuevos aliados místicos, recorre las complejas y peligrosas realidades alternativas del multiverso para enfrentarse a un nuevo y misterioso adversario.",
+      "popularity": 16.0481,
+      "poster_path": "/1w3MlLZPqr2Pm5loQ9h2gJwenMr.jpg",
+      "release_date": "2022-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.224,
+      "vote_count": 10222
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 1363123,
+      "title": "Plan en familia 2",
+      "original_language": "en",
+      "original_title": "The Family Plan 2",
+      "overview": "Dan ha dejado atrás su pasado como asesino y lo único que quiere esta Navidad es pasar tiempo de calidad con sus hijos. Pero, al ver que su hija tiene otros planes, organiza un viaje familiar a Londres... y los pone a todos en la mira de un enemigo inesperado.",
+      "popularity": 16.0183,
+      "poster_path": "/sxoN17pPyL6SiqD8F6DXmTPILwJ.jpg",
+      "release_date": "2025-11-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.538,
+      "vote_count": 546
+    }
+  ],
+  "total_pages": 2406,
+  "total_results": 48112
+}

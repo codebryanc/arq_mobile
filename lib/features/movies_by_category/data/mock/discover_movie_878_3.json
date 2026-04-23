@@ -1,0 +1,430 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 617126,
+      "title": "Los Cuatro Fantásticos: Primeros pasos",
+      "original_language": "en",
+      "original_title": "The Fantastic 4: First Steps",
+      "overview": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
+      "popularity": 23.7735,
+      "poster_path": "/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
+      "release_date": "2025-07-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.96,
+      "vote_count": 3218
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        878,
+        28
+      ],
+      "id": 519182,
+      "title": "Gru 4. Mi villano favorito",
+      "original_language": "en",
+      "original_title": "Despicable Me 4",
+      "overview": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gru Junior, que parece llegar con el propósito de ser un suplicio para su padre. Gru tendrá que enfrentarse en esta ocasión a su nueva némesis Maxime Le Mal y su sofisticada y malévola novia Valentina, lo que obligará a la familia a tener que darse a la fuga. Cuarta entrega de 'Gru, mi villano favorito'.",
+      "popularity": 23.568,
+      "poster_path": "/b6JX0fBne5yPFNBtdp4Imi3CpiE.jpg",
+      "release_date": "2024-06-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.981,
+      "vote_count": 3153
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 557,
+      "title": "Spider-Man",
+      "original_language": "en",
+      "original_title": "Spider-Man",
+      "overview": "Peter Parker es un joven y tímido estudiante que vive con su tía May y su tío Ben desde la muerte de sus padres. Un día es mordido por una araña que ha sido modificada genéticamente, descubriendo al día siguiente que posee unos poderes poco habituales: tiene la fuerza y agilidad de una araña.",
+      "popularity": 23.4966,
+      "poster_path": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+      "release_date": "2002-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.325,
+      "vote_count": 20533
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3eOINbgRs8WiWfQfViXeuZ3enrs.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 1003596,
+      "title": "Vengadores: Doomsday",
+      "original_language": "en",
+      "original_title": "Avengers: Doomsday",
+      "overview": "Quinta entrega de la saga 'Vengadores' incluida en el Universo Cinematográfico Marvel (UCM). Sinopsis desconocido.",
+      "popularity": 23.1289,
+      "poster_path": "/rQKabpeIewLLNStFr3anEXI0xqu.jpg",
+      "release_date": "2026-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 11,
+      "title": "La guerra de las galaxias",
+      "original_language": "en",
+      "original_title": "Star Wars",
+      "overview": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
+      "popularity": 23.1058,
+      "poster_path": "/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
+      "release_date": "1977-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.203,
+      "vote_count": 22183
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+      "genre_ids": [
+        28,
+        878,
+        35,
+        10751
+      ],
+      "id": 939243,
+      "title": "Sonic 3: La película",
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog 3",
+      "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
+      "popularity": 22.9411,
+      "poster_path": "/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
+      "release_date": "2024-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 3224
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 693134,
+      "title": "Dune: Parte dos",
+      "original_language": "en",
+      "original_title": "Dune: Part Two",
+      "overview": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+      "popularity": 22.7855,
+      "poster_path": "/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg",
+      "release_date": "2024-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 7806
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 438631,
+      "title": "Dune",
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "popularity": 22.6914,
+      "poster_path": "/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
+      "release_date": "2021-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.779,
+      "vote_count": 14735
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/askFH4GSk2u9z3ZE5ypdKIMeqLJ.jpg",
+      "genre_ids": [
+        878,
+        18
+      ],
+      "id": 335984,
+      "title": "Blade Runner 2049",
+      "original_language": "en",
+      "original_title": "Blade Runner 2049",
+      "overview": "Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
+      "popularity": 22.4287,
+      "poster_path": "/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
+      "release_date": "2017-10-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.591,
+      "vote_count": 15006
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 429617,
+      "title": "Spider-Man: Lejos de casa",
+      "original_language": "en",
+      "original_title": "Spider-Man: Far From Home",
+      "overview": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
+      "popularity": 22.3454,
+      "poster_path": "/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
+      "release_date": "2019-06-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.396,
+      "vote_count": 16855
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uorMP2U1F0AfogYMz4lYu2EbgYo.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        878
+      ],
+      "id": 524047,
+      "title": "Greenland: El último refugio",
+      "original_language": "en",
+      "original_title": "Greenland",
+      "overview": "Cuando el mundo es consciente de que el asteroide más grande de la historia va a impactar en la Tierra y aniquilar todo rastro de vida, los gobiernos de todo el mundo realizan un sorteo en el cual los afortunados podrán sobrevivir en refugios secretos. Esta decisión desata un caos a nivel mundial. Muchos tendrán que emprender un peligroso viaje donde se enfrentarán a los más imponentes peligros de la naturaleza, lo que les obligará a encontrar la manera de mantenerse unidos mientras encuentran la forma de sobrevivir.",
+      "popularity": 21.9048,
+      "poster_path": "/9iFkwShRf5M29yLABAdsEZyr9w6.jpg",
+      "release_date": "2020-07-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.125,
+      "vote_count": 5219
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 68721,
+      "title": "Iron Man 3",
+      "original_language": "en",
+      "original_title": "Iron Man 3",
+      "overview": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
+      "popularity": 21.4699,
+      "poster_path": "/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
+      "release_date": "2013-04-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.931,
+      "vote_count": 23323
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 99861,
+      "title": "Vengadores: La era de Ultrón",
+      "original_language": "en",
+      "original_title": "Avengers: Age of Ultron",
+      "overview": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultron emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura.",
+      "popularity": 21.4488,
+      "poster_path": "/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
+      "release_date": "2015-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.27,
+      "vote_count": 24300
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "genre_ids": [
+        12,
+        35,
+        878
+      ],
+      "id": 105,
+      "title": "Regreso al futuro",
+      "original_language": "en",
+      "original_title": "Back to the Future",
+      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "popularity": 21.3128,
+      "poster_path": "/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+      "release_date": "1985-07-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.325,
+      "vote_count": 21653
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
+      "genre_ids": [
+        878,
+        28,
+        27
+      ],
+      "id": 1196067,
+      "title": "Worldbreaker",
+      "original_language": "en",
+      "original_title": "Worldbreaker",
+      "overview": "Un padre esconde a su hija en una isla para mantenerla a salvo mientras la equipa para la supervivencia y las batallas que se avecinan.",
+      "popularity": 21.1388,
+      "poster_path": "/4xx25oYs08myEelHiSbOuVi80Ki.jpg",
+      "release_date": "2025-10-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 139
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "genre_ids": [
+        27,
+        878,
+        35
+      ],
+      "id": 696393,
+      "title": "Turno de noche",
+      "original_language": "en",
+      "original_title": "Cold Storage",
+      "overview": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
+      "popularity": 20.5381,
+      "poster_path": "/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
+      "release_date": "2026-01-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.775,
+      "vote_count": 340
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+      "genre_ids": [
+        10751,
+        878,
+        35
+      ],
+      "id": 552524,
+      "title": "Lilo y Stitch",
+      "original_language": "en",
+      "original_title": "Lilo & Stitch",
+      "overview": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
+      "popularity": 20.5191,
+      "poster_path": "/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
+      "release_date": "2025-05-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.194,
+      "vote_count": 2116
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg",
+      "genre_ids": [
+        28,
+        27,
+        878,
+        53
+      ],
+      "id": 72190,
+      "title": "Guerra Mundial Z",
+      "original_language": "en",
+      "original_title": "World War Z",
+      "overview": "Cuando el mundo comienza a ser invadido por una legión de muertos vivientes, Gerry Lane, un experto investigador de las Naciones Unidas, intentará evitar el fin de la civilización en una carrera contra el tiempo y el destino. La destrucción a la que se ve sometida la raza humana lo lleva a recorrer el mundo entero buscando la solución para frenar esa horrible epidemia.",
+      "popularity": 20.2317,
+      "poster_path": "/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
+      "release_date": "2013-06-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.825,
+      "vote_count": 16420
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 271110,
+      "title": "Capitán América: Civil War",
+      "original_language": "en",
+      "original_title": "Captain America: Civil War",
+      "overview": "Continúa la historia de “Avengers: Age of Ultron”, con Steve Rogers liderando un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano.",
+      "popularity": 19.8792,
+      "poster_path": "/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg",
+      "release_date": "2016-04-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.447,
+      "vote_count": 23919
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
+      "genre_ids": [
+        53,
+        27,
+        28,
+        9648,
+        878
+      ],
+      "id": 1412598,
+      "title": "Killer Whale",
+      "original_language": "en",
+      "original_title": "Killer Whale",
+      "overview": "Las mejores amigas Maddie y Trish quedan atrapadas en una remota laguna con la peligrosa orca Ceto.",
+      "popularity": 19.8334,
+      "poster_path": "/x8lIphxDZ0CIvyBCvYS0FwjyHco.jpg",
+      "release_date": "2026-01-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 79
+    }
+  ],
+  "total_pages": 1292,
+  "total_results": 25836
+}

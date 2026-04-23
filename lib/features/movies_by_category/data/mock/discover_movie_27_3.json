@@ -1,0 +1,423 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 574475,
+      "title": "Destino final: Lazos de sangre",
+      "original_language": "en",
+      "original_title": "Final Destination Bloodlines",
+      "overview": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
+      "popularity": 19.9849,
+      "poster_path": "/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+      "release_date": "2025-05-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.051,
+      "vote_count": 2777
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3pu0Opw5DZbYgLGpmf4yw5XolsA.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 1397937,
+      "title": "NN4444",
+      "original_language": "ja",
+      "original_title": "NN4444",
+      "overview": "",
+      "popularity": 19.9248,
+      "poster_path": "/lXal7UQkg9sNYcPj9uCEnjqkGle.jpg",
+      "release_date": "2024-02-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
+      "genre_ids": [
+        53,
+        27,
+        28,
+        9648,
+        878
+      ],
+      "id": 1412598,
+      "title": "Killer Whale",
+      "original_language": "en",
+      "original_title": "Killer Whale",
+      "overview": "Las mejores amigas Maddie y Trish quedan atrapadas en una remota laguna con la peligrosa orca Ceto.",
+      "popularity": 19.8334,
+      "poster_path": "/x8lIphxDZ0CIvyBCvYS0FwjyHco.jpg",
+      "release_date": "2026-01-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 79
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8ODNt5olCeIqBYTP3GgXEQYTfeX.jpg",
+      "genre_ids": [
+        27,
+        878,
+        18
+      ],
+      "id": 933260,
+      "title": "La sustancia",
+      "original_language": "en",
+      "original_title": "The Substance",
+      "overview": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "popularity": 19.416,
+      "poster_path": "/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+      "release_date": "2024-09-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.134,
+      "vote_count": 5893
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1197137,
+      "title": "Black Phone 2",
+      "original_language": "en",
+      "original_title": "Black Phone 2",
+      "overview": "Ambientada en 1982, cuatro años después de que Finney Blake lograra matar al secuestrador y asesino en serie conocido como \"The Grabber\". Finney, ahora marcado por el trauma, junto a su hermana menor Gwen, que tiene habilidades psíquicas, comienzan a tener visiones relacionadas con asesinatos ocurridos en un campamento cristiano en las Montañas Rocosas. Decididos a descubrir la verdad, viajan junto con Ernesto, un amigo, al campamento donde trabajó su madre, que también tenía dones psíquicos y fue víctima del asesino.",
+      "popularity": 19.3811,
+      "poster_path": "/i5OfOjbZMxNfiFGkdETdbJUOLAq.jpg",
+      "release_date": "2025-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.716,
+      "vote_count": 1027
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ],
+      "id": 1400940,
+      "title": "Clayface",
+      "original_language": "en",
+      "original_title": "Clayface",
+      "overview": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+      "popularity": 19.167,
+      "poster_path": "/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+      "release_date": "2026-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2dlt9I2ga6hweywz9zsFUz1PVii.jpg",
+      "genre_ids": [
+        878,
+        53,
+        27
+      ],
+      "id": 604079,
+      "title": "La larga marcha",
+      "original_language": "en",
+      "original_title": "The Long Walk",
+      "overview": "En un futuro distópico, cien adolescentes participan en una brutal competición conocida como \"La larga marcha\", donde deben caminar sin descanso: si se detienen o reducen la velocidad de la marcha, mueren. Solo uno sobrevivirá. Adaptación cinematográfica de la novela de Stephen King.",
+      "popularity": 19.0908,
+      "poster_path": "/vH7WPEgHxy1JLKsjBgSfY7NIf9W.jpg",
+      "release_date": "2025-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.916,
+      "vote_count": 1353
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
+      "genre_ids": [
+        878,
+        27,
+        53
+      ],
+      "id": 1064028,
+      "title": "Alice (Subservience)",
+      "original_language": "en",
+      "original_title": "Subservience",
+      "overview": "Con su mujer en el hospital, un padre en apuros compra una Inteligencia Artificial para ayudarle en las tareas de casa. Pero a medida que la robot se encariña de su nuevo dueño, los límites empiezan a cruzarse. Pronto ella se empeña en eliminar lo que percibe como la verdadera amenaza para su felicidad: su familia.",
+      "popularity": 19.0297,
+      "poster_path": "/4S7Enfu0ZzOja8xMTIHKU2L0yLN.jpg",
+      "release_date": "2024-08-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.624,
+      "vote_count": 974
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kG8bBajeSTUxJGmS47WujcraZUk.jpg",
+      "genre_ids": [
+        27,
+        35,
+        18
+      ],
+      "id": 1284120,
+      "title": "La hermanastra fea",
+      "original_language": "no",
+      "original_title": "Den stygge stesøsteren",
+      "overview": "Elvira lucha contra su hermosa hermanastra en un reino donde la belleza reina suprema. Ella recurre a medidas extremas para cautivar al príncipe, en medio de una despiadada competición por la perfección física.",
+      "popularity": 18.7269,
+      "poster_path": "/uI8ho9i1Dl6LUyyJ8ZqkE7SxVq4.jpg",
+      "release_date": "2025-03-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.303,
+      "vote_count": 1106
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A7BiqPOKvGNalAZhFn1WfSeG9aO.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53,
+        10770
+      ],
+      "id": 137051,
+      "title": "Midnight Matinee",
+      "original_language": "en",
+      "original_title": "Midnight Matinee",
+      "overview": "A pesar de que un devastador asesinato tuvo lugar durante el festival de cine de terror de un pequeño pueblo dos años antes, la gente del pueblo quiere otro festival.",
+      "popularity": 18.4421,
+      "poster_path": "/czam6wq46B9UCZvq85vicElckFq.jpg",
+      "release_date": "1988-10-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jtMzyOnIly9aciwV3z5TcczVstI.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1276038,
+      "title": "A Desert",
+      "original_language": "en",
+      "original_title": "A Desert",
+      "overview": "Durante un viaje por carretera, el fotógrafo Alex Clark se abre camino a través de una América polvorienta y desierta, fotografiando fábricas abandonadas, antiguos cementerios de mascotas y lugareños al azar. Entonces, una noche se encuentra y se hace amigo de los hermanos Renny y Susie Q en un motel y su vida, y las vidas de los que están relacionados con él, cambian para siempre.",
+      "popularity": 18.4057,
+      "poster_path": "/vd194U3uHmxs5rZBV2QU7HNDdEf.jpg",
+      "release_date": "2025-05-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 24
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
+      "genre_ids": [
+        27,
+        53,
+        28,
+        12
+      ],
+      "id": 396535,
+      "title": "Train to Busan",
+      "original_language": "ko",
+      "original_title": "부산행",
+      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
+      "popularity": 18.3189,
+      "poster_path": "/anomz7b3GQtHPFH34SODDBBIUad.jpg",
+      "release_date": "2016-07-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.747,
+      "vote_count": 8292
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+      "genre_ids": [
+        28,
+        27,
+        35
+      ],
+      "id": 1292695,
+      "title": "Te van a matar",
+      "original_language": "en",
+      "original_title": "They Will Kill You",
+      "overview": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
+      "popularity": 18.2901,
+      "poster_path": "/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
+      "release_date": "2026-03-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 138
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3Vq8otoGevbhcZAKY2devVbPs6L.jpg",
+      "genre_ids": [
+        27,
+        35,
+        12
+      ],
+      "id": 1381216,
+      "title": "Gator Lake",
+      "original_language": "en",
+      "original_title": "Lake Jesup: Bonecrusher's Revenge",
+      "overview": "En el lago más peligroso de Florida, un cocodrilo gigante siembra el terror al iniciar una matanza para recuperar su territorio. Para detenerlo, un domador de cocodrilos y exconvicto recibe la oportunidad de borrar su pasado si logra cazar a la criatura.",
+      "popularity": 17.6305,
+      "poster_path": "/xL0MYWgZjjCpsoA2vNBgg2bbNfm.jpg",
+      "release_date": "2024-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 44
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ecKQlAEG95k62SMGhvX83oEqANK.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 138843,
+      "title": "Expediente Warren: The Conjuring",
+      "original_language": "en",
+      "original_title": "The Conjuring",
+      "overview": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
+      "popularity": 17.3697,
+      "poster_path": "/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
+      "release_date": "2013-07-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.536,
+      "vote_count": 12629
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
+      "genre_ids": [
+        27,
+        53,
+        18
+      ],
+      "id": 346364,
+      "title": "It (Eso)",
+      "original_language": "en",
+      "original_title": "It",
+      "overview": "Remake del clásico de Stephen King en el que un payaso aterroriza a los niños de un vecindario. En un pequeño pueblo de Maine, siete niños conocidos como el Club de los Perdedores se encuentran cara a cara con problemas de la vida, matones y un monstruo que toma la forma de un payaso llamado Pennywise.",
+      "popularity": 17.2644,
+      "poster_path": "/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg",
+      "release_date": "2017-09-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.239,
+      "vote_count": 20232
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1198984,
+      "title": "We Bury the Dead",
+      "original_language": "en",
+      "original_title": "We Bury the Dead",
+      "overview": "Ava, una mujer desesperada cuyo marido ha desaparecido tras un catastrófico experimento militar, se une a una \"unidad de recuperación de cadáveres\", pero su búsqueda da un giro escalofriante cuando los cadáveres que está enterrando empiezan a dar señales de vida.",
+      "popularity": 16.5403,
+      "poster_path": "/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
+      "release_date": "2026-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.006,
+      "vote_count": 171
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7QBBvE6tA1kUlo7AKeZZMygdSHp.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 8689,
+      "title": "Holocausto caníbal",
+      "original_language": "it",
+      "original_title": "Cannibal Holocaust",
+      "overview": "Cuatro jóvenes documentalistas se adentran en la selva amazónica (América del Sur) para realizar un reportaje sobre las tribus que habitan en esa región, de las que se dice que todavía practican el canibalismo. Debido a la desaparición de los reporteros, dos meses después un grupo de rescate es enviado para averiguar qué ha sido de ellos; lo único que encuentran es el material filmado sobre su terrible fin.",
+      "popularity": 16.4965,
+      "poster_path": "/r7JBDaxsU0Uw1liRjDpv3e4xpXF.jpg",
+      "release_date": "1980-02-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 1839
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vh7np635kDIcfO6x2Y9ElgLJsuI.jpg",
+      "genre_ids": [
+        80,
+        27,
+        9648
+      ],
+      "id": 4232,
+      "title": "Scream",
+      "original_language": "en",
+      "original_title": "Scream",
+      "overview": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+      "popularity": 16.0387,
+      "poster_path": "/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
+      "release_date": "1996-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.429,
+      "vote_count": 7867
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+      "genre_ids": [
+        14,
+        28,
+        27
+      ],
+      "id": 1043197,
+      "title": "Atrapando a un monstruo",
+      "original_language": "en",
+      "original_title": "Dust Bunny",
+      "overview": "Una niña de ocho años le pide ayuda a su insidiosa vecina en su misión para matar al monstruo que vive debajo de su cama, el cual, según ella, devoró a su familia.",
+      "popularity": 15.9866,
+      "poster_path": "/mfWPUc2izmwjLvljMDvuYhcUDLL.jpg",
+      "release_date": "2025-12-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.628,
+      "vote_count": 244
+    }
+  ],
+  "total_pages": 3485,
+  "total_results": 69700
+}

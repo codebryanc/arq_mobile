@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+  "belongs_to_collection": {
+    "id": 925155,
+    "name": "Demon Slayer: Kimetsu no Yaiba Collection",
+    "poster_path": "/7HWkUmer2r5nVxtMAlYlZY8kclV.jpg",
+    "backdrop_path": "/oHx043lHsysn8klll1nPvKMBHLf.jpg"
+  },
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animación"
+    },
+    {
+      "id": 28,
+      "name": "Acción"
+    },
+    {
+      "id": 14,
+      "name": "Fantasía"
+    }
+  ],
+  "homepage": "https://www.sonypictures.es/pelicula/guardianes-de-la-noche-kimetsu-no-yaiba-la-fortaleza-infinita",
+  "id": 1311031,
+  "imdb_id": "tt32820897",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+  "overview": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+  "popularity": 129.1631,
+  "poster_path": "/iWLV12z9oexSRLz2WKyqCZbKoPA.jpg",
+  "production_companies": [
+    {
+      "id": 5887,
+      "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
+      "name": "ufotable",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2883,
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+      "name": "Aniplex",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-07-18",
+  "revenue": 733030221,
+  "runtime": 155,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "¡Vamos a pasarlo bien!",
+  "title": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 807
+}

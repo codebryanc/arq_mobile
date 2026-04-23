@@ -1,0 +1,413 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xcBlMEvzuaHoWANKYn5PGvcW4OC.jpg",
+      "genre_ids": [
+        27,
+        28,
+        53
+      ],
+      "id": 1110034,
+      "title": "Kraken",
+      "original_language": "no",
+      "original_title": "Kraken",
+      "overview": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales muertes de dos adolescentes de la localidad, todos los indicios apuntan al profundo fiordo. ¿Puede haber más en las profundidades de lo que el ojo puede ver? En el fondo del fiordo más profundo de Noruega descansa un monstruo mítico tan grande como una montaña, con una miríada de brazos dispuestos a aplastar y devorar todo lo que puedan agarrar.",
+      "popularity": 43.3809,
+      "poster_path": "/8ExwomWgJoXBdY3u1Otiw2zY9wZ.jpg",
+      "release_date": "2026-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
+      "genre_ids": [
+        27,
+        14,
+        10749
+      ],
+      "id": 1246049,
+      "title": "Drácula",
+      "original_language": "fr",
+      "original_title": "Dracula",
+      "overview": "Tras una devastadora pérdida, el príncipe Vlad II, conde Drácula (Caleb Landy Jones), renuncia a Dios y es maldecido a la vida eterna, condenado a vagar solitario a lo largo de los siglos. Este es el relato sobre la historia de amor jamás contada del infame vampiro, que desafiará al destino y la mortalidad en busca de su amor perdido.",
+      "popularity": 41.0918,
+      "poster_path": "/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg",
+      "release_date": "2025-07-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1106
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yzIjyPtwvyjHelxqIRXGpiaucPG.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1572073,
+      "title": "The Deadly Little Mermaid",
+      "original_language": "en",
+      "original_title": "The Deadly Little Mermaid",
+      "overview": "",
+      "popularity": 37.7434,
+      "poster_path": "/uye25uG7k8r3NNPLyPiKOiRnFRF.jpg",
+      "release_date": "2026-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.717,
+      "vote_count": 23
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1038392,
+      "title": "Expediente Warren: El último rito",
+      "original_language": "en",
+      "original_title": "The Conjuring: Last Rites",
+      "overview": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
+      "popularity": 34.5282,
+      "poster_path": "/qdoqogLNR6myoRrxYFxF4UTkFne.jpg",
+      "release_date": "2025-09-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.879,
+      "vote_count": 1752
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yQUTEvEb5pJi0BH3b1biQRpGvEx.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 967998,
+      "title": "Conspiração Fatal",
+      "original_language": "pt",
+      "original_title": "Conspiração Fatal",
+      "overview": "",
+      "popularity": 32.8509,
+      "poster_path": "/zpj3nNoc5xaUZTIdnuhwXwUcRag.jpg",
+      "release_date": "2022-05-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8zyQbsmMlXfLkcctjNz5YZZwpkw.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 999136,
+      "title": "Do Not Enter",
+      "original_language": "en",
+      "original_title": "Do Not Enter",
+      "overview": "Un grupo de exploradores investiga un viejo hotel abandonado y se encuentran con un extraño ser sobrenatural y un grupo competidor que busca un legendario tesoro escondido.",
+      "popularity": 32.4025,
+      "poster_path": "/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg",
+      "release_date": "2026-03-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.521,
+      "vote_count": 70
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 348,
+      "title": "Alien, el octavo pasajero",
+      "original_language": "en",
+      "original_title": "Alien",
+      "overview": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
+      "popularity": 30.7023,
+      "poster_path": "/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",
+      "release_date": "1979-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.169,
+      "vote_count": 16234
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "genre_ids": [
+        27,
+        28,
+        53
+      ],
+      "id": 1233413,
+      "title": "Los pecadores",
+      "original_language": "en",
+      "original_title": "Sinners",
+      "overview": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+      "popularity": 29.8675,
+      "poster_path": "/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
+      "release_date": "2025-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.468,
+      "vote_count": 4361
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+      "genre_ids": [
+        878,
+        28,
+        27
+      ],
+      "id": 1241470,
+      "title": "Aliens vs. comandos",
+      "original_language": "en",
+      "original_title": "Osiris",
+      "overview": "Un equipo de comandos de las Fuerzas Especiales es abducido por una misteriosa nave espacial durante una operación militar. Al despertar, los soldados desconocen su paradero y pronto descubren que están prisioneros de una despiadada raza alienígena, lo que desencadena una frenética lucha por su supervivencia.",
+      "popularity": 29.0572,
+      "poster_path": "/ky0P36kdTD86ZFPEcBapc6gbue3.jpg",
+      "release_date": "2025-07-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.993,
+      "vote_count": 224
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1408208,
+      "title": "Exit 8",
+      "original_language": "ja",
+      "original_title": "８番出口",
+      "overview": "Película basada en el videojuego de KOTAKE CREATE \"The Exit 8\", cuya premisa es que una persona anónima se encuentra en una estación de metro atrapada en un bucle en donde debe avanzar sólo cuando una anomalía no aparezca en su campo de visión... o volverá al inicio sin ser capaz de huir de ese lugar.",
+      "popularity": 28.9651,
+      "poster_path": "/mqlgMvy1d5jIbIE6SPlJq724htT.jpg",
+      "release_date": "2025-08-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.607,
+      "vote_count": 294
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 567609,
+      "title": "Noche de bodas",
+      "original_language": "en",
+      "original_title": "Ready or Not",
+      "overview": "Durante la noche de su boda, una mujer recibe la invitación por parte de la rica y excéntrica familia de su marido para participar en una tradición ancestral que se convierte en un juego letal de supervivencia.",
+      "popularity": 26.1084,
+      "poster_path": "/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg",
+      "release_date": "2019-08-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.053,
+      "vote_count": 5298
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1315303,
+      "title": "Primate",
+      "original_language": "en",
+      "original_title": "Primate",
+      "overview": "Lucy, una estudiante universitaria, pasa las vacaciones con sus amigos en la casa de su familia en Hawái, donde vive con su mascota, un chimpancé llamado Ben. Sin embargo, cuando Ben contrae rabia tras ser mordido por un animal rabioso, el grupo debe luchar por su vida para evitar al ahora violento chimpancé.",
+      "popularity": 25.8706,
+      "poster_path": "/cyqEghDphEUunLfongtpmROjpID.jpg",
+      "release_date": "2026-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 575
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1228246,
+      "title": "Five Nights at Freddy's 2",
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "Un año después de la pesadilla sobrenatural en Freddy Fazbear's Pizza, las historias sobre lo ocurrido allí se han convertido en una leyenda local extravagante, inspirando el primer Fazfest del pueblo. Con la verdad oculta, Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy, desencadenando una serie de eventos aterradores que revelarán oscuros secretos sobre el verdadero origen de Freddy's y desatarán un horror oculto durante décadas.",
+      "popularity": 24.7257,
+      "poster_path": "/egHOFSRXrAaugFUD7VMEnXlTnzJ.jpg",
+      "release_date": "2025-12-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.661,
+      "vote_count": 884
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+      "genre_ids": [
+        27,
+        12,
+        28
+      ],
+      "id": 7131,
+      "title": "Van Helsing",
+      "original_language": "en",
+      "original_title": "Van Helsing",
+      "overview": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone... y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
+      "popularity": 23.2477,
+      "poster_path": "/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
+      "release_date": "2004-05-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.399,
+      "vote_count": 6567
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "id": 1062722,
+      "title": "Frankenstein",
+      "original_language": "en",
+      "original_title": "Frankenstein",
+      "overview": "Un científico brillante y obsesivo, Victor Frankenstein, en su ambición por desafiar a la muerte, da vida a una criatura ensamblada con partes de cadáveres. Pese a tratarse de una proeza científica, Frankenstein considera que la criatura carece de inteligencia y la rechaza. Dolida, esta se rebela contra su creador.",
+      "popularity": 22.5911,
+      "poster_path": "/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+      "release_date": "2025-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.646,
+      "vote_count": 3335
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
+      "genre_ids": [
+        878,
+        28,
+        27
+      ],
+      "id": 1196067,
+      "title": "Worldbreaker",
+      "original_language": "en",
+      "original_title": "Worldbreaker",
+      "overview": "Un padre esconde a su hija en una isla para mantenerla a salvo mientras la equipa para la supervivencia y las batallas que se avecinan.",
+      "popularity": 21.1388,
+      "poster_path": "/4xx25oYs08myEelHiSbOuVi80Ki.jpg",
+      "release_date": "2025-10-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 139
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1078605,
+      "title": "Weapons",
+      "original_language": "en",
+      "original_title": "Weapons",
+      "overview": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "popularity": 21.0675,
+      "poster_path": "/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "release_date": "2025-08-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.252,
+      "vote_count": 3256
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "genre_ids": [
+        27,
+        878,
+        35
+      ],
+      "id": 696393,
+      "title": "Turno de noche",
+      "original_language": "en",
+      "original_title": "Cold Storage",
+      "overview": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
+      "popularity": 20.5381,
+      "poster_path": "/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
+      "release_date": "2026-01-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.783,
+      "vote_count": 339
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/impZCV9HiZ3bIrKK5bD1TKRsfVM.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1297454,
+      "title": "The Death That Awaits",
+      "original_language": "en",
+      "original_title": "The Death That Awaits",
+      "overview": "",
+      "popularity": 20.2718,
+      "poster_path": "/7hloUkIXB1Jc0xjSFlO4dcVfzdt.jpg",
+      "release_date": "2025-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.25,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg",
+      "genre_ids": [
+        28,
+        27,
+        878,
+        53
+      ],
+      "id": 72190,
+      "title": "Guerra Mundial Z",
+      "original_language": "en",
+      "original_title": "World War Z",
+      "overview": "Cuando el mundo comienza a ser invadido por una legión de muertos vivientes, Gerry Lane, un experto investigador de las Naciones Unidas, intentará evitar el fin de la civilización en una carrera contra el tiempo y el destino. La destrucción a la que se ve sometida la raza humana lo lleva a recorrer el mundo entero buscando la solución para frenar esa horrible epidemia.",
+      "popularity": 20.2317,
+      "poster_path": "/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
+      "release_date": "2013-06-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.825,
+      "vote_count": 16420
+    }
+  ],
+  "total_pages": 3485,
+  "total_results": 69700
+}

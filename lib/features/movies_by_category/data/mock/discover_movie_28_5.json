@@ -1,0 +1,431 @@
+{
+  "page": 5,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 121,
+      "title": "El señor de los anillos: Las dos torres",
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+      "popularity": 21.3333,
+      "poster_path": "/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
+      "release_date": "2002-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.415,
+      "vote_count": 23729
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        16,
+        28,
+        35
+      ],
+      "id": 177572,
+      "title": "Big Hero 6",
+      "original_language": "en",
+      "original_title": "Big Hero 6",
+      "overview": "En la metrópolis de San Fransokio (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genio de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokio, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio.",
+      "popularity": 21.1892,
+      "poster_path": "/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg",
+      "release_date": "2014-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.723,
+      "vote_count": 16489
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
+      "genre_ids": [
+        878,
+        28,
+        27
+      ],
+      "id": 1196067,
+      "title": "Worldbreaker",
+      "original_language": "en",
+      "original_title": "Worldbreaker",
+      "overview": "Un padre esconde a su hija en una isla para mantenerla a salvo mientras la equipa para la supervivencia y las batallas que se avecinan.",
+      "popularity": 21.1388,
+      "poster_path": "/4xx25oYs08myEelHiSbOuVi80Ki.jpg",
+      "release_date": "2025-10-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 139
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lmns2jlRmATs8OGWKcCkgrbHLM4.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1634301,
+      "title": "Vanaveera",
+      "original_language": "te",
+      "original_title": "Vanaveera",
+      "overview": "",
+      "popularity": 20.9331,
+      "poster_path": "/oBYExKI8E3bTzQjPkofhpV2EJon.jpg",
+      "release_date": "2026-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1yktYsxkmUtUFTUnCAUaqG6FEiz.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 541671,
+      "title": "Ballerina",
+      "original_language": "en",
+      "original_title": "Ballerina",
+      "overview": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado.",
+      "popularity": 20.8568,
+      "poster_path": "/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+      "release_date": "2025-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 2505
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 866398,
+      "title": "Beekeeper: El protector",
+      "original_language": "en",
+      "original_title": "The Beekeeper",
+      "overview": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
+      "popularity": 20.4868,
+      "poster_path": "/gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg",
+      "release_date": "2024-01-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.242,
+      "vote_count": 4129
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg",
+      "genre_ids": [
+        28,
+        27,
+        878,
+        53
+      ],
+      "id": 72190,
+      "title": "Guerra Mundial Z",
+      "original_language": "en",
+      "original_title": "World War Z",
+      "overview": "Cuando el mundo comienza a ser invadido por una legión de muertos vivientes, Gerry Lane, un experto investigador de las Naciones Unidas, intentará evitar el fin de la civilización en una carrera contra el tiempo y el destino. La destrucción a la que se ve sometida la raza humana lo lleva a recorrer el mundo entero buscando la solución para frenar esa horrible epidemia.",
+      "popularity": 20.2317,
+      "poster_path": "/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
+      "release_date": "2013-06-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.825,
+      "vote_count": 16420
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/99W7BptqslScAyupDqg9NADLhh1.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1242332,
+      "title": "Normal",
+      "original_language": "en",
+      "original_title": "Normal",
+      "overview": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+      "popularity": 20.0389,
+      "poster_path": "/nVIOGKbUdRxud0EXYJDMGCGcYbo.jpg",
+      "release_date": "2026-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.262,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 111,
+      "title": "El precio del poder",
+      "original_language": "en",
+      "original_title": "Scarface",
+      "overview": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
+      "popularity": 20.0159,
+      "poster_path": "/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
+      "release_date": "1983-12-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.155,
+      "vote_count": 12913
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 271110,
+      "title": "Capitán América: Civil War",
+      "original_language": "en",
+      "original_title": "Captain America: Civil War",
+      "overview": "Continúa la historia de “Avengers: Age of Ultron”, con Steve Rogers liderando un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano.",
+      "popularity": 19.8792,
+      "poster_path": "/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg",
+      "release_date": "2016-04-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.447,
+      "vote_count": 23919
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
+      "genre_ids": [
+        53,
+        27,
+        28,
+        9648,
+        878
+      ],
+      "id": 1412598,
+      "title": "Killer Whale",
+      "original_language": "en",
+      "original_title": "Killer Whale",
+      "overview": "Las mejores amigas Maddie y Trish quedan atrapadas en una remota laguna con la peligrosa orca Ceto.",
+      "popularity": 19.8334,
+      "poster_path": "/x8lIphxDZ0CIvyBCvYS0FwjyHco.jpg",
+      "release_date": "2026-01-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 79
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 122917,
+      "title": "El hobbit: La batalla de los cinco ejércitos",
+      "original_language": "en",
+      "original_title": "The Hobbit: The Battle of the Five Armies",
+      "overview": "Después de haber recuperado el reino del Dragón Smaug, la Compañía ha desencadenado, sin querer, una potencia maligna. Un Smaug enfurecido vuela hacia la Ciudad del Lago para acabar con cualquier resto de vida. Obsesionado sobre todo con el reino recuperado, Thorin sacrifica la amistad y el honor para mantenerlo mientras que Bilbo intenta frenéticamente hacerle ver la razón por la que el hobbit toma una decisión desesperada y peligrosa. Pero hay aún mayores peligros por delante. Sin la ayuda aparente del mago Gandalf, su gran enemigo Sauron ha enviado legiones de orcos hacia la Montaña Solitaria en un ataque furtivo. Cuando la oscuridad se cierna sobre ellos, las razas de los Enanos, Elfos y Hombres deben decidir si unirse o ser destruidos. Bilbo se encontrará así en la batalla épica de los Cinco Ejércitos, donde el futuro de la Tierra Media está en juego.",
+      "popularity": 19.7686,
+      "poster_path": "/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg",
+      "release_date": "2014-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.331,
+      "vote_count": 15259
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 58,
+      "title": "Piratas del Caribe: El cofre del hombre muerto",
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+      "overview": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante.",
+      "popularity": 19.6786,
+      "poster_path": "/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
+      "release_date": "2006-07-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.375,
+      "vote_count": 17039
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 22,
+      "title": "Piratas del Caribe: La maldición de la Perla Negra",
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "overview": "El aventurero capitán Jack Sparrow recorre las aguas caribeñas. Pero su andanzas terminan cuando su enemigo, el capitán Barbossa le roba su barco, la Perla Negra, y ataca la ciudad de Port Royal, secuestrando a Elizabeth Swann, hija del gobernador. Will Turner, el amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar la Perla Negra. Pero el prometido de Elizabeth, comodoro Norrington, les persigue a bordo del HMS Impávido. Además, Barbossa y su tripulación son víctimas de un conjuro por el que están condenados a vivir eternamente, y a transformarse cada noche en esqueletos vivientes, en fantasmas guerreros.",
+      "popularity": 19.6756,
+      "poster_path": "/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
+      "release_date": "2003-07-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.82,
+      "vote_count": 22095
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hC11CgiCUdpCwG1I6dSY18nJXrP.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1243741,
+      "title": "Ballistic",
+      "original_language": "en",
+      "original_title": "Ballistic",
+      "overview": "Una madre desconsolada que trabaja en una fábrica de municiones descubre que la bala que mató a su hijo en Afganistán fue fabricada en su propia línea de montaje. Decidida a encontrar respuestas, se embarca en una peligrosa búsqueda de la verdad que la llevará a enfrentarse a la misma industria para la que trabaja y a los secretos detrás de la muerte de su hijo.",
+      "popularity": 19.6555,
+      "poster_path": "/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
+      "release_date": "2026-04-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "id": 156022,
+      "title": "The equalizer (El protector)",
+      "original_language": "en",
+      "original_title": "The Equalizer",
+      "overview": "Robert McCall, un antiguo agente de la CIA que lleva ahora una vida tranquila, abandona su retiro para ayudar a Teri, que está siendo explotada por la mafia rusa. A pesar de que aseguró no volver a ser violento, contemplar tanta crueldad despertará en Robert un implacable y renovado deseo de justicia.",
+      "popularity": 19.5407,
+      "poster_path": "/7tiub1UB4KF9zpacEldfbWAXDi6.jpg",
+      "release_date": "2014-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.284,
+      "vote_count": 9867
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m6ciqp691frwE1nNeMgWFBr0AZf.jpg",
+      "genre_ids": [
+        28,
+        14,
+        12
+      ],
+      "id": 931285,
+      "title": "Mortal Kombat II",
+      "original_language": "en",
+      "original_title": "Mortal Kombat II",
+      "overview": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+      "popularity": 19.0903,
+      "poster_path": "/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
+      "release_date": "2026-05-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/clFFCapyGpE7KD4Jsu5pUbFBZF4.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 359410,
+      "title": "Road House (De profesión: duro)",
+      "original_language": "en",
+      "original_title": "Road House",
+      "overview": "Dalton es un exluchador de la UFC en horas bajas que acepta un trabajo como portero en un conflictivo bar de carretera de los Cayos de Florida, sólo para descubrir que este paraíso no es todo lo que parece... Remake de la película de 1989 con Patrick Swayze.",
+      "popularity": 18.9753,
+      "poster_path": "/n5af068Xoa2feazpY5MP3xcW5Mj.jpg",
+      "release_date": "2024-03-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.922,
+      "vote_count": 2960
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "id": 293660,
+      "title": "Deadpool",
+      "original_language": "en",
+      "original_title": "Deadpool",
+      "overview": "Basado en el anti-héroe menos convencional de Marvel, Deadpool narra el origen de un ex agente de las fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento para curar su cáncer adquiere poderes de curación rápida, adoptando entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
+      "popularity": 18.9228,
+      "poster_path": "/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg",
+      "release_date": "2016-02-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.623,
+      "vote_count": 32596
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sdwjQEM869JFwMytTmvr6ggvaUl.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648,
+        28
+      ],
+      "id": 670,
+      "title": "Old Boy",
+      "original_language": "ko",
+      "original_title": "올드보이",
+      "overview": "Sin tener idea de cómo llegó a ser encarcelado, drogado y torturado durante 15 años, un hombre desesperado busca vengarse de sus captores.",
+      "popularity": 18.8598,
+      "poster_path": "/45kRW1xgTq3QrZltL9mY9e9iYkH.jpg",
+      "release_date": "2003-11-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.238,
+      "vote_count": 9746
+    }
+  ],
+  "total_pages": 2406,
+  "total_results": 48112
+}

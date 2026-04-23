@@ -1,0 +1,412 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
+      "genre_ids": [
+        878,
+        18,
+        10749
+      ],
+      "id": 38,
+      "title": "¡Olvídate de mí!",
+      "original_language": "en",
+      "original_title": "Eternal Sunshine of the Spotless Mind",
+      "overview": "Una mujer usa los servicios de una empresa para borrar de su memoria todo recuerdo de su ex pareja. Ofendido, el hombre intenta hacer lo mismo que ella, pero el proceso no sucede según lo esperado y el protagonista debe atravesar la gigantesca marea de recuerdos de su propio cerebro para recomponer las cosas.",
+      "popularity": 25.0756,
+      "poster_path": "/2bHEXzzccUsBNOS6rn9uvi3vAGW.jpg",
+      "release_date": "2004-03-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.091,
+      "vote_count": 16233
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d3hiSKKyIjvB3Lv577vHh0TxbFM.jpg",
+      "genre_ids": [
+        10749
+      ],
+      "id": 1650558,
+      "title": "Abot Langit",
+      "original_language": "tl",
+      "original_title": "Abot Langit",
+      "overview": "",
+      "popularity": 24.0107,
+      "poster_path": "/5lVYe4aSimWdxJINKwq9s68TZ2G.jpg",
+      "release_date": "2026-03-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9NyHabsIT6aVdLKw7ZYsBn7Vw6R.jpg",
+      "genre_ids": [
+        10749,
+        53
+      ],
+      "id": 1620996,
+      "title": "La caja azul",
+      "original_language": "es",
+      "original_title": "La caja azul",
+      "overview": "Pablo, un joven millonario solitario que vive en la Patagonia, sigue perseguido por un trágico accidente automovilístico que le cambió la vida. Su rutina aislada comienza a cambiar cuando conoce a Lara a través de una aplicación de citas centrada en una premisa peculiar: el intercambio de un objeto misterioso conocido como «la caja azul». A medida que su conexión se profundiza, Lara saca gradualmente a Pablo de su soledad autoimpuesta. Sin embargo, una advertencia anónima pronto plantea interrogantes inquietantes sobre su identidad y sus verdaderas intenciones. Lo que comienza como una relación íntima se convierte rápidamente en un tenso juego psicológico de manipulación y sospecha",
+      "popularity": 23.8903,
+      "poster_path": "/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg",
+      "release_date": "2026-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        18
+      ],
+      "id": 372058,
+      "title": "Your Name.",
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "overview": "Taki y Mitsuha descubren un día que durante el sueño sus cuerpos se intercambian, y comienzan a comunicarse por medio de notas. A medida que consiguen superar torpemente un reto tras otro, se va creando entre los dos un vínculo que poco a poco se convierte en algo más romántico.",
+      "popularity": 23.4654,
+      "poster_path": "/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
+      "release_date": "2016-08-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 12437
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        53
+      ],
+      "id": 216015,
+      "title": "Cincuenta sombras de Grey",
+      "original_language": "en",
+      "original_title": "Fifty Shades of Grey",
+      "overview": "Cuando la estudiante de Literatura Anastasia Steele recibe el encargo de entrevistar al exitoso y joven empresario Christian Grey, queda impresionada al encontrarse ante un hombre atractivo, seductor y también muy intimidante. La inexperta e inocente Ana intenta olvidarle, pero pronto comprende cuánto le desea. Cuando la pareja por fin inicia una apasionada relación, Ana se sorprende por las peculiares prácticas eróticas de Grey, al tiempo que descubre los límites de sus propios y más oscuros deseos.",
+      "popularity": 21.8832,
+      "poster_path": "/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
+      "release_date": "2015-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.87,
+      "vote_count": 12339
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vGjUCw8pKjYi1dq2hwC5kdqkLhs.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 107257,
+      "title": "A Perfect Ending",
+      "original_language": "en",
+      "original_title": "A Perfect Ending",
+      "overview": "Rebecca tiene un secreto muy inusual, uno que ni siquiera sus mejores amigos conocen. La última persona en la tierra que espera para revelarlo a un escort de alto precio llamada París. Lo que comienza como una comedia de errores termina en un viaje exclusivamente erótico. Los esfuerzos no convencionales de Rebecca por encontrarse a sí misma son crudos, evocadores, y a menudo humorísticos, pero siempre muy reales, muy humanos. A veces un final perfecto no es lo uno se espera que sea. (FILMAFFINITY)",
+      "popularity": 21.7857,
+      "poster_path": "/mjwWEwE1xdbtFGCOgeXi5jvQnOU.jpg",
+      "release_date": "2012-06-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 133
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i7AeVOx2Nc03sTcO6e39bwfPBwd.jpg",
+      "genre_ids": [
+        10749
+      ],
+      "id": 1231914,
+      "title": "여직원들 : 직장 연애사 3",
+      "original_language": "ko",
+      "original_title": "여직원들 : 직장 연애사 3",
+      "overview": "",
+      "popularity": 21.4608,
+      "poster_path": "/c4HACOcvKsWAaNTsyYs1JzfwXWi.jpg",
+      "release_date": "2023-11-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10749
+      ],
+      "id": 8966,
+      "title": "Crepúsculo",
+      "original_language": "en",
+      "original_title": "Twilight",
+      "overview": "La joven Bella Swan siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen, un joven distinto a los demás que esconde un secreto...",
+      "popularity": 19.6649,
+      "poster_path": "/40ollvfwHaVF85lkkg522SIl3Qc.jpg",
+      "release_date": "2008-11-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.279,
+      "vote_count": 14329
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1156593,
+      "title": "Culpa tuya",
+      "original_language": "es",
+      "original_title": "Culpa tuya",
+      "overview": "El amor entre Noah y Nick parece inquebrantable, a pesar de las maniobras de sus padres por separarles. Pero el trabajo de él y la entrada de ella en la universidad, abre sus vidas a nuevas relaciones. La aparición de una exnovia que busca venganza y de la madre Nick con intenciones poco claras, removerán los cimientos no solo de su relación, sino de la propia familia Leister. Cuando tantas personas están dispuestas a destruir una relación, ¿puede realmente acabar bien?",
+      "popularity": 18.8335,
+      "poster_path": "/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+      "release_date": "2024-12-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.083,
+      "vote_count": 1533
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10749
+      ],
+      "id": 1236814,
+      "title": "중년부부 스와핑 워크샵",
+      "original_language": "ko",
+      "original_title": "중년부부 스와핑 워크샵",
+      "overview": "",
+      "popularity": 17.5615,
+      "poster_path": "/1iVFVLcw9VN1P9kSrit8uw0iBUH.jpg",
+      "release_date": "2023-04-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bCakS265nbi6fYB3bwuzVLAsjsv.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 259694,
+      "title": "Mejor... solteras",
+      "original_language": "en",
+      "original_title": "How to Be Single",
+      "overview": "Hay muchas formas de ser soltero, pero la de Alice, Robin, Lucy, Meg, Tom y David es especial. Nueva York es una ciudad llena de corazones solitarios que buscan a su media naranja. Y en cualquier lugar, entre conversaciones sugerentes y ligues de una noche, lo que estos solteros tienen en común es la necesidad de saber cómo ser solteros en un mundo donde el amor está en continua evolución.",
+      "popularity": 17.5442,
+      "poster_path": "/2PvZgfRxOjZJLQZ8T5Ix0kIPh7C.jpg",
+      "release_date": "2016-02-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 3342
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1135873,
+      "title": "GGS - Ganteng-Ganteng Sange",
+      "original_language": "hi",
+      "original_title": "GGS - Ganteng-Ganteng Sange",
+      "overview": "",
+      "popularity": 17.2857,
+      "poster_path": "/39fFH027tOpTyZwSNOydSAsOCzb.jpg",
+      "release_date": "2023-05-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 18240,
+      "title": "La propuesta",
+      "original_language": "en",
+      "original_title": "The Proposal",
+      "overview": "Margaret es una poderosa y estricta editora de gran éxito de Nueva York que, por un problema con su visado, de repente se enfrenta a ser deportada a Canadá, su país de origen. Para evitarlo y poder mantener su visa en Estados Unidos, la astuta ejecutiva declara que está comprometida con su joven asistente Andrew, al que lleva torturando durante años. Andrew acepta participar en la farsa, pero con algunas condiciones. La \"pareja\" se dirige entonces a Alaska a conocer la peculiar familia de él, y la ejecutiva de ciudad, acostumbrada a tener todo bajo control, se encuentra inmersa en situaciones surrealistas que escapan a cualquier lógica conocida. Con planes de boda en camino y un agente de inmigración tras sus pasos, Margaret y Andrew se comprometen a seguir con el plan previsto pese a las consecuencias.",
+      "popularity": 17.2814,
+      "poster_path": "/bkbzlLA8HCEHRDxsTKGthII0BpW.jpg",
+      "release_date": "2009-06-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.144,
+      "vote_count": 7403
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Aueidj1cfpZBOW5KbyVCyKMSZE1.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        36
+      ],
+      "id": 585032,
+      "title": "사방지",
+      "original_language": "ko",
+      "original_title": "사방지",
+      "overview": "",
+      "popularity": 17.246,
+      "poster_path": "/uFsTrW5qzU2l3YE0ataLoUgfsjJ.jpg",
+      "release_date": "1988-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cvH1gNIMRITdLzoWv1HNAbRyH3n.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 2105,
+      "title": "American Pie",
+      "original_language": "en",
+      "original_title": "American Pie",
+      "overview": "Una legión de jóvenes inexpertos están intentando apuntarse un tanto con el sexo opuesto. Jim es como cualquier otro chico de su edad, un joven sano y vigoroso que también resulta ser virgen, el principal motivo de su galopante desesperación. Desde que sus padres le sorprendieron viendo películas pornográficas, las cosas han ido a peor. En casa, su bienintencionado padre extiende un celo mortificador en todo lo referente a la educación sexual de su hijo; en el colegio, las cosas no van mucho mejor: sus experiencias con una belleza perteneciente a un programa de intercambio tienen toda la pinta de fracasar. Así que su último recurso se llama Michelle, una integrante de la banda de música que resulta ser todo un prodigio.",
+      "popularity": 17.224,
+      "poster_path": "/bOTrvXIrfVzZa00I2AXCCGI2Nqp.jpg",
+      "release_date": "1999-07-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.604,
+      "vote_count": 8238
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10749
+      ],
+      "id": 744,
+      "title": "Top Gun: Ídolos del aire",
+      "original_language": "en",
+      "original_title": "Top Gun",
+      "overview": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
+      "popularity": 16.9848,
+      "poster_path": "/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg",
+      "release_date": "1986-05-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.06,
+      "vote_count": 9462
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mGznDQ8opBuRd004ChVWhDqjAyW.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        14
+      ],
+      "id": 6435,
+      "title": "Prácticamente magia",
+      "original_language": "en",
+      "original_title": "Practical Magic",
+      "overview": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "popularity": 16.7655,
+      "poster_path": "/5HIg6WEojB5HSEIKES8oyN3chLk.jpg",
+      "release_date": "1998-10-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.771,
+      "vote_count": 1688
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s7oDV92ltdecJ7BTfGSOgsDi900.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 2288,
+      "title": "Closer",
+      "original_language": "en",
+      "original_title": "Closer",
+      "overview": "Una historia de pasiones, sexo, amor y abandono que involucra a dos parejas, con una situación que se complica cuando el hombre de la primera pareja conoce a la mujer de la segunda pareja.",
+      "popularity": 16.6499,
+      "poster_path": "/4Sqs6uA6nitoMDTQs9lZE22ln2v.jpg",
+      "release_date": "2004-12-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.833,
+      "vote_count": 3718
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 11036,
+      "title": "El diario de Noa",
+      "original_language": "en",
+      "original_title": "The Notebook",
+      "overview": "En una residencia de ancianos, un hombre mayor lee a una mujer una historia de amor escrita en su viejo libro de notas. El libro cuenta la vida en los años 40 de Noah Calhoun y Allie Nelson, dos jóvenes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, pasaron un verano idílico juntos y profundamente enamorados, antes de ser separados, primero por sus padres, y más tarde por la Segunda Guerra Mundial.",
+      "popularity": 16.3675,
+      "poster_path": "/gFCnDKfsZWzyv9sweizVC4EWn06.jpg",
+      "release_date": "2004-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 12457
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kHJlXiwxcMAf9R934f0ncEBAMXg.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1252309,
+      "title": "Pídeme lo que quieras",
+      "original_language": "es",
+      "original_title": "Pídeme lo que quieras",
+      "overview": "Judith Flores es una chica normal. Tiene un trabajo que le apasiona, muy buenos amigos y un padre encantador. Pero su vida cambia radicalmente cuando conoce a Eric Zimmerman, dueño de la empresa donde ella trabaja. Su relación con Eric está a punto de dinamitar su vida por completo.",
+      "popularity": 16.3334,
+      "poster_path": "/5rtaLwyKAjbceww4J1ro8aA8BNB.jpg",
+      "release_date": "2024-11-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 281
+    }
+  ],
+  "total_pages": 3108,
+  "total_results": 62152
+}

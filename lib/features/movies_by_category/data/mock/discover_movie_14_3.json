@@ -1,0 +1,427 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 58,
+      "title": "Piratas del Caribe: El cofre del hombre muerto",
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+      "overview": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante.",
+      "popularity": 19.6786,
+      "poster_path": "/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
+      "release_date": "2006-07-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.375,
+      "vote_count": 17039
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 22,
+      "title": "Piratas del Caribe: La maldición de la Perla Negra",
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "overview": "El aventurero capitán Jack Sparrow recorre las aguas caribeñas. Pero su andanzas terminan cuando su enemigo, el capitán Barbossa le roba su barco, la Perla Negra, y ataca la ciudad de Port Royal, secuestrando a Elizabeth Swann, hija del gobernador. Will Turner, el amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar la Perla Negra. Pero el prometido de Elizabeth, comodoro Norrington, les persigue a bordo del HMS Impávido. Además, Barbossa y su tripulación son víctimas de un conjuro por el que están condenados a vivir eternamente, y a transformarse cada noche en esqueletos vivientes, en fantasmas guerreros.",
+      "popularity": 19.6756,
+      "poster_path": "/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
+      "release_date": "2003-07-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.82,
+      "vote_count": 22095
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10749
+      ],
+      "id": 8966,
+      "title": "Crepúsculo",
+      "original_language": "en",
+      "original_title": "Twilight",
+      "overview": "La joven Bella Swan siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen, un joven distinto a los demás que esconde un secreto...",
+      "popularity": 19.6649,
+      "poster_path": "/40ollvfwHaVF85lkkg522SIl3Qc.jpg",
+      "release_date": "2008-11-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.279,
+      "vote_count": 14329
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m6ciqp691frwE1nNeMgWFBr0AZf.jpg",
+      "genre_ids": [
+        28,
+        14,
+        12
+      ],
+      "id": 931285,
+      "title": "Mortal Kombat II",
+      "original_language": "en",
+      "original_title": "Mortal Kombat II",
+      "overview": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+      "popularity": 19.0903,
+      "poster_path": "/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
+      "release_date": "2026-05-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 674,
+      "title": "Harry Potter y el cáliz de fuego",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Goblet of Fire",
+      "overview": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
+      "popularity": 19.0795,
+      "poster_path": "/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+      "release_date": "2005-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.801,
+      "vote_count": 22035
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 675,
+      "title": "Harry Potter y la Orden del Fénix",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Order of the Phoenix",
+      "overview": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
+      "popularity": 18.6785,
+      "poster_path": "/xxXiM2Ij7plbzibKWW9BfDk23aI.jpg",
+      "release_date": "2007-07-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.672,
+      "vote_count": 20691
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eJPPP5MQiwUMo9wxWvsVyZVKTVk.jpg",
+      "genre_ids": [
+        14,
+        53,
+        18
+      ],
+      "id": 1469458,
+      "title": "സംഭവം അദ്ധ്യായം ഒന്ന്",
+      "original_language": "ml",
+      "original_title": "സംഭവം അദ്ധ്യായം ഒന്ന്",
+      "overview": "",
+      "popularity": 18.6491,
+      "poster_path": "/tBNSo4T0R8UztkkpjYkzXI4bFAT.jpg",
+      "release_date": "2026-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 12444,
+      "title": "Harry Potter y las Reliquias de la Muerte - Parte 1",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+      "overview": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
+      "popularity": 18.2017,
+      "poster_path": "/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
+      "release_date": "2010-11-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.734,
+      "vote_count": 20266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 767,
+      "title": "Harry Potter y el misterio del príncipe",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Half-Blood Prince",
+      "overview": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
+      "popularity": 17.9524,
+      "poster_path": "/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg",
+      "release_date": "2009-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 20668
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14
+      ],
+      "id": 109445,
+      "title": "Frozen: El reino del hielo",
+      "original_language": "en",
+      "original_title": "Frozen",
+      "overview": "Cuando una profecía condena a un reino a un invierno eterno, Anna, una joven optimista se une a un temerario montañero llamado Kristoff y a su compinche el reno Sven. Juntos emprenden un viaje épico en busca de Elsa, hermana de Anna y reina de Las Nieves para poner fin al gélido hechizo.",
+      "popularity": 17.9141,
+      "poster_path": "/sGNuWC4BwqOB4l0tkbKwLy70tXC.jpg",
+      "release_date": "2013-11-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.248,
+      "vote_count": 17494
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        14
+      ],
+      "id": 411,
+      "title": "Las crónicas de Narnia: El león, la bruja y el armario",
+      "original_language": "en",
+      "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "overview": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío.",
+      "popularity": 17.895,
+      "poster_path": "/2Lv2wKf2YocOcRfzmvQYOUGRhFg.jpg",
+      "release_date": "2005-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.135,
+      "vote_count": 11430
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        35,
+        10751
+      ],
+      "id": 315162,
+      "title": "El Gato con Botas: El último deseo",
+      "original_language": "en",
+      "original_title": "Puss in Boots: The Last Wish",
+      "overview": "El Gato con Botas se embarca en un viaje épico para encontrar al mítico Último Deseo y recuperar sus nueve vidas.",
+      "popularity": 17.7628,
+      "poster_path": "/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
+      "release_date": "2022-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.201,
+      "vote_count": 8747
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7s7WkAFPBsMTprYMbqbgKoppQsR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "id": 1734,
+      "title": "El regreso de la momia",
+      "original_language": "en",
+      "original_title": "The Mummy Returns",
+      "overview": "Han pasado diez años, Rick O'Connell se ha casado con Evelyn, y ambos son padres del pequeño Alex, de ocho años. Cuando, tras una serie de acontecimientos, la momia del antiguo sacerdote egipcio Im-Ho-Tep es resucitada por una extraña secta en el British Museum, y la maldición milenaria del Rey Escorpión -que seis mil años atrás traicionó al dios Anubis- lo devuelve a la vida, el choque entre ambas fuerzas malignas desencadenará el caos en el mundo... si Rick y Evelyn no consiguen evitarlo.",
+      "popularity": 17.5528,
+      "poster_path": "/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg",
+      "release_date": "2001-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.398,
+      "vote_count": 7608
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mGznDQ8opBuRd004ChVWhDqjAyW.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        14
+      ],
+      "id": 6435,
+      "title": "Prácticamente magia",
+      "original_language": "en",
+      "original_title": "Practical Magic",
+      "overview": "Dos hermanas huérfanas son criadas por sus tías de una forma atípica: sin reglas ni obligaciones y con muchos libros de hechizos a su alrededor. Ambas saben que tienen poderes extraordinarios pero eso tiene un precio: todos los hombres que se enamoren de ellas están destinados a morir prematuramente.",
+      "popularity": 16.7655,
+      "poster_path": "/5HIg6WEojB5HSEIKES8oyN3chLk.jpg",
+      "release_date": "1998-10-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.771,
+      "vote_count": 1688
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 49051,
+      "title": "El hobbit: Un viaje inesperado",
+      "original_language": "en",
+      "original_title": "The Hobbit: An Unexpected Journey",
+      "overview": "Precuela de la trilogía \"El Señor de los Anillos\", obra de J.R.R. Tolkien. En compañía del mago Gandalf y de trece enanos, el hobbit Bilbo Bolsón emprende un viaje a través del país de los elfos y los bosques de los trolls, desde las mazmorras de los orcos hasta la Montaña Solitaria, donde el dragón Smaug esconde el tesoro de los Enanos. Finalmente, en las profundidades de la Tierra, encuentra el Anillo Único, hipnótico objeto que será posteriormente causa de tantas sangrientas batallas en la Tierra Media.",
+      "popularity": 16.4271,
+      "poster_path": "/3dJELUqdpGEkXVrMj7V3BiOjrtf.jpg",
+      "release_date": "2012-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.37,
+      "vote_count": 19519
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        10751
+      ],
+      "id": 823219,
+      "title": "Flow, un mundo que salvar",
+      "original_language": "lv",
+      "original_title": "Straume",
+      "overview": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
+      "popularity": 16.3831,
+      "poster_path": "/337MqZW7xii2evUDVeaWXAtopff.jpg",
+      "release_date": "2024-08-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.086,
+      "vote_count": 2755
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
+      "genre_ids": [
+        10751,
+        14
+      ],
+      "id": 447273,
+      "title": "Blancanieves",
+      "original_language": "en",
+      "original_title": "Snow White",
+      "overview": "Tras la desaparición del benévolo Rey, la Reina Malvada dominó la otrora bella tierra con una vena cruel. La princesa Blancanieves huye del castillo cuando la Reina, celosa de su belleza interior, intenta matarla. En lo profundo del oscuro bosque, se topa con siete enanos mágicos y un joven bandido llamado Jonathan. Juntos, luchan por sobrevivir a la implacable persecución de la Reina y aspiran a recuperar el reino en el proceso.",
+      "popularity": 16.2124,
+      "poster_path": "/sm91FNDF6OOKU4hT9BDW6EMoyDB.jpg",
+      "release_date": "2025-03-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.322,
+      "vote_count": 1605
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "id": 2062,
+      "title": "Ratatouille",
+      "original_language": "en",
+      "original_title": "Ratatouille",
+      "overview": "Remy es una simpática rata que sueña con convertirse en un gran chef francés a pesar de la oposición de su familia y del problema evidente que supone ser una rata en una profesión que detesta a los roedores. El destino lleva entonces a Remy a las alcantarillas de París, pero su situación no podría ser mejor, ya que se encuentra justo debajo de un restaurante que se ha hecho famoso gracias a Auguste Gusteau, una estrella de la cuisine. A pesar del peligro que representa ser un visitante poco común (y desde luego nada deseado) en los fogones de un exquisito restaurante francés, la pasión de Remy por la cocina pone patas arriba el mundo culinario parisino en una trepidante y emocionante aventura.",
+      "popularity": 16.1291,
+      "poster_path": "/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg",
+      "release_date": "2007-06-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.838,
+      "vote_count": 18364
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12
+      ],
+      "id": 453395,
+      "title": "Doctor Strange en el multiverso de la locura",
+      "original_language": "en",
+      "original_title": "Doctor Strange in the Multiverse of Madness",
+      "overview": "Viaja a lo desconocido con el Doctor Strange, quien, con la ayuda de tanto antiguos como nuevos aliados místicos, recorre las complejas y peligrosas realidades alternativas del multiverso para enfrentarse a un nuevo y misterioso adversario.",
+      "popularity": 16.0481,
+      "poster_path": "/1w3MlLZPqr2Pm5loQ9h2gJwenMr.jpg",
+      "release_date": "2022-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.224,
+      "vote_count": 10222
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+      "genre_ids": [
+        14,
+        28,
+        27
+      ],
+      "id": 1043197,
+      "title": "Atrapando a un monstruo",
+      "original_language": "en",
+      "original_title": "Dust Bunny",
+      "overview": "Una niña de ocho años le pide ayuda a su insidiosa vecina en su misión para matar al monstruo que vive debajo de su cama, el cual, según ella, devoró a su familia.",
+      "popularity": 15.9866,
+      "poster_path": "/mfWPUc2izmwjLvljMDvuYhcUDLL.jpg",
+      "release_date": "2025-12-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.628,
+      "vote_count": 244
+    }
+  ],
+  "total_pages": 1446,
+  "total_results": 28901
+}

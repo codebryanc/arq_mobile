@@ -1,0 +1,427 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1290821,
+      "title": "Shelter: El Protector",
+      "original_language": "en",
+      "original_title": "Shelter",
+      "overview": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
+      "popularity": 186.1386,
+      "poster_path": "/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
+      "release_date": "2026-01-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 583
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 1171145,
+      "title": "Ruta de escape",
+      "original_language": "en",
+      "original_title": "Crime 101",
+      "overview": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis está planeando su mayor golpe, con la esperanza de que sea el último, cuando se cruza en su camino Sharon, una desilusionada ejecutiva de seguros con la que se ve obligado a trabajar, y Orman un ladrón rival, con métodos mucho más inquietantes que los de Davis. A medida que se acerca el golpe multimillonario, el implacable teniente Lubesnik, se acerca a la operación, aumentando considerablemente el riesgo de lo que está en juego y difuminando la línea entre cazador y presa. Pronto, cada uno tendrá que aceptar el coste de sus decisiones asumiendo que no hay vuelta atrás.",
+      "popularity": 132.0621,
+      "poster_path": "/oUF0tTmbwlfkhiYSU5nXJccr5K0.jpg",
+      "release_date": "2026-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.966,
+      "vote_count": 754
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        80
+      ],
+      "id": 1159559,
+      "title": "Scream 7",
+      "original_language": "en",
+      "original_title": "Scream 7",
+      "overview": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
+      "popularity": 106.7999,
+      "poster_path": "/2pULHV2e3W7KNTyyfZl6dX071Np.jpg",
+      "release_date": "2026-02-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.054,
+      "vote_count": 785
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 1419406,
+      "title": "Escuadrón letal",
+      "original_language": "zh",
+      "original_title": "捕风追影",
+      "overview": "Unos astutos y traicioneros ladrones desafian a la Policía Judicial de Macao. La Policía, que se encontraba en una dura batalla, invita de nuevo al experto en rastreo Huang De Zhong, retirado desde hace muchos años, a unir fuerzas con la joven élite del Departamento de Investigación Criminal de la Policía Judicial. Bajo la colisión de las técnicas tradicionales de rastreo y la alta tecnología, la policía y los criminales luchan con ingenio y valentía, y se lanzan a un duelo entre el bien y el mal parecido al juego del gato y el ratón.",
+      "popularity": 88.2702,
+      "poster_path": "/ftBCLqEhDvgKRcux0fk5TriVhMD.jpg",
+      "release_date": "2025-08-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.222,
+      "vote_count": 585
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+      "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "id": 1659087,
+      "title": "180",
+      "original_language": "en",
+      "original_title": "180",
+      "overview": "Un inesperado incidente de tráfico deja a su hijo en estado crítico. El padre, enfurecido, se adentra en una oscura espiral de confusión emocional y venganza.",
+      "popularity": 73.6476,
+      "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+      "release_date": "2026-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.641,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kt9p1cS4O72aSeFRGQzlLuI1mY4.jpg",
+      "genre_ids": [
+        80,
+        27,
+        9648
+      ],
+      "id": 1107166,
+      "title": "Psycho Killer",
+      "original_language": "en",
+      "original_title": "Psycho Killer",
+      "overview": "Una agente de policía sigue la pista de un asesino después de que su marido, un patrullero de carretera, se convierta en una de sus víctimas.",
+      "popularity": 66.751,
+      "poster_path": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+      "release_date": "2026-02-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.714,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        80,
+        18
+      ],
+      "id": 7451,
+      "title": "xXx",
+      "original_language": "en",
+      "original_title": "xXx",
+      "overview": "Xander Cage es XXX, un antiguo ganador de X-Games y atleta profesional de deportes de extremo, que sobrevive vendiendo videos de sus increíbles hazañas, las cuales hacen emitir adrenalina por todo el cuerpo. Pero después de incontables encuentros con la ley, su mundo está a punto de tomar un rumbo aún más extremo... Porque Xander no sabe que ha sido \"espiado\" por Augustus Gibbons, un agente veterano de la Agencia Nacional de Seguridad que se encuentra en una desesperada situación en la distante ciudad de Praga, en donde su operativo secreto ha sido asesinado por una pandilla de mafiosos con un estilo muy propio, que se llaman así mismos Anarchy 99, encabezados por el brutal ex-Comandante del Ejército Ruso Yorgi.",
+      "popularity": 62.2127,
+      "poster_path": "/gd4hRY3pFXRY7YVbMdVBpnKV7wC.jpg",
+      "release_date": "2002-08-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.986,
+      "vote_count": 4863
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+      "genre_ids": [
+        35,
+        878,
+        80
+      ],
+      "id": 1115544,
+      "title": "Mike y Nick y Nick y Alice",
+      "original_language": "en",
+      "original_title": "Mike & Nick & Nick & Alice",
+      "overview": "Dos gángsters y la mujer a la que aman intentan sobrevivir a la noche más peligrosa de sus vidas, en la que está implicada una máquina del tiempo.",
+      "popularity": 59.2742,
+      "poster_path": "/k6PSvLUs84QJsWLt0Zlkoa8ih6V.jpg",
+      "release_date": "2026-03-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.732,
+      "vote_count": 259
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        9648
+      ],
+      "id": 1168190,
+      "title": "Los hermanos demolición",
+      "original_language": "en",
+      "original_title": "The Wrecking Crew",
+      "overview": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.",
+      "popularity": 50.0539,
+      "poster_path": "/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg",
+      "release_date": "2026-01-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.88,
+      "vote_count": 906
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "id": 28322,
+      "title": "Vacaciones para matar",
+      "original_language": "it",
+      "original_title": "Vacanze per un massacro",
+      "overview": "Un fugitivo trata de recuperar el botí­n de un robo que había escondido en una casa de montaña antes de ser detenido. Allí en lugar de pasar el fin de semana solos un matrimonio y la joven hermana de la mujer serán espiados a la espera de aprovechar la oportunidad idónea para recuperar los bienes robados, descubre sus secretos más morbosos antes de agredirlos para recuperar su botín.",
+      "popularity": 44.5776,
+      "poster_path": "/q05X1TcL8ZHdGzznx7I8EjdYFnU.jpg",
+      "release_date": "1980-03-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.929,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aouxo2EaR7QSGBBUNTITuW0lj4z.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 875828,
+      "title": "Peaky Blinders: El hombre inmortal",
+      "original_language": "en",
+      "original_title": "Peaky Blinders: The Immortal Man",
+      "overview": "El gánster Tommy Shelby regresa a Birmingham para salvar a su familia —y a su país— cuando su hijo, del que se ha distanciado, se ve envuelto en un complot nazi.",
+      "popularity": 43.2954,
+      "poster_path": "/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
+      "release_date": "2026-03-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.222,
+      "vote_count": 817
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 425274,
+      "title": "Ahora me ves 3",
+      "original_language": "en",
+      "original_title": "Now You See Me: Now You Don't",
+      "overview": "Los Cuatro Jinetes regresan junto a una nueva generación de ilusionistas en una extraordinaria aventura que contiene giros asombrosos, sorpresas alucinantes y trucos de magia nunca vistos en la gran pantalla.",
+      "popularity": 43.0964,
+      "poster_path": "/Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg",
+      "release_date": "2025-11-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.506,
+      "vote_count": 1397
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 238,
+      "title": "El padrino",
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "popularity": 42.8675,
+      "poster_path": "/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
+      "release_date": "1972-03-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.686,
+      "vote_count": 22783
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 278,
+      "title": "Cadena perpetua",
+      "original_language": "en",
+      "original_title": "The Shawshank Redemption",
+      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+      "popularity": 42.3959,
+      "poster_path": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+      "release_date": "1994-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 30159
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/po1niVuud0tX86xOFegO5omQ2wX.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53,
+        80
+      ],
+      "id": 1236153,
+      "title": "Sin piedad",
+      "original_language": "en",
+      "original_title": "Mercy",
+      "overview": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
+      "popularity": 41.9953,
+      "poster_path": "/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
+      "release_date": "2026-01-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.967,
+      "vote_count": 1148
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1306368,
+      "title": "El botín",
+      "original_language": "en",
+      "original_title": "The Rip",
+      "overview": "El descubrimiento de varios millones de dólares en efectivo en un zulo abandonado de Miami quiebra la confianza de un grupo de policías. Ahora, todo y todos están bajo sospecha.",
+      "popularity": 37.1037,
+      "poster_path": "/55C5loKFkw7Cj0nMLWux4FJCRHI.jpg",
+      "release_date": "2026-01-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1524
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "id": 680,
+      "title": "Pulp Fiction",
+      "original_language": "en",
+      "original_title": "Pulp Fiction",
+      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "popularity": 33.3248,
+      "poster_path": "/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "release_date": "1994-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.485,
+      "vote_count": 30030
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg",
+      "genre_ids": [
+        35,
+        80,
+        28
+      ],
+      "id": 1416391,
+      "title": "La tostadora",
+      "original_language": "hi",
+      "original_title": "टोस्टर",
+      "overview": "Un hombre muy tacaño intenta recuperar una tostadora que regaló en una boda que acabó cancelándose, pero, sin querer, se ve envuelto en un asesinato.",
+      "popularity": 33.306,
+      "poster_path": "/2tTUscTlshVovvUnk1qlkQrkbum.jpg",
+      "release_date": "2026-04-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.267,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1339876,
+      "title": "La mujer policia 3",
+      "original_language": "hi",
+      "original_title": "मर्दानी 3",
+      "overview": "Es una carrera contra el tiempo y no habrá piedad. Shivani Shivaji Roy regresa para rescatar a las chicas que desaparecen sin dejar rastro.",
+      "popularity": 33.3041,
+      "poster_path": "/o9aV83ZxGafGseLK8us9QNKKWzG.jpg",
+      "release_date": "2026-01-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 155,
+      "title": "El caballero oscuro",
+      "original_language": "en",
+      "original_title": "The Dark Knight",
+      "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+      "popularity": 32.0855,
+      "poster_path": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "release_date": "2008-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.528,
+      "vote_count": 35538
+    }
+  ],
+  "total_pages": 2055,
+  "total_results": 41087
+}

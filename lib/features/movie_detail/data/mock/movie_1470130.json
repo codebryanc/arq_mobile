@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Misterio"
+    }
+  ],
+  "homepage": "",
+  "id": 1470130,
+  "imdb_id": "tt36647890",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Mortuary Assistant",
+  "overview": "Rebecca Owens, una licenciada en ciencias mortuorias, acepta un trabajo nocturno en la funeraria River Fields. Lo que comienza como un trabajo rutinario pronto se vuelve siniestro al enfrentarse a terroríficas fuerzas sobrenaturales.",
+  "popularity": 198.9187,
+  "poster_path": "/3loVbnQ9hmay4OA6QjV6yMpHRYf.jpg",
+  "production_companies": [
+    {
+      "id": 153351,
+      "logo_path": "/dMusWUKSqpqXQOh0WiXHSmRBTci.png",
+      "name": "Dread",
+      "origin_country": "US"
+    },
+    {
+      "id": 46241,
+      "logo_path": "/vky0cn7DXiP9LAHETop7CVhvYk5.png",
+      "name": "Traverse Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 7662,
+      "logo_path": "/uGLpMN6r5MyFosNTgP9PKU48CHp.png",
+      "name": "Epic Pictures Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 31787,
+      "logo_path": "/dWkJVibgXMBhPathe3rn7raMcta.png",
+      "name": "Creativity Capital",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-02-13",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Mortuary Assistant",
+  "video": false,
+  "vote_average": 5.449,
+  "vote_count": 78
+}

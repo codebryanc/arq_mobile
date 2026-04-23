@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/be5T7oHxmDG4ytEimwPdmDHZD9N.jpg",
+  "belongs_to_collection": null,
+  "budget": 100000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    }
+  ],
+  "homepage": "",
+  "id": 1352874,
+  "imdb_id": "tt32059878",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Crucifix: Blood of the Exorcist",
+  "overview": "",
+  "popularity": 143.4088,
+  "poster_path": "/iGDTo2uEUppEipTZjmEy6R72gwV.jpg",
+  "production_companies": [
+    {
+      "id": 186394,
+      "logo_path": null,
+      "name": "Equalize Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-01-09",
+  "revenue": 82873,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Crucifix: Blood of the Exorcist",
+  "video": false,
+  "vote_average": 6.571,
+  "vote_count": 21
+}

@@ -1,0 +1,425 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/5r2BZajlRZqnOc6s2BS0aiFDcne.jpg",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "id": 4512,
+      "title": "El asesinato de Jesse James por el cobarde Robert Ford",
+      "original_language": "en",
+      "original_title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "overview": "Narra la historia del más famoso forajido del oeste americano, el carismático e impredecible pistolero Jesse James, un bandolero sudista hijo de un predicador. Mientras Jesse planea su próximo gran robo, declara la guerra a sus enemigos, quienes intentan hacerse con la recompensa -y la gloria- que implicaría su captura. Pero la amenaza más importante a su vida puede que venga de aquellos en quienes más confia.",
+      "popularity": 5.299,
+      "poster_path": "/azrNQgdyBczVjLwqYqefPf3Vg6X.jpg",
+      "release_date": "2007-09-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.06,
+      "vote_count": 2747
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dC15RaDX4mmPB0omILrjTKMGy6W.jpg",
+      "genre_ids": [
+        53,
+        37
+      ],
+      "id": 1200320,
+      "title": "Miradas asesinas",
+      "original_language": "en",
+      "original_title": "Killing Faith",
+      "overview": "En 1849, una esclava recién liberada cree que su misteriosa hija caucásica está poseída porque todo lo que toca muere, y convence a un médico viudo para que las lleve en un viaje para encontrar a un sanador de fe que se encuentra en una zona remota.",
+      "popularity": 5.747,
+      "poster_path": "/jsejtb7ceAGtNxOJOF1lD6qPByr.jpg",
+      "release_date": "2025-10-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.317,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2eznGndOi8s9CGReAvcQ8PEULwm.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 5176,
+      "title": "El tren de las 3:10",
+      "original_language": "en",
+      "original_title": "3:10 to Yuma",
+      "overview": "Remake del film de 1957 \"El Tren de las 3:10\", de Delmer Daves. Dan Evans es un típico ranchero de un pueblo de Arizona y veterano de la Guerra de Secesión que, para aliviar sus penurias económicas, decide escoltar al peligroso forajido Ben Wade mientras llega el tren que tiene que llevarlo ante la justicia. Pero no todo saldrá bien y la violencia no tardará en aparecer: durante ese tiempo se inicia una dramática lucha psicológica entre ambos hombres mientras las compañeros del forajido intentan liberarle.",
+      "popularity": 5.4913,
+      "poster_path": "/etmnvALqhRmG8oa061VUODSUiwK.jpg",
+      "release_date": "2007-09-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.229,
+      "vote_count": 3987
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gyaWP5k6JbxTcaqQQFDF09cF9s9.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 10747,
+      "title": "El fuera de la ley",
+      "original_language": "en",
+      "original_title": "The Outlaw Josey Wales",
+      "overview": "A punto de finalizar la Guerra de Secesión, un grupo de unionistas, liderados por el sádico capitán Terrill, asesina a la familia de un granjero llamado Joseph Wales. Movido por el odio y el deseo de venganza, se une a un grupo de rebeldes. Poco después, finaliza la contienda, el ejército de la Unión ofrece la amnistía a todas las guerrillas y sus compañeros aceptan. La rabia y el dolor siguen vivos dentro de Wales, y no se rendirá tan fácilmente.",
+      "popularity": 4.9071,
+      "poster_path": "/5TzrWk1mSoavRcdkNEhVpKftICv.jpg",
+      "release_date": "1976-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.437,
+      "vote_count": 1276
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6s8BdbXyWf1SZJXupsepayLj3su.jpg",
+      "genre_ids": [
+        37,
+        80,
+        18
+      ],
+      "id": 338766,
+      "title": "Comanchería",
+      "original_language": "en",
+      "original_title": "Hell or High Water",
+      "overview": "Un padre divorciado y su hermano, un ex presidiario recién salido de la cárcel, se dirigen al Oeste de Texas con el objetivo realizar una serie de robos en una serie de sucursales bancarias, con el fin de poder conseguir el dinero suficiente como para poder salvar la granja familiar.",
+      "popularity": 5.7458,
+      "poster_path": "/rGihwoxhAjPrnrjpTPowuIOU3jy.jpg",
+      "release_date": "2016-08-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 4822
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rPDcuFniW2yZrSRbLjeNdQy7P45.jpg",
+      "genre_ids": [
+        37,
+        28,
+        18
+      ],
+      "id": 11509,
+      "title": "Silverado",
+      "original_language": "en",
+      "original_title": "Silverado",
+      "overview": "Silverado es una vieja ciudad fronteriza del Oeste. En 1880, cuatro vaqueros cabalgan por el polvoriento camino de la ciudad: los hermanos Emmett, el aventurero Paden y un duro vaquero de raza negra. Al llegar encuentran un ambiente hostil que les obliga a tomar decisiones con las que no todos están de acuerdo. Su principal enemigo es el comisario, que se dice salvaguarda de la ley, aunque muy a su manera. Para empezar, regenta una cantina.",
+      "popularity": 5.2187,
+      "poster_path": "/lkQ7ha7WUVq3xqEU78VbqymRc9E.jpg",
+      "release_date": "1985-07-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.941,
+      "vote_count": 801
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/raYHhtIDyh3qDS6WdyRzeqjLyIK.jpg",
+      "genre_ids": [
+        37,
+        18,
+        53
+      ],
+      "id": 288,
+      "title": "Solo ante el peligro",
+      "original_language": "en",
+      "original_title": "High Noon",
+      "overview": "Will Kane, el sheriff del pequeño pueblo de Hadleyville, acaba de contraer matrimonio con Amy. Los recién casados proyectan trasladarse a la ciudad y abrir un pequeño negocio; pero, de repente, empieza a correr por el pueblo la noticia de que Frank Miller, un criminal que Kane había atrapado y llevado ante la justicia, ha salido de la cárcel y llegará al pueblo en el tren del mediodía para vengarse de Kane. El tiempo va pasando lentamente, pero nadie en el pueblo está dispuesto a ayudar al sheriff.",
+      "popularity": 4.8474,
+      "poster_path": "/9wGUWTtUfCvW5qVv8kHkPZBikKd.jpg",
+      "release_date": "1952-06-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.666,
+      "vote_count": 1560
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jJKjniDrS1FaWiSgOBxjjTe6ME.jpg",
+      "genre_ids": [
+        37,
+        12,
+        28
+      ],
+      "id": 22383,
+      "title": "Los profesionales",
+      "original_language": "en",
+      "original_title": "The Professionals",
+      "overview": "Grant, un ranchero cuyas propiedades lindan con la frontera de México, contrata a cuatro aventureros para que penetren en territorio de la nación vecina. El objetivo es rescatar a sus esposa, raptada por el líder de un grupo revolucionario. Los mercenarios aceptan el trato, pero pronto descubren que hay gato encerrado.  Un impecable wéstern de acción ambientado en el México de 1917 y soberbiamente interpretado por una envidiable colección de duros clásicos de Hollywood, como Lee Marvin, Burt Lancaster, Robert Ryan y Jack Palance. Dirigido por Richard Brooks (\"Lord Jim\"), fue candidato a los premios Óscar a mejor director, guion adaptado y fotografía en color.",
+      "popularity": 4.9668,
+      "poster_path": "/pyDdqgz2VBsr3EKit7E66auhYwb.jpg",
+      "release_date": "1966-11-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.094,
+      "vote_count": 335
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sGXCYMzr1sCnGNVuRpB2TOWPWDA.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53,
+        37
+      ],
+      "id": 49849,
+      "title": "Cowboys & Aliens",
+      "original_language": "en",
+      "original_title": "Cowboys & Aliens",
+      "overview": "Arizona, 1873. Un extraño, que no recuerda su pasado, acaba por casualidad en el duro y desértico pueblo de Absolution. Pronto descubre que los forasteros no son bienvenidos y que nadie mueve un dedo en sus calles sin que se lo ordene el Coronel \"Mano de hierro\" Dolarhyde Ford. Pero Absolution está a punto de experimentar un pánico incompresible cuando la desolada ciudad es atacada por unos maleantes desde el cielo. Ahora, el extraño que rechazaban es su única esperanza de salvación. Este pistolero, se da cuenta de que tiene un secreto que puede darle al pueblo una oportunidad para enfrentarse a los alienígenas. Con la ayuda de la escurridiza viajera Ella, logran reunir a un grupo de antiguos rivales: los ciudadanos, Dolarhyde y sus chicos, los bandidos y los guerreros apache, todos ellos en peligro de ser aniquilados. Unidos contra un enemigo común, se prepararán para un épico enfrentamiento por la supervivencia.",
+      "popularity": 5.2202,
+      "poster_path": "/noA2N0VdXVS9dsK3C0IH4RhKTBx.jpg",
+      "release_date": "2011-07-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.647,
+      "vote_count": 5369
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qkymqmJW6IdZBIRWD66Ns4HHGJq.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        37
+      ],
+      "id": 506281,
+      "title": "El mundo que viene",
+      "original_language": "en",
+      "original_title": "The World to Come",
+      "overview": "En algún lugar a lo largo de la frontera de la costa este estadounidense de mediados del siglo XIX, dos parejas vecinas luchan contra las dificultades y el aislamiento, en un entorno que les desafía tanto física como psicológicamente. En el norte del estado de Nueva York, en la década de 1850, Abigail comienza un nuevo año en la granja rural donde vive con su marido Dyer. Llega la primavera y Abigail conoce a Tallie, una recién llegada emocionalmente sincera y fascinantemente bella que alquila una granja vecina con su marido, Finney. Las dos entablan una relación incierta, y así llenan un vacío en sus vidas que ninguna sabía que existía.",
+      "popularity": 4.6143,
+      "poster_path": "/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg",
+      "release_date": "2021-02-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.99,
+      "vote_count": 393
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ctDqJtlMwASOKoQi7sacSVae3EI.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53,
+        37
+      ],
+      "id": 1428,
+      "title": "El mexicano",
+      "original_language": "en",
+      "original_title": "Once Upon a Time in Mexico",
+      "overview": "Sands (Johnny Depp), un peculiar agente de la CIA, ha sido destinado a México con la misión de mantener la estabilidad del país. Cuando se entera de que Barillo (Willem Dafoe) planea asesinar al presidente de México por medio del general Márquez (Gerardo Vigil), busca a \"El Mariachi\" (Antonio Banderas), un personaje legendario, que vive aislado y que tiene una cuenta pendiente con Márquez.",
+      "popularity": 4.8544,
+      "poster_path": "/jWofPn9h93Out6ePI1ip4EiyE7P.jpg",
+      "release_date": "2003-09-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.296,
+      "vote_count": 2371
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ZLD4pjmMLt9I3t1a7SFJBekIh1.jpg",
+      "genre_ids": [
+        53,
+        80,
+        37
+      ],
+      "id": 596161,
+      "title": "Uno de nosotros",
+      "original_language": "en",
+      "original_title": "Let Him Go",
+      "overview": "Tras sufrir la pérdida de su hijo, el sheriff jubilado George Blackledge y su mujer Margaret dejan su rancho en Montana para tratar de rescatar a su nieto en Dakota. El niño está bajo la tutela de la poderosa familia Weboy, pues la nuera se ha vuelto a casar con otro hombre. La matriarca Blanche Weboy, tras descubrir las intenciones de los Blackledge, decide hacer todo lo posible para impedir que el niño regrese con sus abuelos.",
+      "popularity": 5.1282,
+      "poster_path": "/rMAeMVNJTlNG06zuKDe5KqArPhu.jpg",
+      "release_date": "2020-11-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.837,
+      "vote_count": 786
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AoFo9HeJU7jiHAUNawpwhs3zQbd.jpg",
+      "genre_ids": [
+        37,
+        28,
+        12
+      ],
+      "id": 11967,
+      "title": "Arma joven",
+      "original_language": "en",
+      "original_title": "Young Guns",
+      "overview": "En una zona fronteriza con México, Tunstall contrata coo ayudantes para su granja a jóvenes, huidos o vagabundos, a quienes enseña y educa. Entre ellos hay uno con una gran puntería. Tunstall cuenta en el pueblo con competidores codiciosos que ponen trabas a sus negocios y matan por la espalda sin ningún temor a las consecuencias.",
+      "popularity": 4.8218,
+      "poster_path": "/cirl4qaSvqow6lcvZvpRZFXKo1W.jpg",
+      "release_date": "1988-08-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.673,
+      "vote_count": 1019
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRveokBXITqXhUAdyD0kqqBolZ0.jpg",
+      "genre_ids": [
+        37,
+        18
+      ],
+      "id": 4929,
+      "title": "Cometieron dos errores",
+      "original_language": "en",
+      "original_title": "Hang 'em High",
+      "overview": "Oklahoma, 1889. Unos hombres acusan injustamente a Jed Cooper (Clint Eastwood) de haber robado ganado y no dudan en ahorcarlo. En el último instante, lo salva un comisario que trabaja a las órdenes del juez Fentom. Aclarados los hechos y demostrada su inocencia, el juez aconseja a Cooper que olvide lo ocurrido y le ofrece un puesto como comisario. Su misión será capturar vivos a los que intentaron lincharlo para que sean juzgados por el juez.",
+      "popularity": 4.9763,
+      "poster_path": "/vJrlt9oldbblmnIlVwPe620vMiB.jpg",
+      "release_date": "1968-04-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.837,
+      "vote_count": 832
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ctzKCslTsMRsOJNvAm1Mw8ytiHY.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        18,
+        37
+      ],
+      "id": 9359,
+      "title": "Maverick",
+      "original_language": "en",
+      "original_title": "Maverick",
+      "overview": "Bret Maverick es un atractivo timador con una extraordinaria facilidad para escabullirse de los enredos que él mismo provoca. Sólo una persona es capaz de perturbarle: Annabelle, una habilidosa jugadora de póquer que se cruza en su camino.",
+      "popularity": 4.6786,
+      "poster_path": "/8NT1BRwKbm6qeG24SwRI1Em7ave.jpg",
+      "release_date": "1994-05-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.894,
+      "vote_count": 1749
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e65E7jH5bKMSgHJnWLw4ex02Dyu.jpg",
+      "genre_ids": [
+        37,
+        18,
+        28,
+        10749
+      ],
+      "id": 2055,
+      "title": "Open Range",
+      "original_language": "en",
+      "original_title": "Open Range",
+      "overview": "Intentando huir de su pasado, Charley Waite, Boss Spearman \"Button\" y Mose Harrison conducen ganado por las grandes praderas. Sus ideales son la justicia y la lealtad y procuran por todos los medios evitar la violencia. Pero su visita a Harmonville, una ciudad fronteriza dominada por un poderoso y despótico ranchero a cuyo servicio trabaja el corrupto sheriff local, cambiará sus vidas y los obligará a utilizar las armas en una desigual batalla.",
+      "popularity": 5.0,
+      "poster_path": "/tJiK5aoMplb8DiAyp5c8qJ4Adpo.jpg",
+      "release_date": "2003-08-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.216,
+      "vote_count": 1197
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aBY4QcxdLgaGLf3ZHUvuKjRm8yF.jpg",
+      "genre_ids": [
+        53,
+        37,
+        18
+      ],
+      "id": 324560,
+      "title": "Brimstone. La hija del predicador",
+      "original_language": "en",
+      "original_title": "Brimstone",
+      "overview": "Liz lleva una vida tranquila, pero cuando escuche el primer sermón del nuevo reverendo, la joven madre comprenderá que su paz ha terminado y que su pasado la ha alcanzado de nuevo. Comienza así un peregrinaje épico, lleno de sangre y sufrimiento. Dakota Fanning, Guy Pearce y Kit Harington (aka Jon Snow) protagonizan este American Gothic, en cuatro actos y con el mal pisando los talones.",
+      "popularity": 4.8222,
+      "poster_path": "/dIJ126w1eWpbEyIGTF6nWawzQAz.jpg",
+      "release_date": "2016-03-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.147,
+      "vote_count": 1254
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vmDpLofmDgDx3KXTNzRc6dYROim.jpg",
+      "genre_ids": [
+        28,
+        35,
+        37,
+        80
+      ],
+      "id": 1969,
+      "title": "Bandidas",
+      "original_language": "en",
+      "original_title": "Bandidas",
+      "overview": "Sara Sandoval es una bella y altiva aristócrata mexicana que se ha educado en Europa y disfruta de los privilegios de una plácida existencia, sin privaciones de ninguna clase. Al otro extremo del espectro social está María Álvarez. Volcánica y rebelde, ella es la deslumbrante hija de un peón de campo. Ellas provienen de lados opuestos de la escala social y, en circunstancias normales, sus caminos probablemente no se hubiesen cruzado nunca. Pero el destino une a estas dos mujeres cuando una banda de pistoleros a sueldo, que trabajan para unos avariciosos barones del ferrocarril, roba las tierras de sus respectivas familias, atacando y asesinando a sus seres más queridos. Empujadas por la necesidad, María y Sara forman de mala gana una alianza con la intención de hallar cumplida venganza. Al decidir tomar cartas en el asunto, se convierten a su vez en prófugas de la ley y en ladronas de bancos.",
+      "popularity": 5.0724,
+      "poster_path": "/mkSfRjRcld9BULXuxP3eA9cMMs3.jpg",
+      "release_date": "2006-01-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.034,
+      "vote_count": 1167
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/scjRKib0bVVQEZv1lCutko4tlY4.jpg",
+      "genre_ids": [
+        37,
+        10402,
+        10749
+      ],
+      "id": 13936,
+      "title": "Oklahoma",
+      "original_language": "en",
+      "original_title": "Oklahoma!",
+      "overview": "Curly, un apuesto vaquero, está enamorado de Laurey, una tímida granjera, pero ambos son demasiado orgullosos y les cuesta admitir sus sentimientos. La llegada de un forastero desencadenará entre los dos hombres una guerra sin cuartel para conquistar a la chica.",
+      "popularity": 3.8883,
+      "poster_path": "/kB8r1ofzNszcLeUW552GS4YXL21.jpg",
+      "release_date": "1955-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.612,
+      "vote_count": 183
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hzu8vnesAe4g9DZ9GROU1opfiIn.jpg",
+      "genre_ids": [
+        37,
+        18
+      ],
+      "id": 17529,
+      "title": "Valor de ley",
+      "original_language": "en",
+      "original_title": "True Grit",
+      "overview": "Un viejo agente del Gobierno, alcohólico y tuerto (John Wayne), es contratado por Mattie Ross (Kim Darby), una valerosa y obstinada joven, que se propone capturar al asesino de su padre. Contarán además con la colaboración de La Boeuf (Campbell), un ránger de Tejas.",
+      "popularity": 5.0254,
+      "poster_path": "/jp5WDY8sQCVoKTOdowHpTupsKXD.jpg",
+      "release_date": "1969-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 845
+    }
+  ],
+  "total_pages": 502,
+  "total_results": 10035
+}

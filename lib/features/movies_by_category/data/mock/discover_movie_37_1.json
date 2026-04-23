@@ -1,0 +1,425 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 429,
+      "title": "El bueno, el feo y el malo",
+      "original_language": "it",
+      "original_title": "Il buono, il brutto, il cattivo",
+      "overview": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
+      "popularity": 20.2948,
+      "poster_path": "/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
+      "release_date": "1966-12-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 9560
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53,
+        37
+      ],
+      "id": 1601243,
+      "title": "Oscar Shaw",
+      "original_language": "en",
+      "original_title": "Oscar Shaw",
+      "overview": "Tras retirarse de la policía, un implacable detective atormentado por la trágica pérdida de su mejor amigo emprende una peligrosa búsqueda de venganza, buscando la redención y luchando también por devolver la justicia a las calles que una vez juró proteger.",
+      "popularity": 17.1883,
+      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "release_date": "2026-01-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.483,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "id": 68718,
+      "title": "Django desencadenado",
+      "original_language": "en",
+      "original_title": "Django Unchained",
+      "overview": "Dos años antes de estallar la Guerra Civil (1861-1865), Schultz, un cazarrecompensas alemán que le sigue la pista a unos asesinos, le promete al esclavo Django dejarlo en libertad si le ayuda a atraparlos. Terminado con éxito el trabajo, Django prefiere seguir al lado del alemán y ayudarle a capturar a los delincuentes más buscados del Sur. Se convierte así en un experto cazador de recompensas, pero su único objetivo es rescatar a su esposa Broomhilda, a la que perdió por culpa del tráfico de esclavos. La búsqueda llevará a Django y a Schultz hasta Calvin Candie, el malvado propietario de la plantación \"Candyland\". La presencia de ambos en los alrededores de la propiedad, despierta las sospechas de Stephen, el esclavo de confianza de Candie.",
+      "popularity": 13.8929,
+      "poster_path": "/fIxAE6BKfAzhPRYm7DdldBaYu5T.jpg",
+      "release_date": "2012-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.19,
+      "vote_count": 27871
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+      "genre_ids": [
+        80,
+        53,
+        37
+      ],
+      "id": 6977,
+      "title": "No es país para viejos",
+      "original_language": "en",
+      "original_title": "No Country for Old Men",
+      "overview": "El veterano de la Guerra de Vietnam ahora cazador Llewellyn Moss descubre por casualidad una sangrienta escena en algún lugar de la frontera entre Texas y México, mientras estaba cazando algunos animales en el árido paisaje. Se trata de un negocio que se cerró mal entre contrabandistas de drogas y algunos hombres locales de la zona, provocando la muerte de varios de ellos. Además de los cuerpos y paquetes de heroína, Llewellyn descubre en una maleta algo más de dos millones de dólares. Cuando Llewellyn toma la maleta con el dinero, provoca una reacción en cadena de catastrófica violencia y una carrera sangrienta de los que quieren darle caza.",
+      "popularity": 13.5518,
+      "poster_path": "/x9sQnOXhvec93L6cfWMGIx7BS4h.jpg",
+      "release_date": "2007-11-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.951,
+      "vote_count": 13199
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lD8dFIk9wDEvOwZw0RB47e346io.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        37
+      ],
+      "id": 698508,
+      "title": "Amor redentor",
+      "original_language": "en",
+      "original_title": "Redeeming Love",
+      "overview": "Situada en la Nueva Inglaterra de 1835,  la trama  sigue la historia de Angela, una pequeña que fue rechazada por su padre debido a que fue producto de una aventura adultera con su madre Mae. Desde entonces, la chica se sintió culpable de la depresión de su madre y de su propio abandono, creciendo con un evidente odio hacia los hombres, todos ellos obsesionados por la fiebre de oro de la época. En su adolescencia, Angela tuvo que venderse a la prostitución para tener un lugar donde dormir y en medio de ese odio, conoce a Michael Hosea, un hombre piadoso que parece cruzar su camino con Angela para conducirla al amor redentor de Dios, desafiando, día a día, las amargas expectativas y resistencia de ella, quien no parece creer que merece algo más en la vida, algo que pueda hacerla verdaderamente feliz.",
+      "popularity": 12.1768,
+      "poster_path": "/vBpxJkFsfSjghmrizJr5xhQyACQ.jpg",
+      "release_date": "2022-01-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.84,
+      "vote_count": 732
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "id": 335,
+      "title": "Hasta que llegó su hora",
+      "original_language": "it",
+      "original_title": "C'era una volta il West",
+      "overview": "Mientras los constructores del ferrocarril avanzan imparables por el desierto de Arizona en su camino hacia el mar, Jill llega al pequeño pueblo de Flagstone con la intención de empezar una nueva vida.",
+      "popularity": 11.6102,
+      "poster_path": "/upiek8u4rHTrOJW9B0woXe4A4h7.jpg",
+      "release_date": "1968-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.274,
+      "vote_count": 4858
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        37,
+        12
+      ],
+      "id": 44896,
+      "title": "Rango",
+      "original_language": "en",
+      "original_title": "Rango",
+      "overview": "El actor Rango es un solitario camaleón que vive en la inmensidad del desierto Mojave. Quiere ser un representante de la ley en un sediento pueblo llamado Dirt, pero enseguida se da cuenta de que hay una gran diferencia entre actuar y vivir la vida real, así que no tiene más remedio que enfrentarse a algunos aspectos de su identidad y aprender el significado y el valor de la amistad. Su misión consistirá en descubrir la conspiración que está detrás de la desaparición del agua en el pueblo. Film de animación del director de \"Piratas del Caribe\", con las voces originales de Johnny Depp (Rango), Abigail Breslin, Isla Fisher y Bill Nighy.",
+      "popularity": 11.1599,
+      "poster_path": "/99Dpm7Ep8OelbNyEVBlln50EHGj.jpg",
+      "release_date": "2011-03-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.891,
+      "vote_count": 7036
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eOKpbUpd178x9Z2grd3vC74kkkU.jpg",
+      "genre_ids": [
+        28,
+        14,
+        37
+      ],
+      "id": 324544,
+      "title": "Tierras perdidas",
+      "original_language": "en",
+      "original_title": "In the Lost Lands",
+      "overview": "Basada en el relato de George R. R. Martin. Una reina (Amara Okereke), desesperada por encontrar la felicidad en el amor, envía a la poderosa bruja Gray Alys (Milla Jovovich) a las Tierras Perdidas, en busca de un poder mágico que permite a una persona transformarse en un hombre lobo. Con el misterioso cazador Boyce (Dave Bautista), que la apoya en la lucha contra criaturas oscuras y despiadadas, Gray deambula por un mundo inquietante y peligroso. Pero solo ella sabe que, cada deseo que se concede, tiene consecuencias inimaginables.",
+      "popularity": 10.5258,
+      "poster_path": "/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg",
+      "release_date": "2025-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.35,
+      "vote_count": 783
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f6YvaVqqNjAHYI4uC64ChpwqrUg.jpg",
+      "genre_ids": [
+        12,
+        18,
+        37
+      ],
+      "id": 581,
+      "title": "Bailando con lobos",
+      "original_language": "en",
+      "original_title": "Dances with Wolves",
+      "overview": "En torno a 1860, en vísperas de la Guerra de Secesión y a punto de terminar el periodo de colonización del Oeste (1785-1890), el teniente John J. Dunbar se dirige a un lejano puesto fronterizo que ha sido abandonado por los soldados. Su soledad lo impulsa a entrar en contacto con los indios sioux y, gracias a ello, conoce a 'En pie con el puño en alto', una mujer blanca que fue adoptada por la tribu cuando era niña. Poco a poco, entre Dunbar y los sioux se establece una relación de respeto y admiración mutuos.",
+      "popularity": 10.4728,
+      "poster_path": "/NYzUSchNAs0Q3K2ebPRvkPrlrs.jpg",
+      "release_date": "1990-03-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.837,
+      "vote_count": 4646
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mNQtUJv1F3u0uSKILFrGjIHqkxx.jpg",
+      "genre_ids": [
+        37,
+        18,
+        12
+      ],
+      "id": 281957,
+      "title": "El renacido",
+      "original_language": "en",
+      "original_title": "The Revenant",
+      "overview": "Durante una expedición en las tierras salvajes americanas, el legendario explorador Hugh Glass es brutalmente atacado por un oso y dado por muerto por los miembros de su propia partida de caza. En su cruzada por sobrevivir, Glass supera inimaginables tribulaciones, además de la traición de su confidente John Fitzgerald. Guiado por la pura determinación y el amor de su familia, Glass deberá superar un duro invierno mientras busca sin descanso un motivo para seguir adelante y encontrar la redención.",
+      "popularity": 10.4322,
+      "poster_path": "/k3Jh7J5GGMx1lmr7qmynRxOvOK5.jpg",
+      "release_date": "2015-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.54,
+      "vote_count": 19213
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+      "genre_ids": [
+        37,
+        18
+      ],
+      "id": 301,
+      "title": "Río Bravo",
+      "original_language": "en",
+      "original_title": "Rio Bravo",
+      "overview": "El sheriff Chance encarcela por asesinato al hermano de un poderoso terrateniente cuyos hombres intentarán liberarlo. Para impedirlo, Chance cuenta con la colaboración de dos ayudantes: un alcohólico y un viejo tullido, a los que se une un joven y hábil pistolero llamado Colorado. Todos quedarán encerrados en la cárcel de la oficina del sheriff, roedados, incrementándose la tensión en el pueblo a la espera de que llegue la autoridad estatal para llevarse al detenido.",
+      "popularity": 9.7637,
+      "poster_path": "/8lFSClr6GKKo7GAzLuyZL9bCXfD.jpg",
+      "release_date": "1959-03-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.805,
+      "vote_count": 1256
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        37
+      ],
+      "id": 273248,
+      "title": "Los odiosos ocho",
+      "original_language": "en",
+      "original_title": "The Hateful Eight",
+      "overview": "Seis, ocho o doce años después de la Guerra de Secesión, una diligencia avanza a toda velocidad por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth y su fugitiva Daisy Domergue, intentan llegar rápidamente al pueblo de Red Rock, donde Ruth, conocido en estos lares como 'el Verdugo', entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren, un antiguo soldado negro de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix, un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como una ventisca está a punto de alcanzarlos, Ruth, Domergue, Warren y Mannix se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local de Minnie, en lugar de recibirlos su dueña, se topan con cuatro rostros desconocidos.",
+      "popularity": 9.2251,
+      "poster_path": "/7DYGdFT4gtiD5BI6xyOU6v0XXvi.jpg",
+      "release_date": "2015-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.756,
+      "vote_count": 15191
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fO2ulA6piUHhKDSiQvC1ulYwZgR.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        37
+      ],
+      "id": 18069,
+      "title": "8 segundos",
+      "original_language": "en",
+      "original_title": "8 Seconds",
+      "overview": "Biografía de Lane Frost, el campeón del mundo de rodeos, desde sus díficiles comienzos hasta su trepidante ascenso a la fama antes de que se produjera su muerte en un torneo.",
+      "popularity": 8.7349,
+      "poster_path": "/vVXfqDpCet0mhV48ZU01xESFV1F.jpg",
+      "release_date": "1994-02-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.181,
+      "vote_count": 108
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
+      "genre_ids": [
+        37,
+        28
+      ],
+      "id": 11969,
+      "title": "Tombstone: La leyenda de Wyatt Earp",
+      "original_language": "en",
+      "original_title": "Tombstone",
+      "overview": "En 1879 y tras la sangrienta Guerra Civil norteamericana, mucha gente emigró hacia el oeste del país en busca de prosperidad y fortuna. entre ellos, Wyatt Earp, un hombre de la ley que había abandonado la placa y la pistola para formar una familia, o John \"Doc\"Hollyday, un ex caballero del sur reconvertido en pistolero y jugador.",
+      "popularity": 8.5696,
+      "poster_path": "/moAfncos756VZqsrJiZ62nB7mYT.jpg",
+      "release_date": "1993-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 2423
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        18,
+        37
+      ],
+      "id": 9023,
+      "title": "Spirit: El corcel indomable",
+      "original_language": "en",
+      "original_title": "Spirit: Stallion of the Cimarron",
+      "overview": "Sigue las aventuras de un corcel mustang salvaje e ingobernable que recorre la indómita frontera norteamericana. Cuando encuentra a un hombre por primera vez, un joven de la tribu de los Lakota llamado Little Creek, Spirit se niega a dejarse domar por él pero sí se hace amigo suyo. El valiente corcel también encuentra el amor con una hermosa yegua llamada Rain. Spirit se conviertirá en uno de los grandes héroes anónimos del Viejo Oeste.",
+      "popularity": 8.1444,
+      "poster_path": "/gNRQdU3KEsYTIl4y9Xte3onUSsx.jpg",
+      "release_date": "2002-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 4861
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rvRGFevvZK48onX0PYI1eQLbuJd.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 33,
+      "title": "Sin perdón",
+      "original_language": "en",
+      "original_title": "Unforgiven",
+      "overview": "William Munny es un pistolero retirado, viudo y padre de familia, que tiene dificultades económicas para sacar adelante a su hijos. Su única salida es hacer un último trabajo. En compañía de un viejo colega y de un joven inexperto, Munny tendrá que matar a dos hombres que cortaron la cara a una prostituta.",
+      "popularity": 7.8067,
+      "poster_path": "/bhcVwMko4DbSELZapIQv4mmdPKY.jpg",
+      "release_date": "1992-08-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.908,
+      "vote_count": 4908
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eVIuBKpeLB8rkozkj8bVmxDuAsp.jpg",
+      "genre_ids": [
+        18,
+        37,
+        10749,
+        10752
+      ],
+      "id": 4476,
+      "title": "Leyendas de pasión",
+      "original_language": "en",
+      "original_title": "Legends of the Fall",
+      "overview": "William Ludlow es un coronel separado de su mujer que vive con sus tres hijos en un gran rancho de Montana, en las colinas de las Montañas Rocosas. La Primera Guerra Mundial y una bella mujer cambiarán el destino de cada uno de ellos para siempre. Sus hijos son el indómito Tristan, el sensato Alfred y el menor Samuel, que acaba de traer al rancho a su bella prometida, Susannah.",
+      "popularity": 7.7181,
+      "poster_path": "/fZjjcVq8YTOUSN6PYTIS009FsmW.jpg",
+      "release_date": "1994-12-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 2823
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4qxZJRYe4ezA5J1sidnV7vuaYaz.jpg",
+      "genre_ids": [
+        12,
+        28,
+        37
+      ],
+      "id": 333484,
+      "title": "Los siete magníficos",
+      "original_language": "en",
+      "original_title": "The Magnificent Seven",
+      "overview": "Siete forajidos son contratados por los desesperados habitantes del pueblo de Rose Creek para que les defiendan de la amenaza de un despiadado extorsionador llamado Bartholomew Bogue. Mientras preparan el pueblo para la violenta confrontación que saben se avecina inevitablemente, estos siete mercenarios se encontrarán luchando por algo más que el simple dinero.",
+      "popularity": 7.5059,
+      "poster_path": "/uotXQy2IKigAA6vvUIUsBPNHkH0.jpg",
+      "release_date": "2016-09-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.483,
+      "vote_count": 6356
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2aC3284N1p86o6S4Uyj9AaryYeR.jpg",
+      "genre_ids": [
+        37,
+        28,
+        12
+      ],
+      "id": 966,
+      "title": "Los siete magníficos",
+      "original_language": "en",
+      "original_title": "The Magnificent Seven",
+      "overview": "Unos bandidos atacan y arrasan cada año las tierras de unos granjeros. Ante esto, varios de ellos deciden buscar a hombres que puedan defenderles. Conseguirán reunir siete hombres, cada uno de los cuales presume de una característica especial.",
+      "popularity": 7.4356,
+      "poster_path": "/eu7dxZWlufFOkDV99IzS7Xd7tp.jpg",
+      "release_date": "1960-10-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.504,
+      "vote_count": 1968
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fEI7I233M9hkw1MRSBXEgauXhRl.jpg",
+      "genre_ids": [
+        80,
+        18,
+        37
+      ],
+      "id": 82633,
+      "title": "Sin Ley (Lawless)",
+      "original_language": "en",
+      "original_title": "Lawless",
+      "overview": "Adaptación de una novela de Matt Bondurant que se inspiró en hechos reales protagonizados por su propia familia. Narra las peripecias de una banda que traficaba con whisky casero cuando aún estaba vigente en Estados Unidos la Ley Seca (1920 a 1933).",
+      "popularity": 7.2911,
+      "poster_path": "/j3o6YJvg46YofK1r62UoaB6i7Dk.jpg",
+      "release_date": "2012-08-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.071,
+      "vote_count": 3311
+    }
+  ],
+  "total_pages": 502,
+  "total_results": 10037
+}

@@ -1,0 +1,430 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+      "genre_ids": [
+        878,
+        28,
+        35
+      ],
+      "id": 1119449,
+      "title": "Buena suerte, pásalo bien, no mueras",
+      "original_language": "en",
+      "original_title": "Good Luck, Have Fun, Don't Die",
+      "overview": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+      "popularity": 38.2909,
+      "poster_path": "/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+      "release_date": "2026-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.91,
+      "vote_count": 372
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1314481,
+      "title": "El diablo viste de Prada 2",
+      "original_language": "en",
+      "original_title": "The Devil Wears Prada 2",
+      "overview": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "popularity": 35.5721,
+      "poster_path": "/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
+      "release_date": "2026-04-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bYkgJUGlkDrKzCrN6Jrd1qVx9aB.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 20222,
+      "title": "Sexo con amor",
+      "original_language": "es",
+      "original_title": "Sexo con amor",
+      "overview": "Estar en cuarto de primaria significa hacer muchas preguntas, y la maestra Luisa se reune con los padres de familia y apoderados para discutir la forma en que abordarán la educación sexual de los chicos. Sin embargo, la vida sexual de Luisa y de algunos de los padres está llena de sorpresas: Luisa vive en estos momentos un desenfrenado romance con Jorge, uno de los apoderados. Emilio y Macarena, padres de uno de los alumnos, están pasando por un difícil momento en cuanto a sus relaciones sexuales. Macarena está con un terrible bloqueo psicológico, y no puede ser penetrada por Emilio, que a su vez está terriblemente frustrado. Álvaro, otro de los apoderados, vive en un estado permanente de promiscuidad. Tiene varias amantes, pero sufre un estado obsesivo respecto al sexo. Sin embargo, es un excelente marido, muy amante de su mujer que está pronta a dar a luz a su segundo hijo.",
+      "popularity": 34.1419,
+      "poster_path": "/s0pmacLZ9GOdHJqBv5sCltqwmqL.jpg",
+      "release_date": "2003-03-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 241
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lniL0aoEvuWxfZOcZss7vWQfi1x.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        35,
+        12
+      ],
+      "id": 1108427,
+      "title": "Vaiana",
+      "original_language": "en",
+      "original_title": "Moana",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "popularity": 33.3795,
+      "poster_path": "/u1dGuYo8OsNlXJVRRRrKeAQxyKk.jpg",
+      "release_date": "2026-07-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "id": 680,
+      "title": "Pulp Fiction",
+      "original_language": "en",
+      "original_title": "Pulp Fiction",
+      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "popularity": 33.3248,
+      "poster_path": "/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "release_date": "1994-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.485,
+      "vote_count": 30030
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg",
+      "genre_ids": [
+        35,
+        80,
+        28
+      ],
+      "id": 1416391,
+      "title": "La tostadora",
+      "original_language": "hi",
+      "original_title": "टोस्टर",
+      "overview": "Un hombre muy tacaño intenta recuperar una tostadora que regaló en una boda que acabó cancelándose, pero, sin querer, se ve envuelto en un asesinato.",
+      "popularity": 33.306,
+      "poster_path": "/2tTUscTlshVovvUnk1qlkQrkbum.jpg",
+      "release_date": "2026-04-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.267,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 81774,
+      "title": "La iniciación (Las hazañas de un joven Don Juan)",
+      "original_language": "fr",
+      "original_title": "Les Exploits d'un jeune Don Juan",
+      "overview": "La película describe el despertar sexual y las aventuras de un adolescente Roger durante la época del estallido de la Primera Guerra Mundial.",
+      "popularity": 33.001,
+      "poster_path": "/jp8LYiQzEoUuMqu2lGSZZ1A4Nsf.jpg",
+      "release_date": "1986-11-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 307
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cK070s3Qdn1Ib7Gq8RgIyJKgvu3.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 77338,
+      "title": "Intocable",
+      "original_language": "fr",
+      "original_title": "Intouchables",
+      "overview": "Un hombre tetraplégico y millonario contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque no parece la persona más indicada, congenian hasta forjar una amistad tan sólida como inesperada.",
+      "popularity": 31.6811,
+      "poster_path": "/edPWyHqknFuxFY3sdmC3LtJITWC.jpg",
+      "release_date": "2011-11-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.269,
+      "vote_count": 18319
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18
+      ],
+      "id": 496243,
+      "title": "Parásitos",
+      "original_language": "ko",
+      "original_title": "기생충",
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "popularity": 31.3543,
+      "poster_path": "/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "release_date": "2019-05-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.494,
+      "vote_count": 20458
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3ffPx9jqg0yj9y1KWeagT7D20CB.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        28,
+        35,
+        12,
+        14
+      ],
+      "id": 1011985,
+      "title": "Kung Fu Panda 4",
+      "original_language": "en",
+      "original_title": "Kung Fu Panda 4",
+      "overview": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado \"el Camaleón\", que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
+      "popularity": 30.8986,
+      "poster_path": "/2xgGWjM3a38E4KTLapvC53RnpN1.jpg",
+      "release_date": "2024-03-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 3458
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xtHonIIIQXverDQM08TMQXjn9Fe.jpg",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "id": 214756,
+      "title": "Ted 2",
+      "original_language": "en",
+      "original_title": "Ted 2",
+      "overview": "Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente reciben una carta legal que dice que el estado no le permite ser padre ya que no está demostrado que sea una persona. Todos juntos tendrán que unir fuerzas para luchar por sus derechos en un tribunal de justicia.",
+      "popularity": 30.6539,
+      "poster_path": "/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg",
+      "release_date": "2015-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.316,
+      "vote_count": 7934
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35,
+        14
+      ],
+      "id": 1241982,
+      "title": "Vaiana 2",
+      "original_language": "en",
+      "original_title": "Moana 2",
+      "overview": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+      "popularity": 27.7703,
+      "poster_path": "/bit1B5F7IQydiWqdwAAD8f9TkXs.jpg",
+      "release_date": "2024-11-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.995,
+      "vote_count": 3029
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Mq428bLVcBixhsKP4dAyEL1Ycu.jpg",
+      "genre_ids": [
+        35,
+        80,
+        9648,
+        53
+      ],
+      "id": 5236,
+      "title": "Kiss Kiss Bang Bang",
+      "original_language": "en",
+      "original_title": "Kiss Kiss Bang Bang",
+      "overview": "Harry Lockhart es en esencia un tipo decente. Es cierto que es un ladrón de poca monta, pero quiere hacer lo correcto. La eterna mala suerte de Harry empieza a mejorar cuando él y su socio están haciendo algunas \"compras\" navideñas fuera de horas en una tienda de juguetes de Nueva York y la alarma de seguridad acaba con la fiesta. En su frenética huída de la policía, Harry se ve metido sin querer en una audición para una película de detectives de Hollywood y, en un abrir y cerrar de ojos, el productor lo lleva en avión a Los Angeles para hacerle una prueba.",
+      "popularity": 26.9702,
+      "poster_path": "/yMAoom93EhCzp39vG59ka42hGIk.jpg",
+      "release_date": "2005-09-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 2983
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hiazLNa1UXuX35OTnMQRKOx3eTk.jpg",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "id": 1054867,
+      "title": "Una batalla tras otra",
+      "original_language": "en",
+      "original_title": "One Battle After Another",
+      "overview": "Un ex revolucionario, tras años apartado de la lucha, se ve obligado a volver a la acción para enfrentar a viejos enemigos en un ambiente cargado de tensión política, racismo y violencia militar... Adaptación modernizada de la novela 'Vineland', de Thomas Pynchon (1990), sobre los movimientos radicales de los años sesenta.",
+      "popularity": 26.6688,
+      "poster_path": "/iZ1499F6hYxDxiqioy8oSUaxipG.jpg",
+      "release_date": "2025-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.368,
+      "vote_count": 3525
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        12,
+        14
+      ],
+      "id": 1117857,
+      "title": "En sueños",
+      "original_language": "en",
+      "original_title": "In Your Dreams",
+      "overview": "Stevie y su hermano pequeño Elliot viajan al absurdo mundo de sus sueños para pedirle a Sandman que les conceda un deseo: la familia perfecta.",
+      "popularity": 26.6505,
+      "poster_path": "/z2v3lNAA2ymrZuKof4J2vqFIBdw.jpg",
+      "release_date": "2025-11-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.978,
+      "vote_count": 207
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mFDQ8f2lPHorGwtuE0fjnUIbKLF.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 62029,
+      "title": "Bingo Bongo",
+      "original_language": "it",
+      "original_title": "Bingo Bongo",
+      "overview": "Bingo Bongo ha sido criado por monos en la jungla. Después de ser capturado, enjaulado y enviado de vuelta a la civilización, empieza a trabajar con una bella antropóloga que le enseña todo lo que necesita saber para hablar, comer bien y enamorarse.",
+      "popularity": 26.4911,
+      "poster_path": "/1JD88Pkmdp1Gi0hwPJaVlvm8D4N.jpg",
+      "release_date": "1982-12-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 172
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4SKnHRIHv9SpsR1v45T7Los719O.jpg",
+      "genre_ids": [
+        35,
+        53
+      ],
+      "id": 467905,
+      "title": "Jugada Maestra",
+      "original_language": "en",
+      "original_title": "How to Make a Killing",
+      "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
+      "popularity": 26.1197,
+      "poster_path": "/wpAt80FtHAQySEC8SwsDGhFp8MF.jpg",
+      "release_date": "2026-02-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.956,
+      "vote_count": 295
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 567609,
+      "title": "Noche de bodas",
+      "original_language": "en",
+      "original_title": "Ready or Not",
+      "overview": "Durante la noche de su boda, una mujer recibe la invitación por parte de la rica y excéntrica familia de su marido para participar en una tradición ancestral que se convierte en un juego letal de supervivencia.",
+      "popularity": 26.1084,
+      "poster_path": "/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg",
+      "release_date": "2019-08-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.053,
+      "vote_count": 5298
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751
+      ],
+      "id": 1022789,
+      "title": "Del revés 2 (Inside Out 2)",
+      "original_language": "en",
+      "original_title": "Inside Out 2",
+      "overview": "Riley entra en la adolescencia y el Cuartel General de su cabeza sufre una repentina reforma para hacerle hueco a algo totalmente inesperado propio de la pubertad: ¡nuevas emociones! Alegría, Tristeza, Ira, Miedo y Asco, con años de impecable gestión a sus espaldas (según ellos...) no saben muy bien qué sentir cuando aparece con enorme ímpetu Ansiedad. Y no viene sola: le acompañan envidia, vergüenza y aburrimiento.",
+      "popularity": 26.0785,
+      "poster_path": "/lE3DCRI7bQgHSiIuEPcFiXpiuGV.jpg",
+      "release_date": "2024-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 6603
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pO1SnM5a1fEsYrFaVZW78Wb0zRJ.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35,
+        10770
+      ],
+      "id": 677638,
+      "title": "Somos osos: La película",
+      "original_language": "en",
+      "original_title": "We Bare Bears: The Movie",
+      "overview": "Cuando el amor de Grizz, Panda y Ice Bear por los camiones de comida y los videos virales se fue de las manos, llama la atención del Agente Trout del National Wildlife Control, quien se compromete a restaurar el \"orden natural\" separándolos para siempre. Alejados de su hogar, los Bears se embarcan en un viaje épico por carretera mientras buscan refugio en Canadá, con su viaje lleno de nuevos amigos, obstáculos peligrosos y grandes fiestas. El arriesgado viaje también obliga a los Bears a enfrentar cómo se conocieron y se convirtieron en hermanos, para evitar que su vínculo familiar se separe.",
+      "popularity": 25.9501,
+      "poster_path": "/iv7kO9dnT73DO49TyhFNam2FtNM.jpg",
+      "release_date": "2020-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 844
+    }
+  ],
+  "total_pages": 8410,
+  "total_results": 168186
+}

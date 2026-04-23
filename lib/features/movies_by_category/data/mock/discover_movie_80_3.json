@@ -1,0 +1,430 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 603692,
+      "title": "John Wick 4",
+      "original_language": "en",
+      "original_title": "John Wick: Chapter 4",
+      "overview": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.",
+      "popularity": 18.4595,
+      "poster_path": "/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg",
+      "release_date": "2023-03-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.706,
+      "vote_count": 7839
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nSVwus6Vcnw06zqKAa1ioacrpUF.jpg",
+      "genre_ids": [
+        80,
+        35
+      ],
+      "id": 877817,
+      "title": "Wolfs",
+      "original_language": "en",
+      "original_title": "Wolfs",
+      "overview": "Dos “solucionadores” rivales cruzan sus caminos cuando los llaman a ambos para ayudar a ocultar el desliz de una importante funcionaria de Nueva York. Durante una noche muy intensa, deberán dejar de lado sus pequeñas rencillas -y sus egos- para terminar el trabajo.",
+      "popularity": 24.2463,
+      "poster_path": "/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",
+      "release_date": "2024-09-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 1399
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 101,
+      "title": "El profesional (Léon)",
+      "original_language": "fr",
+      "original_title": "Léon",
+      "overview": "Stan es un corrupto agente de la DEA cuya codicia le lleva a cometer asesinatos en las calles de Nueva York. El mortal juego del gato y el ratón empieza cuando se cruza en su camino un solitario hombre, llamado León. León es asesino a sueldo, un personaje indestructible e indocumentado, que sólo bebe leche y se ocupa de sus plantas. En medio se encuentra una huerfanita de 12 años, que no puede olvidar al hombre que asesinó a su familia.",
+      "popularity": 17.4754,
+      "poster_path": "/9Ztxqq9mAeGiXDkyqXJPaACUcbd.jpg",
+      "release_date": "1994-09-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.295,
+      "vote_count": 15987
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "id": 475557,
+      "title": "Joker",
+      "original_language": "en",
+      "original_title": "Joker",
+      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+      "popularity": 18.0367,
+      "poster_path": "/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+      "release_date": "2019-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.126,
+      "vote_count": 27565
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 385687,
+      "title": "Fast & Furious X",
+      "original_language": "en",
+      "original_title": "Fast X",
+      "overview": "Durante numerosas misiones más que imposibles, Dom Toretto y su familia han sido capaces de ser más listos, de tener más valor y de ir más rápido que cualquier enemigo que se cruzara con ellos. Pero ahora tendrán que enfrentarse al oponente más letal que jamás hayan conocido: Un terrible peligro que resurge del pasado, que se mueve por una sangrienta sed de venganza y que está dispuesto a destrozar a la familia y destruir para siempre todo lo que a Dom le importa.",
+      "popularity": 18.4399,
+      "poster_path": "/3P9QvWVN02Etn4kYGC702WVoXEb.jpg",
+      "release_date": "2023-05-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.998,
+      "vote_count": 6266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 949,
+      "title": "Heat",
+      "original_language": "en",
+      "original_title": "Heat",
+      "overview": "Neil McCauley es un experto ladrón. Su filosofía consiste en vivir sin ataduras que puedan constituir un obstáculo, si las cosas se complican. Su banda la forman criminales profesionales tan cualificados que pueden impresionar incluso al detective Vincent Hanna. Pero Hannah vive tan obsesionado con su trabajo que llega incluso a poner en peligro su relación sentimental. Cuando la banda de McCauley prepara el golpe definitivo y el equipo de Hannah intenta evitarlo, cada uno de ellos comprende que tiene que vérselas con una de las mentes más brillantes a la que se ha enfrentado en su carrera.",
+      "popularity": 16.5355,
+      "poster_path": "/kRfh1NCkDXGFrWzL6zDmVnHjRKh.jpg",
+      "release_date": "1995-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.931,
+      "vote_count": 8249
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53,
+        37
+      ],
+      "id": 1601243,
+      "title": "Oscar Shaw",
+      "original_language": "en",
+      "original_title": "Oscar Shaw",
+      "overview": "Tras retirarse de la policía, un implacable detective atormentado por la trágica pérdida de su mejor amigo emprende una peligrosa búsqueda de venganza, buscando la redención y luchando también por devolver la justicia a las calles que una vez juró proteger.",
+      "popularity": 17.1883,
+      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "release_date": "2026-01-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.483,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 573435,
+      "title": "Bad Boys: Ride or Die",
+      "original_language": "en",
+      "original_title": "Bad Boys: Ride or Die",
+      "overview": "Los policías más famosos del mundo regresan con su icónica mezcla de acción al límite y comedia escandalosa, pero esta vez con un giro inesperado: ¡Los mejores de Miami se dan a la fuga! Cuarta entrega de la saga 'Dos policías rebeldes'.",
+      "popularity": 17.2436,
+      "poster_path": "/53y0ETa1TGdVrMEVx7oLW86ay8r.jpg",
+      "release_date": "2024-06-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.326,
+      "vote_count": 3291
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/su40GoVmKOLQGrFAXcvV2qd625H.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 1404320,
+      "title": "特工狂花2：蜜桃杀机",
+      "original_language": "zh",
+      "original_title": "特工狂花2：蜜桃杀机",
+      "overview": "",
+      "popularity": 18.653,
+      "poster_path": "/9D8v1zS9qsvekrMiQPjVqYlJz0L.jpg",
+      "release_date": "2024-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kzeBfhXMRWiykBsqoL3UbfaM0S.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 1035259,
+      "title": "Agárralo como puedas",
+      "original_language": "en",
+      "original_title": "The Naked Gun",
+      "overview": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Película reboot basada en la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",
+      "popularity": 17.0592,
+      "poster_path": "/v8FpKw8mOsHxC0YElkgNNSCzGMl.jpg",
+      "release_date": "2025-07-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.36,
+      "vote_count": 1631
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZHJsUYxhjI6kbooHoQRWXv6F8E.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "id": 59,
+      "title": "Una historia de violencia",
+      "original_language": "en",
+      "original_title": "A History of Violence",
+      "overview": "Tom Stall lleva una vida feliz y tranquila con su mujer –abogada– y sus dos hijos en la pequeña ciudad de Millbrook (Indiana) hasta que una noche su existencia idílica se ve destrozada cuando frustra un violento intento de robo en su restaurante. Tom percibe el peligro y salva a sus clientes y amigos matando en defensa propia a dos criminales buscados por la justicia. Aplaudido como un héroe, la vida de Tom cambia de la noche a la mañana y de repente se encuentra convertido en el centro de atención de todos los medios de comunicación. Incómodo con esta fama no buscada, intenta volver a su vida normal, pero un hombre amenazante y misterioso llega a la ciudad para enfrentarse a él porque cree que Tom es el hombre con quien tiene una cuenta pendiente del pasado.",
+      "popularity": 17.1075,
+      "poster_path": "/rZLpsfxj2qKbJzSzXiKFYrRIeB1.jpg",
+      "release_date": "2005-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.163,
+      "vote_count": 3685
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80,
+        18
+      ],
+      "id": 1426964,
+      "title": "Hermandad: Estado de terror",
+      "original_language": "pt",
+      "original_title": "Salve Geral: Irmandade",
+      "overview": "En medio de una ola de violencia inédita que sacude São Paulo, una abogada ligada al mundo criminal debe pactar con la policía para salvar a su sobrina secuestrada.",
+      "popularity": 15.0664,
+      "poster_path": "/xdyCFS4jUzp7kghoptaiYqir48X.jpg",
+      "release_date": "2026-02-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.636,
+      "vote_count": 66
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 926393,
+      "title": "The Equalizer 3",
+      "original_language": "en",
+      "original_title": "The Equalizer 3",
+      "overview": "Desde que renunció a su vida como asesino del gobierno, Robert McCall (Denzel Washington) ha luchado para reconciliarse con las cosas horribles que ha hecho en el pasado y encuentra un extraño consuelo en hacer justicia en nombre de los oprimidos. Mientras se encuentra en su casa en el sur de Italia, descubre que sus nuevos amigos están bajo el control de los jefes del crimen local. A medida que los acontecimientos comienzan a complicarse, McCall entiende lo que tiene que hacer: convertirse en el protector de sus amigos enfrentándose a la temida mafia.",
+      "popularity": 15.3832,
+      "poster_path": "/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg",
+      "release_date": "2023-08-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.29,
+      "vote_count": 3658
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "genre_ids": [
+        9648,
+        80,
+        35,
+        10751
+      ],
+      "id": 1301421,
+      "title": "Las ovejas detectives",
+      "original_language": "en",
+      "original_title": "The Sheep Detectives",
+      "overview": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "popularity": 16.1168,
+      "poster_path": "/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "release_date": "2026-05-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oDdRrwTCgaDzAshScrFO09qWqPB.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 10474,
+      "title": "Diario de un rebelde",
+      "original_language": "en",
+      "original_title": "The Basketball Diaries",
+      "overview": "Crónica autobiográfica de un grupo de adolescentes, entre los que se encuentra el escritor Jim Carroll, a los que sus travesuras están a punto de llevarlos por oscuros caminos de la desesperación, ya que sus actividades fuera de clase amenazan con destruirlos. Esnifando productos de limpieza, riéndose con fotografías pornográficas, participando en pequeños hurtos, estos cinco amigos apenas mantienen la cabeza a flote al perder el control de sí mismos.",
+      "popularity": 18.2875,
+      "poster_path": "/68yBRXJNQT7vwFGRHqKcfy97LXq.jpg",
+      "release_date": "1995-04-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 2175
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vh7np635kDIcfO6x2Y9ElgLJsuI.jpg",
+      "genre_ids": [
+        80,
+        27,
+        9648
+      ],
+      "id": 4232,
+      "title": "Scream",
+      "original_language": "en",
+      "original_title": "Scream",
+      "overview": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+      "popularity": 16.0387,
+      "poster_path": "/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
+      "release_date": "1996-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.429,
+      "vote_count": 7868
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 49026,
+      "title": "El caballero oscuro: La leyenda renace",
+      "original_language": "en",
+      "original_title": "The Dark Knight Rises",
+      "overview": "Hace ocho años que Batman desapareció, dejando de ser un héroe para convertirse en un fugitivo. Al asumir la culpa por la muerte del fiscal del distrito Harvey Dent, el Caballero Oscuro decidió sacrificarlo todo por lo que consideraba, al igual que el Comisario Gordon, un bien mayor. La mentira funciona durante un tiempo, ya que la actividad criminal de la ciudad de Gotham se ve aplacada gracias a la dura Ley Dent. Pero todo cambia con la llegada de una astuta gata ladrona que pretende llevar a cabo un misterioso plan. Sin embargo, mucho más peligrosa es la aparición en escena de Bane, un terrorista enmascarado cuyos despiadados planes obligan a Bruce a regresar de su voluntario exilio.",
+      "popularity": 15.5866,
+      "poster_path": "/rrS7K8tXVFUBliIKWaRuSq65nWr.jpg",
+      "release_date": "2012-07-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.793,
+      "vote_count": 24218
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+      "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "id": 637649,
+      "title": "Despierta la furia",
+      "original_language": "en",
+      "original_title": "Wrath of Man",
+      "overview": "H (Jason Statham) es el misterioso tipo que acaba de incorporarse como guardia de seguridad en una compañía de furgones blindados. Durante un intento de atraco a su camión, sorprende a sus compañeros mostrando habilidades propias de un soldado profesional, dejando al resto del equipo preguntándose quién es realmente y de dónde viene.",
+      "popularity": 16.4018,
+      "poster_path": "/emM894kjspdQsHyTAF7sjRNlbTr.jpg",
+      "release_date": "2021-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.58,
+      "vote_count": 6029
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        878,
+        80
+      ],
+      "id": 20352,
+      "title": "Gru. Mi villano favorito",
+      "original_language": "en",
+      "original_title": "Despicable Me",
+      "overview": "En una alegre urbanización con cuidados jardines rodeados por verjas de madera pintadas de blanco y llenos de rosales, sobresale una casa negra con el césped amarillento. Los vecinos ignoran que debajo de la vivienda hay un enorme escondite secreto. Allí está Gru, rodeado por un pequeño ejército de lacayos, planeando el mayor robo de toda la historia. ¡Va a hacerse con la luna!",
+      "popularity": 16.196,
+      "poster_path": "/AsaaPLSfisdFDeasEd9r0GiZVss.jpg",
+      "release_date": "2010-07-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.256,
+      "vote_count": 15985
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+      "genre_ids": [
+        53,
+        18,
+        80
+      ],
+      "id": 1359,
+      "title": "American Psycho",
+      "original_language": "en",
+      "original_title": "American Psycho",
+      "overview": "En un mundo moralmente plano en el que la ropa tiene más sentido que la piel, Patrick Bateman es un espécimen soberbiamente elaborado que cumple todos los requisitos de Master del Universo, desde el diseño de su vestuario hasta el de sus productos químicos. Es prácticamente perfecto, como casi todos en su mundo e intenta desesperadamente encajar en él. Cuando más intenta ser como cualquier otro hombre adinerado de Wall Street, más anónimo se vuelve y menos control tiene sobre sus terribles instintos y su insaciable sed de sangre, que lo arrastra a una vorágine en la que los objetos valen más que el cuerpo y el alma de una persona.",
+      "popularity": 14.1352,
+      "poster_path": "/ySPCri7VfAjbLLkMKs7Zjn6Njco.jpg",
+      "release_date": "2000-04-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.408,
+      "vote_count": 12189
+    }
+  ],
+  "total_pages": 2055,
+  "total_results": 41087
+}

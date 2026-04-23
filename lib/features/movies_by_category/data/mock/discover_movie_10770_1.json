@@ -1,0 +1,433 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/8gBOpyW6iTDGZJR93YuF3L7dDuI.jpg",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 441168,
+      "title": "La doble vida de Miriam",
+      "original_language": "en",
+      "original_title": "From Straight A's to XXX",
+      "overview": "Cuando un cambio de circunstancias deja a Miriam incapaz de pagar sus estudios universitarios, toma una decisión sorprendente: comenzar a actuar en películas para adultos, usando el seudónimo Belle Knox. Miriam se encuentra con su familia y sus amigos en la escuela, manteniendo su doble vida en secreto. Pero pronto se difundieron rumores y Miriam se convirtió en el sujeto de ataques en línea viciosos y atención no deseada. Miriam responde: habla con los medios de comunicación, diciendo que su nueva línea de trabajo le da poder como feminista. Pero su postura confiada tiene consecuencias no deseadas. Miriam es rechazada por su familia conservadora y sus colegas en el mundo del cine adulto. Una decisión impulsiva ha salido rápidamente fuera de control y los problemas de Miriam apenas están comenzando.",
+      "popularity": 33.473,
+      "poster_path": "/kvcdaGcres9pGDwZfPN9jOKfZh.jpg",
+      "release_date": "2017-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.822,
+      "vote_count": 160
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pO1SnM5a1fEsYrFaVZW78Wb0zRJ.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35,
+        10770
+      ],
+      "id": 677638,
+      "title": "Somos osos: La película",
+      "original_language": "en",
+      "original_title": "We Bare Bears: The Movie",
+      "overview": "Cuando el amor de Grizz, Panda y Ice Bear por los camiones de comida y los videos virales se fue de las manos, llama la atención del Agente Trout del National Wildlife Control, quien se compromete a restaurar el \"orden natural\" separándolos para siempre. Alejados de su hogar, los Bears se embarcan en un viaje épico por carretera mientras buscan refugio en Canadá, con su viaje lleno de nuevos amigos, obstáculos peligrosos y grandes fiestas. El arriesgado viaje también obliga a los Bears a enfrentar cómo se conocieron y se convirtieron en hermanos, para evitar que su vínculo familiar se separe.",
+      "popularity": 25.9501,
+      "poster_path": "/iv7kO9dnT73DO49TyhFNam2FtNM.jpg",
+      "release_date": "2020-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 844
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2l9yXhNtLC5SHa81m3MtLfpoXTr.jpg",
+      "genre_ids": [
+        99,
+        10770,
+        14
+      ],
+      "id": 259910,
+      "title": "Marvel: Construyendo un universo",
+      "original_language": "en",
+      "original_title": "Marvel Studios: Assembling a Universe",
+      "overview": "Un repaso a la historia de Marvel Studios y el Universo Cinemático Marvel, con entrevistas y escenas making-of de todas las películas Marvel, los Marvel One-Shots y la serie \"Agents of S.H.I.E.L.D.\"",
+      "popularity": 21.5241,
+      "poster_path": "/41Ke02UzYoPsiTc3YbomPGiQKMl.jpg",
+      "release_date": "2014-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.925,
+      "vote_count": 167
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A7BiqPOKvGNalAZhFn1WfSeG9aO.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53,
+        10770
+      ],
+      "id": 137051,
+      "title": "Midnight Matinee",
+      "original_language": "en",
+      "original_title": "Midnight Matinee",
+      "overview": "A pesar de que un devastador asesinato tuvo lugar durante el festival de cine de terror de un pequeño pueblo dos años antes, la gente del pueblo quiere otro festival.",
+      "popularity": 18.4421,
+      "poster_path": "/czam6wq46B9UCZvq85vicElckFq.jpg",
+      "release_date": "1988-10-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        35,
+        10770
+      ],
+      "id": 392988,
+      "title": "Saturday Night Live in the '80s: Lost and Found",
+      "original_language": "en",
+      "original_title": "Saturday Night Live in the '80s: Lost and Found",
+      "overview": "",
+      "popularity": 17.2516,
+      "poster_path": "/pRDugIOQIlfWDjrBFNIM2OpX9S7.jpg",
+      "release_date": "2005-04-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vDR2h5uQNgWyx3fsEVnEOcNFibZ.jpg",
+      "genre_ids": [
+        53,
+        80,
+        10770
+      ],
+      "id": 801335,
+      "title": "La chica en el sótano",
+      "original_language": "en",
+      "original_title": "Girl in the Basement",
+      "overview": "Sara es una adolescente que está deseando cumplir 18 años para alejarse de su padre controlador, Don. Pero antes de que pudiera apagar las velas, Don la aprisiona en el sótano de su casa.",
+      "popularity": 14.5214,
+      "poster_path": "/4p6uMC8PxEHSY5hJR0KJkOt3wPk.jpg",
+      "release_date": "2021-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.564,
+      "vote_count": 842
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oYiPf8oR2ZrjvGIVzGTw1BZihDP.jpg",
+      "genre_ids": [
+        9648,
+        18,
+        10749,
+        53,
+        10770
+      ],
+      "id": 153104,
+      "title": "Wicked Minds",
+      "original_language": "en",
+      "original_title": "Wicked Minds",
+      "overview": "",
+      "popularity": 14.3898,
+      "poster_path": "/A6A15cDR8mpdOxW4y7UzFanzbM0.jpg",
+      "release_date": "2003-03-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.333,
+      "vote_count": 51
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sp4F5G1tNaKtRnl7Tw3AKkcdHQz.jpg",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 73353,
+      "title": "Man in the Mirror: The Michael Jackson Story",
+      "original_language": "en",
+      "original_title": "Man in the Mirror: The Michael Jackson Story",
+      "overview": "",
+      "popularity": 12.2674,
+      "poster_path": "/qhp25BXUEqIaDFQbC7YI3h2FSqD.jpg",
+      "release_date": "2004-08-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/96SADhPnkXnVN3KaRKsDeBovLcm.jpg",
+      "genre_ids": [
+        28,
+        14,
+        10770
+      ],
+      "id": 877703,
+      "title": "Teen Wolf: La película",
+      "original_language": "en",
+      "original_title": "Teen Wolf: The Movie",
+      "overview": "La luna llena se eleva en Beacon Hills, y con ella ha surgido un mal aterrador. Los lobos están aullando una vez más, pidiendo el regreso de Banshees, Werecoyotes, Hellhounds, Kitsunes y todos los demás cambiaformas en la noche. Pero solo un hombre lobo como Scott McCall, que ya no es un adolescente pero sigue siendo un Alfa, puede reunir nuevos aliados y reunir a amigos de confianza para luchar contra lo que podría ser el enemigo más poderoso y letal al que se han enfrentado jamás.",
+      "popularity": 9.2263,
+      "poster_path": "/pPyTcJSlDZAAyxfEqEMVpLBJW7g.jpg",
+      "release_date": "2023-01-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.464,
+      "vote_count": 949
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Sh04np6IA2shSycI9uy5xrjC6I.jpg",
+      "genre_ids": [
+        53,
+        10770
+      ],
+      "id": 375846,
+      "title": "Conducta inapropiada",
+      "original_language": "en",
+      "original_title": "Bad Sister",
+      "overview": "Como una estudiante de primer nivel en la Escuela Católica de St. Adeline, Zoe siente que algo no está bien con la nueva monja de la escuela, un sentido que se demuestra verdadero cuando se revela que la \"buena\" monja es una impostora con una atracción fatal por el  Hermano de Zoe...",
+      "popularity": 8.1148,
+      "poster_path": "/jKrIlgfJPIWNeowaOZPBZuOPmq0.jpg",
+      "release_date": "2015-08-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 242
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ecksst0Cb1AO1CZwmGjJu11bfUo.jpg",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 458293,
+      "title": "Michael Jackson: Searching for Neverland",
+      "original_language": "en",
+      "original_title": "Michael Jackson: Searching for Neverland",
+      "overview": "Basado en el best-seller, Remember the Time: Protecting Michael Jackson in His Final Days, y contado a través de los ojos de los guardaespaldas de confianza de Jackson, Bill Whitfield y Javon Beard. La película revelará de primera mano la devoción que Michael Jackson tuvo por sus hijos y el drama oculto que tuvo lugar durante los últimos dos años de su vida.",
+      "popularity": 7.9458,
+      "poster_path": "/mRZIiG4vJiCgJh4v2EPUVVTznC8.jpg",
+      "release_date": "2017-05-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 111
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/20ncMtoy9Cxy6OQxgXZemHoFymz.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        14,
+        10770,
+        10402
+      ],
+      "id": 277217,
+      "title": "Los descendientes",
+      "original_language": "en",
+      "original_title": "Descendants",
+      "overview": "Un reino de hoy en día idílico donde el hijo adolescente benevolente del rey Adam y la reina Bella, Ben, ofrece una oportunidad de redención de los descendientes de los villanos clásicos de Disney: Maléfica (Mal), la Reina Malvada (Evie), Cruella de Vil (Carlos) y Jafar (Jay).",
+      "popularity": 7.3539,
+      "poster_path": "/eUkdI96zP64e7JQLgPpVvM9WKGa.jpg",
+      "release_date": "2015-07-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.152,
+      "vote_count": 2494
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zRYuOiYZ8f1u726RtZBnU60LzgS.jpg",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 1163,
+      "title": "The Miracle Worker",
+      "original_language": "en",
+      "original_title": "The Miracle Worker",
+      "overview": "",
+      "popularity": 7.1605,
+      "poster_path": "/A0PfwIMM7Mkit0ZoLzspgOWrmsQ.jpg",
+      "release_date": "2000-11-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 38
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7VSh4KRB38gs4t4Dlub8GwXNUub.jpg",
+      "genre_ids": [
+        18,
+        12,
+        10749,
+        10770
+      ],
+      "id": 115290,
+      "title": "El lago azul: El despertar",
+      "original_language": "en",
+      "original_title": "Blue Lagoon: The Awakening",
+      "overview": "Remake del film de 1980 \"El lago azul\". Dos adolescentes acaban en una isla, después de un accidente durante un viaje escolar a Trinidad. Dean, un vago solitario en la escuela secundaria y Emma, una estudiante perfecta, exploran y aprenden no sólo el uno del otro, sino que también aprenden sobre sí mismos.",
+      "popularity": 6.6456,
+      "poster_path": "/9qiDFSGtMJL6nyOL6KGgEz2xsm8.jpg",
+      "release_date": "2012-06-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.46,
+      "vote_count": 1497
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oK190JudMVb0C5773Vab0TKcBbv.jpg",
+      "genre_ids": [
+        28,
+        10770,
+        878
+      ],
+      "id": 25642,
+      "title": "Ben 10: Alien Swarm",
+      "original_language": "en",
+      "original_title": "Ben 10: Alien Swarm",
+      "overview": "Este filme se trata de que la nave de una misteriosa chica alenígena (Elena) se estrella sobre la Tierra, y el equipo, conformado por Ben, su prima Gwen, y su amigo Kevin, tendrá que defender el planeta del padre de la extraña visitante. Ben tendrá que romper sus propios récords, hablando sobre plomeros, para ayudar a Elena y para descubrir una amenaza alienígena para el planeta Tierra. Ahora, el equipo debe confiar en sus instintos para ayudar a salvar el día y detener todo esto. \"Ben 10: Alien Swarm\" es la segunda película live-action de Cartoon Network basada de la serie Ben 10: Alien Force, tras \"Ben 10: Carrera Contra El Tiempo\".",
+      "popularity": 6.2272,
+      "poster_path": "/bFB5Y184X41AgLiuNQRqvTqDEGQ.jpg",
+      "release_date": "2009-11-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.168,
+      "vote_count": 376
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wWLUUGtemgrRyH24v8lAkSR58US.jpg",
+      "genre_ids": [
+        10751,
+        10770,
+        12,
+        14,
+        10402
+      ],
+      "id": 506574,
+      "title": "Los descendientes 3",
+      "original_language": "en",
+      "original_title": "Descendants 3",
+      "overview": "Mal, Evie, Carlos y Jay vuelven a la Isla de los Perdidos en busca de un nuevo grupo de hijos de villanos para que se unan a ellos en Auradon. Pero cuando Hades intenta colarse a través de la barrera mágica, Mal toma la decisión de cerrarla para siempre y así poder mantener a la gente de Auradon a salvo. Sin embargo, una fuerza maligna inesperada se cierne sobre el reino, por lo que Mal y el resto de los hijos de los villanos tendrán que unirse para salvar ambos mundos.",
+      "popularity": 6.027,
+      "poster_path": "/iQICsH7ckxRExHu0fvPrsczpKJu.jpg",
+      "release_date": "2019-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.673,
+      "vote_count": 1607
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9tVTKBCoEluEXtp06mTxJSUhLTI.jpg",
+      "genre_ids": [
+        53,
+        10770,
+        9648
+      ],
+      "id": 328480,
+      "title": "Cautiva",
+      "original_language": "en",
+      "original_title": "Kept Woman",
+      "overview": "Tras sufrir un robo en su domicilio, los Crowder se mudan a una bonita casa en otro barrio mucho más tranquilo. Pero a Jessica Crowder no le pasan desapercibidos ciertos detalles que hacen que sospeche de su vecino de la casa de enfrente, un hombre muy particular. Tratando de satisfacer su curiosidad, entra en su casa . Cuando de noche su marido regresa, Jessica ha desaparecido sin dejar rastro.",
+      "popularity": 5.926,
+      "poster_path": "/yHlqPeZ31TACwmFaAl6gygGIPGf.jpg",
+      "release_date": "2015-02-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.436,
+      "vote_count": 78
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/910LNi2Fm47Bb8hCWW5nXXy5065.jpg",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 413337,
+      "title": "Cautiva en el infierno",
+      "original_language": "en",
+      "original_title": "Girl in the Box",
+      "overview": "California. Mayo 1977. Una pareja que viaja en su coche recoge a una joven que hace autostop. Desde ese fatídico momento, su vida se convierte en un calvario. La chica es secuestrada y conducida al sótano de la casa donde sufre la peor de las esclavitudes. Además de recibir una tanda de castigos, como esclava recibe un nuevo nombre. Con el paso del tiempo se termina convenciendo de que realmente es la esclava de ese cruel matrimonio.",
+      "popularity": 5.8217,
+      "poster_path": "/1GwGESCZ34kaulttLwSBRj7h1vY.jpg",
+      "release_date": "2016-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 157
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eWCeRLTavVwPt3uOGUF1ewzwH6e.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        12,
+        10770
+      ],
+      "id": 360606,
+      "title": "Canguros en apuros",
+      "original_language": "en",
+      "original_title": "Adventures in Babysitting",
+      "overview": "Dos jóvenes niñeras rivales ,Jenny y Lucy, se unen para encontrar a uno de a sus niños que accidentalmente se ha escapado a la gran ciudad sin ningún tipo de supervisión.",
+      "popularity": 5.7918,
+      "poster_path": "/zJ42vbF27awhNZHrZ5IzYslOwow.jpg",
+      "release_date": "2016-06-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 436
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/85UNzqnXTw3MgIo3urCGb2bHCfa.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        10751,
+        10770
+      ],
+      "id": 310972,
+      "title": "Persiguiendo sueños",
+      "original_language": "en",
+      "original_title": "The Christmas Secret",
+      "overview": "Christine ha perdido su empleo de camarera por llegar tarde al trabajo, después de ayudar a una mujer mayor que sufrió un accidente. Además, su exmarido quiere quitarle la custodia de sus hijos. Para colmo, el casero le ha dado un ultimatum, si no paga se irán a la calle. Cuando la mujer accidentada se recupera, le pide a su nieto Jason que encuentre a Christine para agradecerle cuanto hizo por ella.",
+      "popularity": 5.5297,
+      "poster_path": "/tCaU7Hl9d7Ey3X9OokZoPsq7WfO.jpg",
+      "release_date": "2014-11-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 117
+    }
+  ],
+  "total_pages": 1597,
+  "total_results": 31926
+}

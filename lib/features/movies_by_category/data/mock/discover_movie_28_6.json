@@ -1,0 +1,430 @@
+{
+  "page": 6,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 102382,
+      "title": "The Amazing Spider-Man 2: El poder de Electro",
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man 2",
+      "overview": "Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniéndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiarán para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado.",
+      "popularity": 18.7963,
+      "poster_path": "/8W0mMrmaVdSoLz5LnX61gJOXfEb.jpg",
+      "release_date": "2014-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.532,
+      "vote_count": 14134
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/otkJlfjB7zJ5h34FEIfemenMbCy.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12,
+        53
+      ],
+      "id": 106,
+      "title": "Depredador",
+      "original_language": "en",
+      "original_title": "Predator",
+      "overview": "Un comando de mercenarios es contratados por la CIA para rescatar a unos pilotos apresados por las guerrillas en la selva Centroamericana. La misión resulta satisfactoria, pero durante su viaje de regreso se dan cuenta de que algo está dándoles caza uno a uno, ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos",
+      "popularity": 18.7734,
+      "poster_path": "/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg",
+      "release_date": "1987-06-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.546,
+      "vote_count": 9010
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 559,
+      "title": "Spider-Man 3",
+      "original_language": "en",
+      "original_title": "Spider-Man 3",
+      "overview": "Parece que Parker ha conseguido por fin el equilibrio entre su devoción por Mary Jane y sus deberes como superhéroe. Pero, de repente, su traje se vuelve negro y adquiere nuevos poderes; también él se transforma, mostrando el lado más oscuro y vengativo de su personalidad. Bajo la influencia del nuevo traje, Peter se convierte en un ser egoísta que sólo se preocupa por sí mismo. Tiene, pues, que afrontar un dilema: disfrutar de sus nuevos poderes o seguir siendo un héroe compasivo. Mientras tanto, sobre él se cierne la amenaza de dos temibles enemigos: Venom y el Hombre de Arena.",
+      "popularity": 18.7014,
+      "poster_path": "/anEWMsTkHXMf17Q2qypm44inbR9.jpg",
+      "release_date": "2007-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.454,
+      "vote_count": 15116
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/su40GoVmKOLQGrFAXcvV2qd625H.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 1404320,
+      "title": "特工狂花2：蜜桃杀机",
+      "original_language": "zh",
+      "original_title": "特工狂花2：蜜桃杀机",
+      "overview": "",
+      "popularity": 18.653,
+      "poster_path": "/9D8v1zS9qsvekrMiQPjVqYlJz0L.jpg",
+      "release_date": "2024-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 533533,
+      "title": "TRON: Ares",
+      "original_language": "en",
+      "original_title": "TRON: Ares",
+      "overview": "La historia de Ares, un programa muy sofisticado que se envía desde el mundo digital al mundo real en una misión peligrosa y que va a representar el primer encuentro de la humanidad con seres creados por la IA.",
+      "popularity": 18.4935,
+      "poster_path": "/qShQABLVRMZKnv5mWOPXWniBeB3.jpg",
+      "release_date": "2025-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 1337
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 603692,
+      "title": "John Wick 4",
+      "original_language": "en",
+      "original_title": "John Wick: Chapter 4",
+      "overview": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.",
+      "popularity": 18.4595,
+      "poster_path": "/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg",
+      "release_date": "2023-03-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.706,
+      "vote_count": 7839
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 385687,
+      "title": "Fast & Furious X",
+      "original_language": "en",
+      "original_title": "Fast X",
+      "overview": "Durante numerosas misiones más que imposibles, Dom Toretto y su familia han sido capaces de ser más listos, de tener más valor y de ir más rápido que cualquier enemigo que se cruzara con ellos. Pero ahora tendrán que enfrentarse al oponente más letal que jamás hayan conocido: Un terrible peligro que resurge del pasado, que se mueve por una sangrienta sed de venganza y que está dispuesto a destrozar a la familia y destruir para siempre todo lo que a Dom le importa.",
+      "popularity": 18.4399,
+      "poster_path": "/3P9QvWVN02Etn4kYGC702WVoXEb.jpg",
+      "release_date": "2023-05-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.998,
+      "vote_count": 6266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+      "genre_ids": [
+        28,
+        18,
+        12
+      ],
+      "id": 98,
+      "title": "Gladiator",
+      "original_language": "en",
+      "original_title": "Gladiator",
+      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "popularity": 18.3675,
+      "poster_path": "/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
+      "release_date": "2000-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.224,
+      "vote_count": 20755
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
+      "genre_ids": [
+        27,
+        53,
+        28,
+        12
+      ],
+      "id": 396535,
+      "title": "Train to Busan",
+      "original_language": "ko",
+      "original_title": "부산행",
+      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
+      "popularity": 18.3189,
+      "poster_path": "/anomz7b3GQtHPFH34SODDBBIUad.jpg",
+      "release_date": "2016-07-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.747,
+      "vote_count": 8292
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+      "genre_ids": [
+        28,
+        27,
+        35
+      ],
+      "id": 1292695,
+      "title": "Te van a matar",
+      "original_language": "en",
+      "original_title": "They Will Kill You",
+      "overview": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
+      "popularity": 18.2901,
+      "poster_path": "/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
+      "release_date": "2026-03-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 138
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+      "genre_ids": [
+        28,
+        9648,
+        878,
+        53
+      ],
+      "id": 198663,
+      "title": "El corredor del laberinto",
+      "original_language": "en",
+      "original_title": "The Maze Runner",
+      "overview": "Thomas abre los ojos y se da cuenta que está en un ascensor. Lo extraño es que no recuerda nada, ni dónde está, ni quién es. Lo único que aún permanece intacto en su memoria es su nombre, y ya es mucho. Antes de que le dé tiempo a cuestionarse algo sobre sí mismo las puertas se abrirán y aparecerá ante él un extraño mundo. Todo lo que ve son chicos de su edad que tienen su mismo estado de amnesia. Una aventura fantástica que pronto destapará la dura realidad bajo ese velo de incertidumbre: todos ellos están atrapados en un laberinto. Si quieren tener alguna posibilidad de salir de allí y recuperar su antigua vida y aquello que no son capaces de recordar deberán unir fuerzas para escapar. Un mundo post-apocalíptico que les acorralará e irá un paso por delante será el desafío que tengan que pasar estos jóvenes por la libertad.",
+      "popularity": 18.2008,
+      "poster_path": "/egKi4jZKKVZzR8NaaNjEwMpEgHs.jpg",
+      "release_date": "2014-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.189,
+      "vote_count": 18012
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 986056,
+      "title": "Thunderbolts*",
+      "original_language": "en",
+      "original_title": "Thunderbolts*",
+      "overview": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
+      "popularity": 18.0189,
+      "poster_path": "/yDWU8YyFkPnlVY627QXPvct8bz9.jpg",
+      "release_date": "2025-04-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.291,
+      "vote_count": 3401
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 76341,
+      "title": "Mad Max: Furia en la carretera",
+      "original_language": "en",
+      "original_title": "Mad Max: Fury Road",
+      "overview": "Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciudadela tiranizada por Immortan Joe, a quien han arrebatado algo irreemplazable. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a los rebeldes en una 'guerra de la carretera' de altas revoluciones.",
+      "popularity": 17.9842,
+      "poster_path": "/fnY0VRsb31A5RLVCBjuR6EFUlo2.jpg",
+      "release_date": "2015-05-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.632,
+      "vote_count": 23959
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d3z8MH9OvTOOSxy5QwAG0cS6GKU.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        36
+      ],
+      "id": 652,
+      "title": "Troya",
+      "original_language": "en",
+      "original_title": "Troy",
+      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
+      "popularity": 17.7452,
+      "poster_path": "/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+      "release_date": "2004-05-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.168,
+      "vote_count": 10962
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7s7WkAFPBsMTprYMbqbgKoppQsR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "id": 1734,
+      "title": "El regreso de la momia",
+      "original_language": "en",
+      "original_title": "The Mummy Returns",
+      "overview": "Han pasado diez años, Rick O'Connell se ha casado con Evelyn, y ambos son padres del pequeño Alex, de ocho años. Cuando, tras una serie de acontecimientos, la momia del antiguo sacerdote egipcio Im-Ho-Tep es resucitada por una extraña secta en el British Museum, y la maldición milenaria del Rey Escorpión -que seis mil años atrás traicionó al dios Anubis- lo devuelve a la vida, el choque entre ambas fuerzas malignas desencadenará el caos en el mundo... si Rick y Evelyn no consiguen evitarlo.",
+      "popularity": 17.5528,
+      "poster_path": "/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg",
+      "release_date": "2001-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.398,
+      "vote_count": 7608
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 101,
+      "title": "El profesional (Léon)",
+      "original_language": "fr",
+      "original_title": "Léon",
+      "overview": "Stan es un corrupto agente de la DEA cuya codicia le lleva a cometer asesinatos en las calles de Nueva York. El mortal juego del gato y el ratón empieza cuando se cruza en su camino un solitario hombre, llamado León. León es asesino a sueldo, un personaje indestructible e indocumentado, que sólo bebe leche y se ocupa de sus plantas. En medio se encuentra una huerfanita de 12 años, que no puede olvidar al hombre que asesinó a su familia.",
+      "popularity": 17.4754,
+      "poster_path": "/9Ztxqq9mAeGiXDkyqXJPaACUcbd.jpg",
+      "release_date": "1994-09-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.295,
+      "vote_count": 15988
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 280,
+      "title": "Terminator 2: El juicio final",
+      "original_language": "en",
+      "original_title": "Terminator 2: Judgment Day",
+      "overview": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
+      "popularity": 17.3881,
+      "poster_path": "/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+      "release_date": "1991-07-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.144,
+      "vote_count": 14154
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        28
+      ],
+      "id": 228150,
+      "title": "Corazones de acero",
+      "original_language": "en",
+      "original_title": "Fury",
+      "overview": "Abril de 1945. Al mando del veterano sargento Wardaddy, un pelotón de cinco soldados americanos a bordo de un carro de combate -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
+      "popularity": 17.2455,
+      "poster_path": "/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
+      "release_date": "2014-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.543,
+      "vote_count": 12852
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 573435,
+      "title": "Bad Boys: Ride or Die",
+      "original_language": "en",
+      "original_title": "Bad Boys: Ride or Die",
+      "overview": "Los policías más famosos del mundo regresan con su icónica mezcla de acción al límite y comedia escandalosa, pero esta vez con un giro inesperado: ¡Los mejores de Miami se dan a la fuga! Cuarta entrega de la saga 'Dos policías rebeldes'.",
+      "popularity": 17.2436,
+      "poster_path": "/53y0ETa1TGdVrMEVx7oLW86ay8r.jpg",
+      "release_date": "2024-06-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.326,
+      "vote_count": 3291
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53,
+        37
+      ],
+      "id": 1601243,
+      "title": "Oscar Shaw",
+      "original_language": "en",
+      "original_title": "Oscar Shaw",
+      "overview": "Tras retirarse de la policía, un implacable detective atormentado por la trágica pérdida de su mejor amigo emprende una peligrosa búsqueda de venganza, buscando la redención y luchando también por devolver la justicia a las calles que una vez juró proteger.",
+      "popularity": 17.1883,
+      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "release_date": "2026-01-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.483,
+      "vote_count": 29
+    }
+  ],
+  "total_pages": 2406,
+  "total_results": 48112
+}

@@ -1,0 +1,424 @@
+{
+  "page": 4,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/rNqfOqFYpSCeSq2YC5pY8F80Yz4.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 4233,
+      "title": "Scream 2",
+      "original_language": "en",
+      "original_title": "Scream 2",
+      "overview": "La universidad de Windsor ofrece una variada opción de materias para sus estudiantes, justo lo que Sidney Prescott necesita. Es primavera, dos años después de los asesinatos en Woodsboro, California, y el año escolar está llegando a su fin. Sid tiene una compañera de habitación, un novio y es la elegida para encabezar el reparto de la obra que se representa en la universidad este curso. Randy, otro de los supervivientes de los asesinatos de Woodsboro, estudia cine en Windsor. También es feliz, como Sid. Pero el pasado nunca queda atrás. De hecho, vuelve y alguien es asesinado mientras ve la película \"Stab\" (Puñalada) en el cine del campus, el día del estreno nacional. Stab, basada en la novela superventas escrita por la periodista Gale Weathers, describe los asesinatos de Woodsboro. El libro no sólo se vendió como rosquillas, además ayudó a salir de la prisión a Cotton Weary, el hombre acusado por Sidney de la muerte de su madre.",
+      "popularity": 10.2758,
+      "poster_path": "/iCWp5oRMf7uGWqOCVfLOA5xLorZ.jpg",
+      "release_date": "1997-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.513,
+      "vote_count": 4683
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3xKJ0nyUTlySmMBCpOcsuSnFPI1.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1232546,
+      "title": "Until Dawn",
+      "original_language": "en",
+      "original_title": "Until Dawn",
+      "overview": "Un año después de la misteriosa desaparición de su hermana Melanie, Clover y sus amigas se dirigen al remoto valle donde desapareció en busca de respuestas. Mientras exploran un centro de visitantes abandonado, son acechadas por un asesino enmascarado que las mata una a una de forma horrible… para después despertar y encontrarse de nuevo al principio de la misma noche.",
+      "popularity": 10.2019,
+      "poster_path": "/exgfubqSbF4veI4uXFOdbV66gEf.jpg",
+      "release_date": "2025-04-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.296,
+      "vote_count": 1362
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+      "genre_ids": [
+        14,
+        18,
+        9648
+      ],
+      "id": 141,
+      "title": "Donnie Darko",
+      "original_language": "en",
+      "original_title": "Donnie Darko",
+      "overview": "Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor, pues en sus visiones un gran conejito lo manipula para cometer una serie de crímenes.",
+      "popularity": 10.1373,
+      "poster_path": "/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg",
+      "release_date": "2001-01-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.764,
+      "vote_count": 13328
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
+      "genre_ids": [
+        28,
+        18,
+        9648,
+        53
+      ],
+      "id": 2501,
+      "title": "The Bourne Identity: El caso Bourne",
+      "original_language": "en",
+      "original_title": "The Bourne Identity",
+      "overview": "Un hombre amnésico es rescatado por la tripulación de un barco pesquero italiano cuando flota a la deriva en el mar. Carece de identidad y de pasado, pero posee unas serie de talentos extraordinarios en artes lingüísticas, marciales y de autodefensa que sugieren una profesión de riesgo. Confuso y desorientado, emprende una frenética búsqueda para descubrir quién es y por qué su vida ha tomado un giro tan peligroso.",
+      "popularity": 10.0696,
+      "poster_path": "/yYH7sqMQ1NJNd6scW44D1WjBmAw.jpg",
+      "release_date": "2002-06-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.474,
+      "vote_count": 10012
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12,
+        9648
+      ],
+      "id": 75612,
+      "title": "Oblivion",
+      "original_language": "en",
+      "original_title": "Oblivion",
+      "overview": "Un veterano asignado a extraer los recursos restantes de la Tierra comienza a cuestionar lo que sabe sobre su misión y sobre sí mismo.",
+      "popularity": 9.8139,
+      "poster_path": "/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg",
+      "release_date": "2013-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.674,
+      "vote_count": 11427
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7FRraud59N3s10bbf9bfYjvwx3v.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "id": 402,
+      "title": "Instinto básico",
+      "original_language": "en",
+      "original_title": "Basic Instinct",
+      "overview": "Un antiguo cantante de rock ha sido brutalmente asesinado. La última vez que se le vio estaba acompañado por su novia. En la comisaría, en el departamento de Asuntos Internos, Nick Curran recibe el encargo de vigilar a Catherine Tromell, la supuesta novia asesina.",
+      "popularity": 9.7564,
+      "poster_path": "/7iUhPh6B5C4T1osYDzoUchjb3i4.jpg",
+      "release_date": "1992-03-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.939,
+      "vote_count": 4334
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p26c040MErns7DJYhisa1CpVB5i.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 423108,
+      "title": "Expediente Warren: Obligado por el demonio",
+      "original_language": "en",
+      "original_title": "The Conjuring: The Devil Made Me Do It",
+      "overview": "Los investigadores paranormales Ed y Lorraine Warren se encuentran con lo que se convertiría en uno de los casos más sensacionales de sus archivos. La lucha por el alma de un niño los lleva más allá de todo lo que habían visto antes, para marcar la primera vez en la historia de los Estados Unidos que un sospechoso de asesinato reclamaría posesión demoníaca como defensa.",
+      "popularity": 9.5344,
+      "poster_path": "/ghMQALCyytc6W0wlOlMIKiMSRKV.jpg",
+      "release_date": "2021-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.358,
+      "vote_count": 6480
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y8vFE8zsOJkUud6ea0uVaOVPo6y.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "id": 1215020,
+      "title": "American Sweatshop",
+      "original_language": "en",
+      "original_title": "American Sweatshop",
+      "overview": "Una mirada a los estragos de las redes sociales a través de los ojos de Daisy Moriarty, quien, mientras lidia con una caótica vida personal, se ve inmersa en los entresijos de Internet.",
+      "popularity": 9.5243,
+      "poster_path": "/1ATqivj1tU15mqYYCGGutHQmopR.jpg",
+      "release_date": "2025-09-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.51,
+      "vote_count": 52
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+      "genre_ids": [
+        9648,
+        80,
+        53
+      ],
+      "id": 870028,
+      "title": "El contable 2",
+      "original_language": "en",
+      "original_title": "The Accountant²",
+      "overview": "Cuando un viejo conocido es asesinado, Wolff se ve obligado a resolver el caso. Al darse cuenta de que son necesarias medidas más extremas, Wolff recluta a su hermano Brax, distanciado y muy letal, para que le ayude. En colaboración con Marybeth Medina, descubren una conspiración mortal y se convierten en objetivo de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.",
+      "popularity": 9.5085,
+      "poster_path": "/jcV9YfjBRo6occxqeWtEiyWwMoG.jpg",
+      "release_date": "2025-04-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.063,
+      "vote_count": 1702
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 397243,
+      "title": "La autopsia de Jane Doe",
+      "original_language": "en",
+      "original_title": "The Autopsy of Jane Doe",
+      "overview": "El dueño de una funeraria de una pequeña localidad y su hijo, que trabaja con él, reciben un día el cadáver de la víctima de un misterioso crimen: una bella joven que no tiene ninguna causa aparente de muerte. Ambos intentarán desvelar los intrigantes motivos del fallecimiento de la joven.",
+      "popularity": 9.462,
+      "poster_path": "/b5UgrFjiOAphNNSYnUKbemgQ87t.jpg",
+      "release_date": "2016-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.834,
+      "vote_count": 4677
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aOzTr5FxlS06ppd5a5KaqKwOPgx.jpg",
+      "genre_ids": [
+        18,
+        878,
+        9648
+      ],
+      "id": 686,
+      "title": "Contact",
+      "original_language": "en",
+      "original_title": "Contact",
+      "overview": "Eleanor Arroway perdió la fe en Dios tras la muerte de sus padres en su niñez. Sin embargo, Ellie ha desarrollado una clase distinta de fe en lo desconocido: trabaja con un grupo de científicos escrutando ondas de radio procedentes del espacio exterior en busca de señales de inteligencias extraterrestres. Su trabajo se verá recompensado cuando detecte una señal desconocida que supuestamente porta las instrucciones de fabricación de una máquina para reunirse con los creadores del mensaje.",
+      "popularity": 9.4594,
+      "poster_path": "/nCbAvLh1tb1zCwyA8G7Ezj2ZmF8.jpg",
+      "release_date": "1997-07-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 4941
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
+      "genre_ids": [
+        12,
+        80,
+        9648
+      ],
+      "id": 10528,
+      "title": "Sherlock Holmes",
+      "original_language": "en",
+      "original_title": "Sherlock Holmes",
+      "overview": "Mostrando unas habilidades para luchar tan letales como su legendaria agudeza intelectual, Holmes peleará como nunca para acabar con un nuevo enemigo y desenmarañar así un complot mortal que podría destruir el país.",
+      "popularity": 9.4482,
+      "poster_path": "/gf4eNEw79XVbKYDBEQKgWPezQNY.jpg",
+      "release_date": "2009-12-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.218,
+      "vote_count": 14705
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        18
+      ],
+      "id": 567,
+      "title": "La ventana indiscreta",
+      "original_language": "en",
+      "original_title": "Rear Window",
+      "overview": "Un reportero fotográfico se ve obligado a permanecer en reposo con una pierna escayolada. A pesar de la compañía de su novia y de su enfermera, procura escapar al tedio, observando desde la ventana de su apartamento con unos prismáticos lo que ocurre en las viviendas de enfrente. Debido a una serie de extrañas circunstancias empieza a sospechar de un vecino cuya mujer ha desaparecido.",
+      "popularity": 9.4103,
+      "poster_path": "/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg",
+      "release_date": "1954-08-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.34,
+      "vote_count": 7106
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AbFWty0o5nKGo4iLJaGRgqFtC8W.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 4234,
+      "title": "Scream 3",
+      "original_language": "en",
+      "original_title": "Scream 3",
+      "overview": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de \"Puñaladas 3\", película basada en los hechos de los que ella fue protagonista.",
+      "popularity": 9.3554,
+      "poster_path": "/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg",
+      "release_date": "2000-02-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.008,
+      "vote_count": 4008
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
+      "genre_ids": [
+        878,
+        53,
+        9648
+      ],
+      "id": 1275779,
+      "title": "El día de la revelación",
+      "original_language": "en",
+      "original_title": "Disclosure Day",
+      "overview": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías?",
+      "popularity": 9.263,
+      "poster_path": "/7RYO0KTXIJ0rS0LqnCQLxeNR3P3.jpg",
+      "release_date": "2026-06-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6ToGkmqn0KG0UGGGUAC1Ww0e5CM.jpg",
+      "genre_ids": [
+        80,
+        27,
+        9648
+      ],
+      "id": 1226578,
+      "title": "Longlegs",
+      "original_language": "en",
+      "original_title": "Longlegs",
+      "overview": "Lee Harker, una nueva y talentosa agente del FBI, ha sido asignada a un caso sin resolver de un asesino en serie. A medida que la investigación se complica y se descubren pruebas ocultistas, Harker se da cuenta de que existe un vínculo personal con el despiadado asesino y debe actuar con rapidez para evitar otro asesinato familiar.",
+      "popularity": 9.2558,
+      "poster_path": "/tMdOL2d6bTv2ZhRbbUuNBrRAZ1G.jpg",
+      "release_date": "2024-07-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 2587
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        37
+      ],
+      "id": 273248,
+      "title": "Los odiosos ocho",
+      "original_language": "en",
+      "original_title": "The Hateful Eight",
+      "overview": "Seis, ocho o doce años después de la Guerra de Secesión, una diligencia avanza a toda velocidad por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth y su fugitiva Daisy Domergue, intentan llegar rápidamente al pueblo de Red Rock, donde Ruth, conocido en estos lares como 'el Verdugo', entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren, un antiguo soldado negro de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix, un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como una ventisca está a punto de alcanzarlos, Ruth, Domergue, Warren y Mannix se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local de Minnie, en lugar de recibirlos su dueña, se topan con cuatro rostros desconocidos.",
+      "popularity": 9.2251,
+      "poster_path": "/7DYGdFT4gtiD5BI6xyOU6v0XXvi.jpg",
+      "release_date": "2015-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.756,
+      "vote_count": 15191
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kQGxGXzYiCumY8kmXXpgbZyZQK8.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        18,
+        53
+      ],
+      "id": 395834,
+      "title": "Wind River",
+      "original_language": "en",
+      "original_title": "Wind River",
+      "overview": "Una joven agente del FBI se alía con un veterano rastreador local para investigar el asesinato de una joven ocurrido en una reserva de nativos americanos...",
+      "popularity": 9.2173,
+      "poster_path": "/8YQzSkPbJB5PJMTvTccDNo3z9K7.jpg",
+      "release_date": "2017-08-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.436,
+      "vote_count": 5728
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g9ClaS5EqU0Hk8WIbMNhld0Bk6f.jpg",
+      "genre_ids": [
+        53,
+        18,
+        9648
+      ],
+      "id": 1018,
+      "title": "Mulholland Drive",
+      "original_language": "en",
+      "original_title": "Mulholland Drive",
+      "overview": "Betty, una joven aspirante a actriz, llega a Los Ángeles para convertirse en estrella de cine y se aloja en el apartamento de su tía. Allí conoce a Rita, una mujer que padece amnesia a causa de un accidente en Mulholland Drive. Las dos juntas deciden investigar quién es Rita y cómo llegó hasta allí.",
+      "popularity": 9.167,
+      "poster_path": "/kLpwkbimTwTbsYixCO3eAdNCQJ8.jpg",
+      "release_date": "2001-06-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.802,
+      "vote_count": 6973
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5cRw2QHQz5bp7W2KLdSpZoFoTTw.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        53
+      ],
+      "id": 726209,
+      "title": "Dejar el mundo atrás",
+      "original_language": "en",
+      "original_title": "Leave the World Behind",
+      "overview": "Las vacaciones de una familia en una casa de lujo dan un giro inquietante cuando un ciberataque anula sus dispositivos... y dos desconocidos llaman a la puerta.",
+      "popularity": 9.1316,
+      "poster_path": "/7NJGZ0GP7S8uXCW2reguAOTwBB8.jpg",
+      "release_date": "2023-11-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.376,
+      "vote_count": 3175
+    }
+  ],
+  "total_pages": 1287,
+  "total_results": 25725
+}

@@ -1,0 +1,219 @@
+{
+  "backdrops": [
+    {
+      "aspect_ratio": 1.778,
+      "height": 2160,
+      "iso_3166_1": null,
+      "iso_639_1": null,
+      "file_path": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
+      "vote_average": 2.066,
+      "vote_count": 5,
+      "width": 3840
+    },
+    {
+      "aspect_ratio": 1.778,
+      "height": 1252,
+      "iso_3166_1": null,
+      "iso_639_1": null,
+      "file_path": "/8kJrpxyQAs0PHmuC53TLNK51ogP.jpg",
+      "vote_average": 1.75,
+      "vote_count": 4,
+      "width": 2226
+    },
+    {
+      "aspect_ratio": 1.778,
+      "height": 1215,
+      "iso_3166_1": null,
+      "iso_639_1": null,
+      "file_path": "/aK5VMr3wjQWck94bykSFTvGo0dG.jpg",
+      "vote_average": 1.434,
+      "vote_count": 5,
+      "width": 2160
+    },
+    {
+      "aspect_ratio": 1.778,
+      "height": 1252,
+      "iso_3166_1": null,
+      "iso_639_1": null,
+      "file_path": "/cUMVGks41a40rOpBsCUAFCTyi4H.jpg",
+      "vote_average": 1.222,
+      "vote_count": 3,
+      "width": 2226
+    },
+    {
+      "aspect_ratio": 1.778,
+      "height": 720,
+      "iso_3166_1": null,
+      "iso_639_1": null,
+      "file_path": "/dSkwgsqQMV1aHbeGDmXXg0cybsP.jpg",
+      "vote_average": 0.166,
+      "vote_count": 2,
+      "width": 1280
+    },
+    {
+      "aspect_ratio": 1.778,
+      "height": 1150,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/9te2BRQjaNeXxvQKD0c3v63UJ8Q.jpg",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "width": 2045
+    },
+    {
+      "aspect_ratio": 1.778,
+      "height": 1080,
+      "iso_3166_1": null,
+      "iso_639_1": null,
+      "file_path": "/qpSQZXk8JIUjWK112MmDrLyepD9.jpg",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "width": 1920
+    },
+    {
+      "aspect_ratio": 1.778,
+      "height": 2160,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/gYRqPBok2mhUbsFPeB8Cj9yppBD.jpg",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "width": 3840
+    }
+  ],
+  "id": 980431,
+  "logos": [
+    {
+      "aspect_ratio": 2.574,
+      "height": 603,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/4VmVBP4fytagVkZqghFSk3nrF8x.png",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "width": 1552
+    },
+    {
+      "aspect_ratio": 2.574,
+      "height": 603,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/14QAG63iFqhedkwAb6XGr1KLw45.png",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "width": 1552
+    },
+    {
+      "aspect_ratio": 2.574,
+      "height": 603,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/xq2m2dGb9SyJ28RBpQpiV2Zcu6C.png",
+      "vote_average": 0.0,
+      "vote_count": 1,
+      "width": 1552
+    },
+    {
+      "aspect_ratio": 5.803,
+      "height": 1318,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/xx9PmEeJx9zrC6WpdaY6uBgvQlv.png",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "width": 7649
+    },
+    {
+      "aspect_ratio": 5.715,
+      "height": 1318,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/aya58k4NrCesBeSrhBuuRdZL6vK.png",
+      "vote_average": 0.0,
+      "vote_count": 1,
+      "width": 7533
+    }
+  ],
+  "posters": [
+    {
+      "aspect_ratio": 0.667,
+      "height": 3000,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+      "vote_average": 10.0,
+      "vote_count": 4,
+      "width": 2000
+    },
+    {
+      "aspect_ratio": 0.667,
+      "height": 1536,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/fyFOzo65OrdsiAGW012J9l0yCFa.jpg",
+      "vote_average": 2.278,
+      "vote_count": 3,
+      "width": 1024
+    },
+    {
+      "aspect_ratio": 0.667,
+      "height": 2300,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/AbUa37L0mRs4RtMLvSD6cWZcPJP.jpg",
+      "vote_average": 1.75,
+      "vote_count": 6,
+      "width": 1533
+    },
+    {
+      "aspect_ratio": 0.667,
+      "height": 2300,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
+      "vote_average": 1.75,
+      "vote_count": 6,
+      "width": 1533
+    },
+    {
+      "aspect_ratio": 0.667,
+      "height": 3000,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/oS9LQQjVVAwTVcSye9rndcK6BNC.jpg",
+      "vote_average": 1.222,
+      "vote_count": 3,
+      "width": 2000
+    },
+    {
+      "aspect_ratio": 0.667,
+      "height": 3000,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/bL0kpH1mL82VpZkpkAVn7X1age7.jpg",
+      "vote_average": 0.972,
+      "vote_count": 6,
+      "width": 2000
+    },
+    {
+      "aspect_ratio": 0.667,
+      "height": 2300,
+      "iso_3166_1": null,
+      "iso_639_1": null,
+      "file_path": "/xMEuVXMuC2doymjfvLJucHESGE9.jpg",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "width": 1533
+    },
+    {
+      "aspect_ratio": 0.667,
+      "height": 3000,
+      "iso_3166_1": null,
+      "iso_639_1": null,
+      "file_path": "/pD8VjQs0sMCglJQHtr9vVfwI65y.jpg",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "width": 2000
+    }
+  ]
+}

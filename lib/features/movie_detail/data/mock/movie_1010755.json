@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+  "belongs_to_collection": {
+    "id": 1172926,
+    "name": "Strangers (Remake) - Colección",
+    "poster_path": "/uS9sFjUsOfjBYVnetyTvMeYrhaS.jpg",
+    "backdrop_path": "/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg"
+  },
+  "budget": 8500000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 53,
+      "name": "Suspense"
+    }
+  ],
+  "homepage": "",
+  "id": 1010755,
+  "imdb_id": "tt28682323",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Strangers: Chapter 3",
+  "overview": "Los supervivientes se enfrentan a nuevas amenazas de extraños enmascarados. Secretos salen a la luz, poniendo en peligro sus vidas mientras la línea entre realidad y peligro se difumina en su lucha por sobrevivir. Tercera y última de la trilogía de películas basadas en \"Los extraños\" (2008)",
+  "popularity": 131.2846,
+  "poster_path": "/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 200342,
+      "logo_path": null,
+      "name": "Fifth Element Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 9987,
+      "logo_path": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
+      "name": "Lipsync Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 175756,
+      "logo_path": null,
+      "name": "Sherbone Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 229418,
+      "logo_path": null,
+      "name": "Stream Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-05",
+  "revenue": 9191988,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Strangers: Capítulo 3",
+  "video": false,
+  "vote_average": 5.672,
+  "vote_count": 116
+}

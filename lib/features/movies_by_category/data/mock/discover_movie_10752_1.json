@@ -1,0 +1,428 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fzo85eKFEjfmJ781gubJQjpQAwF.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10752
+      ],
+      "id": 1213898,
+      "title": "Violencia en la frontera 2",
+      "original_language": "hi",
+      "original_title": "बॉर्डर २",
+      "overview": "Jóvenes combatientes indios se prepararon para proteger su patria de una amenaza mayor durante la guerra indo-pakistaní de 1971.",
+      "popularity": 25.3581,
+      "poster_path": "/bGMxbKjxzOUUnV0YCUYsNdV8db3.jpg",
+      "release_date": "2026-01-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.895,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 424,
+      "title": "La lista de Schindler",
+      "original_language": "en",
+      "original_title": "Schindler's List",
+      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+      "popularity": 24.6102,
+      "poster_path": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+      "release_date": "1993-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.567,
+      "vote_count": 17338
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
+      "genre_ids": [
+        28,
+        10752
+      ],
+      "id": 1223601,
+      "title": "Sisu: Camino a la venganza",
+      "original_language": "fi",
+      "original_title": "Sisu 2",
+      "overview": "Al regresar a la casa donde su familia fue brutalmente asesinada durante la guerra, «el hombre que se niega a morir» la desmantela, la carga en un camión y se propone reconstruirla en un lugar seguro en honor a ellos. Cuando el comandante del Ejército Rojo que mató a su familia regresa empeñado en terminar el trabajo, se produce una implacable y espectacular persecución a través del país, una lucha a muerte llena de escenas de acción increíbles e ingeniosas.",
+      "popularity": 24.0698,
+      "poster_path": "/qQyc6t9dHS5dlIUt3ccCQnRIAc1.jpg",
+      "release_date": "2025-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.318,
+      "vote_count": 685
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 324786,
+      "title": "Hasta el último hombre",
+      "original_language": "en",
+      "original_title": "Hacksaw Ridge",
+      "overview": "La historia de Desmond T. Doss, quien, debido a que se lo prohibía su fe, combatió en la Segunda Guerra Mundial sin portar un arma. No disparó ni una bala, pero salvó a 75 personas de la muerte en la batalla de la isla de Okinawa.",
+      "popularity": 18.4051,
+      "poster_path": "/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
+      "release_date": "2016-10-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.189,
+      "vote_count": 14749
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d3z8MH9OvTOOSxy5QwAG0cS6GKU.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        36
+      ],
+      "id": 652,
+      "title": "Troya",
+      "original_language": "en",
+      "original_title": "Troy",
+      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
+      "popularity": 17.7452,
+      "poster_path": "/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+      "release_date": "2004-05-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.168,
+      "vote_count": 10962
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        28
+      ],
+      "id": 228150,
+      "title": "Corazones de acero",
+      "original_language": "en",
+      "original_title": "Fury",
+      "overview": "Abril de 1945. Al mando del veterano sargento Wardaddy, un pelotón de cinco soldados americanos a bordo de un carro de combate -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
+      "popularity": 17.2455,
+      "poster_path": "/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
+      "release_date": "2014-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.543,
+      "vote_count": 12852
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+      "genre_ids": [
+        18,
+        53,
+        10752
+      ],
+      "id": 16869,
+      "title": "Malditos bastardos",
+      "original_language": "en",
+      "original_title": "Inglourious Basterds",
+      "overview": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos \"Los bastardos\" para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
+      "popularity": 16.71,
+      "poster_path": "/dqu7nUtKTLdpM7DaJvD4zcSXhn1.jpg",
+      "release_date": "2009-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.217,
+      "vote_count": 24027
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "genre_ids": [
+        18,
+        28,
+        12,
+        36,
+        10752
+      ],
+      "id": 1495,
+      "title": "El reino de los cielos",
+      "original_language": "en",
+      "original_title": "Kingdom of Heaven",
+      "overview": "Balián de Ibelín viaja a Jerusalén durante las cruzadas del siglo XII, donde será el defensor de su pueblo.",
+      "popularity": 15.7459,
+      "poster_path": "/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
+      "release_date": "2005-05-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.02,
+      "vote_count": 4874
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+      "genre_ids": [
+        36,
+        18,
+        53,
+        10752
+      ],
+      "id": 205596,
+      "title": "The Imitation Game (Descifrando Enigma)",
+      "original_language": "en",
+      "original_title": "The Imitation Game",
+      "overview": "Durante el invierno de 1952, las autoridades británicas entraron en el hogar del matemático, analista y héroe de guerra Alan Turing, con la intención de investigar la denuncia de un robo. Al final acabaron arrestando a Turing acusándole de indecencia grave, un cargo que le supondría una devastadora condena por una ofensa criminal: ser homosexual. Los oficiales no tenían ni idea de que en realidad estaban incriminando al pionero de la informática actual. Liderando a un heterogéneo grupo de académicos, lingüistas, campeones de ajedrez y oficiales de inteligencia, se le conoce por haber descifrado el código de la inquebrantable máquina Enigma de los alemanes durante la Segunda Guerra Mundial.",
+      "popularity": 14.2982,
+      "poster_path": "/pdd20KgHJec4BM4sfHS8oefaDUI.jpg",
+      "release_date": "2014-11-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.985,
+      "vote_count": 17979
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/49fzLedFVKgGgFChLMuulDJBY1c.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 28,
+      "title": "Apocalypse Now",
+      "original_language": "en",
+      "original_title": "Apocalypse Now",
+      "overview": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
+      "popularity": 13.9931,
+      "poster_path": "/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
+      "release_date": "1979-05-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 9015
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 423,
+      "title": "El pianista",
+      "original_language": "en",
+      "original_title": "The Pianist",
+      "overview": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración.",
+      "popularity": 13.9107,
+      "poster_path": "/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
+      "release_date": "2002-09-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.375,
+      "vote_count": 10063
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4FHcxMtVruMr7ltU2cItWssLjTP.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        10749
+      ],
+      "id": 770,
+      "title": "Lo que el viento se llevó",
+      "original_language": "en",
+      "original_title": "Gone with the Wind",
+      "overview": "Georgia, 1861. En la elegante mansión sureña de Tara, vive Scarlett O'Hara, la joven más bella, caprichosa y egoísta de la región. Ella suspira por el amor de Ashley, pero él está prometido con su prima, la dulce y bondadosa Melanie. Corren todavía tiempos felices en Tara, pero por poco tiempo, porque la Guerra de Secesión (1861-1865) está a punto de estallar. En la última fiesta, celebrada antes del comienzo de las hostilidades entre el norte y el sur, Scarlett conoce al simpático, cínico y apuesto Rhett Butler, un vividor arrogante y aventurero, que sólo piensa en sí mismo y que no tiene ninguna intención de participar en el conflicto. Lo que él desea es hacerse rico y conquistar el corazón de la hermosa Scarlett.",
+      "popularity": 13.5488,
+      "poster_path": "/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg",
+      "release_date": "1939-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.916,
+      "vote_count": 4356
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        36
+      ],
+      "id": 857,
+      "title": "Salvar al soldado Ryan",
+      "original_language": "en",
+      "original_title": "Saving Private Ryan",
+      "overview": "Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
+      "popularity": 13.3705,
+      "poster_path": "/dcKfD8xWf8XnS3tHVp7v331wdNT.jpg",
+      "release_date": "1998-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.223,
+      "vote_count": 17085
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A63giQFJP4ABqNk4sLzegVeqVdl.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        36
+      ],
+      "id": 14574,
+      "title": "El niño con el pijama de rayas",
+      "original_language": "en",
+      "original_title": "The Boy in the Striped Pyjamas",
+      "overview": "Berlín, 1942. Bruno tiene ocho años y desconoce el significado de la Solución Final y del Holocausto. No es consciente de las pavorosas crueldades que su país, en plena guerra mundial, está infligiendo a los pueblos de Europa. Todo lo que sabe es que su padre -recién nombrado comandante de un campo de concentración- ha ascendido en el escalafón, y que ha pasado de vivir en una confortable casa de Berlín a una zona aislada. Todo cambia cuando conoce a Shamuel, un niño judío que vive una extraña existencia paralela al otro lado de la alambrada.",
+      "popularity": 13.0167,
+      "poster_path": "/dZeiD0WVM1IHzRAOSldsY0jh1CR.jpg",
+      "release_date": "2008-05-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.816,
+      "vote_count": 7614
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 1252037,
+      "title": "Der Tiger (El tanque)",
+      "original_language": "de",
+      "original_title": "Der Tiger",
+      "overview": "Frente oriental, 1943: la dotación alemana de un tanque Tiger se embarca en una peligrosa misión tras las líneas enemigas. A medida que atraviesan la mortífera tierra de nadie, deberán enfrentarse al enemigo y a sus propios fantasmas del pasado.",
+      "popularity": 11.6305,
+      "poster_path": "/td8bh7p876r36OF0P9PN7fitrCG.jpg",
+      "release_date": "2025-09-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.055,
+      "vote_count": 406
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yGByIyqgJerCw7AAphTrTAlrdkJ.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        53,
+        36
+      ],
+      "id": 1328803,
+      "title": "Prisionero de guerra",
+      "original_language": "en",
+      "original_title": "Prisoner of War",
+      "overview": "Un comandante británico, prisionero en un campo japonés, se esfuerza por sobrevivir. Su valentía inspira a otros prisioneros y lo convierte en un símbolo de dignidad ante la adversidad.",
+      "popularity": 11.3778,
+      "poster_path": "/6paGLyOAvY95XxjfdiTcatwI7dJ.jpg",
+      "release_date": "2025-09-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.087,
+      "vote_count": 173
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        53
+      ],
+      "id": 840326,
+      "title": "Sisu",
+      "original_language": "fi",
+      "original_title": "Sisu",
+      "overview": "En lo profundo de la naturaleza salvaje de Laponia, Aatami Korpi está buscando oro, pero después de tropezar con una patrulla nazi, comienza una persecución impresionante y hambrienta de oro a través de la naturaleza salvaje de Laponia destruida y minada.",
+      "popularity": 11.3734,
+      "poster_path": "/iaKee6RBwx7UxgZt7PWQUAAkaG7.jpg",
+      "release_date": "2022-09-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.411,
+      "vote_count": 2785
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o6f1sJ0ZYg6TA2tMgoHdupB68QB.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        36
+      ],
+      "id": 855,
+      "title": "Black Hawk derribado",
+      "original_language": "en",
+      "original_title": "Black Hawk Down",
+      "overview": "Octubre de 1993. Soldados americanos de élite son enviados a Mogadiscio (Somalia) en una misión de paz de las Naciones Unidas. El fin se supone que es salvar vidas, no segarlas. Pero resulta que el principal objetivo de la misión es capturar al caudillo Aidid y acabar de raíz con la guerra. Al principio, todo parece ir bien, hasta que dos helicópteros Black Hawk, aparentemente invencibles, son derribados. Entonces la misión se convierte en una desesperada carrera para rescatar a la tripulación y a los soldados de tierra que han quedado atrapados o han resultado heridos en el accidente.",
+      "popularity": 11.239,
+      "poster_path": "/5chWdaHyaHWd5KaVxK94lbTDCdC.jpg",
+      "release_date": "2001-12-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.393,
+      "vote_count": 6309
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+      "genre_ids": [
+        28,
+        12,
+        10752
+      ],
+      "id": 1271,
+      "title": "300",
+      "original_language": "en",
+      "original_title": "300",
+      "overview": "Adaptación del cómic de Frank Miller (autor del cómic 'Sin City') sobre la famosa batalla de las Termópilas (480 a.C.). El objetivo de Jerjes, emperador de Persia, era la conquista de Grecia, lo que desencadenó las Guerras Médicas. Dada la gravedad de la situación, el rey Leónidas de Esparta (Gerard Butler) y 300 espartanos se enfrentaron a un ejército persa que era inmensamente superior.",
+      "popularity": 11.1241,
+      "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+      "release_date": "2007-03-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.197,
+      "vote_count": 14640
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/piXBj3FKEGNb6XCfAM7w5s4BI7O.jpg",
+      "genre_ids": [
+        18,
+        28,
+        10752
+      ],
+      "id": 616,
+      "title": "El último samurái",
+      "original_language": "en",
+      "original_title": "The Last Samurai",
+      "overview": "1870. El capitán Nathan Algren es un hombre a la deriva. Las batallas que libró en otro tiempo parecen ahora lejanas e inútiles. Una vez arriesgó su vida por el honor y por la patria, pero, en los años transcurridos desde la Guerra de Secesión estadounidense, el mundo ha cambiado. El pragmatismo ha reemplazado al valor, el interés personal ha ocupado el lugar del sacrificio y el honor no se encuentra en ninguna parte, especialmente en el Oeste, donde su papel en las campañas contra los indios acabó en desilusión y tristeza. En algún lugar de las implacables llanuras junto a la ribera del río Washita, Algren perdió su alma. En un mundo completamente distinto, otro soldado ve como su modo de vida está a punto de desintegrarse.",
+      "popularity": 11.0688,
+      "poster_path": "/DfwutbQodAsYxdqJu7Cme5jifC.jpg",
+      "release_date": "2003-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.602,
+      "vote_count": 7477
+    }
+  ],
+  "total_pages": 633,
+  "total_results": 12660
+}

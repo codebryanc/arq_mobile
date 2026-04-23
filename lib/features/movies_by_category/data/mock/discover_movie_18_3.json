@@ -1,0 +1,417 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/uVlUu174iiKhsUGqnOSy46eIIMU.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "id": 402431,
+      "title": "Wicked",
+      "original_language": "en",
+      "original_title": "Wicked",
+      "overview": "Ambientada en la Tierra de Oz, mucho antes de la llegada de Dorothy Gale desde Kansas. Elphaba es una joven incomprendida por su inusual color verde que aún no ha descubierto su verdadero poder. Glinda es una popular joven marcada por sus privilegios y su ambición que aún no ha descubierto su verdadera pasión. Las dos se conocen como estudiantes de la Universidad Shiz, en la fantástica Tierra de Oz, y forjan una insólita pero profunda amistad. La trama abarca los acontecimientos del primer acto del musical de Broadway.",
+      "popularity": 26.7805,
+      "poster_path": "/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
+      "release_date": "2024-10-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.909,
+      "vote_count": 2973
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 872585,
+      "title": "Oppenheimer",
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "popularity": 27.4114,
+      "poster_path": "/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+      "release_date": "2023-07-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 11625
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 550,
+      "title": "El club de la lucha",
+      "original_language": "en",
+      "original_title": "Fight Club",
+      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "popularity": 27.8583,
+      "poster_path": "/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "release_date": "1999-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.438,
+      "vote_count": 31837
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 13,
+      "title": "Forrest Gump",
+      "original_language": "en",
+      "original_title": "Forrest Gump",
+      "overview": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
+      "popularity": 25.7296,
+      "poster_path": "/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
+      "release_date": "1994-06-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.464,
+      "vote_count": 29566
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1156594,
+      "title": "Culpa nuestra",
+      "original_language": "es",
+      "original_title": "Culpa nuestra",
+      "overview": "La boda de Jenna y Lion propicia el tan deseado reencuentro entre Noah y Nick tiempo después de su ruptura. La incapacidad de Nick para perdonar a Noah se alza como una barrera insalvable. Él, heredero de las empresas de su abuelo y ella, empezando su vida laboral, se resisten a alimentar una llama que aún sigue viva. Pero una vez que sus caminos se han vuelto a cruzar, ¿será el amor más fuerte que el rencor? Secuela de \"Culpa tuya\".",
+      "popularity": 25.4887,
+      "poster_path": "/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
+      "release_date": "2025-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.361,
+      "vote_count": 642
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
+      "genre_ids": [
+        878,
+        18,
+        10749
+      ],
+      "id": 38,
+      "title": "¡Olvídate de mí!",
+      "original_language": "en",
+      "original_title": "Eternal Sunshine of the Spotless Mind",
+      "overview": "Una mujer usa los servicios de una empresa para borrar de su memoria todo recuerdo de su ex pareja. Ofendido, el hombre intenta hacer lo mismo que ella, pero el proceso no sucede según lo esperado y el protagonista debe atravesar la gigantesca marea de recuerdos de su propio cerebro para recomponer las cosas.",
+      "popularity": 25.0756,
+      "poster_path": "/2bHEXzzccUsBNOS6rn9uvi3vAGW.jpg",
+      "release_date": "2004-03-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.091,
+      "vote_count": 16232
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fzo85eKFEjfmJ781gubJQjpQAwF.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10752
+      ],
+      "id": 1213898,
+      "title": "Violencia en la frontera 2",
+      "original_language": "hi",
+      "original_title": "बॉर्डर २",
+      "overview": "Jóvenes combatientes indios se prepararon para proteger su patria de una amenaza mayor durante la guerra indo-pakistaní de 1971.",
+      "popularity": 25.3581,
+      "poster_path": "/bGMxbKjxzOUUnV0YCUYsNdV8db3.jpg",
+      "release_date": "2026-01-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.895,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        18,
+        10402
+      ],
+      "id": 1167307,
+      "title": "David",
+      "original_language": "en",
+      "original_title": "David",
+      "overview": "En un reino gobernado por el miedo, un joven pastor se atreve a enfrentarse a un gigante y a la oscuridad que se oculta tras él. Su valor despertará a una nación y demostrará que la verdadera fuerza proviene de la confianza, no del poder.",
+      "popularity": 25.8223,
+      "poster_path": "/dRGOzTWMvRPGeOXKU0FIyG3YVO5.jpg",
+      "release_date": "2025-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 129
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        18
+      ],
+      "id": 372058,
+      "title": "Your Name.",
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "overview": "Taki y Mitsuha descubren un día que durante el sueño sus cuerpos se intercambian, y comienzan a comunicarse por medio de notas. A medida que consiguen superar torpemente un reto tras otro, se va creando entre los dos un vínculo que poco a poco se convierte en algo más romántico.",
+      "popularity": 23.4654,
+      "poster_path": "/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
+      "release_date": "2016-08-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 12437
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 240,
+      "title": "El Padrino Parte II",
+      "original_language": "en",
+      "original_title": "The Godfather Part II",
+      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "popularity": 24.5913,
+      "poster_path": "/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "release_date": "1974-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.571,
+      "vote_count": 13806
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
+      "genre_ids": [
+        14,
+        18,
+        80
+      ],
+      "id": 497,
+      "title": "La milla verde",
+      "original_language": "en",
+      "original_title": "The Green Mile",
+      "overview": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
+      "popularity": 24.8157,
+      "poster_path": "/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
+      "release_date": "1999-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.504,
+      "vote_count": 19107
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 424,
+      "title": "La lista de Schindler",
+      "original_language": "en",
+      "original_title": "Schindler's List",
+      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+      "popularity": 24.6102,
+      "poster_path": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+      "release_date": "1993-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.567,
+      "vote_count": 17338
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ru0r5MYhIwcU0IddhRLqJpIPkiV.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1191876,
+      "title": "From the Ashes",
+      "original_language": "en",
+      "original_title": "From the Ashes",
+      "overview": "",
+      "popularity": 23.6393,
+      "poster_path": "/aEUH2ECoZHvSmoMzJpca0STF2CZ.jpg",
+      "release_date": "2027-06-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i2GPnSwsdxHtI19e7gZwFVndpqg.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1511417,
+      "title": "Baahubali: The Epic",
+      "original_language": "te",
+      "original_title": "Bāhubali: The Epic",
+      "overview": "Cuando una pareja tribal encuentra a un niño misterioso cerca de una estruendosa cascada, lo crían como si fuera suyo. A medida que crece, Sivudu se siente atraído por el mundo más allá de los acantilados, donde descubre el antiguo reino de Mahishmati, gobernado por un tirano cruel, asolado por la rebelión y ligado a su propio pasado. Lo que comienza como una búsqueda por amor, pronto desentraña un legado de traición, sacrificio y un príncipe olvidado.",
+      "popularity": 24.1106,
+      "poster_path": "/4sLSorDKKDN944kWngxgQlpdDeg.jpg",
+      "release_date": "2025-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.986,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "id": 1062722,
+      "title": "Frankenstein",
+      "original_language": "en",
+      "original_title": "Frankenstein",
+      "overview": "Un científico brillante y obsesivo, Victor Frankenstein, en su ambición por desafiar a la muerte, da vida a una criatura ensamblada con partes de cadáveres. Pese a tratarse de una proeza científica, Frankenstein considera que la criatura carece de inteligencia y la rechaza. Dolida, esta se rebela contra su creador.",
+      "popularity": 22.5911,
+      "poster_path": "/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+      "release_date": "2025-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.646,
+      "vote_count": 3335
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 769,
+      "title": "Uno de los nuestros",
+      "original_language": "en",
+      "original_title": "GoodFellas",
+      "overview": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+      "popularity": 22.9049,
+      "poster_path": "/3Yy0zBO9AlyAZH1cTI8Ko2ouCi.jpg",
+      "release_date": "1990-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.453,
+      "vote_count": 14226
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/askFH4GSk2u9z3ZE5ypdKIMeqLJ.jpg",
+      "genre_ids": [
+        878,
+        18
+      ],
+      "id": 335984,
+      "title": "Blade Runner 2049",
+      "original_language": "en",
+      "original_title": "Blade Runner 2049",
+      "overview": "Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
+      "popularity": 22.4287,
+      "poster_path": "/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
+      "release_date": "2017-10-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.591,
+      "vote_count": 15006
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8fxfzixsgVZNtZi5KUBW2OHU3Ar.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1174024,
+      "title": "Una cena... y lo que surja",
+      "original_language": "fr",
+      "original_title": "Et plus si affinités",
+      "overview": "Tras años de monotonía matrimonial, Sophie y Xavier necesitan aire fresco en su relación. Una noche quedan para cenar con sus vecinos, los enamorados Adèle y Alban, a quienes Xavier reprocha su falta de discreción y su vida desenfrenada. La cena da un giro cuando estos les hacen una proposición un tanto… indecente. ¿Y si la solución fuera dejarse llevar por los vecinos de arriba?",
+      "popularity": 24.1084,
+      "poster_path": "/pzLl8ek03BzT3Ezj7jN9RRSWCsr.jpg",
+      "release_date": "2024-04-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.772,
+      "vote_count": 103
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 1214931,
+      "title": "Núremberg",
+      "original_language": "en",
+      "original_title": "Nuremberg",
+      "overview": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales e inminentes juicios de Nuremberg contra el derrotado régimen Nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los oficiales nazis prisioneros son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio dialéctico con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\", de Jack El-Hai.",
+      "popularity": 21.6163,
+      "poster_path": "/5sIW7PmpnZDUoYGuw0HqEBbmzpa.jpg",
+      "release_date": "2025-11-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 873
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wbQa0EnWUyRzQ5d1pHLNRlmsCUP.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        53
+      ],
+      "id": 244786,
+      "title": "Whiplash",
+      "original_language": "en",
+      "original_title": "Whiplash",
+      "overview": "El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un profesor conocido tanto por su talento como por sus rigurosos métodos de enseñanza, dirige el mejor conjunto de jazz del Conservatorio. Cuando Fletcher elige a Andrew y para formar parte del conjunto musical que dirige, cambia para siempre la vida del joven. La pasión de Andrew por alcanzar la perfección se convierte en obsesión, al tiempo que su despiadado profesor lo lleva al límite de su capacidad y de su salud mental.",
+      "popularity": 22.2885,
+      "poster_path": "/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
+      "release_date": "2014-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.374,
+      "vote_count": 16509
+    }
+  ],
+  "total_pages": 14269,
+  "total_results": 285364
+}

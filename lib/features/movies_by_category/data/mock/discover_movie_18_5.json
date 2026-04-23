@@ -1,0 +1,419 @@
+{
+  "page": 5,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1317149,
+      "title": "Incontrolable (I Swear)",
+      "original_language": "en",
+      "original_title": "I Swear",
+      "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "popularity": 18.6236,
+      "poster_path": "/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
+      "release_date": "2025-09-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.291,
+      "vote_count": 230
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 324786,
+      "title": "Hasta el último hombre",
+      "original_language": "en",
+      "original_title": "Hacksaw Ridge",
+      "overview": "La historia de Desmond T. Doss, quien, debido a que se lo prohibía su fe, combatió en la Segunda Guerra Mundial sin portar un arma. No disparó ni una bala, pero salvó a 75 personas de la muerte en la batalla de la isla de Okinawa.",
+      "popularity": 18.4051,
+      "poster_path": "/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
+      "release_date": "2016-10-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.189,
+      "vote_count": 14749
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+      "genre_ids": [
+        28,
+        18,
+        12
+      ],
+      "id": 98,
+      "title": "Gladiator",
+      "original_language": "en",
+      "original_title": "Gladiator",
+      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "popularity": 18.3675,
+      "poster_path": "/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
+      "release_date": "2000-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.224,
+      "vote_count": 20755
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oDdRrwTCgaDzAshScrFO09qWqPB.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 10474,
+      "title": "Diario de un rebelde",
+      "original_language": "en",
+      "original_title": "The Basketball Diaries",
+      "overview": "Crónica autobiográfica de un grupo de adolescentes, entre los que se encuentra el escritor Jim Carroll, a los que sus travesuras están a punto de llevarlos por oscuros caminos de la desesperación, ya que sus actividades fuera de clase amenazan con destruirlos. Esnifando productos de limpieza, riéndose con fotografías pornográficas, participando en pequeños hurtos, estos cinco amigos apenas mantienen la cabeza a flote al perder el control de sí mismos.",
+      "popularity": 18.2875,
+      "poster_path": "/68yBRXJNQT7vwFGRHqKcfy97LXq.jpg",
+      "release_date": "1995-04-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 2175
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+      "genre_ids": [
+        35,
+        80,
+        18
+      ],
+      "id": 337404,
+      "title": "Cruella",
+      "original_language": "en",
+      "original_title": "Cruella",
+      "overview": "Ambientada en el Londres de los años 70, en plena revolución del punk rock, muestra a una joven estafadora llamada Estella, una chica inteligente y creativa, decidida a convertirse en una exitosa diseñadora de moda, que se asocia con un par de ladrones para sobrevivir en las calles de la capital británica. Pero cuando su talento para la moda llama la atención de la legendaria diseñadora, la Baronesa von Hellman, Estella cambia el rumbo de su vida hasta que una serie de acontecimientos y revelaciones que harán que Estella asuma su lado malvado y se convierta en la estridente, moderna y vengativa Cruella de Vil.",
+      "popularity": 18.2624,
+      "poster_path": "/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg",
+      "release_date": "2021-05-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 9993
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "id": 11324,
+      "title": "Shutter Island",
+      "original_language": "en",
+      "original_title": "Shutter Island",
+      "overview": "Verano de 1954. Los agentes judiciales Teddy Daniels y Chuck Aule son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley. Pronto descubrirán que el centro guarda muchos secretos, y que la isla esconde algo más peligroso que los pacientes.",
+      "popularity": 18.057,
+      "poster_path": "/56utveUWJwmG12YU7c2zKw6pbRZ.jpg",
+      "release_date": "2010-02-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.198,
+      "vote_count": 25686
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "id": 475557,
+      "title": "Joker",
+      "original_language": "en",
+      "original_title": "Joker",
+      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+      "popularity": 18.0367,
+      "poster_path": "/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+      "release_date": "2019-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.126,
+      "vote_count": 27566
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xMJvffWIaW9MtlY9aIXKViUNeIO.jpg",
+      "genre_ids": [
+        35,
+        878,
+        18
+      ],
+      "id": 646380,
+      "title": "No mires arriba",
+      "original_language": "en",
+      "original_title": "Don't Look Up",
+      "overview": "Dos astrónomos emprenden una gira mediática para avisar a la humanidad de un cometa que va a impactar con la Tierra. ¿Cuál es la respuesta de un mundo apático? «¡Bah!».",
+      "popularity": 17.9215,
+      "poster_path": "/78olDfo1tQmI1OtyBPovWb98wLD.jpg",
+      "release_date": "2021-12-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.064,
+      "vote_count": 9253
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yYvBNN96Ym3wtPxGCFl7F888WwB.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 207,
+      "title": "El club de los poetas muertos",
+      "original_language": "en",
+      "original_title": "Dead Poets Society",
+      "overview": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+      "popularity": 17.6897,
+      "poster_path": "/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
+      "release_date": "1989-06-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.299,
+      "vote_count": 12495
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 101,
+      "title": "El profesional (Léon)",
+      "original_language": "fr",
+      "original_title": "Léon",
+      "overview": "Stan es un corrupto agente de la DEA cuya codicia le lleva a cometer asesinatos en las calles de Nueva York. El mortal juego del gato y el ratón empieza cuando se cruza en su camino un solitario hombre, llamado León. León es asesino a sueldo, un personaje indestructible e indocumentado, que sólo bebe leche y se ocupa de sus plantas. En medio se encuentra una huerfanita de 12 años, que no puede olvidar al hombre que asesinó a su familia.",
+      "popularity": 17.4754,
+      "poster_path": "/9Ztxqq9mAeGiXDkyqXJPaACUcbd.jpg",
+      "release_date": "1994-09-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.295,
+      "vote_count": 15988
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 37165,
+      "title": "El show de Truman",
+      "original_language": "en",
+      "original_title": "The Truman Show",
+      "overview": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, de repente, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo. Todos sus amigos son actores, toda su ciudad es un plató, toda su vida está siendo filmada y emitida como el reality más ambicioso de la historia.",
+      "popularity": 17.4598,
+      "poster_path": "/4BGVZSwv5n0hMIAWwiSjMFDQ63K.jpg",
+      "release_date": "1998-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.152,
+      "vote_count": 20060
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uKPbFF08QkRMvIAsgCh1soeyPhZ.jpg",
+      "genre_ids": [
+        18,
+        878,
+        9648
+      ],
+      "id": 329865,
+      "title": "La llegada",
+      "original_language": "en",
+      "original_title": "Arrival",
+      "overview": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+      "popularity": 17.4549,
+      "poster_path": "/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "release_date": "2016-11-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.624,
+      "vote_count": 19208
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w4bTBXcqXc2TUyS5Fc4h67uWbPn.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 389,
+      "title": "12 hombres sin piedad",
+      "original_language": "en",
+      "original_title": "12 Angry Men",
+      "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás.",
+      "popularity": 17.295,
+      "poster_path": "/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
+      "release_date": "1957-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.56,
+      "vote_count": 9904
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1135873,
+      "title": "GGS - Ganteng-Ganteng Sange",
+      "original_language": "hi",
+      "original_title": "GGS - Ganteng-Ganteng Sange",
+      "overview": "",
+      "popularity": 17.2857,
+      "poster_path": "/39fFH027tOpTyZwSNOydSAsOCzb.jpg",
+      "release_date": "2023-05-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 18240,
+      "title": "La propuesta",
+      "original_language": "en",
+      "original_title": "The Proposal",
+      "overview": "Margaret es una poderosa y estricta editora de gran éxito de Nueva York que, por un problema con su visado, de repente se enfrenta a ser deportada a Canadá, su país de origen. Para evitarlo y poder mantener su visa en Estados Unidos, la astuta ejecutiva declara que está comprometida con su joven asistente Andrew, al que lleva torturando durante años. Andrew acepta participar en la farsa, pero con algunas condiciones. La \"pareja\" se dirige entonces a Alaska a conocer la peculiar familia de él, y la ejecutiva de ciudad, acostumbrada a tener todo bajo control, se encuentra inmersa en situaciones surrealistas que escapan a cualquier lógica conocida. Con planes de boda en camino y un agente de inmigración tras sus pasos, Margaret y Andrew se comprometen a seguir con el plan previsto pese a las consecuencias.",
+      "popularity": 17.2814,
+      "poster_path": "/bkbzlLA8HCEHRDxsTKGthII0BpW.jpg",
+      "release_date": "2009-06-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.144,
+      "vote_count": 7403
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
+      "genre_ids": [
+        27,
+        53,
+        18
+      ],
+      "id": 346364,
+      "title": "It (Eso)",
+      "original_language": "en",
+      "original_title": "It",
+      "overview": "Remake del clásico de Stephen King en el que un payaso aterroriza a los niños de un vecindario. En un pequeño pueblo de Maine, siete niños conocidos como el Club de los Perdedores se encuentran cara a cara con problemas de la vida, matones y un monstruo que toma la forma de un payaso llamado Pennywise.",
+      "popularity": 17.2644,
+      "poster_path": "/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg",
+      "release_date": "2017-09-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.239,
+      "vote_count": 20232
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Aueidj1cfpZBOW5KbyVCyKMSZE1.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        36
+      ],
+      "id": 585032,
+      "title": "사방지",
+      "original_language": "ko",
+      "original_title": "사방지",
+      "overview": "",
+      "popularity": 17.246,
+      "poster_path": "/uFsTrW5qzU2l3YE0ataLoUgfsjJ.jpg",
+      "release_date": "1988-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        28
+      ],
+      "id": 228150,
+      "title": "Corazones de acero",
+      "original_language": "en",
+      "original_title": "Fury",
+      "overview": "Abril de 1945. Al mando del veterano sargento Wardaddy, un pelotón de cinco soldados americanos a bordo de un carro de combate -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
+      "popularity": 17.2455,
+      "poster_path": "/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
+      "release_date": "2014-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.543,
+      "vote_count": 12852
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZHJsUYxhjI6kbooHoQRWXv6F8E.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "id": 59,
+      "title": "Una historia de violencia",
+      "original_language": "en",
+      "original_title": "A History of Violence",
+      "overview": "Tom Stall lleva una vida feliz y tranquila con su mujer –abogada– y sus dos hijos en la pequeña ciudad de Millbrook (Indiana) hasta que una noche su existencia idílica se ve destrozada cuando frustra un violento intento de robo en su restaurante. Tom percibe el peligro y salva a sus clientes y amigos matando en defensa propia a dos criminales buscados por la justicia. Aplaudido como un héroe, la vida de Tom cambia de la noche a la mañana y de repente se encuentra convertido en el centro de atención de todos los medios de comunicación. Incómodo con esta fama no buscada, intenta volver a su vida normal, pero un hombre amenazante y misterioso llega a la ciudad para enfrentarse a él porque cree que Tom es el hombre con quien tiene una cuenta pendiente del pasado.",
+      "popularity": 17.1075,
+      "poster_path": "/rZLpsfxj2qKbJzSzXiKFYrRIeB1.jpg",
+      "release_date": "2005-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.163,
+      "vote_count": 3686
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10749
+      ],
+      "id": 744,
+      "title": "Top Gun: Ídolos del aire",
+      "original_language": "en",
+      "original_title": "Top Gun",
+      "overview": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
+      "popularity": 16.9848,
+      "poster_path": "/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg",
+      "release_date": "1986-05-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.06,
+      "vote_count": 9462
+    }
+  ],
+  "total_pages": 14270,
+  "total_results": 285394
+}

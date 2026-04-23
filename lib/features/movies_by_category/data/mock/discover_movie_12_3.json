@@ -1,0 +1,433 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/pO1SnM5a1fEsYrFaVZW78Wb0zRJ.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35,
+        10770
+      ],
+      "id": 677638,
+      "title": "Somos osos: La película",
+      "original_language": "en",
+      "original_title": "We Bare Bears: The Movie",
+      "overview": "Cuando el amor de Grizz, Panda y Ice Bear por los camiones de comida y los videos virales se fue de las manos, llama la atención del Agente Trout del National Wildlife Control, quien se compromete a restaurar el \"orden natural\" separándolos para siempre. Alejados de su hogar, los Bears se embarcan en un viaje épico por carretera mientras buscan refugio en Canadá, con su viaje lleno de nuevos amigos, obstáculos peligrosos y grandes fiestas. El arriesgado viaje también obliga a los Bears a enfrentar cómo se conocieron y se convirtieron en hermanos, para evitar que su vínculo familiar se separe.",
+      "popularity": 25.9501,
+      "poster_path": "/iv7kO9dnT73DO49TyhFNam2FtNM.jpg",
+      "release_date": "2020-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 844
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "id": 980477,
+      "title": "Ne Zha 2",
+      "original_language": "zh",
+      "original_title": "哪吒之魔童闹海",
+      "overview": "Cuando los cuerpos de los dos amigos, Aobing y Nezha, están a punto de ser destruidos, se les permite que sus almas sigan existiendo. Su maestro, Taiyi Zhenren, restaura sus cuerpos con la ayuda de una flor de loto. Después de esto, Nezha parte en busca de enfrentar al Rey Dragón del Mar del Este, Ao Guang.",
+      "popularity": 25.9201,
+      "poster_path": "/jz5sGlPGf0cWZ0uJPDc8cSjjFcZ.jpg",
+      "release_date": "2025-01-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.121,
+      "vote_count": 652
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        12,
+        14
+      ],
+      "id": 991494,
+      "title": "Bob Esponja: Una aventura pirata",
+      "original_language": "en",
+      "original_title": "The SpongeBob Movie: Search for SquarePants",
+      "overview": "Desesperado por ser un gran tipo, Bob Esponja se propone demostrar su valentía al Sr. Krabs siguiendo a The Flying Dutchman, un misterioso pirata fantasma, en una aventura marítima que lo lleva a las profundidades más profundas del mar profundo, donde ninguna Esponja ha ido antes.",
+      "popularity": 25.4348,
+      "poster_path": "/8pE6H7PHwINoQYPPU1fEcQz5gQ6.jpg",
+      "release_date": "2025-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.779,
+      "vote_count": 267
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3N5QNUqS76GFYNoEayfkkJyAyTN.jpg",
+      "genre_ids": [
+        35,
+        12
+      ],
+      "id": 346698,
+      "title": "Barbie",
+      "original_language": "en",
+      "original_title": "Barbie",
+      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
+      "popularity": 25.1874,
+      "poster_path": "/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+      "release_date": "2023-07-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.926,
+      "vote_count": 10986
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pgvn1tazqI9mZaRCNQUqNr3umvG.jpg",
+      "genre_ids": [
+        12,
+        878
+      ],
+      "id": 1233506,
+      "title": "El hombre menguante",
+      "original_language": "fr",
+      "original_title": "L'Homme qui rétrécit",
+      "overview": "Paul es un padre de familia ejemplar y el dueño de una empresa de construcción naval. Durante uno de sus habituales baños en el mar, es testigo de un extraño suceso meteorológico. A partir de ese momento, Paul empieza a encoger sin explicación científica posible. Por accidente, una mañana queda atrapado en su propio sótano. El hombre deberá luchar si quiere sobrevivir en un entorno cotidiano convertido, repentinamente, en un terreno letal.",
+      "popularity": 25.0515,
+      "poster_path": "/1hRdOzLWpXdNawaNhktTnRoM0w1.jpg",
+      "release_date": "2025-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 86
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        35,
+        12
+      ],
+      "id": 950387,
+      "title": "Una película de Minecraft",
+      "original_language": "en",
+      "original_title": "A Minecraft Movie",
+      "overview": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+      "popularity": 25.0005,
+      "poster_path": "/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
+      "release_date": "2025-03-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.258,
+      "vote_count": 2925
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s63esoz5vl0q8W8zRWIYngFWgI7.jpg",
+      "genre_ids": [
+        12,
+        28,
+        35
+      ],
+      "id": 17653,
+      "title": "La leyenda de Fong Sai Yuk",
+      "original_language": "cn",
+      "original_title": "方世玉",
+      "overview": "La sociedad secreta del Loto Rojo está decidida a deponer al malvado emperador manchú y a sus secuaces. A uno de los gobernadores se le encarga la misión de elaborar una lista con los nombres de los miembros de dicha sociedad. Mientras, Fong Sai Yuk, un cantonés que practica las artes marciales, se enamora de la preciosa hija de un rico comerciante recién llegado a Cantón. Su padre, en un intento por ganar influencia en la zona y mejorar sus negocios, ofrece a su hija en matrimonio a aquel que resulte ganador en un torneo de artes marciales",
+      "popularity": 24.609,
+      "poster_path": "/hdAqW3qn0Y9jNMjDob5ae0NRa0F.jpg",
+      "release_date": "1993-03-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.947,
+      "vote_count": 180
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        878,
+        12
+      ],
+      "id": 1184918,
+      "title": "Robot salvaje",
+      "original_language": "en",
+      "original_title": "The Wild Robot",
+      "overview": "Esta aventura épica cuenta la historia de una robot, Rozzum 7-1-3-4, \"Roz\" para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de una cría de ganso huérfana.",
+      "popularity": 24.2745,
+      "poster_path": "/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
+      "release_date": "2024-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.308,
+      "vote_count": 5931
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1726,
+      "title": "Iron Man",
+      "original_language": "en",
+      "original_title": "Iron Man",
+      "overview": "El multimillonario fabricante de armas Tony Stark debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en 'El hombre de hierro' para combatir el mal a escala global.",
+      "popularity": 24.2625,
+      "poster_path": "/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg",
+      "release_date": "2008-04-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.657,
+      "vote_count": 27982
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
+      "genre_ids": [
+        16,
+        35,
+        14,
+        12,
+        10751
+      ],
+      "id": 808,
+      "title": "Shrek",
+      "original_language": "en",
+      "original_title": "Shrek",
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "popularity": 24.2185,
+      "poster_path": "/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
+      "release_date": "2001-05-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.759,
+      "vote_count": 18612
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 333339,
+      "title": "Ready Player One",
+      "original_language": "en",
+      "original_title": "Ready Player One",
+      "overview": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
+      "popularity": 24.048,
+      "poster_path": "/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
+      "release_date": "2018-03-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.584,
+      "vote_count": 16777
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 617126,
+      "title": "Los Cuatro Fantásticos: Primeros pasos",
+      "original_language": "en",
+      "original_title": "The Fantastic 4: First Steps",
+      "overview": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
+      "popularity": 23.7735,
+      "poster_path": "/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
+      "release_date": "2025-07-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.96,
+      "vote_count": 3218
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+      "genre_ids": [
+        27,
+        12,
+        28
+      ],
+      "id": 7131,
+      "title": "Van Helsing",
+      "original_language": "en",
+      "original_title": "Van Helsing",
+      "overview": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone... y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
+      "popularity": 23.2477,
+      "poster_path": "/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
+      "release_date": "2004-05-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.399,
+      "vote_count": 6567
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        12
+      ],
+      "id": 862,
+      "title": "Toy Story",
+      "original_language": "en",
+      "original_title": "Toy Story",
+      "overview": "Los juguetes de Andy, un niño de seis años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano, pero su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa.",
+      "popularity": 23.2229,
+      "poster_path": "/y59d8PjuFSgJJN4VRS7jDoRgSM9.jpg",
+      "release_date": "1995-11-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.971,
+      "vote_count": 19754
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3eOINbgRs8WiWfQfViXeuZ3enrs.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 1003596,
+      "title": "Vengadores: Doomsday",
+      "original_language": "en",
+      "original_title": "Avengers: Doomsday",
+      "overview": "Quinta entrega de la saga 'Vengadores' incluida en el Universo Cinematográfico Marvel (UCM). Sinopsis desconocido.",
+      "popularity": 23.1289,
+      "poster_path": "/rQKabpeIewLLNStFr3anEXI0xqu.jpg",
+      "release_date": "2026-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 11,
+      "title": "La guerra de las galaxias",
+      "original_language": "en",
+      "original_title": "Star Wars",
+      "overview": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
+      "popularity": 23.1058,
+      "poster_path": "/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
+      "release_date": "1977-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.203,
+      "vote_count": 22183
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 693134,
+      "title": "Dune: Parte dos",
+      "original_language": "en",
+      "original_title": "Dune: Part Two",
+      "overview": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+      "popularity": 22.7855,
+      "poster_path": "/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg",
+      "release_date": "2024-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 7806
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 438631,
+      "title": "Dune",
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "popularity": 22.6914,
+      "poster_path": "/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
+      "release_date": "2021-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.779,
+      "vote_count": 14735
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35
+      ],
+      "id": 269149,
+      "title": "Zootrópolis",
+      "original_language": "en",
+      "original_title": "Zootopia",
+      "overview": "La moderna metrópoli mamífera de Zootrópolis es una ciudad absolutamente única. Está compuesta de barrios con diferentes hábitats como la lujosa Plaza Sahara, el Distrito Selva Tropical y el gélido Distrito Tundra. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña más diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada fácil. Pero está decidida a demostrar su valía y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchín y estafador, para resolver el misterio.",
+      "popularity": 22.4687,
+      "poster_path": "/4zIlT48TgNLuJpUtFOkFITHoCQE.jpg",
+      "release_date": "2016-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.759,
+      "vote_count": 17969
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 429617,
+      "title": "Spider-Man: Lejos de casa",
+      "original_language": "en",
+      "original_title": "Spider-Man: Far From Home",
+      "overview": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
+      "popularity": 22.3454,
+      "poster_path": "/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
+      "release_date": "2019-06-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.396,
+      "vote_count": 16855
+    }
+  ],
+  "total_pages": 1354,
+  "total_results": 27062
+}

@@ -1,0 +1,422 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/a9IQXoYCpsjqTOKXRTw1osLd5il.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        36
+      ],
+      "id": 858024,
+      "title": "Hamnet",
+      "original_language": "en",
+      "original_title": "Hamnet",
+      "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+      "popularity": 32.7108,
+      "poster_path": "/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
+      "release_date": "2025-11-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.731,
+      "vote_count": 1253
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 1579,
+      "title": "Apocalypto",
+      "original_language": "en",
+      "original_title": "Apocalypto",
+      "overview": "Historia ambientada en la época del imperio maya. Cuando la idílica existencia de los mayas es brutalmente interrumpida por el ataque de una fuerza invasora, un hombre emprende un arriesgado viaje a un mundo regido por el miedo y la opresión en el que le espera un incierto final. Debido a un giro del destino y espoleado por el amor a su esposa y a su familia, emprenderá el regreso a su hogar en un desesperado esfuerzo por preservar su forma de vida...",
+      "popularity": 31.0829,
+      "poster_path": "/yQ4uC13IYVerbxMMXeSogSQUkOT.jpg",
+      "release_date": "2006-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.598,
+      "vote_count": 6198
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 872585,
+      "title": "Oppenheimer",
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "popularity": 27.4114,
+      "poster_path": "/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+      "release_date": "2023-07-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.032,
+      "vote_count": 11627
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 424,
+      "title": "La lista de Schindler",
+      "original_language": "en",
+      "original_title": "Schindler's List",
+      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+      "popularity": 24.6102,
+      "poster_path": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+      "release_date": "1993-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.567,
+      "vote_count": 17338
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t35dVtLN4H12XXtipJfIDEy2h7Y.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 3291,
+      "title": "Buenas noches, y buena suerte",
+      "original_language": "en",
+      "original_title": "Good Night, and Good Luck.",
+      "overview": "Basada en hechos reales. Narra el enfrentamiento que mantuvieron el famoso periodista de la CBS Edward R. Murrow (David Strathairn) y su productor Fred Friendly (George Clooney) contra el senador Joseph McCarthy, hecho que determinó el final de la \"caza de brujas\".",
+      "popularity": 24.3837,
+      "poster_path": "/pIcFwnTLqU3ASLqG43AbxYXwm6J.jpg",
+      "release_date": "2005-09-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.071,
+      "vote_count": 1096
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 1214931,
+      "title": "Núremberg",
+      "original_language": "en",
+      "original_title": "Nuremberg",
+      "overview": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales e inminentes juicios de Nuremberg contra el derrotado régimen Nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los oficiales nazis prisioneros son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio dialéctico con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\", de Jack El-Hai.",
+      "popularity": 21.6163,
+      "poster_path": "/5sIW7PmpnZDUoYGuw0HqEBbmzpa.jpg",
+      "release_date": "2025-11-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 873
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1317149,
+      "title": "Incontrolable (I Swear)",
+      "original_language": "en",
+      "original_title": "I Swear",
+      "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "popularity": 18.6236,
+      "poster_path": "/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
+      "release_date": "2025-09-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 230
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 324786,
+      "title": "Hasta el último hombre",
+      "original_language": "en",
+      "original_title": "Hacksaw Ridge",
+      "overview": "La historia de Desmond T. Doss, quien, debido a que se lo prohibía su fe, combatió en la Segunda Guerra Mundial sin portar un arma. No disparó ni una bala, pero salvó a 75 personas de la muerte en la batalla de la isla de Okinawa.",
+      "popularity": 18.4051,
+      "poster_path": "/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
+      "release_date": "2016-10-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.189,
+      "vote_count": 14749
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d3z8MH9OvTOOSxy5QwAG0cS6GKU.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        36
+      ],
+      "id": 652,
+      "title": "Troya",
+      "original_language": "en",
+      "original_title": "Troy",
+      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
+      "popularity": 17.7452,
+      "poster_path": "/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+      "release_date": "2004-05-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.168,
+      "vote_count": 10962
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Aueidj1cfpZBOW5KbyVCyKMSZE1.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        36
+      ],
+      "id": 585032,
+      "title": "사방지",
+      "original_language": "ko",
+      "original_title": "사방지",
+      "overview": "",
+      "popularity": 17.246,
+      "poster_path": "/uFsTrW5qzU2l3YE0ataLoUgfsjJ.jpg",
+      "release_date": "1988-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 1305781,
+      "title": "镖人：风起大漠",
+      "original_language": "zh",
+      "original_title": "镖人：风起大漠",
+      "overview": "",
+      "popularity": 16.3295,
+      "poster_path": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
+      "release_date": "2026-02-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 1321179,
+      "title": "왕과 사는 남자",
+      "original_language": "ko",
+      "original_title": "왕과 사는 남자",
+      "overview": "",
+      "popularity": 16.0669,
+      "poster_path": "/zEH1FQTEnRY05i8gQIYdR10Vp92.jpg",
+      "release_date": "2026-02-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "genre_ids": [
+        18,
+        28,
+        12,
+        36,
+        10752
+      ],
+      "id": 1495,
+      "title": "El reino de los cielos",
+      "original_language": "en",
+      "original_title": "Kingdom of Heaven",
+      "overview": "Balián de Ibelín viaja a Jerusalén durante las cruzadas del siglo XII, donde será el defensor de su pueblo.",
+      "popularity": 15.7459,
+      "poster_path": "/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
+      "release_date": "2005-05-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.02,
+      "vote_count": 4874
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rNu7OkOeZyylZcUqIA7DpclTjur.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1480382,
+      "title": "La voz de Hind",
+      "original_language": "ar",
+      "original_title": "صوت هند رجب",
+      "overview": "Voluntarios de la Media Luna Roja reciben una llamada urgente de una niña de 6 años atrapada en un auto bajo fuego en Gaza. Mientras intentan mantenerla en línea, luchan contra el tiempo para enviar una ambulancia a rescatarla.",
+      "popularity": 15.6572,
+      "poster_path": "/wJl56vf5n1o2bFJtftxzAmcP6id.jpg",
+      "release_date": "2025-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.036,
+      "vote_count": 266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1396,
+      "title": "El espejo",
+      "original_language": "ru",
+      "original_title": "Зеркало",
+      "overview": "Un hombre, Alekséi, habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. La película es una evocación continua de recuerdos y sentimientos que viajan en diferentes tiempos sin orden aparente: la relación con su madre, su infancia,...que se mezclan con material fílmico de noticiario sobre la Guerra civil española, la Segunda guerra mundial y el enfrentamiento entre la URSS y China por la isla Damanski. En la película suenan poemas escritos y recitados por Arseni Tarkovski, padre del director. Retrata un pasado que es el suyo, pero también el de un país y el del acontecer mundial.",
+      "popularity": 15.2027,
+      "poster_path": "/hLzhdirfOApuoXoS8SnGNotu1bf.jpg",
+      "release_date": "1975-03-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.953,
+      "vote_count": 1083
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+      "genre_ids": [
+        36,
+        18,
+        53,
+        10752
+      ],
+      "id": 205596,
+      "title": "The Imitation Game (Descifrando Enigma)",
+      "original_language": "en",
+      "original_title": "The Imitation Game",
+      "overview": "Durante el invierno de 1952, las autoridades británicas entraron en el hogar del matemático, analista y héroe de guerra Alan Turing, con la intención de investigar la denuncia de un robo. Al final acabaron arrestando a Turing acusándole de indecencia grave, un cargo que le supondría una devastadora condena por una ofensa criminal: ser homosexual. Los oficiales no tenían ni idea de que en realidad estaban incriminando al pionero de la informática actual. Liderando a un heterogéneo grupo de académicos, lingüistas, campeones de ajedrez y oficiales de inteligencia, se le conoce por haber descifrado el código de la inquebrantable máquina Enigma de los alemanes durante la Segunda Guerra Mundial.",
+      "popularity": 14.2982,
+      "poster_path": "/pdd20KgHJec4BM4sfHS8oefaDUI.jpg",
+      "release_date": "2014-11-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.985,
+      "vote_count": 17979
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        36
+      ],
+      "id": 857,
+      "title": "Salvar al soldado Ryan",
+      "original_language": "en",
+      "original_title": "Saving Private Ryan",
+      "overview": "Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
+      "popularity": 13.3705,
+      "poster_path": "/dcKfD8xWf8XnS3tHVp7v331wdNT.jpg",
+      "release_date": "1998-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.223,
+      "vote_count": 17085
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A63giQFJP4ABqNk4sLzegVeqVdl.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        36
+      ],
+      "id": 14574,
+      "title": "El niño con el pijama de rayas",
+      "original_language": "en",
+      "original_title": "The Boy in the Striped Pyjamas",
+      "overview": "Berlín, 1942. Bruno tiene ocho años y desconoce el significado de la Solución Final y del Holocausto. No es consciente de las pavorosas crueldades que su país, en plena guerra mundial, está infligiendo a los pueblos de Europa. Todo lo que sabe es que su padre -recién nombrado comandante de un campo de concentración- ha ascendido en el escalafón, y que ha pasado de vivir en una confortable casa de Berlín a una zona aislada. Todo cambia cuando conoce a Shamuel, un niño judío que vive una extraña existencia paralela al otro lado de la alambrada.",
+      "popularity": 13.0167,
+      "poster_path": "/dZeiD0WVM1IHzRAOSldsY0jh1CR.jpg",
+      "release_date": "2008-05-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.816,
+      "vote_count": 7614
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+      "genre_ids": [
+        18,
+        35,
+        36
+      ],
+      "id": 490132,
+      "title": "Green Book",
+      "original_language": "en",
+      "original_title": "Green Book",
+      "overview": "Años 60. Cuando Tony Lip, un rudo italoamericano del Bronx, es contratado como chófer del virtuoso pianista negro Don Shirley durante una gira de conciertos por el Sur de Estados Unidos, deberá confiar en \"El libro verde\", una guía de los pocos establecimientos seguros para los afroamericanos, para encontrar alojamiento. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que la bondad y el sentido del humor unirán, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de su vida.",
+      "popularity": 12.184,
+      "poster_path": "/phwmfaEe43uY2OAI2oeSZNlD4A9.jpg",
+      "release_date": "2018-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.223,
+      "vote_count": 12769
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 457136,
+      "title": "María reina de Escocia",
+      "original_language": "en",
+      "original_title": "Mary Queen of Scots",
+      "overview": "Relato biográfico de una etapa de la vida de la reina María Estuardo de Escocia, que se enfrentó a su prima Isabel I cuando, al volver de Francia tras haber enviudado, reclamaba su derecho a la corona de Inglaterra.",
+      "popularity": 11.6582,
+      "poster_path": "/f4rwu6nuTOr1cZNG6lgLuaZufnL.jpg",
+      "release_date": "2018-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 1935
+    }
+  ],
+  "total_pages": 1077,
+  "total_results": 21538
+}

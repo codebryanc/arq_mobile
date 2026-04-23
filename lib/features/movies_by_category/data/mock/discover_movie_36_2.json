@@ -1,0 +1,427 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 197,
+      "title": "Braveheart",
+      "original_language": "en",
+      "original_title": "Braveheart",
+      "overview": "¿Qué clase de hombre desafiaría a un rey? 'Braveheart' es una historia épica medieval sobre la independencia de Escocia en el siglo XIII, basada en la leyenda de William Wallace, un montañés escocés que arrastra a su clan a luchar contra la tiranía del rey Eduardo I de Inglaterra. Después del brutal asesinato de su joven esposa por los ingleses, Wallace sólo busca venganza. Hambrientos y en inferior número, Wallace lidera a los patriotas escoceses y consigue organizar un ejército de guerreros sedientos de libertad logrando recuperar con ello el espíritu que haría a Escocia libre para siempre.",
+      "popularity": 10.6897,
+      "poster_path": "/cDMYybBU4COJfTwcPgnihwY5EiP.jpg",
+      "release_date": "1995-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 11025
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cT6xO3YjzfZKYGhZ8S7plNlA27F.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 9453,
+      "title": "Calígula",
+      "original_language": "it",
+      "original_title": "Caligola",
+      "overview": "Tras la muerte del paranoico emperador Tiberio, Calígula, su heredero, toma el poder y sume al imperio en una sangrienta espiral de locura y depravación.",
+      "popularity": 10.6073,
+      "poster_path": "/li4MRPY3sOoYtgFTMY4DKZ6L59X.jpg",
+      "release_date": "1979-08-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 971
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jd3Z2sAPDavjRxFhfOak6kCrUIG.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 82695,
+      "title": "Los miserables",
+      "original_language": "en",
+      "original_title": "Les Misérables",
+      "overview": "Jean Valjean es enviado a prisión tras robar un trozo de pan con el que pretendía alimentar a sus sobrinos y a su hermana viuda. Adaptación del musical del mismo título que, a su vez, se basa en la obra de Victor Hugo \"Los miserables\"..",
+      "popularity": 10.9355,
+      "poster_path": "/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg",
+      "release_date": "2012-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.307,
+      "vote_count": 5551
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yGByIyqgJerCw7AAphTrTAlrdkJ.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        53,
+        36
+      ],
+      "id": 1328803,
+      "title": "Prisionero de guerra",
+      "original_language": "en",
+      "original_title": "Prisoner of War",
+      "overview": "Un comandante británico, prisionero en un campo japonés, se esfuerza por sobrevivir. Su valentía inspira a otros prisioneros y lo convierte en un símbolo de dignidad ante la adversidad.",
+      "popularity": 11.3778,
+      "poster_path": "/6paGLyOAvY95XxjfdiTcatwI7dJ.jpg",
+      "release_date": "2025-09-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.087,
+      "vote_count": 173
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o6f1sJ0ZYg6TA2tMgoHdupB68QB.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        36
+      ],
+      "id": 855,
+      "title": "Black Hawk derribado",
+      "original_language": "en",
+      "original_title": "Black Hawk Down",
+      "overview": "Octubre de 1993. Soldados americanos de élite son enviados a Mogadiscio (Somalia) en una misión de paz de las Naciones Unidas. El fin se supone que es salvar vidas, no segarlas. Pero resulta que el principal objetivo de la misión es capturar al caudillo Aidid y acabar de raíz con la guerra. Al principio, todo parece ir bien, hasta que dos helicópteros Black Hawk, aparentemente invencibles, son derribados. Entonces la misión se convierte en una desesperada carrera para rescatar a la tripulación y a los soldados de tierra que han quedado atrapados o han resultado heridos en el accidente.",
+      "popularity": 11.239,
+      "poster_path": "/5chWdaHyaHWd5KaVxK94lbTDCdC.jpg",
+      "release_date": "2001-12-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.393,
+      "vote_count": 6308
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+      "genre_ids": [
+        18,
+        28,
+        36
+      ],
+      "id": 359724,
+      "title": "Le Mans '66",
+      "original_language": "en",
+      "original_title": "Ford v Ferrari",
+      "overview": "Se centra en un excéntrico y decidido equipo americano de ingenieros y diseñadores liderados por el visionario automovilístico Carroll Shelby y su conductor británico Ken Miles. Henry Ford II y Lee Iacocca les dan la misión de construir desde cero un nuevo automóvil con el fin de derrocar el dominio de Ferrari en el Campeonato del Mundo de Le Mans de 1966.",
+      "popularity": 11.4073,
+      "poster_path": "/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg",
+      "release_date": "2019-11-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.005,
+      "vote_count": 8896
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+      "genre_ids": [
+        80,
+        36,
+        18
+      ],
+      "id": 466420,
+      "title": "Los asesinos de la luna",
+      "original_language": "en",
+      "original_title": "Killers of the Flower Moon",
+      "overview": "Miembros de la tribu Osage de los Estados Unidos, son asesinados bajo misteriosas circunstancias en la década de 1920 provocando una importante investigación por el FBI involucrando a J. Edgar Hoover.",
+      "popularity": 10.1023,
+      "poster_path": "/731ydMfVJaIyR1bhFEeX7rubqGH.jpg",
+      "release_date": "2023-10-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.398,
+      "vote_count": 4074
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ivF1pzU7JaZ7K35UNLl7rTIKfDV.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 6844,
+      "title": "Los Diez Mandamientos",
+      "original_language": "en",
+      "original_title": "The Ten Commandments",
+      "overview": "Drama bíblico ambientado en el Antiguo Egipto que narra la historia de Moisés (Charlton Heston), favorito de la familia del faraón, que decide renunciar a su vida de privilegios para conducir a su pueblo, los hebreos esclavizados en Egipto, hacia la libertad.",
+      "popularity": 10.5099,
+      "poster_path": "/kUfNxdftpiADE92Ch2Z0IRZjwwm.jpg",
+      "release_date": "1956-10-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1835
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+      "genre_ids": [
+        36,
+        18,
+        12
+      ],
+      "id": 665,
+      "title": "Ben-Hur",
+      "original_language": "en",
+      "original_title": "Ben-Hur",
+      "overview": "Antigua Roma, bajo el reinado de los emperadores Augusto y Tiberio (s. I d.C.). Judá Ben-Hur, hijo de una familia noble de Jerusalén, y Mesala, tribuno romano que dirige los ejércitos de ocupación, son dos antiguos amigos, pero un accidente involuntario los convierte en enemigos irreconciliables: Ben-Hur es acusado de atentar contra la vida del nuevo gobernador romano, y Mesala lo encarcela a él y a su familia. Mientras Ben-Hur es trasladado a galeras para cumplir su condena, un hombre llamado Jesús de Nazaret se apiada de él y le da de beber. En galeras conocerá al comandante de la nave y más tarde a un jeque árabe que participa con sus magníficos caballos en carreras de cuadrigas.",
+      "popularity": 9.5243,
+      "poster_path": "/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg",
+      "release_date": "1959-11-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.884,
+      "vote_count": 3110
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e3hG3uadtcP0pYdRa5ch4ysQW76.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 14537,
+      "title": "Harakiri",
+      "original_language": "ja",
+      "original_title": "切腹",
+      "overview": "Un samurái pide permiso para practicarse el Seppuku (o Harakiri), ceremonia durante la cual se quitará la vida abriéndose el estómago al tiempo que otro samurái lo decapitará. Solicita también poder contar la historia que le ha llevado a tomar tan trágica decisión.",
+      "popularity": 9.1095,
+      "poster_path": "/6Cw2LJzt6jRALHystjzWazeB4Pg.jpg",
+      "release_date": "1962-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.438,
+      "vote_count": 1186
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+      "genre_ids": [
+        36,
+        10752,
+        18,
+        12
+      ],
+      "id": 967,
+      "title": "Espartaco",
+      "original_language": "en",
+      "original_title": "Spartacus",
+      "overview": "Hacia el año 75 antes de Cristo, un esclavo llamado Espartaco es vendido a una escuela de gladiadores donde le adiestran para combatir en la arena de los circos romanos. Pronto, Espartaco lidera una rebelión por el maltrato sufrido.",
+      "popularity": 9.6466,
+      "poster_path": "/azXoEA108BvWjeKxIW9tfYlxY2I.jpg",
+      "release_date": "1960-10-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.535,
+      "vote_count": 2369
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        18
+      ],
+      "id": 530915,
+      "title": "1917",
+      "original_language": "en",
+      "original_title": "1917",
+      "overview": "En lo más crudo de la Primera Guerra Mundial, dos jóvenes soldados británicos, Schofield y Blake reciben una misión aparentemente imposible. En una carrera contrarreloj, deberán atravesar el territorio enemigo para entregar un mensaje que evitará un mortífero ataque contra cientos de soldados, entre ellos el propio hermano de Blake.",
+      "popularity": 10.7843,
+      "poster_path": "/aeCHv2Cwmum1Wc8a4NiGogdDDoA.jpg",
+      "release_date": "2019-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.987,
+      "vote_count": 13445
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+      "genre_ids": [
+        10752,
+        10749,
+        36,
+        28
+      ],
+      "id": 676,
+      "title": "Pearl Harbor",
+      "original_language": "en",
+      "original_title": "Pearl Harbor",
+      "overview": "Rafe y Danny crecieron juntos en una zona rural estadounidense y su amistad se ha prolongado a lo largo de los años hasta las filas del ejercito del aire, donde los dos son pilotos de combate. Rafe encontró en Evelyn, una valiente enfermera, al amor de su vida, pero pronto es llamado a servir en la fuerza aérea británica para combatir a los nazis como representante del ejército estadounidense. Mientras tanto, Danny y Evelyn son enviados a la base aérea de Pearl Harbor en Hawai. Una vez allí, ambos se enamoran mientras Rafe es derribado en combate. Para sorpresa de ambos, Rafe sobrevive y regresa a Pearl Harbor pero todo se complica cuando se produce un mortal bombardeo por parte del ejercito japonés.",
+      "popularity": 9.3589,
+      "poster_path": "/ftkKVbk4sQEcekuaGJvpvXcNs32.jpg",
+      "release_date": "2001-05-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.937,
+      "vote_count": 6954
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 381284,
+      "title": "Figuras ocultas",
+      "original_language": "en",
+      "original_title": "Hidden Figures",
+      "overview": "Narra la historia nunca contada de tres brillantes mujeres científicas afroamericanas que trabajaron en la NASA a comienzos de los años sesenta (en plena carrera espacial, y asimismo en mitad de la lucha por los derechos civiles de los negros estadounidenses) en el ambicioso proyecto de poner en órbita al astronauta John Glenn.",
+      "popularity": 10.3058,
+      "poster_path": "/yiufjE3kfM9e0qIlEdGEmkUcXky.jpg",
+      "release_date": "2016-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.04,
+      "vote_count": 10350
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
+      "genre_ids": [
+        18,
+        12,
+        28,
+        36
+      ],
+      "id": 79,
+      "title": "Héroe",
+      "original_language": "zh",
+      "original_title": "英雄",
+      "overview": "Hace dos mil años, China estaba dividida en siete reinos. Cada uno de ellos combatía contra los otros para obtener la supremacía, mientras que la población soportaba el sufrimiento y la muerte. De estos siete reinos, Qin era el más violento. El rey de Qin estaba obsesionado con la conquista de China y el deseo de convertirse en su primer Emperador. Los demás reinos enviaron a sus más temibles asesinos para eliminarlo. Solo el nombre de tres de estos asesinos era suficiente para sembrar el terror: Espada Rota, Nieve y Cielo. El rey de Qin prometió poder y fortuna para aquel que lograra matar a estos tres asesinos. Durante diez años, nadie lo consiguió. Cuando el misterioso Sin Nombre se presenta en palacio, portando las armas de los asesinos abatidos, el rey se muestra ansioso por escuchar su historia. Sentado a diez pasos del monarca, Sin Nombre comienza su relato.",
+      "popularity": 9.1908,
+      "poster_path": "/2v2q8W7L5FoAYeY10vNkQnx9UCV.jpg",
+      "release_date": "2002-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.511,
+      "vote_count": 2471
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jwmswCW3U8Uh0wEo46psJpgXejD.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 975056,
+      "title": "Una mujer italiana (Cabrini)",
+      "original_language": "en",
+      "original_title": "Cabrini",
+      "overview": "Cabrini traza el ascenso de una mujer pobre y audaz que se convirtió en una de las grandes emprendedoras del siglo XIX: a través de su fuerza de voluntad, coraje y habilidad comercial, superó el sexismo y la intolerancia violenta contra los italianos en la Nueva York del siglo XIX.",
+      "popularity": 5.8165,
+      "poster_path": "/lQziV6stVMBsi6snbyrlRa0WWue.jpg",
+      "release_date": "2024-03-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.773,
+      "vote_count": 161
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n0FDJI9c0uWiZwm8wgXVjaMBn96.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 568,
+      "title": "Apolo 13",
+      "original_language": "en",
+      "original_title": "Apollo 13",
+      "overview": "El Apolo 13 inicia su viaje a la luna en abril de 1970. Cuando la tripulación está a punto de llegar a su destino, una explosión en el espacio les hace perder oxígeno, energía y el curso de la nave... Todo se convierte en una situación desesperada para los tres hombres tripulantes, especialmente cuando el oxígeno amenaza con agotarse. Mientras, el mundo entero, que apenas un año antes conoció la gloria de la aventura espacial cuando el hombre pisó la luna, contiene la respiración a la espera de ver cómo acaba tan angustiosa espera.",
+      "popularity": 8.8329,
+      "poster_path": "/h6RBssorNWZQYZN5M4ys9V6Uy0I.jpg",
+      "release_date": "1995-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.454,
+      "vote_count": 5849
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+      "genre_ids": [
+        36,
+        10402,
+        18
+      ],
+      "id": 279,
+      "title": "Amadeus",
+      "original_language": "en",
+      "original_title": "Amadeus",
+      "overview": "Antonio Salieri es el músico más destacado de la corte del Emperador José II de Austria. Entregado completamente a la música, le promete a Dios humildad y castidad si, a cambio, conserva sus extraordinarias dotes musicales. Pero, después de la llegada a la corte de un joven llamado Wolfang Amadeus Mozart, Salieri queda relegado a un segundo plano. Irritado por la pérdida de protagonismo, hará todo lo posible para arruinar la carrera del joven músico. Mientras tanto, Mozart, ajeno a las maquinaciones de Salieri, sorprende a todos con su genialidad como músico, pero también con sus excentricidades.",
+      "popularity": 8.3842,
+      "poster_path": "/nI24KqCadkHbjF4LpVHmUhQRNDn.jpg",
+      "release_date": "1984-09-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.022,
+      "vote_count": 4720
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 76203,
+      "title": "12 años de esclavitud",
+      "original_language": "en",
+      "original_title": "12 Years a Slave",
+      "overview": "Basada en un hecho real ocurrido en 1850, narra la historia de Solomon Northup, un culto músico negro -y hombre libre- que vivía con su familia en Nueva York. Tras compartir una copa con dos desconocidos, Solomon descubre que ha sido drogado y secuestrado para ser vendido como esclavo en el Sur en una plantación de Louisiana. Renunciando a abandonar la esperanza, Solomon contempla cómo todos a su alrededor sucumben a la violencia, al abuso emocional y a la desesperanza. Entonces decide correr riesgos increíbles y confiar en la gente menos aparente para intentar recuperar su libertad y reunirse con su familia.",
+      "popularity": 8.8918,
+      "poster_path": "/1OoCd3fmjPHt9iCR4QxNGGrDyI0.jpg",
+      "release_date": "2013-10-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.933,
+      "vote_count": 11927
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AmN8ozRE0AbMGgZhqBu4fUjZkRt.jpg",
+      "genre_ids": [
+        12,
+        18,
+        36,
+        28,
+        53
+      ],
+      "id": 11362,
+      "title": "La venganza del conde de Montecristo",
+      "original_language": "en",
+      "original_title": "The Count of Monte Cristo",
+      "overview": "El honrado e inocente Edmundo Dantes es traicionado por su mejor amigo y encerrado de por vida en las mazmorras del castillo de If. Con el paso de los años va cambiando y elabora los más despiadados planes de venganza. Tras una milagrosa fuga, Edmundo se convierte en el misterioso y acaudalado conde de Montecristo, y se introduce en los círculos de la nobleza francesa para llevar a cabo sus proyectos y conseguir vengarse de todos los que le traicionaron.",
+      "popularity": 8.8319,
+      "poster_path": "/udaGNhjNcfW2Y2EQKk75SYIeBYl.jpg",
+      "release_date": "2002-01-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.669,
+      "vote_count": 1998
+    }
+  ],
+  "total_pages": 1077,
+  "total_results": 21538
+}

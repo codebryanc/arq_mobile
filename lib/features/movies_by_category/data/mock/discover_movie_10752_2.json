@@ -1,0 +1,429 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+      "genre_ids": [
+        10752,
+        28
+      ],
+      "id": 1241436,
+      "title": "Warfare: Tiempo de guerra",
+      "original_language": "en",
+      "original_title": "Warfare",
+      "overview": "Basada en las experiencias reales del ex marine Ray Mendoza (codirector y coguionista de la película) durante la guerra de Irak. Introduce al espectador en la experiencia de un pelotón de Navy SEALs estadounidenses. Concretamente en una misión de vigilancia que se tuerce en territorio insurgente. Una historia visceral y a pie de campo sobre la guerra moderna y la hermandad, contada como nunca antes: en tiempo real y basada en los recuerdos de quienes la vivieron.",
+      "popularity": 10.9895,
+      "poster_path": "/fkVpNJugieKeTu7Se8uQRqRag2M.jpg",
+      "release_date": "2025-04-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1396
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        53
+      ],
+      "id": 882569,
+      "title": "El pacto",
+      "original_language": "en",
+      "original_title": "Guy Ritchie's The Covenant",
+      "overview": "Sigue al sargento John Kinley, uno de los únicos sobrevivientes en su último periodo de servicio en Afganistán, y como decide regresar a zona de guerra para recuperar a su amigo Ahmed y su familia.",
+      "popularity": 10.8403,
+      "poster_path": "/nq7NbZtNfIHyL1NXPV1EiG4XQ7u.jpg",
+      "release_date": "2023-04-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.718,
+      "vote_count": 3128
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        18
+      ],
+      "id": 530915,
+      "title": "1917",
+      "original_language": "en",
+      "original_title": "1917",
+      "overview": "En lo más crudo de la Primera Guerra Mundial, dos jóvenes soldados británicos, Schofield y Blake reciben una misión aparentemente imposible. En una carrera contrarreloj, deberán atravesar el territorio enemigo para entregar un mensaje que evitará un mortífero ataque contra cientos de soldados, entre ellos el propio hermano de Blake.",
+      "popularity": 10.7843,
+      "poster_path": "/aeCHv2Cwmum1Wc8a4NiGogdDDoA.jpg",
+      "release_date": "2019-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.987,
+      "vote_count": 13446
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 374720,
+      "title": "Dunkerque",
+      "original_language": "en",
+      "original_title": "Dunkirk",
+      "overview": "II Guerra Mundial. Cientos de miles de británicos y tropas aliadas están rodeados por las fuerzas enemigas. Atrapados en la playa con el mar a sus espaldas se enfrentan a una situación imposible mientras el enemigo se acerca. La película relata la Operación Dinamo, también conocida como el milagro de Dunkerque. Se trató de una operación de evacuación de las tropas aliadas en territorio francés, que tuvo lugar a finales de mayo de 1940. La operación permitió el rescate de más de 200.000 soldados británicos y más de 100.000 franceses y belgas.",
+      "popularity": 10.7057,
+      "poster_path": "/to21T9dJtVoHDQbhHTpcugx7cgf.jpg",
+      "release_date": "2017-07-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.451,
+      "vote_count": 17479
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 197,
+      "title": "Braveheart",
+      "original_language": "en",
+      "original_title": "Braveheart",
+      "overview": "¿Qué clase de hombre desafiaría a un rey? 'Braveheart' es una historia épica medieval sobre la independencia de Escocia en el siglo XIII, basada en la leyenda de William Wallace, un montañés escocés que arrastra a su clan a luchar contra la tiranía del rey Eduardo I de Inglaterra. Después del brutal asesinato de su joven esposa por los ingleses, Wallace sólo busca venganza. Hambrientos y en inferior número, Wallace lidera a los patriotas escoceses y consigue organizar un ejército de guerreros sedientos de libertad logrando recuperar con ello el espíritu que haría a Escocia libre para siempre.",
+      "popularity": 10.6897,
+      "poster_path": "/cDMYybBU4COJfTwcPgnihwY5EiP.jpg",
+      "release_date": "1995-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.943,
+      "vote_count": 11027
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        10752
+      ],
+      "id": 1368,
+      "title": "Acorralado",
+      "original_language": "en",
+      "original_title": "First Blood",
+      "overview": "John Rambo es un veterano de la guerra de Vietnam que sufre de estrés postraumático. Un día, llega a un pequeño pueblo de Oregón, donde el sheriff Will Teasle le detiene por vagabundear. Rambo logra escapar de la comisaría y se refugia en el bosque, donde usa sus habilidades de supervivencia y combate para enfrentarse a los policías que le persiguen. El coronel Samuel Trautman, el antiguo jefe de Rambo, llega al pueblo para intentar negociar con él y evitar una masacre. Rambo tendrá que luchar contra sus propios demonios y contra las fuerzas del orden que le quieren capturar o matar.",
+      "popularity": 10.5984,
+      "poster_path": "/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg",
+      "release_date": "1982-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.505,
+      "vote_count": 6837
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 600,
+      "title": "La chaqueta metálica",
+      "original_language": "en",
+      "original_title": "Full Metal Jacket",
+      "overview": "Un grupo de reclutas se prepara en Parish Island, centro de entrenamiento de la marina Norteamericana. Allí está el sargento Hartmann, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, para que puedan defenderse del enemigo. Pero no todos los jóvenes soportan igual sus métodos...",
+      "popularity": 10.0977,
+      "poster_path": "/6CX7BcyD8Xd5AQ7myNs0UE4mu6c.jpg",
+      "release_date": "1987-06-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.119,
+      "vote_count": 11367
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bWF5ImUscXXYia8owpm8coadR4m.jpg",
+      "genre_ids": [
+        28,
+        27,
+        10752,
+        878
+      ],
+      "id": 1257009,
+      "title": "Primitive War",
+      "original_language": "en",
+      "original_title": "Primitive War",
+      "overview": "Vietnam, 1968. El equipo de reconocimiento Vulture Squad se adentra en un valle aislado para investigar un pelotón de Boinas Verdes desaparecido. Su misión toma un giro oscuro cuando descubren una amenaza invisible.",
+      "popularity": 10.0254,
+      "poster_path": "/aJc0Ej0mAIpNPoQh46oOnUQCqxE.jpg",
+      "release_date": "2025-08-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 264
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/en3GU5uGkKaYmSyetHV4csHHiH3.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 929590,
+      "title": "Civil War",
+      "original_language": "en",
+      "original_title": "Civil War",
+      "overview": "En un futuro cercano, donde América está sumida en una cruenta guerra civil, un equipo de periodistas y fotógrafos de guerra emprenderá un viaje por carretera en dirección a Washington DC. Su misión: llegar antes de que las fuerzas rebeldes asalten la Casa Blanca y arrebaten el control al presidente de Estados Unidos.",
+      "popularity": 9.8953,
+      "poster_path": "/q0oN2KVQ2W94YNwDGmqaYNmiOnR.jpg",
+      "release_date": "2024-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.856,
+      "vote_count": 4257
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9HZ216SwRwYq8sndNxAp9Wuc4Ic.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        28
+      ],
+      "id": 1325866,
+      "title": "用武之地",
+      "original_language": "zh",
+      "original_title": "用武之地",
+      "overview": "",
+      "popularity": 9.8148,
+      "poster_path": "/v8JNXoPcQRoEvUNYZYSOcYZvKEf.jpg",
+      "release_date": "2025-12-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+      "genre_ids": [
+        36,
+        10752,
+        18,
+        12
+      ],
+      "id": 967,
+      "title": "Espartaco",
+      "original_language": "en",
+      "original_title": "Spartacus",
+      "overview": "Hacia el año 75 antes de Cristo, un esclavo llamado Espartaco es vendido a una escuela de gladiadores donde le adiestran para combatir en la arena de los circos romanos. Pronto, Espartaco lidera una rebelión por el maltrato sufrido.",
+      "popularity": 9.6466,
+      "poster_path": "/azXoEA108BvWjeKxIW9tfYlxY2I.jpg",
+      "release_date": "1960-10-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.535,
+      "vote_count": 2369
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10752
+      ],
+      "id": 1417,
+      "title": "El laberinto del fauno",
+      "original_language": "es",
+      "original_title": "El laberinto del fauno",
+      "overview": "En la España falangista de 1944, una joven aficionada a los libros e hijastra de un sádico oficial del ejército huye a un misterioso pero cautivador mundo de fantasía.",
+      "popularity": 9.5333,
+      "poster_path": "/gWPkUFGlO7ZIiArUcWRBmvAwVjB.jpg",
+      "release_date": "2006-10-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.761,
+      "vote_count": 11376
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xywFHPls3rMTiRtZUhrCghMCsMe.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        28
+      ],
+      "id": 792,
+      "title": "Platoon",
+      "original_language": "en",
+      "original_title": "Platoon",
+      "overview": "Chris Taylor es un ingenuo joven estadounidense que, a su llegada a Vietnam, descubre que no sólo debe combatir contra los soldados vietnamitas sino también contra el miedo que le atormenta, el cansancio y la rabia que le invade. Mientras sus dos oficiales al mando libran su propia batalla personal, el conflicto, el caos y el odio hacen mella en Taylor, confundiendo su realidad e insensibilizándole ante el valor más preciado del ser humano... la vida.",
+      "popularity": 9.521,
+      "poster_path": "/Aeo2CHf8oWQzxAw4QpB43YfqxEF.jpg",
+      "release_date": "1986-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 5062
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w22CTHxmdAsUrXRbCQt4gOSOD6E.jpg",
+      "genre_ids": [
+        18,
+        878,
+        10752
+      ],
+      "id": 281338,
+      "title": "La guerra del planeta de los simios",
+      "original_language": "en",
+      "original_title": "War for the Planet of the Apes",
+      "overview": "César y sus monos son forzados a encarar un conflicto mortal contra un ejército de humanos liderado por un brutal coronel. Después de sufrir pérdidas enormes, César lucha con sus instintos más oscuros en una búsqueda por vengar a su especie. Cuando finalmente se encuentren, Cesar y el Coronel protagonizarán una batalla que pondrá en juego el futuro de ambas especies y el del mismo planeta. Tercera película de la nueva saga de El Planeta de los Simios.",
+      "popularity": 9.4291,
+      "poster_path": "/iAm7IAqfK6VL2h1yh9QbpcctaT.jpg",
+      "release_date": "2017-07-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.218,
+      "vote_count": 9669
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+      "genre_ids": [
+        10752,
+        10749,
+        36,
+        28
+      ],
+      "id": 676,
+      "title": "Pearl Harbor",
+      "original_language": "en",
+      "original_title": "Pearl Harbor",
+      "overview": "Rafe y Danny crecieron juntos en una zona rural estadounidense y su amistad se ha prolongado a lo largo de los años hasta las filas del ejercito del aire, donde los dos son pilotos de combate. Rafe encontró en Evelyn, una valiente enfermera, al amor de su vida, pero pronto es llamado a servir en la fuerza aérea británica para combatir a los nazis como representante del ejército estadounidense. Mientras tanto, Danny y Evelyn son enviados a la base aérea de Pearl Harbor en Hawai. Una vez allí, ambos se enamoran mientras Rafe es derribado en combate. Para sorpresa de ambos, Rafe sobrevive y regresa a Pearl Harbor pero todo se complica cuando se produce un mortal bombardeo por parte del ejercito japonés.",
+      "popularity": 9.3589,
+      "poster_path": "/ftkKVbk4sQEcekuaGJvpvXcNs32.jpg",
+      "release_date": "2001-05-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.937,
+      "vote_count": 6955
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+      "genre_ids": [
+        10752,
+        28
+      ],
+      "id": 190859,
+      "title": "El francotirador",
+      "original_language": "en",
+      "original_title": "American Sniper",
+      "overview": "El marine del grupo de operaciones especiales de la Marina de Estados Unidos Chris Kyle es enviado a Irak con una sola misión: proteger a sus compañeros de ejército. Su precisión milimétrica salva incontables vidas en el campo de batalla y, a medida que se extienden sus valientes hazañas, se gana el apodo de 'Leyenda'. Sin embargo, su reputación también crece detrás de las líneas enemigas, de manera que ponen precio a su cabeza y se convierte en objetivo prioritario de los insurgentes. Al mismo tiempo también se está enfrentando a otra batalla en casa: ser un buen marido y padre desde el otro lado del mundo.",
+      "popularity": 9.1073,
+      "poster_path": "/ntso1nvAVIEdzjc4Tc9nB7MPSKu.jpg",
+      "release_date": "2014-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.412,
+      "vote_count": 13580
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hm21I7yc6oYBogTloET3eXsVPlq.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10752
+      ],
+      "id": 799583,
+      "title": "El ministerio de la Guerra Sucia",
+      "original_language": "en",
+      "original_title": "The Ministry of Ungentlemanly Warfare",
+      "overview": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
+      "popularity": 9.0038,
+      "poster_path": "/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
+      "release_date": "2024-04-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 1841
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3Na31ta8vDuKOgQuPLdSZLs8bCB.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 25237,
+      "title": "Masacre (Ven y mira)",
+      "original_language": "ru",
+      "original_title": "Иди и смотри",
+      "overview": "Tras encontrar un viejo rifle, un joven se une a las fuerzas de la resistencia soviética, que lucha por expulsar a las fuerzas nazis del frente oriental. Allí, será testigo de algunos los mayores horrores cometidos en la Segunda Guerra Mundial.",
+      "popularity": 8.9486,
+      "poster_path": "/3trCyueh2CBTlRrpq7xElqSWHTh.jpg",
+      "release_date": "1985-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.216,
+      "vote_count": 1808
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v4YV4ne1nwNni35iz4WmpZRZpCD.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 724495,
+      "title": "La mujer rey",
+      "original_language": "en",
+      "original_title": "The Woman King",
+      "overview": "Una epopeya histórica inspirada en los hechos reales que sucedieron en el Reino de Dahomey, uno de los estados más poderosos de África en los siglos XVIII y XIX. La historia sigue a Nanisca (Davis), general de la unidad militar exclusivamente femenina y a Nawi (Mbedu), una recluta ambiciosa. Juntas lucharon contra enemigos que violaron su honor, esclavizaron a su gente y amenazaron con destruir todo por lo que habían vivido.",
+      "popularity": 8.8804,
+      "poster_path": "/rLEeiar1YUW4EB6By4tSKWA4whZ.jpg",
+      "release_date": "2022-09-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.609,
+      "vote_count": 2341
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xXBnM6uSTk6qqCf0SRZKXcga9Ba.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 516486,
+      "title": "Greyhound: Enemigos bajo el mar",
+      "original_language": "en",
+      "original_title": "Greyhound",
+      "overview": "El capitán Krause lidera un convoy de 37 buques en una misión crucial a través de las peligrosas aguas del Atlántico atestadas de submarinos alemanes.",
+      "popularity": 8.8697,
+      "poster_path": "/SS4UfZR1AESjtSSIs3o5Gndypx.jpg",
+      "release_date": "2020-07-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.409,
+      "vote_count": 3267
+    }
+  ],
+  "total_pages": 633,
+  "total_results": 12660
+}

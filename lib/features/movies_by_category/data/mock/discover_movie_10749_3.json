@@ -1,0 +1,425 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/3upEZ0ltY7WwOSFVXrtiP34D48p.jpg",
+      "genre_ids": [
+        53,
+        18,
+        10749
+      ],
+      "id": 290098,
+      "title": "La doncella",
+      "original_language": "ko",
+      "original_title": "아가씨",
+      "overview": "Corea, década de 1930, durante la colonización japonesa. Una joven llamada Sookee es contratada como doncella de una rica mujer japonesa, Hideko, que vive recluida en una gran mansión bajo la influencia de un tirano. Sookee guarda un secreto y con la ayuda de un estafador que se hace pasar por un conde japonés, planea algo para Hideko.",
+      "popularity": 16.1255,
+      "poster_path": "/1CJWo3mJwNEi0RsSZyxbgVFOj8B.jpg",
+      "release_date": "2016-06-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.188,
+      "vote_count": 4266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 4348,
+      "title": "Orgullo y prejuicio",
+      "original_language": "en",
+      "original_title": "Pride & Prejudice",
+      "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+      "popularity": 16.0726,
+      "poster_path": "/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+      "release_date": "2005-09-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 8704
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s7vWRjcfRVMW8tBIxhC3UhKxRoo.jpg",
+      "genre_ids": [
+        10749,
+        53
+      ],
+      "id": 1097549,
+      "title": "Babygirl",
+      "original_language": "en",
+      "original_title": "Babygirl",
+      "overview": "Una alta ejecutiva pone en peligro su carrera y su familia cuando inicia un tórrido romance con su becario, mucho más joven que ella.",
+      "popularity": 16.068,
+      "poster_path": "/1oYSulJCG2l2ZtLgaAKzM1YCl5E.jpg",
+      "release_date": "2024-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.693,
+      "vote_count": 1171
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1327862,
+      "title": "A pesar de ti",
+      "original_language": "en",
+      "original_title": "Regretting You",
+      "overview": "Morgan es una madre joven que intenta evitar que su hija Clara, de 16 años, cometa los mismos errores que ella, que se quedó embarazada y se casó demasiado joven, teniendo que aparcar sus propios sueños. La única persona que trae paz a la tensa relación madre-hija es Chris, su marido y padre de Clara. Pero esa paz se rompe cuando un trágico y extraño accidente trae desgarradoras consecuencias para ellas. Mientras lucha por reconstruir sus vidas, Morgan encuentra consuelo en la última persona que esperaba, mientras Clara se vuelve hacia el único chico que le han prohibido ver.",
+      "popularity": 15.9837,
+      "poster_path": "/kDSdgH26sX3ctZIG1CWM7bgkmZB.jpg",
+      "release_date": "2025-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.951,
+      "vote_count": 364
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1317672,
+      "title": "Love Me Love Me",
+      "original_language": "en",
+      "original_title": "Love Me Love Me",
+      "overview": "Tras la muerte de su hermano, June se muda a Milán para empezar de nuevo. Allí encuentra refugio en Will, el alumno perfecto de su instituto internacional. Pero James, el problemático mejor amigo de Will, que oculta una peligrosa vida en peleas clandestinas de MMA, convierte la rivalidad en una atracción irresistible que obliga a June a elegir entre una vida segura y un amor que lo cambia todo.",
+      "popularity": 15.6819,
+      "poster_path": "/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+      "release_date": "2026-02-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.719,
+      "vote_count": 219
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 337167,
+      "title": "Cincuenta sombras liberadas",
+      "original_language": "en",
+      "original_title": "Fifty Shades Freed",
+      "overview": "Creyendo que han dejado atrás las sombras del pasado, Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas que ponen en riesgo su felicidad.",
+      "popularity": 15.4648,
+      "poster_path": "/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg",
+      "release_date": "2018-01-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.673,
+      "vote_count": 8322
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 313369,
+      "title": "La ciudad de las estrellas (La La Land)",
+      "original_language": "en",
+      "original_title": "La La Land",
+      "overview": "Mia, una joven aspirante a actriz que compagina los castings con su trabajo de camarera, y Sebastian, un pianista de jazz que se gana la vida tocando en sórdidos tugurios, se enamoran. Pero la gran ambición por llegar a la cima en sus carreras artísticas amenaza con separarlos.",
+      "popularity": 15.4617,
+      "poster_path": "/7pFsAaJmiOppVHcldBzg8JKBHwe.jpg",
+      "release_date": "2016-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.898,
+      "vote_count": 18007
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4fza1QWpGAoxReiEsnvdFBeMyfX.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 286687,
+      "title": "Love Lesson",
+      "original_language": "ko",
+      "original_title": "화려한 외출",
+      "overview": "Drama que sigue a una escritora de música (Kim Seon-yeong) y un hombre joven de diecinueve años llamado Seung-ho (Byung Joon-seok). Los dos se encuentran por casualidad en los ascensores y una relación tórrida se desarrolla mientras que Hee-soo le enseña acerca de la música y el amor.",
+      "popularity": 15.2076,
+      "poster_path": "/1bMvC9fOTQSfwIGwXBJNcy2cV9N.jpg",
+      "release_date": "2013-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 42
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        14,
+        10749
+      ],
+      "id": 809,
+      "title": "Shrek 2",
+      "original_language": "en",
+      "original_title": "Shrek 2",
+      "overview": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
+      "popularity": 15.0944,
+      "poster_path": "/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
+      "release_date": "2004-05-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.31,
+      "vote_count": 13346
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14,
+        10749
+      ],
+      "id": 812,
+      "title": "Aladdin",
+      "original_language": "en",
+      "original_title": "Aladdin",
+      "overview": "Aladdín es un ingenioso joven que vive en una extrema pobreza, y que sueña con casarse con la bella hija del sultán, la princesa Jasmine. El destino interviene cuando el astuto visir del Sultán, Jafar, recluta a Aladdín para que le ayude a recuperar una lámpara mágica de las profundidades de la Cueva de las Maravillas. Aladdín encuentra una lámpara maravillosa con un genio dentro, y sus deseos comienzan a hacerse realidad.",
+      "popularity": 14.9185,
+      "poster_path": "/5ALwczKzFxbsiMDlHuy7aREDCzr.jpg",
+      "release_date": "1992-11-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.653,
+      "vote_count": 11953
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lhHxiwtHq1GG5MhPyWaETvKjoGg.jpg",
+      "genre_ids": [
+        18,
+        14,
+        10749
+      ],
+      "id": 410119,
+      "title": "足本玉蒲團",
+      "original_language": "cn",
+      "original_title": "足本玉蒲團",
+      "overview": "",
+      "popularity": 14.7657,
+      "poster_path": "/3NwBn6zPY6yXCqfxEHmEgGh8Jgc.jpg",
+      "release_date": "1987-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
+      "genre_ids": [
+        14,
+        12,
+        10749
+      ],
+      "id": 967941,
+      "title": "Wicked Parte II",
+      "original_language": "en",
+      "original_title": "Wicked: For Good",
+      "overview": "Mientras la multitud alza su clamor contra la Bruja Malvada, Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad y compasión para afrontar su transformación personal y cambiar el destino de todo Oz.",
+      "popularity": 14.7582,
+      "poster_path": "/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
+      "release_date": "2025-11-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 937
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 1542352,
+      "title": "யூத்",
+      "original_language": "ta",
+      "original_title": "யூத்",
+      "overview": "",
+      "popularity": 14.6792,
+      "poster_path": "/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "release_date": "2026-03-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j9eOeLlTGoHoM8BNUJVNyWmIvCi.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1072790,
+      "title": "Cualquiera menos tú",
+      "original_language": "en",
+      "original_title": "Anyone But You",
+      "overview": "Bea y Ben se conocen y parecen la pareja perfecta, pero tras una increíble primera cita sucede algo que enfría su fuerte atracción, hasta que meses después ambos se encuentran inesperadamente en una boda en Australia. Obligados a verse, y a pesar de su rechazo mutuo, por conveniencia para ambos deciden fingir que son una pareja.",
+      "popularity": 14.6473,
+      "poster_path": "/6dkuwwLJJmpzb6n5pbok1DMN7WV.jpg",
+      "release_date": "2023-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.788,
+      "vote_count": 3016
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qvcOovScPoRalRxDy50rYSYFree.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 10591,
+      "title": "La vecina de al lado",
+      "original_language": "en",
+      "original_title": "The Girl Next Door",
+      "overview": "Matthew, un ambicioso joven de un instituto con aspiraciones a ser político en el futuro, se enamora de la chica de sus sueños: la bella y joven vecina de la puerta de al lado. Ambos comienzan un idílico romance, pero un sorprendente descubrimiento pondrá a prueba su relación: ella es un famosa actriz porno.",
+      "popularity": 14.6333,
+      "poster_path": "/ad9tM1Zet4s8DVbFsAX4cYdkIPd.jpg",
+      "release_date": "2004-04-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.734,
+      "vote_count": 3966
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q7vmCCmyiHnuKGMzHZlr0fD44b9.jpg",
+      "genre_ids": [
+        10749,
+        14,
+        10751,
+        18
+      ],
+      "id": 150689,
+      "title": "Cenicienta",
+      "original_language": "en",
+      "original_title": "Cinderella",
+      "overview": "Cuenta las andanzas de Ella, una joven cuyo padre, un comerciante, vuelve a casarse tras enviudar. Para agradar a su padre, acoge con cariño a su madrastra y a sus hijas en la casa familiar. Pero, cuando su padre muere inesperadamente, la joven queda a merced de unas mujeres celosas y malvadas que la convierten en sirvienta y la relegan a la cocina. Pero, a pesar de la crueldad con la que la tratan, está dispuesta a cumplir las últimas palabras de su madre que le dijo que debía \"ser valiente y amable\".",
+      "popularity": 14.5679,
+      "poster_path": "/zqWF0q31AgZTPDlCEgQlMNopnHy.jpg",
+      "release_date": "2015-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.823,
+      "vote_count": 7364
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oYiPf8oR2ZrjvGIVzGTw1BZihDP.jpg",
+      "genre_ids": [
+        9648,
+        18,
+        10749,
+        53,
+        10770
+      ],
+      "id": 153104,
+      "title": "Wicked Minds",
+      "original_language": "en",
+      "original_title": "Wicked Minds",
+      "overview": "",
+      "popularity": 14.3898,
+      "poster_path": "/A6A15cDR8mpdOxW4y7UzFanzbM0.jpg",
+      "release_date": "2003-03-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.333,
+      "vote_count": 51
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vNUwK5P42m81uG57kKI1WxSZwIQ.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1403735,
+      "title": "లైలా",
+      "original_language": "te",
+      "original_title": "లైలా",
+      "overview": "",
+      "popularity": 14.3,
+      "poster_path": "/l4gsNxFPGpzbq0D6QK1a8vO1lBz.jpg",
+      "release_date": "2025-02-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.6,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1455079,
+      "title": "Italiana",
+      "original_language": "en",
+      "original_title": "You, Me & Tuscany",
+      "overview": "Anna, una joven que ha dejado atrás su sueño de ser chef, viaja impulsivamente a la Toscana tras conocer a Matteo, dueño de una villa vacía. Cuando la madre de él aparece inesperadamente, Anna finge ser su prometida. La mentira se complica aún más con la llegada de Michael, cuyo inesperado vínculo con Anna podría cambiarlo todo.",
+      "popularity": 14.0767,
+      "poster_path": "/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+      "release_date": "2026-04-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fGBJEfGjHmhg7nLAT0Jkcv9qV5e.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 43347,
+      "title": "Amor y otras drogas",
+      "original_language": "en",
+      "original_title": "Love & Other Drugs",
+      "overview": "Maggie es una mujer independiente que ha decidido vivir sin ataduras. Pero conoce a Jamie, un joven cuyo irresistible encanto funciona no sólo con las mujeres, sino también dentro del despiadado mundo de las ventas farmacéuticas. La relación entre Maggie y Jamie, para sorpresa de ambos, desemboca en amor. La película se basa en una historia real: la de Jamie Reidy, un vendedor de Pfizer (laboratorio que desarrolló la Viagra), quien sacó a la luz algunas prácticas dudosas empleadas por estas compañías farmacéuticas.",
+      "popularity": 14.0711,
+      "poster_path": "/b8gw9s7hWbcA0kuezuV10DKgjRP.jpg",
+      "release_date": "2010-11-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.038,
+      "vote_count": 5550
+    }
+  ],
+  "total_pages": 3108,
+  "total_results": 62153
+}

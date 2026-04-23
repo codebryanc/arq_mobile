@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
+  "belongs_to_collection": null,
+  "budget": 22000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Misterio"
+    }
+  ],
+  "homepage": "",
+  "id": 1304313,
+  "imdb_id": "tt32612507",
+  "origin_country": [
+    "IE",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lee Cronin's The Mummy",
+  "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
+  "popularity": 166.7205,
+  "poster_path": "/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
+  "production_companies": [
+    {
+      "id": 76907,
+      "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+      "name": "Atomic Monster",
+      "origin_country": "US"
+    },
+    {
+      "id": 3172,
+      "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+      "name": "Blumhouse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 216687,
+      "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 285968,
+      "logo_path": null,
+      "name": "Wicked/Good",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2026-04-15",
+  "revenue": 37088270,
+  "runtime": 133,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "¿Qué le pasó a Katie?",
+  "title": "La momia de Lee Cronin",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 126
+}
