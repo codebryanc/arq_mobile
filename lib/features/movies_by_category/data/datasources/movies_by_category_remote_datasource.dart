@@ -1,6 +1,10 @@
+import 'dart:async';
+
 import 'package:dio/dio.dart';
 
+import 'package:arq_mobile/core/config/features_config.dart';
 import 'package:arq_mobile/core/errors/exceptions.dart';
+import 'package:arq_mobile/core/utils/mock_saver.dart';
 import 'package:arq_mobile/features/popular_movies/data/models/movie_model.dart';
 
 abstract class MoviesByCategoryRemoteDataSource {
@@ -26,10 +30,17 @@ class MoviesByCategoryRemoteDataSourceImpl
     int page,
   ) async {
     try {
+      final endpoint = _endpoint;
       final response = await dio.get(
-        _endpoint,
+        endpoint,
         queryParameters: {'with_genres': categoryId, 'page': page},
       );
+
+      // To save local data
+      if(FeaturesConfig.recordSession) {
+        unawaited(saveMock(FeaturesConfig.moviesByCategory, '${endpointToFileName(endpoint)}_${categoryId}_$page.json', response.data));
+      }
+
       final data = response.data as Map<String, dynamic>;
       final results = data['results'] as List<dynamic>;
       return (

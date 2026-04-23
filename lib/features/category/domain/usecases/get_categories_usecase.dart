@@ -9,7 +9,7 @@ class GetCategoriesUseCase implements UseCase<List<Category>, NoParams> {
   final CategoryRepository _repository;
 
   // flip to true to use remote data
-  static const bool isOnline = false;
+  static const bool isOnline = true;
 
   // [Constructor]
   const GetCategoriesUseCase(this._repository);

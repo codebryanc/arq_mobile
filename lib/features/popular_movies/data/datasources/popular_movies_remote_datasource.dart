@@ -1,6 +1,10 @@
+import 'dart:async';
+
 import 'package:dio/dio.dart';
 
+import 'package:arq_mobile/core/config/features_config.dart';
 import 'package:arq_mobile/core/errors/exceptions.dart';
+import 'package:arq_mobile/core/utils/mock_saver.dart';
 import 'package:arq_mobile/features/popular_movies/data/models/movie_model.dart';
 
 abstract class PopularMoviesRemoteDataSource {
@@ -21,6 +25,12 @@ class PopularMoviesRemoteDataSourceImpl
   Future<List<MovieModel>> getPopularMovies() async {
     try {
       final response = await dio.get(_endpoint);
+
+      // To save local data
+      if(FeaturesConfig.recordSession) {
+        unawaited(saveMock(FeaturesConfig.popularMovies, '${endpointToFileName(_endpoint)}.json', response.data));
+      }
+
       final results = response.data['results'] as List<dynamic>;
       return results
           .map((e) => e as Map<String, dynamic>)

@@ -9,7 +9,7 @@ class GetPopularMoviesUseCase implements UseCase<List<Movie>, NoParams> {
   final PopularMoviesRepository _repository;
 
   // flip to true to use remote data
-  static const bool isOnline = false;
+  static const bool isOnline = true;
 
   // [Constructor]
   const GetPopularMoviesUseCase(this._repository);
