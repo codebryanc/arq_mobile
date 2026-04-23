@@ -1,7 +1,6 @@
 import 'package:arq_mobile/core/errors/exceptions.dart';
 import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/core/utils/either.dart';
-
 import 'package:arq_mobile/features/movie_detail/data/datasources/movie_detail_remote_datasource.dart';
 import 'package:arq_mobile/features/movie_detail/domain/entities/actor.dart';
 import 'package:arq_mobile/features/movie_detail/domain/entities/movie_detail.dart';

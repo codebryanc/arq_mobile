@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'package:arq_mobile/core/config/app_config.dart';
-
 import 'package:arq_mobile/features/popular_movies/domain/entities/movie.dart';
 
 class MovieByCategoryCardWidget extends StatelessWidget {

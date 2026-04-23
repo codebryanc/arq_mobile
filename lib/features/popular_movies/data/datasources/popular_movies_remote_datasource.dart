@@ -1,7 +1,6 @@
 import 'package:dio/dio.dart';
 
 import 'package:arq_mobile/core/errors/exceptions.dart';
-
 import 'package:arq_mobile/features/popular_movies/data/models/movie_model.dart';
 
 abstract class PopularMoviesRemoteDataSource {

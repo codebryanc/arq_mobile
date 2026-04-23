@@ -6,7 +6,6 @@ import 'package:arq_mobile/core/di/dependency_injection.dart';
 import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
 import 'package:arq_mobile/core/theme/app_colors.dart';
-
 import 'package:arq_mobile/features/movie_detail/presentation/bloc/movie_detail_bloc.dart';
 import 'package:arq_mobile/features/movie_detail/presentation/bloc/movie_detail_event.dart';
 import 'package:arq_mobile/features/movie_detail/presentation/bloc/movie_detail_state.dart';

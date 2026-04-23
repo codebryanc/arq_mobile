@@ -1,7 +1,6 @@
 import 'package:dio/dio.dart';
 
 import 'package:arq_mobile/core/errors/exceptions.dart';
-
 import 'package:arq_mobile/features/movie_detail/data/models/actor_model.dart';
 import 'package:arq_mobile/features/movie_detail/data/models/movie_detail_model.dart';
 import 'package:arq_mobile/features/movie_detail/data/models/movie_image_model.dart';

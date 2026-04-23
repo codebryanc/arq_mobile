@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'package:arq_mobile/core/utils/movie_format.dart';
-
 import 'package:arq_mobile/features/movie_detail/domain/entities/movie_detail.dart';
 
 class MovieInfoWidget extends StatelessWidget {

@@ -1,7 +1,6 @@
 import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/core/usecases/usecase.dart';
 import 'package:arq_mobile/core/utils/either.dart';
-
 import 'package:arq_mobile/features/home/domain/enums/category_view_mode.dart';
 import 'package:arq_mobile/features/home/domain/repositories/view_mode_repository.dart';
 

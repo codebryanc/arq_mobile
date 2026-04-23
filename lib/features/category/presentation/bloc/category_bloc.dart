@@ -1,8 +1,8 @@
-import 'package:arq_mobile/features/category/domain/entities/category.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:arq_mobile/core/usecases/usecase.dart';
 import 'package:arq_mobile/features/category/domain/usecases/get_categories_usecase.dart';
+import 'package:arq_mobile/features/category/domain/entities/category.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_event.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_state.dart';
 

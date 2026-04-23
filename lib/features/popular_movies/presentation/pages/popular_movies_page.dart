@@ -3,7 +3,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
-
 import 'package:arq_mobile/features/movie_detail/presentation/pages/movie_detail_page.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_bloc.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_state.dart';

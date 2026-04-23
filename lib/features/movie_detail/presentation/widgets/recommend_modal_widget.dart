@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
 import 'package:arq_mobile/core/widgets/app_toast.dart';
-
 import 'package:arq_mobile/features/movie_detail/domain/entities/movie_detail.dart';
 
 class RecommendModalWidget extends StatefulWidget {

@@ -4,7 +4,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
 import 'package:arq_mobile/core/theme/app_colors.dart';
-
 import 'package:arq_mobile/features/movie_detail/presentation/pages/movie_detail_page.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_bloc.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_event.dart';

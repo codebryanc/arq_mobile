@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'package:arq_mobile/core/config/app_config.dart';
-
 import 'package:arq_mobile/features/movie_detail/domain/entities/movie_image.dart';
 
 class ImageCarouselWidget extends StatefulWidget {

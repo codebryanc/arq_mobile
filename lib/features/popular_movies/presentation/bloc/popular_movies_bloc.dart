@@ -1,7 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:arq_mobile/core/usecases/usecase.dart';
-
 import 'package:arq_mobile/features/popular_movies/domain/usecases/get_popular_movies_usecase.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_event.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_state.dart';
