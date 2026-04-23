@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
 import 'package:arq_mobile/core/theme/app_colors.dart';
+import 'package:arq_mobile/core/theme/app_semantic_colors.dart';
 import 'package:arq_mobile/features/home/presentation/bloc/home_bloc.dart';
 import 'package:arq_mobile/features/home/presentation/bloc/home_event.dart';
 import 'package:arq_mobile/features/home/presentation/bloc/home_state.dart';
@@ -29,6 +30,18 @@ class HeaderWidget extends StatelessWidget {
               ),
             ),
           ),
+          // Connection mode toggle
+          IconButton(
+            icon: Icon(
+              state.isOnline ? Icons.wifi : Icons.wifi_off,
+              color: state.isOnline
+                  ? Theme.of(context).extension<AppSemanticColors>()!.success
+                  : Theme.of(context).extension<AppSemanticColors>()!.error,
+            ),
+            onPressed: () =>
+                context.read<HomeBloc>().add(const HomeToggleConnectionMode()),
+          ),
+          // View mode toggle
           IconButton(
             icon: Icon(
               state is HomeChipsView ? Icons.view_list : Icons.grid_view,

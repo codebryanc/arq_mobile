@@ -6,6 +6,8 @@ abstract class ViewModeLocalDataSource {
   // [Methods]
   CategoryViewMode getViewMode();
   Future<void> saveViewMode(CategoryViewMode mode);
+  bool getConnectionMode();
+  Future<void> saveConnectionMode(bool isOnline);
 }
 
 class ViewModeLocalDataSourceImpl implements ViewModeLocalDataSource {
@@ -15,12 +17,13 @@ class ViewModeLocalDataSourceImpl implements ViewModeLocalDataSource {
   // [Properties]
   final SharedPreferences prefs;
 
-  static const _key = 'SavedViewMode';
+  static const _viewModeKey = 'SavedViewMode';
+  static const _connectionModeKey = 'SavedConnectionMode';
 
   // [Methods]
   @override
   CategoryViewMode getViewMode() {
-    final saved = prefs.getString(_key);
+    final saved = prefs.getString(_viewModeKey);
     return CategoryViewMode.values.firstWhere(
       (mode) => mode.name == saved,
       orElse: () => CategoryViewMode.chips,
@@ -29,5 +32,12 @@ class ViewModeLocalDataSourceImpl implements ViewModeLocalDataSource {
 
   @override
   Future<void> saveViewMode(CategoryViewMode mode) =>
-      prefs.setString(_key, mode.name);
+      prefs.setString(_viewModeKey, mode.name);
+
+  @override
+  bool getConnectionMode() => prefs.getBool(_connectionModeKey) ?? true;
+
+  @override
+  Future<void> saveConnectionMode(bool isOnline) =>
+      prefs.setBool(_connectionModeKey, isOnline);
 }

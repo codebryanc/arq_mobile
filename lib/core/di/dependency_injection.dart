@@ -13,7 +13,9 @@ import 'package:arq_mobile/features/category/presentation/bloc/category_event.da
 import 'package:arq_mobile/features/home/data/datasources/view_mode_local_datasource.dart';
 import 'package:arq_mobile/features/home/data/repositories/view_mode_repository_impl.dart';
 import 'package:arq_mobile/features/home/domain/repositories/view_mode_repository.dart';
+import 'package:arq_mobile/features/home/domain/usecases/get_connection_mode_usecase.dart';
 import 'package:arq_mobile/features/home/domain/usecases/get_view_mode_usecase.dart';
+import 'package:arq_mobile/features/home/domain/usecases/save_connection_mode_usecase.dart';
 import 'package:arq_mobile/features/home/domain/usecases/save_view_mode_usecase.dart';
 import 'package:arq_mobile/features/home/presentation/bloc/home_bloc.dart';
 import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movies_local_datasource.dart';
@@ -109,10 +111,17 @@ class DependencyInjection {
     );
     sl.registerLazySingleton(() => GetViewModeUseCase(sl()));
     sl.registerLazySingleton(() => SaveViewModeUseCase(sl()));
+    sl.registerLazySingleton(() => GetConnectionModeUseCase(sl()));
+    sl.registerLazySingleton(() => SaveConnectionModeUseCase(sl()));
 
     // BLoCs
     sl.registerFactory<HomeBloc>(
-      () => HomeBloc(getViewMode: sl(), saveViewMode: sl()),
+      () => HomeBloc(
+        getViewMode: sl(),
+        saveViewMode: sl(),
+        getConnectionMode: sl(),
+        saveConnectionMode: sl(),
+      ),
     );
     sl.registerFactory<CategoryBloc>(
       () => CategoryBloc(getCategories: sl())..add(const LoadCategories()),

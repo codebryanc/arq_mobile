@@ -16,4 +16,11 @@ class ViewModeRepositoryImpl implements ViewModeRepository {
   @override
   Future<void> saveViewMode(CategoryViewMode mode) =>
       localDataSource.saveViewMode(mode);
+
+  @override
+  bool getConnectionMode() => localDataSource.getConnectionMode();
+
+  @override
+  Future<void> saveConnectionMode(bool isOnline) =>
+      localDataSource.saveConnectionMode(isOnline);
 }

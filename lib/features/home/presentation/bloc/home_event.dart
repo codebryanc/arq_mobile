@@ -13,3 +13,7 @@ final class HomeShowChips extends HomeEvent {
 final class HomeShowList extends HomeEvent {
   const HomeShowList();
 }
+
+final class HomeToggleConnectionMode extends HomeEvent {
+  const HomeToggleConnectionMode();
+}

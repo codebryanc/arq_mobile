@@ -84,7 +84,7 @@ class _MovieDetailView extends StatelessWidget {
                   expandedHeight: 280,
                   pinned: true,
                   stretch: true,
-                  backgroundColor: Colors.transparent,
+                  backgroundColor: AppColors.transparent,
                   forceMaterialTransparency: true,
                   iconTheme: const IconThemeData(color: AppColors.secondary),
                   flexibleSpace: FlexibleSpaceBar(
@@ -106,7 +106,7 @@ class _MovieDetailView extends StatelessWidget {
                             gradient: LinearGradient(
                               begin: Alignment.topCenter,
                               end: Alignment.center,
-                              colors: [Colors.black54, Colors.transparent],
+                              colors: [AppColors.scrim, AppColors.transparent],
                             ),
                           ),
                         ),

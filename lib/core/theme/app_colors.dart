@@ -10,4 +10,6 @@ abstract class AppColors {
   static const Color onError = white;
   static const Color onSuccess = white;
   static const Color onAlert = white;
+  static const Color transparent = Color(0x00000000);
+  static const Color scrim = Color(0x8A000000); // black54
 }

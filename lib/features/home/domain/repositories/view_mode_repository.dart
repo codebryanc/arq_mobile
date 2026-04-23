@@ -4,4 +4,6 @@ abstract class ViewModeRepository {
   // [Methods]
   CategoryViewMode getViewMode();
   Future<void> saveViewMode(CategoryViewMode mode);
+  bool getConnectionMode();
+  Future<void> saveConnectionMode(bool isOnline);
 }
