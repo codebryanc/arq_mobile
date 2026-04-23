@@ -39,8 +39,13 @@ class _CategoryMoviesHorizontalWidgetState
 
   void _onScroll() {
     final state = _bloc.state;
-    if (state is! MoviesByCategoryLoaded || !state.hasMore || state.isLoadingMore) return;
-    if (_scrollController.position.pixels >= _scrollController.position.maxScrollExtent - 300) {
+    if (state is! MoviesByCategoryLoaded ||
+        !state.hasMore ||
+        state.isLoadingMore) {
+      return;
+    }
+    if (_scrollController.position.pixels >=
+        _scrollController.position.maxScrollExtent - 300) {
       _bloc.add(const LoadMoreMoviesByCategory());
     }
   }
@@ -64,38 +69,37 @@ class _CategoryMoviesHorizontalWidgetState
             child: Center(child: CircularProgressIndicator.adaptive()),
           ),
           // Loaded
-          MoviesByCategoryLoaded(:final movies, :final isLoadingMore) =>
-            SizedBox(
-              height: 210,
-              child: ListView.separated(
-                controller: _scrollController,
-                scrollDirection: Axis.horizontal,
-                padding: const EdgeInsets.symmetric(horizontal: 16),
-                itemCount: movies.length + (isLoadingMore ? 1 : 0),
-                separatorBuilder: (_, _) => const SizedBox(width: 10),
-                itemBuilder: (_, i) {
-                  // At the end of the list we show a loading
-                  if (i == movies.length) {
-                    return const SizedBox(
-                      width: 60,
-                      child: Center(child: CircularProgressIndicator.adaptive()),
-                    );
-                  }
-                  // For perfomance trick (We only paint the current card as new card)
-                  return RepaintBoundary(
-                    child: MovieByCategorySmallCardWidget(
-                      movie: movies[i],
-                      onTap: () => Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                          builder: (_) => MovieDetailPage(movieId: movies[i].id),
-                        ),
+          MoviesByCategoryLoaded(:final movies, :final isLoadingMore) => SizedBox(
+            height: 210,
+            child: ListView.separated(
+              controller: _scrollController,
+              scrollDirection: Axis.horizontal,
+              padding: const EdgeInsets.symmetric(horizontal: 16),
+              itemCount: movies.length + (isLoadingMore ? 1 : 0),
+              separatorBuilder: (_, _) => const SizedBox(width: 10),
+              itemBuilder: (_, i) {
+                // At the end of the list we show a loading
+                if (i == movies.length) {
+                  return const SizedBox(
+                    width: 60,
+                    child: Center(child: CircularProgressIndicator.adaptive()),
+                  );
+                }
+                // For perfomance trick (We only paint the current card as new card)
+                return RepaintBoundary(
+                  child: MovieByCategorySmallCardWidget(
+                    movie: movies[i],
+                    onTap: () => Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (_) => MovieDetailPage(movieId: movies[i].id),
                       ),
                     ),
-                  );
-                },
-              ),
+                  ),
+                );
+              },
             ),
+          ),
           // Error
           MoviesByCategoryError(:final failure) => Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
