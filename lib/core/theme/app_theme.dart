@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'app_colors.dart';
+import 'app_semantic_colors.dart';
 
 abstract class AppTheme {
   static ThemeData get light => ThemeData(
@@ -12,5 +13,6 @@ abstract class AppTheme {
       error: AppColors.error,
       brightness: Brightness.light,
     ),
+    extensions: const [AppSemanticColors.light],
   );
 }

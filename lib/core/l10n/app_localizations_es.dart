@@ -37,4 +37,16 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get recommend => 'Recomendar';
+
+  @override
+  String get recommendModalTitle => 'Recomendar película';
+
+  @override
+  String get recommendCommentHint => 'Deja un comentario...';
+
+  @override
+  String get recommendConfirm => 'Confirmar recomendación';
+
+  @override
+  String get recommendSuccess => '¡Recomendación enviada con éxito!';
 }

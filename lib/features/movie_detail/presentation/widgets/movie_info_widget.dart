@@ -50,6 +50,13 @@ class MovieInfoWidget extends StatelessWidget {
               year,
               style: textTheme.bodyMedium?.copyWith(color: colorScheme.outline),
             ),
+            const SizedBox(width: 8),
+            Text(
+              '${detail.id}',
+              style: textTheme.bodySmall?.copyWith(
+                color: colorScheme.outline.withValues(alpha: 0.25),
+              ),
+            ),
           ],
         ),
         if (detail.genres.isNotEmpty) ...[

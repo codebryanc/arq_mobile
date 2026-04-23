@@ -13,6 +13,7 @@ import 'package:arq_mobile/features/movie_detail/presentation/bloc/movie_detail_
 import 'package:arq_mobile/features/movie_detail/presentation/widgets/cast_list_widget.dart';
 import 'package:arq_mobile/features/movie_detail/presentation/widgets/image_carousel_widget.dart';
 import 'package:arq_mobile/features/movie_detail/presentation/widgets/movie_info_widget.dart';
+import 'package:arq_mobile/features/movie_detail/presentation/widgets/recommend_modal_widget.dart';
 
 class MovieDetailPage extends StatelessWidget {
   // [Constructor]
@@ -52,7 +53,15 @@ class _MovieDetailView extends StatelessWidget {
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               // Recommend button
               child: ElevatedButton(
-                onPressed: () {},
+                onPressed: () => showModalBottomSheet(
+                  context: context,
+                  isScrollControlled: true,
+                  useSafeArea: true,
+                  shape: const RoundedRectangleBorder(
+                    borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
+                  ),
+                  builder: (_) => RecommendModalWidget(detail: detail),
+                ),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: AppColors.secondary,
                   foregroundColor: AppColors.white,

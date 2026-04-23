@@ -18,7 +18,7 @@ class CastListWidget extends StatelessWidget {
     final colorScheme = Theme.of(context).colorScheme;
 
     return SizedBox(
-      height: 130,
+      height: 140,
       child: ListView.separated(
         scrollDirection: Axis.horizontal,
         itemCount: cast.length,
@@ -26,7 +26,7 @@ class CastListWidget extends StatelessWidget {
         itemBuilder: (_, i) {
           final actor = cast[i];
           return SizedBox(
-            width: 72,
+            width: 90,
             child: Column(
               children: [
                 ClipOval(
@@ -51,13 +51,15 @@ class CastListWidget extends StatelessWidget {
                     fontWeight: FontWeight.w600,
                   ),
                 ),
+                const SizedBox(height: 2),
                 Text(
                   actor.character,
-                  maxLines: 1,
+                  maxLines: 2,
                   overflow: TextOverflow.ellipsis,
                   textAlign: TextAlign.center,
                   style: textTheme.labelSmall?.copyWith(
                     color: colorScheme.outline,
+                    fontSize: 10,
                   ),
                 ),
               ],

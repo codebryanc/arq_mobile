@@ -153,6 +153,30 @@ abstract class AppLocalizations {
   /// In es, this message translates to:
   /// **'Recomendar'**
   String get recommend;
+
+  /// Title of the recommend modal
+  ///
+  /// In es, this message translates to:
+  /// **'Recomendar película'**
+  String get recommendModalTitle;
+
+  /// Placeholder text for the comment field in the recommend modal
+  ///
+  /// In es, this message translates to:
+  /// **'Deja un comentario...'**
+  String get recommendCommentHint;
+
+  /// Confirm button label in the recommend modal
+  ///
+  /// In es, this message translates to:
+  /// **'Confirmar recomendación'**
+  String get recommendConfirm;
+
+  /// Success toast message after confirming a recommendation
+  ///
+  /// In es, this message translates to:
+  /// **'¡Recomendación enviada con éxito!'**
+  String get recommendSuccess;
 }
 
 class _AppLocalizationsDelegate

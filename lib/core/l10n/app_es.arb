@@ -39,5 +39,21 @@
   "recommend": "Recomendar",
   "@recommend": {
       "description": "Button label to recommend a movie on the detail screen"
+  },
+  "recommendModalTitle": "Recomendar película",
+  "@recommendModalTitle": {
+      "description": "Title of the recommend modal"
+  },
+  "recommendCommentHint": "Deja un comentario...",
+  "@recommendCommentHint": {
+      "description": "Placeholder text for the comment field in the recommend modal"
+  },
+  "recommendConfirm": "Confirmar recomendación",
+  "@recommendConfirm": {
+      "description": "Confirm button label in the recommend modal"
+  },
+  "recommendSuccess": "¡Recomendación enviada con éxito!",
+  "@recommendSuccess": {
+      "description": "Success toast message after confirming a recommendation"
   }
 }
