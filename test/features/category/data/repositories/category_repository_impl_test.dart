@@ -40,8 +40,9 @@ void main() {
     group('getCategories — offline', () {
       test('returns Right with local data when offline', () async {
         // Arrange
-        when(() => mockLocal.getCategories())
-            .thenAnswer((_) async => _kCategoryList);
+        when(
+          () => mockLocal.getCategories(),
+        ).thenAnswer((_) async => _kCategoryList);
 
         // Act
         final result = await repository.getCategories(isOnline: false);
@@ -58,8 +59,9 @@ void main() {
     group('getCategories — online', () {
       test('returns Right with remote data on success', () async {
         // Arrange
-        when(() => mockRemote.getCategories())
-            .thenAnswer((_) async => _kCategoryList);
+        when(
+          () => mockRemote.getCategories(),
+        ).thenAnswer((_) async => _kCategoryList);
 
         // Act
         final result = await repository.getCategories(isOnline: true);
@@ -71,42 +73,46 @@ void main() {
         });
       });
 
-      test('returns Left(NetworkFailure) when NetworkException is thrown', () async {
-        // Arrange
-        when(() => mockRemote.getCategories())
-            .thenThrow(const NetworkException());
+      test(
+        'returns Left(NetworkFailure) when NetworkException is thrown',
+        () async {
+          // Arrange
+          when(
+            () => mockRemote.getCategories(),
+          ).thenThrow(const NetworkException());
 
-        // Act
-        final result = await repository.getCategories(isOnline: true);
+          // Act
+          final result = await repository.getCategories(isOnline: true);
 
-        // Assert
-        expect(result, isA<Left<Failure, List<dynamic>>>());
-        result.fold(
-          (failure) => expect(failure, isA<NetworkFailure>()),
-          (_) => fail('expected Left'),
-        );
-      });
+          // Assert
+          expect(result, isA<Left<Failure, List<dynamic>>>());
+          result.fold(
+            (failure) => expect(failure, isA<NetworkFailure>()),
+            (_) => fail('expected Left'),
+          );
+        },
+      );
 
-      test('returns Left(ServerFailure) when ServerException is thrown', () async {
-        // Arrange
-        when(() => mockRemote.getCategories()).thenThrow(
-          ServerException(message: _kErrorMessage, statusCode: _kStatusCode),
-        );
+      test(
+        'returns Left(ServerFailure) when ServerException is thrown',
+        () async {
+          // Arrange
+          when(() => mockRemote.getCategories()).thenThrow(
+            ServerException(message: _kErrorMessage, statusCode: _kStatusCode),
+          );
 
-        // Act
-        final result = await repository.getCategories(isOnline: true);
+          // Act
+          final result = await repository.getCategories(isOnline: true);
 
-        // Assert
-        result.fold(
-          (failure) {
+          // Assert
+          result.fold((failure) {
             expect(failure, isA<ServerFailure>());
             final sf = failure as ServerFailure;
             expect(sf.message, equals(_kErrorMessage));
             expect(sf.statusCode, equals(_kStatusCode));
-          },
-          (_) => fail('expected Left'),
-        );
-      });
+          }, (_) => fail('expected Left'));
+        },
+      );
     });
   });
 }

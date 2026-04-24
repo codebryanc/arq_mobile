@@ -62,8 +62,9 @@ void main() {
     group('getMovieDetail — offline', () {
       test('returns Right with local data when offline', () async {
         // Arrange
-        when(() => mockLocal.getMovieDetail(_kMovieId))
-            .thenAnswer((_) async => _kMovieDetail);
+        when(
+          () => mockLocal.getMovieDetail(_kMovieId),
+        ).thenAnswer((_) async => _kMovieDetail);
 
         // Act
         final result = await repository.getMovieDetail(
@@ -80,8 +81,9 @@ void main() {
 
       test('returns Left(NotFoundFailure) when local throws', () async {
         // Arrange
-        when(() => mockLocal.getMovieDetail(_kMovieId))
-            .thenThrow(ServerException(message: _kErrorMessage));
+        when(
+          () => mockLocal.getMovieDetail(_kMovieId),
+        ).thenThrow(ServerException(message: _kErrorMessage));
 
         // Act
         final result = await repository.getMovieDetail(
@@ -100,8 +102,9 @@ void main() {
     group('getMovieDetail — online', () {
       test('returns Right with remote data on success', () async {
         // Arrange
-        when(() => mockRemote.getMovieDetail(_kMovieId))
-            .thenAnswer((_) async => _kMovieDetail);
+        when(
+          () => mockRemote.getMovieDetail(_kMovieId),
+        ).thenAnswer((_) async => _kMovieDetail);
 
         // Act
         final result = await repository.getMovieDetail(
@@ -117,8 +120,9 @@ void main() {
 
       test('returns Left(NetworkFailure) on NetworkException', () async {
         // Arrange
-        when(() => mockRemote.getMovieDetail(_kMovieId))
-            .thenThrow(const NetworkException());
+        when(
+          () => mockRemote.getMovieDetail(_kMovieId),
+        ).thenThrow(const NetworkException());
 
         // Act
         final result = await repository.getMovieDetail(
@@ -146,15 +150,12 @@ void main() {
         );
 
         // Assert
-        result.fold(
-          (f) {
-            expect(f, isA<ServerFailure>());
-            final sf = f as ServerFailure;
-            expect(sf.message, equals(_kErrorMessage));
-            expect(sf.statusCode, equals(_kStatusCode));
-          },
-          (_) => fail('expected Left'),
-        );
+        result.fold((f) {
+          expect(f, isA<ServerFailure>());
+          final sf = f as ServerFailure;
+          expect(sf.message, equals(_kErrorMessage));
+          expect(sf.statusCode, equals(_kStatusCode));
+        }, (_) => fail('expected Left'));
       });
     });
 
@@ -163,8 +164,9 @@ void main() {
     group('getMovieCast — offline', () {
       test('returns Right with local cast when offline', () async {
         // Arrange
-        when(() => mockLocal.getMovieCast(_kMovieId))
-            .thenAnswer((_) async => [_kActor]);
+        when(
+          () => mockLocal.getMovieCast(_kMovieId),
+        ).thenAnswer((_) async => [_kActor]);
 
         // Act
         final result = await repository.getMovieCast(
@@ -183,14 +185,12 @@ void main() {
     group('getMovieCast — online', () {
       test('returns Right with remote cast on success', () async {
         // Arrange
-        when(() => mockRemote.getMovieCast(_kMovieId))
-            .thenAnswer((_) async => [_kActor]);
+        when(
+          () => mockRemote.getMovieCast(_kMovieId),
+        ).thenAnswer((_) async => [_kActor]);
 
         // Act
-        final result = await repository.getMovieCast(
-          _kMovieId,
-          isOnline: true,
-        );
+        final result = await repository.getMovieCast(_kMovieId, isOnline: true);
 
         // Assert
         result.fold((_) => fail('expected Right'), (cast) {
@@ -200,14 +200,12 @@ void main() {
 
       test('returns Left(NetworkFailure) on NetworkException', () async {
         // Arrange
-        when(() => mockRemote.getMovieCast(_kMovieId))
-            .thenThrow(const NetworkException());
+        when(
+          () => mockRemote.getMovieCast(_kMovieId),
+        ).thenThrow(const NetworkException());
 
         // Act
-        final result = await repository.getMovieCast(
-          _kMovieId,
-          isOnline: true,
-        );
+        final result = await repository.getMovieCast(_kMovieId, isOnline: true);
 
         // Assert
         result.fold(
@@ -218,15 +216,12 @@ void main() {
 
       test('returns Left(ServerFailure) on ServerException', () async {
         // Arrange
-        when(() => mockRemote.getMovieCast(_kMovieId)).thenThrow(
-          ServerException(message: _kErrorMessage),
-        );
+        when(
+          () => mockRemote.getMovieCast(_kMovieId),
+        ).thenThrow(ServerException(message: _kErrorMessage));
 
         // Act
-        final result = await repository.getMovieCast(
-          _kMovieId,
-          isOnline: true,
-        );
+        final result = await repository.getMovieCast(_kMovieId, isOnline: true);
 
         // Assert
         result.fold(
@@ -241,8 +236,9 @@ void main() {
     group('getMovieImages — offline', () {
       test('returns Right with local images when offline', () async {
         // Arrange
-        when(() => mockLocal.getMovieImages(_kMovieId))
-            .thenAnswer((_) async => [_kImage]);
+        when(
+          () => mockLocal.getMovieImages(_kMovieId),
+        ).thenAnswer((_) async => [_kImage]);
 
         // Act
         final result = await repository.getMovieImages(
@@ -261,8 +257,9 @@ void main() {
     group('getMovieImages — online', () {
       test('returns Right with remote images on success', () async {
         // Arrange
-        when(() => mockRemote.getMovieImages(_kMovieId))
-            .thenAnswer((_) async => [_kImage]);
+        when(
+          () => mockRemote.getMovieImages(_kMovieId),
+        ).thenAnswer((_) async => [_kImage]);
 
         // Act
         final result = await repository.getMovieImages(
@@ -278,8 +275,9 @@ void main() {
 
       test('returns Left(NetworkFailure) on NetworkException', () async {
         // Arrange
-        when(() => mockRemote.getMovieImages(_kMovieId))
-            .thenThrow(const NetworkException());
+        when(
+          () => mockRemote.getMovieImages(_kMovieId),
+        ).thenThrow(const NetworkException());
 
         // Act
         final result = await repository.getMovieImages(
@@ -296,9 +294,9 @@ void main() {
 
       test('returns Left(ServerFailure) on ServerException', () async {
         // Arrange
-        when(() => mockRemote.getMovieImages(_kMovieId)).thenThrow(
-          ServerException(message: _kErrorMessage),
-        );
+        when(
+          () => mockRemote.getMovieImages(_kMovieId),
+        ).thenThrow(ServerException(message: _kErrorMessage));
 
         // Act
         final result = await repository.getMovieImages(

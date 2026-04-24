@@ -28,7 +28,10 @@ void main() {
       final options = DioHeaders.baseOptions;
 
       // Assert
-      expect(options.queryParameters, containsPair('language', ApiConstants.language));
+      expect(
+        options.queryParameters,
+        containsPair('language', ApiConstants.language),
+      );
       expect(options.queryParameters, contains('api_key'));
     });
 

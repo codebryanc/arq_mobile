@@ -54,36 +54,29 @@ String _buildCreditsJson() => jsonEncode({
       'character': _kCharacter,
       'profile_path': _kProfilePath,
     },
-    {
-      'id': 2,
-      'name': 'No Photo',
-      'character': 'Nobody',
-      'profile_path': null,
-    },
+    {'id': 2, 'name': 'No Photo', 'character': 'Nobody', 'profile_path': null},
   ],
 });
 
 String _buildImagesJson(int count) => jsonEncode({
-  'backdrops': List.generate(
-    count,
-    (i) => {'file_path': '/image_$i.jpg'},
-  ),
+  'backdrops': List.generate(count, (i) => {'file_path': '/image_$i.jpg'}),
 });
 
 void _setUpMockAssets(Map<String, String> assetContents) {
   final manifestMap = {
     for (final k in assetContents.keys) k: [k],
   };
-  final binaryManifest =
-      const StandardMessageCodec().encodeMessage(manifestMap)!;
+  final binaryManifest = const StandardMessageCodec().encodeMessage(
+    manifestMap,
+  )!;
   TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
       .setMockMessageHandler('flutter/assets', (ByteData? message) async {
-    final key = utf8.decode(message!.buffer.asUint8List());
-    if (key == 'AssetManifest.bin') return binaryManifest;
-    final content = assetContents[key];
-    if (content == null) return null;
-    return ByteData.view(Uint8List.fromList(utf8.encode(content)).buffer);
-  });
+        final key = utf8.decode(message!.buffer.asUint8List());
+        if (key == 'AssetManifest.bin') return binaryManifest;
+        final content = assetContents[key];
+        if (content == null) return null;
+        return ByteData.view(Uint8List.fromList(utf8.encode(content)).buffer);
+      });
 }
 
 void _tearDownMockAssets() {
@@ -132,19 +125,21 @@ void main() {
     });
 
     group('getMovieCast', () {
-      test('returns actors with profile_path, filters out null profiles',
-          () async {
-        // Arrange
-        _setUpMockAssets({_kCreditsAssetPath: _buildCreditsJson()});
+      test(
+        'returns actors with profile_path, filters out null profiles',
+        () async {
+          // Arrange
+          _setUpMockAssets({_kCreditsAssetPath: _buildCreditsJson()});
 
-        // Act
-        final result = await dataSource.getMovieCast(_kMovieId);
+          // Act
+          final result = await dataSource.getMovieCast(_kMovieId);
 
-        // Assert
-        expect(result, hasLength(1));
-        expect(result.first.name, equals(_kActorName));
-        expect(result.first.profilePath, equals(_kProfilePath));
-      });
+          // Assert
+          expect(result, hasLength(1));
+          expect(result.first.name, equals(_kActorName));
+          expect(result.first.profilePath, equals(_kProfilePath));
+        },
+      );
 
       test('limits cast to 20 actors', () async {
         // Arrange
@@ -183,9 +178,7 @@ void main() {
     group('getMovieImages', () {
       test('returns backdrops limited to $_kImageLimit items', () async {
         // Arrange
-        _setUpMockAssets({
-          _kImagesAssetPath: _buildImagesJson(_kImageCount),
-        });
+        _setUpMockAssets({_kImagesAssetPath: _buildImagesJson(_kImageCount)});
 
         // Act
         final result = await dataSource.getMovieImages(_kMovieId);

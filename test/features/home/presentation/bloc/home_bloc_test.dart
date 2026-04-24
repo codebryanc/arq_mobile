@@ -56,10 +56,10 @@ void main() {
     CategoryViewMode viewMode = CategoryViewMode.chips,
     bool isOnline = true,
   }) {
-    when(() => mockGetViewMode(any()))
-        .thenAnswer((_) async => Right(viewMode));
-    when(() => mockGetConnectionMode(any()))
-        .thenAnswer((_) async => Right(isOnline));
+    when(() => mockGetViewMode(any())).thenAnswer((_) async => Right(viewMode));
+    when(
+      () => mockGetConnectionMode(any()),
+    ).thenAnswer((_) async => Right(isOnline));
   }
 
   group('HomeBloc', () {
@@ -93,14 +93,30 @@ void main() {
       blocTest<HomeBloc, HomeState>(
         'defaults isOnline to true when GetConnectionMode returns Left',
         setUp: () {
-          when(() => mockGetViewMode(any()))
-              .thenAnswer((_) async => Right(CategoryViewMode.chips));
-          when(() => mockGetConnectionMode(any()))
-              .thenAnswer((_) async => const Left(NetworkFailure()));
+          when(
+            () => mockGetViewMode(any()),
+          ).thenAnswer((_) async => Right(CategoryViewMode.chips));
+          when(
+            () => mockGetConnectionMode(any()),
+          ).thenAnswer((_) async => const Left(NetworkFailure()));
         },
         build: buildBloc,
         expect: () => [isA<HomeChipsView>()],
         verify: (bloc) => expect(bloc.state.isOnline, isTrue),
+      );
+
+      blocTest<HomeBloc, HomeState>(
+        'emits no additional state when GetViewMode returns Left',
+        setUp: () {
+          when(
+            () => mockGetViewMode(any()),
+          ).thenAnswer((_) async => const Left(NetworkFailure()));
+          when(
+            () => mockGetConnectionMode(any()),
+          ).thenAnswer((_) async => const Right(true));
+        },
+        build: buildBloc,
+        expect: () => [],
       );
     });
 
@@ -158,8 +174,7 @@ void main() {
           // auto-load: chips view, online (from stub)
           isA<HomeChipsView>(),
         ],
-        verify: (_) =>
-            verify(() => mockSaveConnectionMode(false)).called(1),
+        verify: (_) => verify(() => mockSaveConnectionMode(false)).called(1),
       );
 
       blocTest<HomeBloc, HomeState>(
@@ -178,8 +193,7 @@ void main() {
           // auto-load: list view, online (from stub)
           isA<HomeListView>(),
         ],
-        verify: (_) =>
-            verify(() => mockSaveConnectionMode(false)).called(1),
+        verify: (_) => verify(() => mockSaveConnectionMode(false)).called(1),
       );
     });
   });

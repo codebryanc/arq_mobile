@@ -73,39 +73,45 @@ void main() {
         expect(result.title, equals(_kMovieTitle));
       });
 
-      test('throws NetworkException when DioException wraps NetworkException', () {
-        // Arrange
-        final endpoint = '/movie/$_kMovieId';
-        when(() => mockDio.get(endpoint)).thenThrow(
-          DioException(
-            requestOptions: _options(endpoint),
-            error: const NetworkException(),
-          ),
-        );
+      test(
+        'throws NetworkException when DioException wraps NetworkException',
+        () {
+          // Arrange
+          final endpoint = '/movie/$_kMovieId';
+          when(() => mockDio.get(endpoint)).thenThrow(
+            DioException(
+              requestOptions: _options(endpoint),
+              error: const NetworkException(),
+            ),
+          );
 
-        // Act & Assert
-        expect(
-          () => dataSource.getMovieDetail(_kMovieId),
-          throwsA(isA<NetworkException>()),
-        );
-      });
+          // Act & Assert
+          expect(
+            () => dataSource.getMovieDetail(_kMovieId),
+            throwsA(isA<NetworkException>()),
+          );
+        },
+      );
 
-      test('throws ServerException when DioException wraps ServerException', () {
-        // Arrange
-        final endpoint = '/movie/$_kMovieId';
-        when(() => mockDio.get(endpoint)).thenThrow(
-          DioException(
-            requestOptions: _options(endpoint),
-            error: ServerException(message: _kErrorMessage),
-          ),
-        );
+      test(
+        'throws ServerException when DioException wraps ServerException',
+        () {
+          // Arrange
+          final endpoint = '/movie/$_kMovieId';
+          when(() => mockDio.get(endpoint)).thenThrow(
+            DioException(
+              requestOptions: _options(endpoint),
+              error: ServerException(message: _kErrorMessage),
+            ),
+          );
 
-        // Act & Assert
-        expect(
-          () => dataSource.getMovieDetail(_kMovieId),
-          throwsA(isA<ServerException>()),
-        );
-      });
+          // Act & Assert
+          expect(
+            () => dataSource.getMovieDetail(_kMovieId),
+            throwsA(isA<ServerException>()),
+          );
+        },
+      );
 
       test('throws ServerException on generic DioException', () {
         // Arrange
@@ -132,10 +138,7 @@ void main() {
         when(() => mockDio.get(endpoint)).thenAnswer(
           (_) async => Response(
             data: {
-              'cast': [
-                _buildActorJson(),
-                _buildActorJson(profilePath: null),
-              ],
+              'cast': [_buildActorJson(), _buildActorJson(profilePath: null)],
             },
             statusCode: 200,
             requestOptions: _options(endpoint),
@@ -153,10 +156,7 @@ void main() {
       test('limits cast to $_kCastLimit actors', () async {
         // Arrange
         final endpoint = '/movie/$_kMovieId/credits';
-        final actors = List.generate(
-          _kCastLimit + 5,
-          (_) => _buildActorJson(),
-        );
+        final actors = List.generate(_kCastLimit + 5, (_) => _buildActorJson());
         when(() => mockDio.get(endpoint)).thenAnswer(
           (_) async => Response(
             data: {'cast': actors},
@@ -172,39 +172,45 @@ void main() {
         expect(result.length, lessThanOrEqualTo(_kCastLimit));
       });
 
-      test('throws NetworkException when DioException wraps NetworkException', () {
-        // Arrange
-        final endpoint = '/movie/$_kMovieId/credits';
-        when(() => mockDio.get(endpoint)).thenThrow(
-          DioException(
-            requestOptions: _options(endpoint),
-            error: const NetworkException(),
-          ),
-        );
+      test(
+        'throws NetworkException when DioException wraps NetworkException',
+        () {
+          // Arrange
+          final endpoint = '/movie/$_kMovieId/credits';
+          when(() => mockDio.get(endpoint)).thenThrow(
+            DioException(
+              requestOptions: _options(endpoint),
+              error: const NetworkException(),
+            ),
+          );
 
-        // Act & Assert
-        expect(
-          () => dataSource.getMovieCast(_kMovieId),
-          throwsA(isA<NetworkException>()),
-        );
-      });
+          // Act & Assert
+          expect(
+            () => dataSource.getMovieCast(_kMovieId),
+            throwsA(isA<NetworkException>()),
+          );
+        },
+      );
 
-      test('throws ServerException when DioException wraps ServerException', () {
-        // Arrange
-        final endpoint = '/movie/$_kMovieId/credits';
-        when(() => mockDio.get(endpoint)).thenThrow(
-          DioException(
-            requestOptions: _options(endpoint),
-            error: ServerException(message: _kErrorMessage),
-          ),
-        );
+      test(
+        'throws ServerException when DioException wraps ServerException',
+        () {
+          // Arrange
+          final endpoint = '/movie/$_kMovieId/credits';
+          when(() => mockDio.get(endpoint)).thenThrow(
+            DioException(
+              requestOptions: _options(endpoint),
+              error: ServerException(message: _kErrorMessage),
+            ),
+          );
 
-        // Act & Assert
-        expect(
-          () => dataSource.getMovieCast(_kMovieId),
-          throwsA(isA<ServerException>()),
-        );
-      });
+          // Act & Assert
+          expect(
+            () => dataSource.getMovieCast(_kMovieId),
+            throwsA(isA<ServerException>()),
+          );
+        },
+      );
 
       test('throws ServerException on generic DioException', () {
         // Arrange
@@ -252,49 +258,55 @@ void main() {
         expect(result.length, lessThanOrEqualTo(_kImagesLimit));
       });
 
-      test('throws NetworkException when DioException wraps NetworkException', () {
-        // Arrange
-        final endpoint = '/movie/$_kMovieId/images';
-        when(
-          () => mockDio.get(
-            endpoint,
-            queryParameters: any(named: 'queryParameters'),
-          ),
-        ).thenThrow(
-          DioException(
-            requestOptions: _options(endpoint),
-            error: const NetworkException(),
-          ),
-        );
+      test(
+        'throws NetworkException when DioException wraps NetworkException',
+        () {
+          // Arrange
+          final endpoint = '/movie/$_kMovieId/images';
+          when(
+            () => mockDio.get(
+              endpoint,
+              queryParameters: any(named: 'queryParameters'),
+            ),
+          ).thenThrow(
+            DioException(
+              requestOptions: _options(endpoint),
+              error: const NetworkException(),
+            ),
+          );
 
-        // Act & Assert
-        expect(
-          () => dataSource.getMovieImages(_kMovieId),
-          throwsA(isA<NetworkException>()),
-        );
-      });
+          // Act & Assert
+          expect(
+            () => dataSource.getMovieImages(_kMovieId),
+            throwsA(isA<NetworkException>()),
+          );
+        },
+      );
 
-      test('throws ServerException when DioException wraps ServerException', () {
-        // Arrange
-        final endpoint = '/movie/$_kMovieId/images';
-        when(
-          () => mockDio.get(
-            endpoint,
-            queryParameters: any(named: 'queryParameters'),
-          ),
-        ).thenThrow(
-          DioException(
-            requestOptions: _options(endpoint),
-            error: ServerException(message: _kErrorMessage),
-          ),
-        );
+      test(
+        'throws ServerException when DioException wraps ServerException',
+        () {
+          // Arrange
+          final endpoint = '/movie/$_kMovieId/images';
+          when(
+            () => mockDio.get(
+              endpoint,
+              queryParameters: any(named: 'queryParameters'),
+            ),
+          ).thenThrow(
+            DioException(
+              requestOptions: _options(endpoint),
+              error: ServerException(message: _kErrorMessage),
+            ),
+          );
 
-        // Act & Assert
-        expect(
-          () => dataSource.getMovieImages(_kMovieId),
-          throwsA(isA<ServerException>()),
-        );
-      });
+          // Act & Assert
+          expect(
+            () => dataSource.getMovieImages(_kMovieId),
+            throwsA(isA<ServerException>()),
+          );
+        },
+      );
 
       test('throws ServerException on generic DioException', () {
         // Arrange

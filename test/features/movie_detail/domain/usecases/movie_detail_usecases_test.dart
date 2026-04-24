@@ -11,7 +11,8 @@ import 'package:arq_mobile/features/movie_detail/domain/usecases/get_movie_cast_
 import 'package:arq_mobile/features/movie_detail/domain/usecases/get_movie_detail_usecase.dart';
 import 'package:arq_mobile/features/movie_detail/domain/usecases/get_movie_images_usecase.dart';
 
-class _MockMovieDetailRepository extends Mock implements MovieDetailRepository {}
+class _MockMovieDetailRepository extends Mock
+    implements MovieDetailRepository {}
 
 // Test constants
 const _kMovieId = 550;
@@ -57,8 +58,9 @@ void main() {
 
     test('delegates to repository online', () async {
       // Arrange
-      when(() => mockRepository.getMovieDetail(_kMovieId, isOnline: true))
-          .thenAnswer((_) async => Right(_kMovieDetail));
+      when(
+        () => mockRepository.getMovieDetail(_kMovieId, isOnline: true),
+      ).thenAnswer((_) async => Right(_kMovieDetail));
 
       // Act
       final result = await useCase(_kParams);
@@ -74,8 +76,9 @@ void main() {
 
     test('delegates to repository offline', () async {
       // Arrange
-      when(() => mockRepository.getMovieDetail(_kMovieId, isOnline: false))
-          .thenAnswer((_) async => Right(_kMovieDetail));
+      when(
+        () => mockRepository.getMovieDetail(_kMovieId, isOnline: false),
+      ).thenAnswer((_) async => Right(_kMovieDetail));
 
       // Act
       final result = await useCase(_kParamsOffline);
@@ -88,8 +91,9 @@ void main() {
 
     test('propagates Left(Failure) from repository', () async {
       // Arrange
-      when(() => mockRepository.getMovieDetail(_kMovieId, isOnline: true))
-          .thenAnswer((_) async => const Left(NetworkFailure()));
+      when(
+        () => mockRepository.getMovieDetail(_kMovieId, isOnline: true),
+      ).thenAnswer((_) async => const Left(NetworkFailure()));
 
       // Act
       final result = await useCase(_kParams);
@@ -108,8 +112,9 @@ void main() {
 
     test('delegates to repository online', () async {
       // Arrange
-      when(() => mockRepository.getMovieCast(_kMovieId, isOnline: true))
-          .thenAnswer((_) async => Right([_kActor]));
+      when(
+        () => mockRepository.getMovieCast(_kMovieId, isOnline: true),
+      ).thenAnswer((_) async => Right([_kActor]));
 
       // Act
       final result = await useCase(_kParams);
@@ -122,8 +127,9 @@ void main() {
 
     test('delegates to repository offline', () async {
       // Arrange
-      when(() => mockRepository.getMovieCast(_kMovieId, isOnline: false))
-          .thenAnswer((_) async => Right([_kActor]));
+      when(
+        () => mockRepository.getMovieCast(_kMovieId, isOnline: false),
+      ).thenAnswer((_) async => Right([_kActor]));
 
       // Act
       final result = await useCase(_kParamsOffline);
@@ -136,8 +142,9 @@ void main() {
 
     test('propagates Left(Failure) from repository', () async {
       // Arrange
-      when(() => mockRepository.getMovieCast(_kMovieId, isOnline: true))
-          .thenAnswer((_) async => const Left(NetworkFailure()));
+      when(
+        () => mockRepository.getMovieCast(_kMovieId, isOnline: true),
+      ).thenAnswer((_) async => const Left(NetworkFailure()));
 
       // Act
       final result = await useCase(_kParams);
@@ -156,8 +163,9 @@ void main() {
 
     test('delegates to repository online', () async {
       // Arrange
-      when(() => mockRepository.getMovieImages(_kMovieId, isOnline: true))
-          .thenAnswer((_) async => Right([_kImage]));
+      when(
+        () => mockRepository.getMovieImages(_kMovieId, isOnline: true),
+      ).thenAnswer((_) async => Right([_kImage]));
 
       // Act
       final result = await useCase(_kParams);
@@ -170,8 +178,9 @@ void main() {
 
     test('delegates to repository offline', () async {
       // Arrange
-      when(() => mockRepository.getMovieImages(_kMovieId, isOnline: false))
-          .thenAnswer((_) async => Right([_kImage]));
+      when(
+        () => mockRepository.getMovieImages(_kMovieId, isOnline: false),
+      ).thenAnswer((_) async => Right([_kImage]));
 
       // Act
       final result = await useCase(_kParamsOffline);
@@ -184,8 +193,9 @@ void main() {
 
     test('propagates Left(Failure) from repository', () async {
       // Arrange
-      when(() => mockRepository.getMovieImages(_kMovieId, isOnline: true))
-          .thenAnswer((_) async => const Left(NetworkFailure()));
+      when(
+        () => mockRepository.getMovieImages(_kMovieId, isOnline: true),
+      ).thenAnswer((_) async => const Left(NetworkFailure()));
 
       // Act
       final result = await useCase(_kParams);

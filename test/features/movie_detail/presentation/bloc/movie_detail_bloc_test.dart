@@ -14,11 +14,13 @@ import 'package:arq_mobile/features/movie_detail/presentation/bloc/movie_detail_
 import 'package:arq_mobile/features/movie_detail/presentation/bloc/movie_detail_event.dart';
 import 'package:arq_mobile/features/movie_detail/presentation/bloc/movie_detail_state.dart';
 
-class _MockGetMovieDetailUseCase extends Mock implements GetMovieDetailUseCase {}
+class _MockGetMovieDetailUseCase extends Mock
+    implements GetMovieDetailUseCase {}
 
 class _MockGetMovieCastUseCase extends Mock implements GetMovieCastUseCase {}
 
-class _MockGetMovieImagesUseCase extends Mock implements GetMovieImagesUseCase {}
+class _MockGetMovieImagesUseCase extends Mock
+    implements GetMovieImagesUseCase {}
 
 // Test constants
 const _kMovieId = 550;
@@ -83,36 +85,33 @@ void main() {
         'emits [Loading, Loaded] when all requests succeed',
         build: buildBloc,
         setUp: () {
-          when(() => mockDetail(any()))
-              .thenAnswer((_) async => Right(_kMovieDetail));
-          when(() => mockCast(any()))
-              .thenAnswer((_) async => Right([_kActor]));
-          when(() => mockImages(any()))
-              .thenAnswer((_) async => Right([_kImage]));
+          when(
+            () => mockDetail(any()),
+          ).thenAnswer((_) async => Right(_kMovieDetail));
+          when(() => mockCast(any())).thenAnswer((_) async => Right([_kActor]));
+          when(
+            () => mockImages(any()),
+          ).thenAnswer((_) async => Right([_kImage]));
         },
-        act: (bloc) => bloc.add(
-          const LoadMovieDetail(movieId: _kMovieId, isOnline: true),
-        ),
-        expect: () => [
-          isA<MovieDetailLoading>(),
-          isA<MovieDetailLoaded>(),
-        ],
+        act: (bloc) =>
+            bloc.add(const LoadMovieDetail(movieId: _kMovieId, isOnline: true)),
+        expect: () => [isA<MovieDetailLoading>(), isA<MovieDetailLoaded>()],
       );
 
       blocTest<MovieDetailBloc, MovieDetailState>(
         'loaded state contains detail, cast and images',
         build: buildBloc,
         setUp: () {
-          when(() => mockDetail(any()))
-              .thenAnswer((_) async => Right(_kMovieDetail));
-          when(() => mockCast(any()))
-              .thenAnswer((_) async => Right([_kActor]));
-          when(() => mockImages(any()))
-              .thenAnswer((_) async => Right([_kImage]));
+          when(
+            () => mockDetail(any()),
+          ).thenAnswer((_) async => Right(_kMovieDetail));
+          when(() => mockCast(any())).thenAnswer((_) async => Right([_kActor]));
+          when(
+            () => mockImages(any()),
+          ).thenAnswer((_) async => Right([_kImage]));
         },
-        act: (bloc) => bloc.add(
-          const LoadMovieDetail(movieId: _kMovieId, isOnline: true),
-        ),
+        act: (bloc) =>
+            bloc.add(const LoadMovieDetail(movieId: _kMovieId, isOnline: true)),
         verify: (bloc) {
           final loaded = bloc.state as MovieDetailLoaded;
           expect(loaded.detail.id, equals(_kMovieId));
@@ -125,36 +124,35 @@ void main() {
         'emits [Loading, Error] when detail request fails',
         build: buildBloc,
         setUp: () {
-          when(() => mockDetail(any()))
-              .thenAnswer((_) async => const Left(NotFoundFailure()));
-          when(() => mockCast(any()))
-              .thenAnswer((_) async => Right([_kActor]));
-          when(() => mockImages(any()))
-              .thenAnswer((_) async => Right([_kImage]));
+          when(
+            () => mockDetail(any()),
+          ).thenAnswer((_) async => const Left(NotFoundFailure()));
+          when(() => mockCast(any())).thenAnswer((_) async => Right([_kActor]));
+          when(
+            () => mockImages(any()),
+          ).thenAnswer((_) async => Right([_kImage]));
         },
-        act: (bloc) => bloc.add(
-          const LoadMovieDetail(movieId: _kMovieId, isOnline: true),
-        ),
-        expect: () => [
-          isA<MovieDetailLoading>(),
-          isA<MovieDetailError>(),
-        ],
+        act: (bloc) =>
+            bloc.add(const LoadMovieDetail(movieId: _kMovieId, isOnline: true)),
+        expect: () => [isA<MovieDetailLoading>(), isA<MovieDetailError>()],
       );
 
       blocTest<MovieDetailBloc, MovieDetailState>(
         'loaded state degrades cast to empty list when cast fails',
         build: buildBloc,
         setUp: () {
-          when(() => mockDetail(any()))
-              .thenAnswer((_) async => Right(_kMovieDetail));
-          when(() => mockCast(any()))
-              .thenAnswer((_) async => const Left(NetworkFailure()));
-          when(() => mockImages(any()))
-              .thenAnswer((_) async => Right([_kImage]));
+          when(
+            () => mockDetail(any()),
+          ).thenAnswer((_) async => Right(_kMovieDetail));
+          when(
+            () => mockCast(any()),
+          ).thenAnswer((_) async => const Left(NetworkFailure()));
+          when(
+            () => mockImages(any()),
+          ).thenAnswer((_) async => Right([_kImage]));
         },
-        act: (bloc) => bloc.add(
-          const LoadMovieDetail(movieId: _kMovieId, isOnline: true),
-        ),
+        act: (bloc) =>
+            bloc.add(const LoadMovieDetail(movieId: _kMovieId, isOnline: true)),
         verify: (bloc) {
           final loaded = bloc.state as MovieDetailLoaded;
           expect(loaded.cast, isEmpty);
@@ -166,20 +164,39 @@ void main() {
         'loaded state degrades images to empty list when images fail',
         build: buildBloc,
         setUp: () {
-          when(() => mockDetail(any()))
-              .thenAnswer((_) async => Right(_kMovieDetail));
-          when(() => mockCast(any()))
-              .thenAnswer((_) async => Right([_kActor]));
-          when(() => mockImages(any()))
-              .thenAnswer((_) async => const Left(NetworkFailure()));
+          when(
+            () => mockDetail(any()),
+          ).thenAnswer((_) async => Right(_kMovieDetail));
+          when(() => mockCast(any())).thenAnswer((_) async => Right([_kActor]));
+          when(
+            () => mockImages(any()),
+          ).thenAnswer((_) async => const Left(NetworkFailure()));
         },
-        act: (bloc) => bloc.add(
-          const LoadMovieDetail(movieId: _kMovieId, isOnline: true),
-        ),
+        act: (bloc) =>
+            bloc.add(const LoadMovieDetail(movieId: _kMovieId, isOnline: true)),
         verify: (bloc) {
           final loaded = bloc.state as MovieDetailLoaded;
           expect(loaded.cast, hasLength(1));
           expect(loaded.images, isEmpty);
+        },
+      );
+
+      blocTest<MovieDetailBloc, MovieDetailState>(
+        'emits [Loading, Error(NotFoundFailure)] when a use case throws',
+        build: buildBloc,
+        setUp: () {
+          when(() => mockDetail(any())).thenThrow(Exception('parallel error'));
+          when(() => mockCast(any())).thenAnswer((_) async => Right([_kActor]));
+          when(
+            () => mockImages(any()),
+          ).thenAnswer((_) async => Right([_kImage]));
+        },
+        act: (bloc) =>
+            bloc.add(const LoadMovieDetail(movieId: _kMovieId, isOnline: true)),
+        expect: () => [isA<MovieDetailLoading>(), isA<MovieDetailError>()],
+        verify: (bloc) {
+          final error = bloc.state as MovieDetailError;
+          expect(error.failure, isA<NotFoundFailure>());
         },
       );
     });

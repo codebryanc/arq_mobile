@@ -27,8 +27,9 @@ void main() {
 
     test('returns Right(chips) from repository', () async {
       // Arrange
-      when(() => mockRepository.getViewMode())
-          .thenReturn(CategoryViewMode.chips);
+      when(
+        () => mockRepository.getViewMode(),
+      ).thenReturn(CategoryViewMode.chips);
 
       // Act
       final result = await useCase(const NoParams());
@@ -42,8 +43,9 @@ void main() {
 
     test('returns Right(list) from repository', () async {
       // Arrange
-      when(() => mockRepository.getViewMode())
-          .thenReturn(CategoryViewMode.list);
+      when(
+        () => mockRepository.getViewMode(),
+      ).thenReturn(CategoryViewMode.list);
 
       // Act
       final result = await useCase(const NoParams());
@@ -64,28 +66,32 @@ void main() {
 
     test('delegates saveViewMode(list) to repository', () async {
       // Arrange
-      when(() => mockRepository.saveViewMode(CategoryViewMode.list))
-          .thenAnswer((_) async {});
+      when(
+        () => mockRepository.saveViewMode(CategoryViewMode.list),
+      ).thenAnswer((_) async {});
 
       // Act
       await useCase(CategoryViewMode.list);
 
       // Assert
-      verify(() => mockRepository.saveViewMode(CategoryViewMode.list))
-          .called(1);
+      verify(
+        () => mockRepository.saveViewMode(CategoryViewMode.list),
+      ).called(1);
     });
 
     test('delegates saveViewMode(chips) to repository', () async {
       // Arrange
-      when(() => mockRepository.saveViewMode(CategoryViewMode.chips))
-          .thenAnswer((_) async {});
+      when(
+        () => mockRepository.saveViewMode(CategoryViewMode.chips),
+      ).thenAnswer((_) async {});
 
       // Act
       await useCase(CategoryViewMode.chips);
 
       // Assert
-      verify(() => mockRepository.saveViewMode(CategoryViewMode.chips))
-          .called(1);
+      verify(
+        () => mockRepository.saveViewMode(CategoryViewMode.chips),
+      ).called(1);
     });
   });
 
@@ -133,8 +139,9 @@ void main() {
 
     test('delegates saveConnectionMode(true) to repository', () async {
       // Arrange
-      when(() => mockRepository.saveConnectionMode(true))
-          .thenAnswer((_) async {});
+      when(
+        () => mockRepository.saveConnectionMode(true),
+      ).thenAnswer((_) async {});
 
       // Act
       await useCase(true);
@@ -145,8 +152,9 @@ void main() {
 
     test('delegates saveConnectionMode(false) to repository', () async {
       // Arrange
-      when(() => mockRepository.saveConnectionMode(false))
-          .thenAnswer((_) async {});
+      when(
+        () => mockRepository.saveConnectionMode(false),
+      ).thenAnswer((_) async {});
 
       // Act
       await useCase(false);

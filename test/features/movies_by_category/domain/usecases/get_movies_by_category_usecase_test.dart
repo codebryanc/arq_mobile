@@ -97,9 +97,7 @@ void main() {
           customPage,
           isOnline: true,
         ),
-      ).thenAnswer(
-        (_) async => Right((<Movie>[], _kTotalPages)),
-      );
+      ).thenAnswer((_) async => Right((<Movie>[], _kTotalPages)));
 
       // Act
       final result = await useCase(

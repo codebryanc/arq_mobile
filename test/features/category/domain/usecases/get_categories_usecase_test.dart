@@ -29,8 +29,9 @@ void main() {
   group('GetCategoriesUseCase', () {
     test('delegates to repository with isOnline=true', () async {
       // Arrange
-      when(() => mockRepository.getCategories(isOnline: true))
-          .thenAnswer((_) async => Right(_kCategoryList));
+      when(
+        () => mockRepository.getCategories(isOnline: true),
+      ).thenAnswer((_) async => Right(_kCategoryList));
 
       // Act
       final result = await useCase(const OnlineParams(isOnline: true));
@@ -45,8 +46,9 @@ void main() {
 
     test('delegates to repository with isOnline=false', () async {
       // Arrange
-      when(() => mockRepository.getCategories(isOnline: false))
-          .thenAnswer((_) async => Right(_kCategoryList));
+      when(
+        () => mockRepository.getCategories(isOnline: false),
+      ).thenAnswer((_) async => Right(_kCategoryList));
 
       // Act
       final result = await useCase(const OnlineParams(isOnline: false));
@@ -60,8 +62,9 @@ void main() {
 
     test('returns Left(Failure) when repository returns failure', () async {
       // Arrange
-      when(() => mockRepository.getCategories(isOnline: true))
-          .thenAnswer((_) async => const Left(NetworkFailure()));
+      when(
+        () => mockRepository.getCategories(isOnline: true),
+      ).thenAnswer((_) async => const Left(NetworkFailure()));
 
       // Act
       final result = await useCase(const OnlineParams(isOnline: true));

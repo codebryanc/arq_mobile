@@ -25,8 +25,9 @@ void main() {
     group('getViewMode', () {
       test('returns list mode when saved value is list', () {
         // Arrange
-        when(() => mockPrefs.getString(_kViewModeKey))
-            .thenReturn(_kListModeName);
+        when(
+          () => mockPrefs.getString(_kViewModeKey),
+        ).thenReturn(_kListModeName);
 
         // Act
         final result = dataSource.getViewMode();
@@ -37,8 +38,9 @@ void main() {
 
       test('returns chips mode when saved value is chips', () {
         // Arrange
-        when(() => mockPrefs.getString(_kViewModeKey))
-            .thenReturn(CategoryViewMode.chips.name);
+        when(
+          () => mockPrefs.getString(_kViewModeKey),
+        ).thenReturn(CategoryViewMode.chips.name);
 
         // Act
         final result = dataSource.getViewMode();
@@ -73,8 +75,9 @@ void main() {
     group('saveViewMode', () {
       test('persists the mode name to prefs', () async {
         // Arrange
-        when(() => mockPrefs.setString(_kViewModeKey, _kListModeName))
-            .thenAnswer((_) async => true);
+        when(
+          () => mockPrefs.setString(_kViewModeKey, _kListModeName),
+        ).thenAnswer((_) async => true);
 
         // Act
         await dataSource.saveViewMode(CategoryViewMode.list);
@@ -124,8 +127,9 @@ void main() {
     group('saveConnectionMode', () {
       test('persists the value to prefs', () async {
         // Arrange
-        when(() => mockPrefs.setBool(_kConnectionModeKey, false))
-            .thenAnswer((_) async => true);
+        when(
+          () => mockPrefs.setBool(_kConnectionModeKey, false),
+        ).thenAnswer((_) async => true);
 
         // Act
         await dataSource.saveConnectionMode(false);

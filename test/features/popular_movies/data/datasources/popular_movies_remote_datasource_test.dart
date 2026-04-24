@@ -25,8 +25,9 @@ Map<String, dynamic> _buildMovieJson({String? posterPath = _kPosterPath}) => {
   'release_date': '1999-10-15',
 };
 
-Map<String, dynamic> _buildResultsResponse(List<Map<String, dynamic>> results) =>
-    {'results': results};
+Map<String, dynamic> _buildResultsResponse(
+  List<Map<String, dynamic>> results,
+) => {'results': results};
 
 void main() {
   late _MockDio mockDio;
@@ -65,9 +66,7 @@ void main() {
         // Arrange
         when(() => mockDio.get(_kEndpoint)).thenAnswer(
           (_) async => Response(
-            data: _buildResultsResponse([
-              _buildMovieJson(posterPath: null),
-            ]),
+            data: _buildResultsResponse([_buildMovieJson(posterPath: null)]),
             statusCode: 200,
             requestOptions: _requestOptions(),
           ),
@@ -80,38 +79,44 @@ void main() {
         expect(result, isEmpty);
       });
 
-      test('throws NetworkException when DioException wraps NetworkException', () {
-        // Arrange
-        when(() => mockDio.get(_kEndpoint)).thenThrow(
-          DioException(
-            requestOptions: _requestOptions(),
-            error: const NetworkException(),
-          ),
-        );
+      test(
+        'throws NetworkException when DioException wraps NetworkException',
+        () {
+          // Arrange
+          when(() => mockDio.get(_kEndpoint)).thenThrow(
+            DioException(
+              requestOptions: _requestOptions(),
+              error: const NetworkException(),
+            ),
+          );
 
-        // Act & Assert
-        expect(
-          () => dataSource.getPopularMovies(),
-          throwsA(isA<NetworkException>()),
-        );
-      });
+          // Act & Assert
+          expect(
+            () => dataSource.getPopularMovies(),
+            throwsA(isA<NetworkException>()),
+          );
+        },
+      );
 
-      test('throws ServerException when DioException wraps ServerException', () {
-        // Arrange
-        final serverException = ServerException(message: _kErrorMessage);
-        when(() => mockDio.get(_kEndpoint)).thenThrow(
-          DioException(
-            requestOptions: _requestOptions(),
-            error: serverException,
-          ),
-        );
+      test(
+        'throws ServerException when DioException wraps ServerException',
+        () {
+          // Arrange
+          final serverException = ServerException(message: _kErrorMessage);
+          when(() => mockDio.get(_kEndpoint)).thenThrow(
+            DioException(
+              requestOptions: _requestOptions(),
+              error: serverException,
+            ),
+          );
 
-        // Act & Assert
-        expect(
-          () => dataSource.getPopularMovies(),
-          throwsA(isA<ServerException>()),
-        );
-      });
+          // Act & Assert
+          expect(
+            () => dataSource.getPopularMovies(),
+            throwsA(isA<ServerException>()),
+          );
+        },
+      );
 
       test('throws ServerException on generic DioException', () {
         // Arrange

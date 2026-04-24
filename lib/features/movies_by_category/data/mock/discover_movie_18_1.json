@@ -13,13 +13,53 @@
       "original_language": "ru",
       "original_title": "Твоё сердце будет разбито",
       "overview": "",
-      "popularity": 378.6976,
+      "popularity": 369.7483,
       "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
       "release_date": "2026-03-26",
       "softcore": false,
       "video": false,
-      "vote_average": 6.861,
-      "vote_count": 72
+      "vote_average": 6.9,
+      "vote_count": 73
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 936075,
+      "title": "Michael",
+      "original_language": "en",
+      "original_title": "Michael",
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "popularity": 113.6273,
+      "poster_path": "/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "release_date": "2026-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.305,
+      "vote_count": 105
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/CpLAfXgSNeNRRbRzPrTuzKmIHO.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 350,
+      "title": "El diablo viste de Prada",
+      "original_language": "en",
+      "original_title": "The Devil Wears Prada",
+      "overview": "En el vertiginoso mundo de la moda en Nueva York, la revista 'Runway' es el Santo Grial. Dirigida con puño de hierro y elegante manicura por Miranda Priestly, trabajar en ella es un temible reto para todo aquel que quiera triunfar en ese mundo. Hacerlo como ayudante de Miranda podría abrirle cualquier puerta a Andy Sachs, recientemente graduada. Pero ella es una chica que destaca por su desaliño dentro del pequeño ejército de guapísimas redactoras de la revista. Andy comprende muy pronto que para triunfar en ese negocio va a necesitar algo más que iniciativa y determinación. Y la prueba definitiva está delante de ella, vestida de Prada de pies a cabeza.",
+      "popularity": 99.7349,
+      "poster_path": "/gvBvYFS9LVeukBYcdBX2HJZN4DL.jpg",
+      "release_date": "2006-06-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.39,
+      "vote_count": 12971
     },
     {
       "adult": false,
@@ -35,33 +75,13 @@
       "original_language": "hi",
       "original_title": "रॉकी और रानी की प्रेम कहानी",
       "overview": "",
-      "popularity": 99.4974,
+      "popularity": 113.7921,
       "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
       "release_date": "2023-07-28",
       "softcore": false,
       "video": false,
       "vote_average": 6.068,
       "vote_count": 81
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/CpLAfXgSNeNRRbRzPrTuzKmIHO.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "id": 350,
-      "title": "El diablo viste de Prada",
-      "original_language": "en",
-      "original_title": "The Devil Wears Prada",
-      "overview": "En el vertiginoso mundo de la moda en Nueva York, la revista 'Runway' es el Santo Grial. Dirigida con puño de hierro y elegante manicura por Miranda Priestly, trabajar en ella es un temible reto para todo aquel que quiera triunfar en ese mundo. Hacerlo como ayudante de Miranda podría abrirle cualquier puerta a Andy Sachs, recientemente graduada. Pero ella es una chica que destaca por su desaliño dentro del pequeño ejército de guapísimas redactoras de la revista. Andy comprende muy pronto que para triunfar en ese negocio va a necesitar algo más que iniciativa y determinación. Y la prueba definitiva está delante de ella, vestida de Prada de pies a cabeza.",
-      "popularity": 98.0983,
-      "poster_path": "/gvBvYFS9LVeukBYcdBX2HJZN4DL.jpg",
-      "release_date": "2006-06-29",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.39,
-      "vote_count": 12966
     },
     {
       "adult": false,
@@ -77,13 +97,13 @@
       "original_language": "zh",
       "original_title": "捕风追影",
       "overview": "Unos astutos y traicioneros ladrones desafian a la Policía Judicial de Macao. La Policía, que se encontraba en una dura batalla, invita de nuevo al experto en rastreo Huang De Zhong, retirado desde hace muchos años, a unir fuerzas con la joven élite del Departamento de Investigación Criminal de la Policía Judicial. Bajo la colisión de las técnicas tradicionales de rastreo y la alta tecnología, la policía y los criminales luchan con ingenio y valentía, y se lanzan a un duelo entre el bien y el mal parecido al juego del gato y el ratón.",
-      "popularity": 88.2702,
+      "popularity": 85.9531,
       "poster_path": "/ftBCLqEhDvgKRcux0fk5TriVhMD.jpg",
       "release_date": "2025-08-16",
       "softcore": false,
       "video": false,
-      "vote_average": 7.222,
-      "vote_count": 585
+      "vote_average": 7.227,
+      "vote_count": 586
     },
     {
       "adult": false,
@@ -98,33 +118,13 @@
       "original_language": "en",
       "original_title": "Return to Silent Hill",
       "overview": "Impulsado por las sombras de su pasado, James Sunderland regresa a Silent Hill para encontrar a su amor perdido, Mary Crane. Pero el pequeño pueblo oscuro y deprimente ya no es el lugar de sus recuerdos. James se encuentra con personajes que le parecen demasiado familiares y que intentan distraerlo de su búsqueda de Mary. Cuanto más busca a Mary, más comienza a preguntarse si esto sigue siendo la realidad, o si ha caído en el oscuro inframundo de Jacob Crane.",
-      "popularity": 81.3736,
+      "popularity": 73.3786,
       "poster_path": "/5Y2TeCVEnwPbd4FDShGbkKYw6GE.jpg",
       "release_date": "2026-01-21",
       "softcore": false,
       "video": false,
-      "vote_average": 5.2,
-      "vote_count": 404
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "genre_ids": [
-        10402,
-        18
-      ],
-      "id": 936075,
-      "title": "Michael",
-      "original_language": "en",
-      "original_title": "Michael",
-      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "popularity": 79.8068,
-      "poster_path": "/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "release_date": "2026-04-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.222,
-      "vote_count": 90
+      "vote_average": 5.236,
+      "vote_count": 406
     },
     {
       "adult": false,
@@ -139,13 +139,13 @@
       "original_language": "en",
       "original_title": "180",
       "overview": "Un inesperado incidente de tráfico deja a su hijo en estado crítico. El padre, enfurecido, se adentra en una oscura espiral de confusión emocional y venganza.",
-      "popularity": 73.6476,
+      "popularity": 74.1539,
       "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
       "release_date": "2026-04-16",
       "softcore": false,
       "video": false,
-      "vote_average": 5.61,
-      "vote_count": 41
+      "vote_average": 5.7,
+      "vote_count": 43
     },
     {
       "adult": false,
@@ -162,13 +162,13 @@
       "original_language": "en",
       "original_title": "xXx",
       "overview": "Xander Cage es XXX, un antiguo ganador de X-Games y atleta profesional de deportes de extremo, que sobrevive vendiendo videos de sus increíbles hazañas, las cuales hacen emitir adrenalina por todo el cuerpo. Pero después de incontables encuentros con la ley, su mundo está a punto de tomar un rumbo aún más extremo... Porque Xander no sabe que ha sido \"espiado\" por Augustus Gibbons, un agente veterano de la Agencia Nacional de Seguridad que se encuentra en una desesperada situación en la distante ciudad de Praga, en donde su operativo secreto ha sido asesinado por una pandilla de mafiosos con un estilo muy propio, que se llaman así mismos Anarchy 99, encabezados por el brutal ex-Comandante del Ejército Ruso Yorgi.",
-      "popularity": 62.2127,
+      "popularity": 63.9721,
       "poster_path": "/gd4hRY3pFXRY7YVbMdVBpnKV7wC.jpg",
       "release_date": "2002-08-09",
       "softcore": false,
       "video": false,
       "vote_average": 5.986,
-      "vote_count": 4864
+      "vote_count": 4865
     },
     {
       "adult": false,
@@ -182,13 +182,13 @@
       "original_language": "en",
       "original_title": "Reminders of Him",
       "overview": "Cuando los abuelos y tutores de Diem se niegan categóricamente a permitir que la vea, Kenna descubre una compasión inesperada seguida de un sentimiento más profundo y real con Ledger, exjugador de la NFL y propietario de un bar local. A medida que su romance secreto va cobrando forma, surgen problemas para los dos, lo que llevará a Kenna a una situación sentimental desoladora y, en último término, a reavivar la esperanza de una segunda oportunidad.",
-      "popularity": 60.2558,
+      "popularity": 60.1119,
       "poster_path": "/iPJ4V6o5PttdBmHoehdOtWqQ6gx.jpg",
       "release_date": "2026-03-11",
       "softcore": false,
       "video": false,
-      "vote_average": 7.181,
-      "vote_count": 144
+      "vote_average": 7.226,
+      "vote_count": 148
     },
     {
       "adult": false,
@@ -203,33 +203,13 @@
       "original_language": "ko",
       "original_title": "휴민트",
       "overview": "Un agente surcoreano investiga una red de narcotráfico en Rusia y debe colaborar con un agente norcoreano, lo cual los lleva correr riesgos y descubrir secretos muy turbios.",
-      "popularity": 59.3815,
+      "popularity": 56.7227,
       "poster_path": "/3xI81SsZHRKY0ltVKbILbvU3wa4.jpg",
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 7.2,
-      "vote_count": 102
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1049471,
-      "title": "Outcome",
-      "original_language": "en",
-      "original_title": "Outcome",
-      "overview": "Reef Hawk, emblema de Hollywood desde los seis años, está en crisis. Ante un chantaje relacionado con un misterioso vídeo, Reef decide emprender una gira de redención para enmendar sus errores, enfrentarse a sus demonios y evitar ser cancelado.",
-      "popularity": 58.6561,
-      "poster_path": "/9uriReigJBf5zVBNaHj5C9kDDTe.jpg",
-      "release_date": "2026-04-06",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.3,
-      "vote_count": 133
+      "vote_average": 7.214,
+      "vote_count": 103
     },
     {
       "adult": false,
@@ -244,7 +224,7 @@
       "original_language": "it",
       "original_title": "Il peccato di Lola",
       "overview": "Tras la marcha de su madre al extranjero por temas de negocios, Albert, de dieciséis años de edad, continua sus vacaciones en su maravillosa casa, con la única compañía del camarero. Pero la llegada de una nueva criada revolucionará el panorama.",
-      "popularity": 58.6463,
+      "popularity": 53.3178,
       "poster_path": "/iQt9Kydd8yn9xfBvYeKec56glyv.jpg",
       "release_date": "1984-05-04",
       "softcore": false,
@@ -263,7 +243,7 @@
       "original_language": "nl",
       "original_title": "L'homme inconnu",
       "overview": "",
-      "popularity": 57.8133,
+      "popularity": 53.292,
       "poster_path": "/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
       "release_date": "2021-10-16",
       "softcore": false,
@@ -284,13 +264,13 @@
       "original_language": "en",
       "original_title": "Interstellar",
       "overview": "Un grupo de exploradores hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
-      "popularity": 57.645,
+      "popularity": 55.9281,
       "poster_path": "/9cTfZWP5TfdnmAjiD6ZBXWIJ7O9.jpg",
       "release_date": "2014-11-05",
       "softcore": false,
       "video": false,
       "vote_average": 8.47,
-      "vote_count": 39457
+      "vote_count": 39460
     },
     {
       "adult": false,
@@ -304,13 +284,33 @@
       "original_language": "en",
       "original_title": "\"Wuthering Heights\"",
       "overview": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, 'Cumbres Borrascosas' de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-      "popularity": 56.2791,
+      "popularity": 51.6119,
       "poster_path": "/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 6.525,
-      "vote_count": 799
+      "vote_average": 6.5,
+      "vote_count": 800
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1049471,
+      "title": "Outcome",
+      "original_language": "en",
+      "original_title": "Outcome",
+      "overview": "Reef Hawk, emblema de Hollywood desde los seis años, está en crisis. Ante un chantaje relacionado con un misterioso vídeo, Reef decide emprender una gira de redención para enmendar sus errores, enfrentarse a sus demonios y evitar ser cancelado.",
+      "popularity": 50.863,
+      "poster_path": "/9uriReigJBf5zVBNaHj5C9kDDTe.jpg",
+      "release_date": "2026-04-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 136
     },
     {
       "adult": false,
@@ -323,7 +323,7 @@
       "original_language": "tl",
       "original_title": "Sundutan",
       "overview": "",
-      "popularity": 49.2899,
+      "popularity": 46.4262,
       "poster_path": "/2neZgVuY7prWIak5hhNKT53Hk0N.jpg",
       "release_date": "2026-03-06",
       "softcore": false,
@@ -342,7 +342,7 @@
       "original_language": "tl",
       "original_title": "Stepdaddy",
       "overview": "",
-      "popularity": 45.3538,
+      "popularity": 44.8807,
       "poster_path": "/oZxNblisKuDzSUW5g18FERjyJs9.jpg",
       "release_date": "2026-04-04",
       "softcore": false,
@@ -362,13 +362,13 @@
       "original_language": "en",
       "original_title": "Peaky Blinders: The Immortal Man",
       "overview": "El gánster Tommy Shelby regresa a Birmingham para salvar a su familia —y a su país— cuando su hijo, del que se ha distanciado, se ve envuelto en un complot nazi.",
-      "popularity": 43.2954,
+      "popularity": 41.5291,
       "poster_path": "/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
       "release_date": "2026-03-05",
       "softcore": false,
       "video": false,
-      "vote_average": 7.225,
-      "vote_count": 818
+      "vote_average": 7.223,
+      "vote_count": 819
     },
     {
       "adult": false,
@@ -382,13 +382,13 @@
       "original_language": "en",
       "original_title": "The Godfather",
       "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
-      "popularity": 42.8675,
+      "popularity": 40.657,
       "poster_path": "/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
       "release_date": "1972-03-14",
       "softcore": false,
       "video": false,
       "vote_average": 8.686,
-      "vote_count": 22784
+      "vote_count": 22785
     },
     {
       "adult": false,
@@ -401,7 +401,7 @@
       "original_language": "tl",
       "original_title": "Balinsasayaw",
       "overview": "",
-      "popularity": 42.5211,
+      "popularity": 42.9466,
       "poster_path": "/5gotyf6pPf9ZbDSW0yBLXMpDmmP.jpg",
       "release_date": "2024-05-17",
       "softcore": false,
@@ -410,6 +410,6 @@
       "vote_count": 3
     }
   ],
-  "total_pages": 14272,
-  "total_results": 285430
+  "total_pages": 14274,
+  "total_results": 285475
 }

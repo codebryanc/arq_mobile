@@ -51,22 +51,21 @@ void main() {
         'emits [Loading, Loaded] on success',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => Right(_kCategories));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => Right(_kCategories));
         },
         act: (bloc) => bloc.add(const LoadCategories(isOnline: true)),
-        expect: () => [
-          isA<CategoryLoading>(),
-          isA<CategoryLoaded>(),
-        ],
+        expect: () => [isA<CategoryLoading>(), isA<CategoryLoaded>()],
       );
 
       blocTest<CategoryBloc, CategoryState>(
         'loaded state contains categories',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => Right(_kCategories));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => Right(_kCategories));
         },
         act: (bloc) => bloc.add(const LoadCategories(isOnline: true)),
         verify: (bloc) {
@@ -79,14 +78,12 @@ void main() {
         'emits [Loading, Error] on failure',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => const Left(NetworkFailure()));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => const Left(NetworkFailure()));
         },
         act: (bloc) => bloc.add(const LoadCategories(isOnline: false)),
-        expect: () => [
-          isA<CategoryLoading>(),
-          isA<CategoryError>(),
-        ],
+        expect: () => [isA<CategoryLoading>(), isA<CategoryError>()],
       );
     });
 
@@ -95,14 +92,13 @@ void main() {
         'updates selectedCategory in loaded state',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => Right(_kCategories));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => Right(_kCategories));
         },
         seed: () => CategoryLoaded(_kCategories),
         act: (bloc) => bloc.add(SelectCategory(_kCategory)),
-        expect: () => [
-          isA<CategoryLoaded>(),
-        ],
+        expect: () => [isA<CategoryLoaded>()],
         verify: (bloc) {
           final loaded = bloc.state as CategoryLoaded;
           expect(loaded.selectedCategory, equals(_kCategory));
@@ -123,9 +119,7 @@ void main() {
         build: buildBloc,
         seed: () => CategoryLoaded(_kCategories, selectedCategory: _kCategory),
         act: (bloc) => bloc.add(const ClearCategory()),
-        expect: () => [
-          isA<CategoryLoaded>(),
-        ],
+        expect: () => [isA<CategoryLoaded>()],
         verify: (bloc) {
           final loaded = bloc.state as CategoryLoaded;
           expect(loaded.selectedCategory, isNull);

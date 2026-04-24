@@ -21,10 +21,7 @@ void main() {
       final dio = DioClient.create(defaultServerError: _kDefaultError);
 
       // Assert
-      expect(
-        dio.interceptors.any((i) => i is ErrorInterceptor),
-        isTrue,
-      );
+      expect(dio.interceptors.any((i) => i is ErrorInterceptor), isTrue);
     });
   });
 }

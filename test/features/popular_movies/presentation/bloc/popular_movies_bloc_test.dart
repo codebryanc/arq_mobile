@@ -57,22 +57,21 @@ void main() {
         'emits [Loading, Loaded] on success',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => Right(_kMovieList));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => Right(_kMovieList));
         },
         act: (bloc) => bloc.add(const LoadPopularMovies(isOnline: true)),
-        expect: () => [
-          isA<PopularMoviesLoading>(),
-          isA<PopularMoviesLoaded>(),
-        ],
+        expect: () => [isA<PopularMoviesLoading>(), isA<PopularMoviesLoaded>()],
       );
 
       blocTest<PopularMoviesBloc, PopularMoviesState>(
         'loaded state contains the movies list',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => Right(_kMovieList));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => Right(_kMovieList));
         },
         act: (bloc) => bloc.add(const LoadPopularMovies(isOnline: true)),
         verify: (bloc) {
@@ -85,22 +84,21 @@ void main() {
         'emits [Loading, Error] on failure',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => const Left(NetworkFailure()));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => const Left(NetworkFailure()));
         },
         act: (bloc) => bloc.add(const LoadPopularMovies(isOnline: false)),
-        expect: () => [
-          isA<PopularMoviesLoading>(),
-          isA<PopularMoviesError>(),
-        ],
+        expect: () => [isA<PopularMoviesLoading>(), isA<PopularMoviesError>()],
       );
 
       blocTest<PopularMoviesBloc, PopularMoviesState>(
         'error state holds the failure',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => const Left(NetworkFailure()));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => const Left(NetworkFailure()));
         },
         act: (bloc) => bloc.add(const LoadPopularMovies(isOnline: true)),
         verify: (bloc) {

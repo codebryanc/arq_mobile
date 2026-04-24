@@ -50,8 +50,9 @@ void main() {
     group('getMoviesByCategory — offline', () {
       test('returns Right with local data and skips remote', () async {
         // Arrange
-        when(() => mockLocal.getMoviesByCategory(_kCategoryId, _kPage))
-            .thenAnswer((_) async => _kLocalRecord);
+        when(
+          () => mockLocal.getMoviesByCategory(_kCategoryId, _kPage),
+        ).thenAnswer((_) async => _kLocalRecord);
 
         // Act
         final result = await repository.getMoviesByCategory(
@@ -73,8 +74,9 @@ void main() {
     group('getMoviesByCategory — online', () {
       test('returns Right with remote data on success', () async {
         // Arrange
-        when(() => mockRemote.getMoviesByCategory(_kCategoryId, _kPage))
-            .thenAnswer((_) async => _kRemoteRecord);
+        when(
+          () => mockRemote.getMoviesByCategory(_kCategoryId, _kPage),
+        ).thenAnswer((_) async => _kRemoteRecord);
 
         // Act
         final result = await repository.getMoviesByCategory(
@@ -93,8 +95,9 @@ void main() {
 
       test('returns Left(NetworkFailure) on NetworkException', () async {
         // Arrange
-        when(() => mockRemote.getMoviesByCategory(_kCategoryId, _kPage))
-            .thenThrow(const NetworkException());
+        when(
+          () => mockRemote.getMoviesByCategory(_kCategoryId, _kPage),
+        ).thenThrow(const NetworkException());
 
         // Act
         final result = await repository.getMoviesByCategory(
@@ -112,10 +115,11 @@ void main() {
 
       test('returns Left(ServerFailure) on ServerException', () async {
         // Arrange
-        when(() => mockRemote.getMoviesByCategory(_kCategoryId, _kPage))
-            .thenThrow(
-              ServerException(message: _kErrorMessage, statusCode: _kStatusCode),
-            );
+        when(
+          () => mockRemote.getMoviesByCategory(_kCategoryId, _kPage),
+        ).thenThrow(
+          ServerException(message: _kErrorMessage, statusCode: _kStatusCode),
+        );
 
         // Act
         final result = await repository.getMoviesByCategory(
@@ -125,15 +129,12 @@ void main() {
         );
 
         // Assert
-        result.fold(
-          (f) {
-            expect(f, isA<ServerFailure>());
-            final sf = f as ServerFailure;
-            expect(sf.message, equals(_kErrorMessage));
-            expect(sf.statusCode, equals(_kStatusCode));
-          },
-          (_) => fail('expected Left'),
-        );
+        result.fold((f) {
+          expect(f, isA<ServerFailure>());
+          final sf = f as ServerFailure;
+          expect(sf.message, equals(_kErrorMessage));
+          expect(sf.statusCode, equals(_kStatusCode));
+        }, (_) => fail('expected Left'));
       });
     });
   });

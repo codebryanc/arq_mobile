@@ -21,8 +21,9 @@ void main() {
     group('getViewMode', () {
       test('delegates to local datasource and returns the mode', () {
         // Arrange
-        when(() => mockDataSource.getViewMode())
-            .thenReturn(CategoryViewMode.list);
+        when(
+          () => mockDataSource.getViewMode(),
+        ).thenReturn(CategoryViewMode.list);
 
         // Act
         final result = repository.getViewMode();
@@ -36,15 +37,17 @@ void main() {
     group('saveViewMode', () {
       test('delegates to local datasource', () async {
         // Arrange
-        when(() => mockDataSource.saveViewMode(CategoryViewMode.chips))
-            .thenAnswer((_) async {});
+        when(
+          () => mockDataSource.saveViewMode(CategoryViewMode.chips),
+        ).thenAnswer((_) async {});
 
         // Act
         await repository.saveViewMode(CategoryViewMode.chips);
 
         // Assert
-        verify(() => mockDataSource.saveViewMode(CategoryViewMode.chips))
-            .called(1);
+        verify(
+          () => mockDataSource.saveViewMode(CategoryViewMode.chips),
+        ).called(1);
       });
     });
 
@@ -65,8 +68,9 @@ void main() {
     group('saveConnectionMode', () {
       test('delegates to local datasource', () async {
         // Arrange
-        when(() => mockDataSource.saveConnectionMode(true))
-            .thenAnswer((_) async {});
+        when(
+          () => mockDataSource.saveConnectionMode(true),
+        ).thenAnswer((_) async {});
 
         // Act
         await repository.saveConnectionMode(true);

@@ -27,25 +27,24 @@ Map<String, dynamic> _buildMovieJson({String? posterPath = _kPosterPath}) => {
   'release_date': _kReleaseDate,
 };
 
-String _buildDiscoverJson(
-  List<Map<String, dynamic>> results,
-  int totalPages,
-) => jsonEncode({'results': results, 'total_pages': totalPages});
+String _buildDiscoverJson(List<Map<String, dynamic>> results, int totalPages) =>
+    jsonEncode({'results': results, 'total_pages': totalPages});
 
 void _setUpMockAssets(Map<String, String> assetContents) {
   final manifestMap = {
     for (final k in assetContents.keys) k: [k],
   };
-  final binaryManifest =
-      const StandardMessageCodec().encodeMessage(manifestMap)!;
+  final binaryManifest = const StandardMessageCodec().encodeMessage(
+    manifestMap,
+  )!;
   TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
       .setMockMessageHandler('flutter/assets', (ByteData? message) async {
-    final key = utf8.decode(message!.buffer.asUint8List());
-    if (key == 'AssetManifest.bin') return binaryManifest;
-    final content = assetContents[key];
-    if (content == null) return null;
-    return ByteData.view(Uint8List.fromList(utf8.encode(content)).buffer);
-  });
+        final key = utf8.decode(message!.buffer.asUint8List());
+        if (key == 'AssetManifest.bin') return binaryManifest;
+        final content = assetContents[key];
+        if (content == null) return null;
+        return ByteData.view(Uint8List.fromList(utf8.encode(content)).buffer);
+      });
 }
 
 void _tearDownMockAssets() {
@@ -69,8 +68,7 @@ void main() {
     group('getMoviesByCategory', () {
       test('returns movies and totalPages when asset exists', () async {
         // Arrange
-        final json =
-            _buildDiscoverJson([_buildMovieJson()], _kTotalPages);
+        final json = _buildDiscoverJson([_buildMovieJson()], _kTotalPages);
         _setUpMockAssets({_kAssetPath: json});
 
         // Act

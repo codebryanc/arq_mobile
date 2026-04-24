@@ -51,38 +51,44 @@ void main() {
         expect(result.first.name, equals(_kCategoryName));
       });
 
-      test('throws NetworkException when DioException wraps NetworkException', () async {
-        // Arrange
-        when(() => mockDio.get(_kEndpoint)).thenThrow(
-          DioException(
-            requestOptions: _requestOptions(),
-            error: const NetworkException(),
-          ),
-        );
+      test(
+        'throws NetworkException when DioException wraps NetworkException',
+        () async {
+          // Arrange
+          when(() => mockDio.get(_kEndpoint)).thenThrow(
+            DioException(
+              requestOptions: _requestOptions(),
+              error: const NetworkException(),
+            ),
+          );
 
-        // Act & Assert
-        expect(
-          () => dataSource.getCategories(),
-          throwsA(isA<NetworkException>()),
-        );
-      });
+          // Act & Assert
+          expect(
+            () => dataSource.getCategories(),
+            throwsA(isA<NetworkException>()),
+          );
+        },
+      );
 
-      test('throws ServerException when DioException wraps ServerException', () async {
-        // Arrange
-        final serverException = ServerException(message: _kErrorMessage);
-        when(() => mockDio.get(_kEndpoint)).thenThrow(
-          DioException(
-            requestOptions: _requestOptions(),
-            error: serverException,
-          ),
-        );
+      test(
+        'throws ServerException when DioException wraps ServerException',
+        () async {
+          // Arrange
+          final serverException = ServerException(message: _kErrorMessage);
+          when(() => mockDio.get(_kEndpoint)).thenThrow(
+            DioException(
+              requestOptions: _requestOptions(),
+              error: serverException,
+            ),
+          );
 
-        // Act & Assert
-        expect(
-          () => dataSource.getCategories(),
-          throwsA(isA<ServerException>()),
-        );
-      });
+          // Act & Assert
+          expect(
+            () => dataSource.getCategories(),
+            throwsA(isA<ServerException>()),
+          );
+        },
+      );
 
       test('throws ServerException on generic DioException', () async {
         // Arrange

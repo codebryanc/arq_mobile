@@ -1,29 +1,430 @@
 {
+  "page": 1,
   "results": [
     {
-      "id": 550,
-      "title": "Fight Club",
-      "overview": "",
-      "poster_path": "/poster.jpg",
-      "vote_average": 8.4,
-      "release_date": "1999-10-15"
+      "adult": false,
+      "backdrop_path": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        14
+      ],
+      "id": 980431,
+      "title": "La leyenda de Aang: El último Airbender",
+      "original_language": "en",
+      "original_title": "Avatar Aang: The Last Airbender",
+      "overview": "Película de animación que seguirá a Aang y sus amigos, ahora como jóvenes adultos, varios años después de los acontecimientos del final de 'Avatar: The Last Airbender'.",
+      "popularity": 277.9116,
+      "poster_path": "/iMsORWhD8MawINagL6kvpDVAtS.jpg",
+      "release_date": "2026-10-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
     },
     {
-      "id": 550,
-      "title": "Fight Club",
-      "overview": "",
-      "poster_path": null,
-      "vote_average": 8.4,
-      "release_date": "1999-10-15"
+      "adult": false,
+      "backdrop_path": "/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1613798,
+      "title": "Venganza",
+      "original_language": "es",
+      "original_title": "Venganza",
+      "overview": "Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.",
+      "popularity": 238.9347,
+      "poster_path": "/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
+      "release_date": "2026-02-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.878,
+      "vote_count": 74
     },
     {
-      "id": 550,
-      "title": "Fight Club",
-      "overview": "",
-      "poster_path": "",
-      "vote_average": 8.4,
-      "release_date": "1999-10-15"
+      "adult": false,
+      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1290821,
+      "title": "Shelter: El Protector",
+      "original_language": "en",
+      "original_title": "Shelter",
+      "overview": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
+      "popularity": 180.0595,
+      "poster_path": "/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
+      "release_date": "2026-01-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.783,
+      "vote_count": 588
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+      "genre_ids": [
+        35,
+        28,
+        12
+      ],
+      "id": 1084577,
+      "title": "Balls Up: Con un par",
+      "original_language": "en",
+      "original_title": "Balls Up",
+      "overview": "Los ejecutivos de marketing Brad y Elijah lanzan un audaz patrocinio de preservativos de cobertura total directamente a la Copa del Mundo. Después de que su ebria celebración en Brasil desencadene un escándalo mundial, deberán huir de hinchas furiosos, delincuentes y funcionarios sedientos de poder para salvar sus carreras y volver a casa con vida.",
+      "popularity": 132.821,
+      "poster_path": "/50V1E3NE3UDFmq0fhMpByx1b4Ka.jpg",
+      "release_date": "2026-04-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.621,
+      "vote_count": 116
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1641319,
+      "title": "Sniper: En tierra de nadie",
+      "original_language": "en",
+      "original_title": "Sniper: No Nation",
+      "overview": "Cuando el francotirador Brandon Beckett es tachado de terrorista, se ve obligado a desaparecer y embarcarse en una misión de rescate imposible junto a su legendario padre.",
+      "popularity": 134.4964,
+      "poster_path": "/hdSt80XqI2IWu9WOWZQVecuPT7D.jpg",
+      "release_date": "2026-04-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1311031,
+      "title": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita",
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+      "popularity": 125.613,
+      "poster_path": "/iWLV12z9oexSRLz2WKyqCZbKoPA.jpg",
+      "release_date": "2025-07-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.687,
+      "vote_count": 809
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 1419406,
+      "title": "Escuadrón letal",
+      "original_language": "zh",
+      "original_title": "捕风追影",
+      "overview": "Unos astutos y traicioneros ladrones desafian a la Policía Judicial de Macao. La Policía, que se encontraba en una dura batalla, invita de nuevo al experto en rastreo Huang De Zhong, retirado desde hace muchos años, a unir fuerzas con la joven élite del Departamento de Investigación Criminal de la Policía Judicial. Bajo la colisión de las técnicas tradicionales de rastreo y la alta tecnología, la policía y los criminales luchan con ingenio y valentía, y se lanzan a un duelo entre el bien y el mal parecido al juego del gato y el ratón.",
+      "popularity": 85.9531,
+      "poster_path": "/ftBCLqEhDvgKRcux0fk5TriVhMD.jpg",
+      "release_date": "2025-08-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.227,
+      "vote_count": 586
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 1265609,
+      "title": "Máquina de guerra",
+      "original_language": "en",
+      "original_title": "War Machine",
+      "overview": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
+      "popularity": 74.9979,
+      "poster_path": "/5C18uOTbDZRvVIZcVRO747k2fUi.jpg",
+      "release_date": "2026-02-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 1497
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 634649,
+      "title": "Spider-Man: No Way Home",
+      "original_language": "en",
+      "original_title": "Spider-Man: No Way Home",
+      "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+      "popularity": 70.9393,
+      "poster_path": "/miZFgV81xG324rpUknQX8dtXuBl.jpg",
+      "release_date": "2021-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.933,
+      "vote_count": 21827
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
+      "genre_ids": [
+        10402,
+        53,
+        28,
+        27
+      ],
+      "id": 1084187,
+      "title": "Lindas y letales",
+      "original_language": "en",
+      "original_title": "Pretty Lethal",
+      "overview": "Un grupo de bailarinas lucha por sobrevivir mientras intentan escapar de una remota posada después de que su autobús se averíe de camino a una competición.",
+      "popularity": 64.0874,
+      "poster_path": "/cmZqxJQ9MdNQEoD49HYghOXsiwH.jpg",
+      "release_date": "2026-03-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.78,
+      "vote_count": 300
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tZiRd4IpoNiaoLXr2o2YfhTMjE2.jpg",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "id": 662707,
+      "title": "Starbright",
+      "original_language": "en",
+      "original_title": "Starbright",
+      "overview": "Una mujer encuentra el secreto para hacer realidad sus deseos.",
+      "popularity": 65.8333,
+      "poster_path": "/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+      "release_date": "2026-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.833,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gaKFXcB5J1gz0QqYj8bWIfrPc04.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Un joven Predator rechazado por su clan encuentra un aliado inesperado en Thia y emprende un peligroso viaje en busca del adversario definitivo.",
+      "popularity": 64.5955,
+      "poster_path": "/8nCEJ5hFJt0h8FhXafHGhEhT8d7.jpg",
+      "release_date": "2025-11-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 2645
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        80,
+        18
+      ],
+      "id": 7451,
+      "title": "xXx",
+      "original_language": "en",
+      "original_title": "xXx",
+      "overview": "Xander Cage es XXX, un antiguo ganador de X-Games y atleta profesional de deportes de extremo, que sobrevive vendiendo videos de sus increíbles hazañas, las cuales hacen emitir adrenalina por todo el cuerpo. Pero después de incontables encuentros con la ley, su mundo está a punto de tomar un rumbo aún más extremo... Porque Xander no sabe que ha sido \"espiado\" por Augustus Gibbons, un agente veterano de la Agencia Nacional de Seguridad que se encuentra en una desesperada situación en la distante ciudad de Praga, en donde su operativo secreto ha sido asesinado por una pandilla de mafiosos con un estilo muy propio, que se llaman así mismos Anarchy 99, encabezados por el brutal ex-Comandante del Ejército Ruso Yorgi.",
+      "popularity": 63.9721,
+      "poster_path": "/gd4hRY3pFXRY7YVbMdVBpnKV7wC.jpg",
+      "release_date": "2002-08-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.986,
+      "vote_count": 4865
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+      "genre_ids": [
+        53,
+        28,
+        18
+      ],
+      "id": 1268127,
+      "title": "Humint",
+      "original_language": "ko",
+      "original_title": "휴민트",
+      "overview": "Un agente surcoreano investiga una red de narcotráfico en Rusia y debe colaborar con un agente norcoreano, lo cual los lleva correr riesgos y descubrir secretos muy turbios.",
+      "popularity": 56.7227,
+      "poster_path": "/3xI81SsZHRKY0ltVKbILbvU3wa4.jpg",
+      "release_date": "2026-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.214,
+      "vote_count": 103
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 24428,
+      "title": "Los Vengadores",
+      "original_language": "en",
+      "original_title": "The Avengers",
+      "overview": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+      "popularity": 53.0508,
+      "poster_path": "/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+      "release_date": "2012-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.006,
+      "vote_count": 37388
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        9648
+      ],
+      "id": 1168190,
+      "title": "Los hermanos demolición",
+      "original_language": "en",
+      "original_title": "The Wrecking Crew",
+      "overview": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.",
+      "popularity": 50.1777,
+      "poster_path": "/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg",
+      "release_date": "2026-01-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.876,
+      "vote_count": 909
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 299536,
+      "title": "Vengadores: Infinity War",
+      "original_language": "en",
+      "original_title": "Avengers: Infinity War",
+      "overview": "El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
+      "popularity": 47.6181,
+      "poster_path": "/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+      "release_date": "2018-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.233,
+      "vote_count": 31777
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "id": 28322,
+      "title": "Vacaciones para matar",
+      "original_language": "it",
+      "original_title": "Vacanze per un massacro",
+      "overview": "Un fugitivo trata de recuperar el botí­n de un robo que había escondido en una casa de montaña antes de ser detenido. Allí en lugar de pasar el fin de semana solos un matrimonio y la joven hermana de la mujer serán espiados a la espera de aprovechar la oportunidad idónea para recuperar los bienes robados, descubre sus secretos más morbosos antes de agredirlos para recuperar su botín.",
+      "popularity": 47.4547,
+      "poster_path": "/q05X1TcL8ZHdGzznx7I8EjdYFnU.jpg",
+      "release_date": "1980-03-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.929,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xcBlMEvzuaHoWANKYn5PGvcW4OC.jpg",
+      "genre_ids": [
+        27,
+        28,
+        53
+      ],
+      "id": 1110034,
+      "title": "Kraken",
+      "original_language": "no",
+      "original_title": "Kraken",
+      "overview": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales muertes de dos adolescentes de la localidad, todos los indicios apuntan al profundo fiordo. ¿Puede haber más en las profundidades de lo que el ojo puede ver? En el fondo del fiordo más profundo de Noruega descansa un monstruo mítico tan grande como una montaña, con una miríada de brazos dispuestos a aplastar y devorar todo lo que puedan agarrar.",
+      "popularity": 42.3758,
+      "poster_path": "/8ExwomWgJoXBdY3u1Otiw2zY9wZ.jpg",
+      "release_date": "2026-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 1234821,
+      "title": "Jurassic World: El renacer",
+      "original_language": "en",
+      "original_title": "Jurassic World Rebirth",
+      "overview": "Cinco años después de los eventos de \"Dominion\", la ecología del planeta ha demostrado ser insoportable para los dinosaurios, donde los pocos que quedan viven aislados en las regiones ecuatoriales. Zora Bennett es contratada para dirigir a un equipo de especialistas cuyo objetivo es conseguir el material genético de las tres criaturas más grandes, las cuales tienen en su ADN la clave para fabricar un medicamento que aportará grandes beneficios a la humanidad. Pero la operación se cruzará con una familia cuyo barco volcó y todos acabarán en una isla prohibida ocupada por dinosaurios de numerosas especies, donde tendrán que hacer lo imposible para sobrevivir.",
+      "popularity": 43.7095,
+      "poster_path": "/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
+      "release_date": "2025-07-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 3241
     }
   ],
-  "total_pages": 5
+  "total_pages": 2407,
+  "total_results": 48128
 }

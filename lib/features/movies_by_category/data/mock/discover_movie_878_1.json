@@ -14,13 +14,13 @@
       "original_language": "en",
       "original_title": "Avatar: Fire and Ash",
       "overview": "Jake Sully y Neytiri enfrentan una nueva amenaza en Pandora: los Ash People, una tribu Na'vi violenta y sedienta de poder, liderada por la implacable Varang. Tras la devastadora guerra contra la RDA y la pérdida de su hijo mayor, la familia de Jake deberá luchar por su supervivencia y el futuro de Pandora en un conflicto que llevará a los personajes a sus límites emocionales y físicos. Con nuevos y antiguos aliados, esta épica visual y emocional redefine el destino de un mundo al borde del abismo.",
-      "popularity": 262.7902,
+      "popularity": 246.3145,
       "poster_path": "/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
       "release_date": "2025-12-17",
       "softcore": false,
       "video": false,
-      "vote_average": 7.372,
-      "vote_count": 2689
+      "vote_average": 7.376,
+      "vote_count": 2698
     },
     {
       "adult": false,
@@ -34,13 +34,13 @@
       "original_language": "en",
       "original_title": "Project Hail Mary",
       "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "popularity": 213.1689,
+      "popularity": 206.8121,
       "poster_path": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "release_date": "2026-03-15",
       "softcore": false,
       "video": false,
-      "vote_average": 8.219,
-      "vote_count": 1668
+      "vote_average": 8.218,
+      "vote_count": 1674
     },
     {
       "adult": false,
@@ -57,13 +57,13 @@
       "original_language": "en",
       "original_title": "Hoppers",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "popularity": 182.0789,
+      "popularity": 171.4006,
       "poster_path": "/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.588,
-      "vote_count": 503
+      "vote_average": 7.6,
+      "vote_count": 507
     },
     {
       "adult": false,
@@ -74,17 +74,17 @@
         878
       ],
       "id": 840464,
-      "title": "Greenland 2: Migración",
+      "title": "Greenland 2",
       "original_language": "en",
       "original_title": "Greenland 2: Migration",
-      "overview": "La familia Garrity superviviente debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
-      "popularity": 156.953,
+      "overview": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer Allison y su hijo Nathan, deciden abandonar el búnker que les ha mantenido a salvo cinco años para buscar una zona en Europa que podría ser habitable. Así, el último refugio es el principio de un nuevo comienzo. Juntos emprenderán un viaje donde los desastres naturales y los humanos que sobrevivieron han convertido el mundo en un auténtico infierno.",
+      "popularity": 132.3877,
       "poster_path": "/vPftEQkiMXzOEYfz1VjmERPcCa0.jpg",
       "release_date": "2026-01-07",
       "softcore": false,
       "video": false,
-      "vote_average": 6.5,
-      "vote_count": 898
+      "vote_average": 6.458,
+      "vote_count": 902
     },
     {
       "adult": false,
@@ -99,12 +99,12 @@
       "original_language": "en",
       "original_title": "War Machine",
       "overview": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
-      "popularity": 80.5488,
+      "popularity": 74.9979,
       "poster_path": "/5C18uOTbDZRvVIZcVRO747k2fUi.jpg",
       "release_date": "2026-02-12",
       "softcore": false,
       "video": false,
-      "vote_average": 7.232,
+      "vote_average": 7.2,
       "vote_count": 1497
     },
     {
@@ -119,7 +119,7 @@
       "original_language": "en",
       "original_title": "War of the Worlds",
       "overview": "Will Radford, un destacado analista de ciberseguridad, pasa sus días rastreando posibles amenazas a la seguridad nacional a través de un programa de vigilancia masiva. Un ataque de una entidad desconocida le lleva a cuestionarse si el gobierno le está ocultando algo a él... y al resto del mundo.",
-      "popularity": 78.29,
+      "popularity": 75.6582,
       "poster_path": "/fjgSlNGECNgVeMJaOdDAXmGh7ZM.jpg",
       "release_date": "2025-07-29",
       "softcore": false,
@@ -140,34 +140,13 @@
       "original_language": "en",
       "original_title": "Spider-Man: No Way Home",
       "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
-      "popularity": 71.3268,
+      "popularity": 70.9393,
       "poster_path": "/miZFgV81xG324rpUknQX8dtXuBl.jpg",
       "release_date": "2021-12-15",
       "softcore": false,
       "video": false,
-      "vote_average": 7.934,
-      "vote_count": 21822
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
-      "genre_ids": [
-        878,
-        27,
-        14
-      ],
-      "id": 1159831,
-      "title": "¡La novia!",
-      "original_language": "en",
-      "original_title": "The Bride!",
-      "overview": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical.",
-      "popularity": 63.6207,
-      "poster_path": "/4xC5IfnCekweHkTFjqQsMOC1gca.jpg",
-      "release_date": "2026-03-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.254,
-      "vote_count": 351
+      "vote_average": 7.933,
+      "vote_count": 21827
     },
     {
       "adult": false,
@@ -182,12 +161,12 @@
       "original_language": "en",
       "original_title": "Predator: Badlands",
       "overview": "Un joven Predator rechazado por su clan encuentra un aliado inesperado en Thia y emprende un peligroso viaje en busca del adversario definitivo.",
-      "popularity": 61.1363,
+      "popularity": 64.5955,
       "poster_path": "/8nCEJ5hFJt0h8FhXafHGhEhT8d7.jpg",
       "release_date": "2025-11-05",
       "softcore": false,
       "video": false,
-      "vote_average": 7.695,
+      "vote_average": 7.7,
       "vote_count": 2645
     },
     {
@@ -203,13 +182,34 @@
       "original_language": "en",
       "original_title": "Mike & Nick & Nick & Alice",
       "overview": "Dos gángsters y la mujer a la que aman intentan sobrevivir a la noche más peligrosa de sus vidas, en la que está implicada una máquina del tiempo.",
-      "popularity": 59.2742,
+      "popularity": 57.7111,
       "poster_path": "/k6PSvLUs84QJsWLt0Zlkoa8ih6V.jpg",
       "release_date": "2026-03-14",
       "softcore": false,
       "video": false,
-      "vote_average": 6.729,
-      "vote_count": 260
+      "vote_average": 6.734,
+      "vote_count": 261
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
+      "genre_ids": [
+        878,
+        27,
+        14
+      ],
+      "id": 1159831,
+      "title": "¡La novia!",
+      "original_language": "en",
+      "original_title": "The Bride!",
+      "overview": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical.",
+      "popularity": 59.1743,
+      "poster_path": "/4xC5IfnCekweHkTFjqQsMOC1gca.jpg",
+      "release_date": "2026-03-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.27,
+      "vote_count": 354
     },
     {
       "adult": false,
@@ -224,13 +224,13 @@
       "original_language": "en",
       "original_title": "Interstellar",
       "overview": "Un grupo de exploradores hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
-      "popularity": 57.645,
+      "popularity": 55.9281,
       "poster_path": "/9cTfZWP5TfdnmAjiD6ZBXWIJ7O9.jpg",
       "release_date": "2014-11-05",
       "softcore": false,
       "video": false,
       "vote_average": 8.47,
-      "vote_count": 39457
+      "vote_count": 39460
     },
     {
       "adult": false,
@@ -245,13 +245,13 @@
       "original_language": "en",
       "original_title": "The Avengers",
       "overview": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
-      "popularity": 56.3965,
+      "popularity": 53.0508,
       "poster_path": "/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
       "release_date": "2012-04-25",
       "softcore": false,
       "video": false,
       "vote_average": 8.006,
-      "vote_count": 37382
+      "vote_count": 37388
     },
     {
       "adult": false,
@@ -266,13 +266,13 @@
       "original_language": "en",
       "original_title": "28 Years Later: The Bone Temple",
       "overview": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
-      "popularity": 49.9881,
+      "popularity": 49.1268,
       "poster_path": "/2DTPapravB7kVBWjm6RsqEWyNqn.jpg",
       "release_date": "2026-01-14",
       "softcore": false,
       "video": false,
-      "vote_average": 7.143,
-      "vote_count": 1045
+      "vote_average": 7.142,
+      "vote_count": 1046
     },
     {
       "adult": false,
@@ -287,13 +287,13 @@
       "original_language": "en",
       "original_title": "Avengers: Infinity War",
       "overview": "El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
-      "popularity": 47.8712,
+      "popularity": 47.6181,
       "poster_path": "/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
       "release_date": "2018-04-25",
       "softcore": false,
       "video": false,
       "vote_average": 8.233,
-      "vote_count": 31776
+      "vote_count": 31777
     },
     {
       "adult": false,
@@ -308,13 +308,13 @@
       "original_language": "en",
       "original_title": "Jurassic World Rebirth",
       "overview": "Cinco años después de los eventos de \"Dominion\", la ecología del planeta ha demostrado ser insoportable para los dinosaurios, donde los pocos que quedan viven aislados en las regiones ecuatoriales. Zora Bennett es contratada para dirigir a un equipo de especialistas cuyo objetivo es conseguir el material genético de las tres criaturas más grandes, las cuales tienen en su ADN la clave para fabricar un medicamento que aportará grandes beneficios a la humanidad. Pero la operación se cruzará con una familia cuyo barco volcó y todos acabarán en una isla prohibida ocupada por dinosaurios de numerosas especies, donde tendrán que hacer lo imposible para sobrevivir.",
-      "popularity": 42.257,
+      "popularity": 43.7095,
       "poster_path": "/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
       "release_date": "2025-07-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.273,
-      "vote_count": 3240
+      "vote_average": 6.3,
+      "vote_count": 3241
     },
     {
       "adult": false,
@@ -330,13 +330,13 @@
       "original_language": "en",
       "original_title": "Mercy",
       "overview": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
-      "popularity": 41.9953,
+      "popularity": 35.5938,
       "poster_path": "/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
       "release_date": "2026-01-20",
       "softcore": false,
       "video": false,
-      "vote_average": 6.971,
-      "vote_count": 1150
+      "vote_average": 7.0,
+      "vote_count": 1151
     },
     {
       "adult": false,
@@ -351,13 +351,13 @@
       "original_language": "en",
       "original_title": "Avengers: Endgame",
       "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "popularity": 39.9831,
+      "popularity": 37.9709,
       "poster_path": "/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "release_date": "2019-04-24",
       "softcore": false,
       "video": false,
       "vote_average": 8.234,
-      "vote_count": 27542
+      "vote_count": 27544
     },
     {
       "adult": false,
@@ -372,34 +372,13 @@
       "original_language": "en",
       "original_title": "Deadpool & Wolverine",
       "overview": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
-      "popularity": 39.7255,
+      "popularity": 38.1873,
       "poster_path": "/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
       "release_date": "2024-07-24",
       "softcore": false,
       "video": false,
       "vote_average": 7.558,
-      "vote_count": 8501
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
-      "genre_ids": [
-        878,
-        28,
-        35
-      ],
-      "id": 1119449,
-      "title": "Buena suerte, pásalo bien, no mueras",
-      "original_language": "en",
-      "original_title": "Good Luck, Have Fun, Don't Die",
-      "overview": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
-      "popularity": 38.2909,
-      "poster_path": "/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "release_date": "2026-02-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 373
+      "vote_count": 8502
     },
     {
       "adult": false,
@@ -414,15 +393,36 @@
       "original_language": "en",
       "original_title": "Star Wars: The Last Jedi",
       "overview": "La malvada Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
-      "popularity": 36.4235,
+      "popularity": 36.3419,
       "poster_path": "/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg",
       "release_date": "2017-12-13",
       "softcore": false,
       "video": false,
       "vote_average": 6.755,
-      "vote_count": 16242
+      "vote_count": 16243
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+      "genre_ids": [
+        878,
+        28,
+        35
+      ],
+      "id": 1119449,
+      "title": "Buena suerte, pásalo bien, no mueras",
+      "original_language": "en",
+      "original_title": "Good Luck, Have Fun, Don't Die",
+      "overview": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+      "popularity": 35.8799,
+      "poster_path": "/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+      "release_date": "2026-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 374
     }
   ],
-  "total_pages": 1292,
-  "total_results": 25837
+  "total_pages": 1293,
+  "total_results": 25843
 }

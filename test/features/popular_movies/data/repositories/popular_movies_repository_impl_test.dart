@@ -47,8 +47,9 @@ void main() {
     group('getPopularMovies — offline', () {
       test('returns Right with local data and skips remote', () async {
         // Arrange
-        when(() => mockLocal.getPopularMovies())
-            .thenAnswer((_) async => _kMovieList);
+        when(
+          () => mockLocal.getPopularMovies(),
+        ).thenAnswer((_) async => _kMovieList);
 
         // Act
         final result = await repository.getPopularMovies(isOnline: false);
@@ -65,8 +66,9 @@ void main() {
     group('getPopularMovies — online', () {
       test('returns Right with remote data on success', () async {
         // Arrange
-        when(() => mockRemote.getPopularMovies())
-            .thenAnswer((_) async => _kMovieList);
+        when(
+          () => mockRemote.getPopularMovies(),
+        ).thenAnswer((_) async => _kMovieList);
 
         // Act
         final result = await repository.getPopularMovies(isOnline: true);
@@ -79,8 +81,9 @@ void main() {
 
       test('returns Left(NetworkFailure) on NetworkException', () async {
         // Arrange
-        when(() => mockRemote.getPopularMovies())
-            .thenThrow(const NetworkException());
+        when(
+          () => mockRemote.getPopularMovies(),
+        ).thenThrow(const NetworkException());
 
         // Act
         final result = await repository.getPopularMovies(isOnline: true);
@@ -102,15 +105,12 @@ void main() {
         final result = await repository.getPopularMovies(isOnline: true);
 
         // Assert
-        result.fold(
-          (failure) {
-            expect(failure, isA<ServerFailure>());
-            final sf = failure as ServerFailure;
-            expect(sf.message, equals(_kErrorMessage));
-            expect(sf.statusCode, equals(_kStatusCode));
-          },
-          (_) => fail('expected Left'),
-        );
+        result.fold((failure) {
+          expect(failure, isA<ServerFailure>());
+          final sf = failure as ServerFailure;
+          expect(sf.message, equals(_kErrorMessage));
+          expect(sf.statusCode, equals(_kStatusCode));
+        }, (_) => fail('expected Left'));
       });
     });
   });

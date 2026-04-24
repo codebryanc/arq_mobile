@@ -13,10 +13,7 @@ const _kStatusMessage = 'Resource not found';
 const _kStatusCode = 404;
 const _kPath = '/test';
 
-DioException _makeErr(
-  DioExceptionType type, {
-  Response<dynamic>? response,
-}) =>
+DioException _makeErr(DioExceptionType type, {Response<dynamic>? response}) =>
     DioException(
       requestOptions: RequestOptions(path: _kPath),
       type: type,
@@ -26,12 +23,11 @@ DioException _makeErr(
 Response<Map<String, dynamic>> _makeResponse({
   Map<String, dynamic>? data,
   int statusCode = _kStatusCode,
-}) =>
-    Response(
-      requestOptions: RequestOptions(path: _kPath),
-      data: data,
-      statusCode: statusCode,
-    );
+}) => Response(
+  requestOptions: RequestOptions(path: _kPath),
+  data: data,
+  statusCode: statusCode,
+);
 
 void main() {
   late ErrorInterceptor interceptor;
@@ -108,7 +104,10 @@ void main() {
         final captured =
             verify(() => handler.reject(captureAny())).captured.single
                 as DioException;
-        expect((captured.error as ServerException).message, equals(_kDefaultError));
+        expect(
+          (captured.error as ServerException).message,
+          equals(_kDefaultError),
+        );
       });
 
       test('falls back to defaultServerError when body is not a Map', () {
@@ -127,7 +126,10 @@ void main() {
         final captured =
             verify(() => handler.reject(captureAny())).captured.single
                 as DioException;
-        expect((captured.error as ServerException).message, equals(_kDefaultError));
+        expect(
+          (captured.error as ServerException).message,
+          equals(_kDefaultError),
+        );
       });
     });
 

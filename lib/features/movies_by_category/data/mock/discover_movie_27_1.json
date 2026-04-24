@@ -14,13 +14,13 @@
       "original_language": "en",
       "original_title": "Send Help",
       "overview": "Después de que un accidente de avión deje varados en una isla remota a una competente empleada y a su insoportable jefe, ella deberá utilizar sus habilidades de supervivencia para mantenerlos a ambos con vida, a pesar de su difícil relación.",
-      "popularity": 309.1211,
+      "popularity": 318.5276,
       "poster_path": "/qXZZtyzuTX3KMfSLssCR6J0mODd.jpg",
       "release_date": "2026-01-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.041,
-      "vote_count": 1056
+      "vote_average": 7.042,
+      "vote_count": 1059
     },
     {
       "adult": false,
@@ -34,13 +34,32 @@
       "original_language": "en",
       "original_title": "The Mortuary Assistant",
       "overview": "Rebecca Owens, una licenciada en ciencias mortuorias, acepta un trabajo nocturno en la funeraria River Fields. Lo que comienza como un trabajo rutinario pronto se vuelve siniestro al enfrentarse a terroríficas fuerzas sobrenaturales.",
-      "popularity": 198.9187,
+      "popularity": 189.5795,
       "poster_path": "/3loVbnQ9hmay4OA6QjV6yMpHRYf.jpg",
       "release_date": "2026-02-13",
       "softcore": false,
       "video": false,
       "vote_average": 5.449,
       "vote_count": 79
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/be5T7oHxmDG4ytEimwPdmDHZD9N.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1352874,
+      "title": "The Crucifix: Blood of the Exorcist",
+      "original_language": "en",
+      "original_title": "The Crucifix: Blood of the Exorcist",
+      "overview": "",
+      "popularity": 153.8491,
+      "poster_path": "/iGDTo2uEUppEipTZjmEy6R72gwV.jpg",
+      "release_date": "2025-01-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.304,
+      "vote_count": 23
     },
     {
       "adult": false,
@@ -54,13 +73,13 @@
       "original_language": "en",
       "original_title": "Lee Cronin's The Mummy",
       "overview": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "popularity": 166.7205,
+      "popularity": 147.0478,
       "poster_path": "/hGgSpTX2f3ShFD41Ul0vcY3DSHb.jpg",
       "release_date": "2026-04-15",
       "softcore": false,
       "video": false,
-      "vote_average": 6.925,
-      "vote_count": 127
+      "vote_average": 6.926,
+      "vote_count": 129
     },
     {
       "adult": false,
@@ -74,32 +93,13 @@
       "original_language": "en",
       "original_title": "Thrash",
       "overview": "Cuando un catastrófico huracán azota un pueblo costero, el nivel del mar sube rápidamente y sus habitantes deben sobrevivir a un montón de hambrientos tiburones.",
-      "popularity": 153.9028,
+      "popularity": 142.4595,
       "poster_path": "/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
       "release_date": "2026-04-10",
       "softcore": false,
       "video": false,
-      "vote_average": 5.975,
-      "vote_count": 396
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/be5T7oHxmDG4ytEimwPdmDHZD9N.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 1352874,
-      "title": "The Crucifix: Blood of the Exorcist",
-      "original_language": "en",
-      "original_title": "The Crucifix: Blood of the Exorcist",
-      "overview": "",
-      "popularity": 143.4088,
-      "poster_path": "/iGDTo2uEUppEipTZjmEy6R72gwV.jpg",
-      "release_date": "2025-01-09",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.571,
-      "vote_count": 21
+      "vote_average": 5.974,
+      "vote_count": 406
     },
     {
       "adult": false,
@@ -113,7 +113,7 @@
       "original_language": "en",
       "original_title": "The Strangers: Chapter 3",
       "overview": "Los supervivientes se enfrentan a nuevas amenazas de extraños enmascarados. Secretos salen a la luz, poniendo en peligro sus vidas mientras la línea entre realidad y peligro se difumina en su lucha por sobrevivir. Tercera y última de la trilogía de películas basadas en \"Los extraños\" (2008)",
-      "popularity": 131.2846,
+      "popularity": 122.6383,
       "poster_path": "/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg",
       "release_date": "2026-02-05",
       "softcore": false,
@@ -133,7 +133,7 @@
       "original_language": "en",
       "original_title": "undertone",
       "overview": "Una presentadora de pódcast de terror se muda con su madre terminal. Cintas misteriosas sobre vivencias paranormales de una pareja embarazada reflejan su situación, enloqueciendo.",
-      "popularity": 109.8813,
+      "popularity": 110.632,
       "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
       "release_date": "2026-03-12",
       "softcore": false,
@@ -154,13 +154,13 @@
       "original_language": "en",
       "original_title": "Scream 7",
       "overview": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
-      "popularity": 106.7999,
+      "popularity": 103.5737,
       "poster_path": "/2pULHV2e3W7KNTyyfZl6dX071Np.jpg",
       "release_date": "2026-02-25",
       "softcore": false,
       "video": false,
-      "vote_average": 6.054,
-      "vote_count": 785
+      "vote_average": 6.059,
+      "vote_count": 786
     },
     {
       "adult": false,
@@ -174,54 +174,13 @@
       "original_language": "en",
       "original_title": "Whistle",
       "overview": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
-      "popularity": 83.0479,
+      "popularity": 80.7629,
       "poster_path": "/trmpaFGqzMBcy99PKbSDfRNTbf1.jpg",
       "release_date": "2026-01-20",
       "softcore": false,
       "video": false,
-      "vote_average": 6.034,
-      "vote_count": 248
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
-      "genre_ids": [
-        9648,
-        18,
-        27
-      ],
-      "id": 680493,
-      "title": "Return to Silent Hill",
-      "original_language": "en",
-      "original_title": "Return to Silent Hill",
-      "overview": "Impulsado por las sombras de su pasado, James Sunderland regresa a Silent Hill para encontrar a su amor perdido, Mary Crane. Pero el pequeño pueblo oscuro y deprimente ya no es el lugar de sus recuerdos. James se encuentra con personajes que le parecen demasiado familiares y que intentan distraerlo de su búsqueda de Mary. Cuanto más busca a Mary, más comienza a preguntarse si esto sigue siendo la realidad, o si ha caído en el oscuro inframundo de Jacob Crane.",
-      "popularity": 81.3736,
-      "poster_path": "/5Y2TeCVEnwPbd4FDShGbkKYw6GE.jpg",
-      "release_date": "2026-01-21",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.2,
-      "vote_count": 404
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1418657,
-      "title": "The Yeti",
-      "original_language": "en",
-      "original_title": "The Yeti",
-      "overview": "El famoso aventurero Hollis Bannister y el magnate del petróleo Merriell Sunday Sr. desaparecen sin dejar rastro en los parajes salvajes azotados por el viento del norte de Alaska. Mientras Ellie Bannister y Merriell Sunday Jr. emprenden la búsqueda de sus padres desaparecidos, el peligro aumenta en la nieve. Algo se ha dado cuenta de su expedición... el yeti.",
-      "popularity": 77.838,
-      "poster_path": "/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
-      "release_date": "2026-04-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.843,
-      "vote_count": 35
+      "vote_average": 6.042,
+      "vote_count": 249
     },
     {
       "adult": false,
@@ -236,13 +195,75 @@
       "original_language": "en",
       "original_title": "Anaconda",
       "overview": "Doug y Griff son muy buenos amigos desde que eran niños y siempre han soñado con hacer un remake de su película favorita de todos los tiempos: el «clásico cinematográfico» Anaconda. Cuando una crisis de mediana edad les anima a lanzarse por fin a la aventura, se adentran en la selva amazónica para empezar a rodar. Pero las cosas se ponen serias cuando aparece una anaconda gigante de verdad, convirtiendo su caótico y cómico plató de rodaje en una situación mortal.",
-      "popularity": 72.6251,
+      "popularity": 73.8447,
       "poster_path": "/zX1KJPiGTrzpFcjfOWlmqdRgpQd.jpg",
       "release_date": "2025-12-24",
       "softcore": false,
       "video": false,
-      "vote_average": 5.861,
-      "vote_count": 1036
+      "vote_average": 5.9,
+      "vote_count": 1038
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+      "genre_ids": [
+        9648,
+        18,
+        27
+      ],
+      "id": 680493,
+      "title": "Return to Silent Hill",
+      "original_language": "en",
+      "original_title": "Return to Silent Hill",
+      "overview": "Impulsado por las sombras de su pasado, James Sunderland regresa a Silent Hill para encontrar a su amor perdido, Mary Crane. Pero el pequeño pueblo oscuro y deprimente ya no es el lugar de sus recuerdos. James se encuentra con personajes que le parecen demasiado familiares y que intentan distraerlo de su búsqueda de Mary. Cuanto más busca a Mary, más comienza a preguntarse si esto sigue siendo la realidad, o si ha caído en el oscuro inframundo de Jacob Crane.",
+      "popularity": 73.3786,
+      "poster_path": "/5Y2TeCVEnwPbd4FDShGbkKYw6GE.jpg",
+      "release_date": "2026-01-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.236,
+      "vote_count": 406
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kt9p1cS4O72aSeFRGQzlLuI1mY4.jpg",
+      "genre_ids": [
+        80,
+        27,
+        9648
+      ],
+      "id": 1107166,
+      "title": "Psycho Killer",
+      "original_language": "en",
+      "original_title": "Psycho Killer",
+      "overview": "Una agente de policía sigue la pista de un asesino después de que su marido, un patrullero de carretera, se convierta en una de sus víctimas.",
+      "popularity": 72.1803,
+      "poster_path": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+      "release_date": "2026-02-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.611,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1418657,
+      "title": "The Yeti",
+      "original_language": "en",
+      "original_title": "The Yeti",
+      "overview": "El famoso aventurero Hollis Bannister y el magnate del petróleo Merriell Sunday Sr. desaparecen sin dejar rastro en los parajes salvajes azotados por el viento del norte de Alaska. Mientras Ellie Bannister y Merriell Sunday Jr. emprenden la búsqueda de sus padres desaparecidos, el peligro aumenta en la nieve. Algo se ha dado cuenta de su expedición... el yeti.",
+      "popularity": 72.1618,
+      "poster_path": "/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+      "release_date": "2026-04-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.843,
+      "vote_count": 35
     },
     {
       "adult": false,
@@ -258,34 +279,13 @@
       "original_language": "en",
       "original_title": "Pretty Lethal",
       "overview": "Un grupo de bailarinas lucha por sobrevivir mientras intentan escapar de una remota posada después de que su autobús se averíe de camino a una competición.",
-      "popularity": 68.9927,
+      "popularity": 64.0874,
       "poster_path": "/cmZqxJQ9MdNQEoD49HYghOXsiwH.jpg",
       "release_date": "2026-03-13",
       "softcore": false,
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 297
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kt9p1cS4O72aSeFRGQzlLuI1mY4.jpg",
-      "genre_ids": [
-        80,
-        27,
-        9648
-      ],
-      "id": 1107166,
-      "title": "Psycho Killer",
-      "original_language": "en",
-      "original_title": "Psycho Killer",
-      "overview": "Una agente de policía sigue la pista de un asesino después de que su marido, un patrullero de carretera, se convierta en una de sus víctimas.",
-      "popularity": 66.751,
-      "poster_path": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
-      "release_date": "2026-02-19",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.611,
-      "vote_count": 36
+      "vote_average": 6.78,
+      "vote_count": 300
     },
     {
       "adult": false,
@@ -299,7 +299,7 @@
       "original_language": "zh",
       "original_title": "泥娃娃",
       "overview": "Mientras diseña un videojuego de terror, Hsu-Chuan se lleva por error a casa un muñeco de arcilla de la empresa, sin sospechar que alberga un espíritu vengativo que ansía liberarse.",
-      "popularity": 66.6968,
+      "popularity": 59.4546,
       "poster_path": "/zawpsRiy2GFeVsnvEmuJ9TKggIT.jpg",
       "release_date": "2025-10-09",
       "softcore": false,
@@ -320,13 +320,13 @@
       "original_language": "en",
       "original_title": "The Bride!",
       "overview": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical.",
-      "popularity": 63.6207,
+      "popularity": 59.1743,
       "poster_path": "/4xC5IfnCekweHkTFjqQsMOC1gca.jpg",
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 6.254,
-      "vote_count": 351
+      "vote_average": 6.258,
+      "vote_count": 355
     },
     {
       "adult": false,
@@ -341,7 +341,7 @@
       "original_language": "it",
       "original_title": "Il peccato di Lola",
       "overview": "Tras la marcha de su madre al extranjero por temas de negocios, Albert, de dieciséis años de edad, continua sus vacaciones en su maravillosa casa, con la única compañía del camarero. Pero la llegada de una nueva criada revolucionará el panorama.",
-      "popularity": 58.6463,
+      "popularity": 53.3178,
       "poster_path": "/iQt9Kydd8yn9xfBvYeKec56glyv.jpg",
       "release_date": "1984-05-04",
       "softcore": false,
@@ -362,13 +362,13 @@
       "original_language": "en",
       "original_title": "28 Years Later: The Bone Temple",
       "overview": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
-      "popularity": 49.9881,
+      "popularity": 49.1268,
       "poster_path": "/2DTPapravB7kVBWjm6RsqEWyNqn.jpg",
       "release_date": "2026-01-14",
       "softcore": false,
       "video": false,
       "vote_average": 7.143,
-      "vote_count": 1045
+      "vote_count": 1047
     },
     {
       "adult": false,
@@ -382,34 +382,36 @@
       "original_language": "en",
       "original_title": "Ready or Not 2: Here I Come",
       "overview": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
-      "popularity": 49.0355,
+      "popularity": 43.7585,
       "poster_path": "/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
       "release_date": "2026-03-19",
       "softcore": false,
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 254
+      "vote_average": 6.932,
+      "vote_count": 257
     },
     {
       "adult": false,
-      "backdrop_path": "/r9aYDDP7tHpwCvQbOxcfhZFBT63.jpg",
+      "backdrop_path": "/xcBlMEvzuaHoWANKYn5PGvcW4OC.jpg",
       "genre_ids": [
-        27
+        27,
+        28,
+        53
       ],
-      "id": 1610418,
-      "title": "The House on Haunted Grounds",
-      "original_language": "en",
-      "original_title": "The House on Haunted Grounds",
-      "overview": "Entraron a una casa embrujada con antecedentes por posesión de drogas y asesinato. Las víctimas nunca salieron, pero las imágenes sí.",
-      "popularity": 43.7609,
-      "poster_path": "/750RNSHr25GQcCr2Ws8iSGrHJA9.jpg",
-      "release_date": "2026-01-09",
+      "id": 1110034,
+      "title": "Kraken",
+      "original_language": "no",
+      "original_title": "Kraken",
+      "overview": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales muertes de dos adolescentes de la localidad, todos los indicios apuntan al profundo fiordo. ¿Puede haber más en las profundidades de lo que el ojo puede ver? En el fondo del fiordo más profundo de Noruega descansa un monstruo mítico tan grande como una montaña, con una miríada de brazos dispuestos a aplastar y devorar todo lo que puedan agarrar.",
+      "popularity": 42.3758,
+      "poster_path": "/8ExwomWgJoXBdY3u1Otiw2zY9wZ.jpg",
+      "release_date": "2026-02-06",
       "softcore": false,
       "video": false,
-      "vote_average": 5.8,
-      "vote_count": 7
+      "vote_average": 6.0,
+      "vote_count": 11
     }
   ],
-  "total_pages": 3486,
-  "total_results": 69711
+  "total_pages": 3487,
+  "total_results": 69738
 }

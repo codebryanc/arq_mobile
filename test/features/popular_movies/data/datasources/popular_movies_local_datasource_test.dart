@@ -8,8 +8,7 @@ import 'package:arq_mobile/core/errors/exceptions.dart';
 import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movies_local_datasource.dart';
 
 // Test constants
-const _kAssetPath =
-    'lib/features/popular_movies/data/mock/movie_popular.json';
+const _kAssetPath = 'lib/features/popular_movies/data/mock/movie_popular.json';
 const _kMovieId = 550;
 const _kMovieTitle = 'Fight Club';
 const _kPosterPath = '/poster.jpg';
@@ -32,16 +31,17 @@ void _setUpMockAssets(Map<String, String> assetContents) {
   final manifestMap = {
     for (final k in assetContents.keys) k: [k],
   };
-  final binaryManifest =
-      const StandardMessageCodec().encodeMessage(manifestMap)!;
+  final binaryManifest = const StandardMessageCodec().encodeMessage(
+    manifestMap,
+  )!;
   TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
       .setMockMessageHandler('flutter/assets', (ByteData? message) async {
-    final key = utf8.decode(message!.buffer.asUint8List());
-    if (key == 'AssetManifest.bin') return binaryManifest;
-    final content = assetContents[key];
-    if (content == null) return null;
-    return ByteData.view(Uint8List.fromList(utf8.encode(content)).buffer);
-  });
+        final key = utf8.decode(message!.buffer.asUint8List());
+        if (key == 'AssetManifest.bin') return binaryManifest;
+        final content = assetContents[key];
+        if (content == null) return null;
+        return ByteData.view(Uint8List.fromList(utf8.encode(content)).buffer);
+      });
 }
 
 void _tearDownMockAssets() {

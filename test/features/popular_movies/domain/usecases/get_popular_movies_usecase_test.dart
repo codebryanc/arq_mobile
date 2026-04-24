@@ -37,8 +37,9 @@ void main() {
   group('GetPopularMoviesUseCase', () {
     test('delegates to repository with isOnline=true', () async {
       // Arrange
-      when(() => mockRepository.getPopularMovies(isOnline: true))
-          .thenAnswer((_) async => Right(_kMovieList));
+      when(
+        () => mockRepository.getPopularMovies(isOnline: true),
+      ).thenAnswer((_) async => Right(_kMovieList));
 
       // Act
       final result = await useCase(const OnlineParams(isOnline: true));
@@ -52,8 +53,9 @@ void main() {
 
     test('delegates to repository with isOnline=false', () async {
       // Arrange
-      when(() => mockRepository.getPopularMovies(isOnline: false))
-          .thenAnswer((_) async => Right(_kMovieList));
+      when(
+        () => mockRepository.getPopularMovies(isOnline: false),
+      ).thenAnswer((_) async => Right(_kMovieList));
 
       // Act
       final result = await useCase(const OnlineParams(isOnline: false));
@@ -66,8 +68,9 @@ void main() {
 
     test('returns Left(Failure) when repository fails', () async {
       // Arrange
-      when(() => mockRepository.getPopularMovies(isOnline: true))
-          .thenAnswer((_) async => const Left(NetworkFailure()));
+      when(
+        () => mockRepository.getPopularMovies(isOnline: true),
+      ).thenAnswer((_) async => const Left(NetworkFailure()));
 
       // Act
       final result = await useCase(const OnlineParams(isOnline: true));

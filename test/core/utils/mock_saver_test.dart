@@ -6,7 +6,10 @@ void main() {
   group('endpointToFileName', () {
     test('converts /genre/movie/list', () {
       // Act & Assert
-      expect(endpointToFileName('/genre/movie/list'), equals('genre_movie_list'));
+      expect(
+        endpointToFileName('/genre/movie/list'),
+        equals('genre_movie_list'),
+      );
     });
 
     test('converts /movie/popular', () {
@@ -29,7 +32,10 @@ void main() {
 
     test('strips special characters', () {
       // Act & Assert
-      expect(endpointToFileName('/movie/550/credits'), equals('movie_550_credits'));
+      expect(
+        endpointToFileName('/movie/550/credits'),
+        equals('movie_550_credits'),
+      );
     });
   });
 }

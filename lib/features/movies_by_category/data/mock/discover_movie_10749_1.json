@@ -13,13 +13,13 @@
       "original_language": "ru",
       "original_title": "Твоё сердце будет разбито",
       "overview": "",
-      "popularity": 378.6976,
+      "popularity": 369.7483,
       "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
       "release_date": "2026-03-26",
       "softcore": false,
       "video": false,
-      "vote_average": 6.861,
-      "vote_count": 72
+      "vote_average": 6.9,
+      "vote_count": 73
     },
     {
       "adult": false,
@@ -35,7 +35,7 @@
       "original_language": "hi",
       "original_title": "रॉकी और रानी की प्रेम कहानी",
       "overview": "",
-      "popularity": 99.4974,
+      "popularity": 113.7921,
       "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
       "release_date": "2023-07-28",
       "softcore": false,
@@ -55,13 +55,13 @@
       "original_language": "es",
       "original_title": "¿Quieres Ser Mi Novia?",
       "overview": "La relación de Javi y Lu enfrenta pruebas cuando surgen tentaciones: una joven con quien Javi tiene química, y un hombre maduro que persigue a Lu. Entre humor y enredos, su amor es puesto a prueba",
-      "popularity": 83.0942,
+      "popularity": 97.6989,
       "poster_path": "/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
       "release_date": "2026-02-12",
       "softcore": false,
       "video": false,
-      "vote_average": 8.196,
-      "vote_count": 28
+      "vote_average": 8.422,
+      "vote_count": 32
     },
     {
       "adult": false,
@@ -75,13 +75,13 @@
       "original_language": "en",
       "original_title": "Reminders of Him",
       "overview": "Cuando los abuelos y tutores de Diem se niegan categóricamente a permitir que la vea, Kenna descubre una compasión inesperada seguida de un sentimiento más profundo y real con Ledger, exjugador de la NFL y propietario de un bar local. A medida que su romance secreto va cobrando forma, surgen problemas para los dos, lo que llevará a Kenna a una situación sentimental desoladora y, en último término, a reavivar la esperanza de una segunda oportunidad.",
-      "popularity": 60.2558,
+      "popularity": 60.1119,
       "poster_path": "/iPJ4V6o5PttdBmHoehdOtWqQ6gx.jpg",
       "release_date": "2026-03-11",
       "softcore": false,
       "video": false,
-      "vote_average": 7.181,
-      "vote_count": 144
+      "vote_average": 7.226,
+      "vote_count": 148
     },
     {
       "adult": false,
@@ -95,34 +95,13 @@
       "original_language": "en",
       "original_title": "\"Wuthering Heights\"",
       "overview": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, 'Cumbres Borrascosas' de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-      "popularity": 56.2791,
+      "popularity": 51.6119,
       "poster_path": "/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
       "vote_average": 6.525,
-      "vote_count": 799
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
-      "genre_ids": [
-        27,
-        14,
-        10749
-      ],
-      "id": 1246049,
-      "title": "Drácula",
-      "original_language": "fr",
-      "original_title": "Dracula",
-      "overview": "Tras una devastadora pérdida, el príncipe Vlad II, conde Drácula (Caleb Landy Jones), renuncia a Dios y es maldecido a la vida eterna, condenado a vagar solitario a lo largo de los siglos. Este es el relato sobre la historia de amor jamás contada del infame vampiro, que desafiará al destino y la mortalidad en busca de su amor perdido.",
-      "popularity": 41.0918,
-      "poster_path": "/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg",
-      "release_date": "2025-07-30",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.079,
-      "vote_count": 1108
+      "vote_count": 801
     },
     {
       "adult": false,
@@ -137,13 +116,55 @@
       "original_language": "es",
       "original_title": "Culpa mía",
       "overview": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión de William Leister, el flamante y rico marido de su madre Rafaela. Por otro lado, con 17 años, orgullosa e independiente, Noah se resiste a vivir en una mansión rodeada de lujo. Allí conoce a Nick, su nuevo hermanastro, y el choque de sus fuertes personalidades se hace evidente desde el primer momento.",
-      "popularity": 40.1905,
+      "popularity": 39.7169,
       "poster_path": "/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
       "release_date": "2023-06-08",
       "softcore": false,
       "video": false,
       "vote_average": 7.747,
       "vote_count": 4034
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
+      "genre_ids": [
+        27,
+        14,
+        10749
+      ],
+      "id": 1246049,
+      "title": "Drácula",
+      "original_language": "fr",
+      "original_title": "Dracula",
+      "overview": "Tras una devastadora pérdida, el príncipe Vlad II, conde Drácula (Caleb Landy Jones), renuncia a Dios y es maldecido a la vida eterna, condenado a vagar solitario a lo largo de los siglos. Este es el relato sobre la historia de amor jamás contada del infame vampiro, que desafiará al destino y la mortalidad en busca de su amor perdido.",
+      "popularity": 39.1342,
+      "poster_path": "/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg",
+      "release_date": "2025-07-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.08,
+      "vote_count": 1109
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a9IQXoYCpsjqTOKXRTw1osLd5il.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        36
+      ],
+      "id": 858024,
+      "title": "Hamnet",
+      "original_language": "en",
+      "original_title": "Hamnet",
+      "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+      "popularity": 37.6592,
+      "poster_path": "/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
+      "release_date": "2025-11-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.736,
+      "vote_count": 1258
     },
     {
       "adult": false,
@@ -158,13 +179,32 @@
       "original_language": "en",
       "original_title": "The Drama",
       "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "popularity": 40.0885,
+      "popularity": 37.4316,
       "poster_path": "/IsyXDsvsNthbtdpM4qMwop1Gwo.jpg",
       "release_date": "2026-03-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.041,
-      "vote_count": 511
+      "vote_average": 7.0,
+      "vote_count": 512
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ciQTFPRtGGCZ3QA97ZCPN12saD6.jpg",
+      "genre_ids": [
+        10749
+      ],
+      "id": 418579,
+      "title": "어린 형수",
+      "original_language": "ko",
+      "original_title": "어린 형수",
+      "overview": "",
+      "popularity": 28.5192,
+      "poster_path": "/jAGlDPyNfLvGMXI3Gt9E4SrRtHg.jpg",
+      "release_date": "2016-09-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 2
     },
     {
       "adult": false,
@@ -178,53 +218,13 @@
       "original_language": "en",
       "original_title": "After We Fell",
       "overview": "Cuando Tessa toma la decisión más importante de su vida, todo cambia. Los secretos que salen a la luz sobre su familia y la de Hardin ponen en peligro su relación y su futuro juntos. La vida de Tessa empieza a romperse en pedazos y ya nada será como antes. Aunque sabe que Hardin la quiere, estas dos almas perdidas están rodeadas de celos, odio... y perdón. Hasta ahora, el amor era suficiente para mantener su relación a flote, pero ¿de verdad sigue mereciendo la pena?",
-      "popularity": 37.1063,
+      "popularity": 36.0858,
       "poster_path": "/cAvUp7ngPyuhx1nLjmCOTCBNo91.jpg",
       "release_date": "2021-09-01",
       "softcore": false,
       "video": false,
       "vote_average": 7.005,
       "vote_count": 2724
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ciQTFPRtGGCZ3QA97ZCPN12saD6.jpg",
-      "genre_ids": [
-        10749
-      ],
-      "id": 418579,
-      "title": "어린 형수",
-      "original_language": "ko",
-      "original_title": "어린 형수",
-      "overview": "",
-      "popularity": 36.8491,
-      "poster_path": "/jAGlDPyNfLvGMXI3Gt9E4SrRtHg.jpg",
-      "release_date": "2016-09-27",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.0,
-      "vote_count": 2
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hBwDYiOPwXHuwiYGP82ekFNSeBr.jpg",
-      "genre_ids": [
-        12,
-        14,
-        10749
-      ],
-      "id": 50619,
-      "title": "La saga Crepúsculo: Amanecer - Parte 1",
-      "original_language": "en",
-      "original_title": "The Twilight Saga: Breaking Dawn - Part 1",
-      "overview": "El amor que Edward y Bella sienten el uno por el otro se sella con la celebración de una gran ceremonia organizada por Alice. Durante la luna de miel, los recién casados tienen relaciones sexuales y Bella queda embarazada. El rápido crecimiento del feto, mitad humano mitad vampiro, afecta gravemente a su salud, llevándola al borde de la muerte...",
-      "popularity": 34.8625,
-      "poster_path": "/27WlKKz9f3vMr6JvSf0LDBVdtaZ.jpg",
-      "release_date": "2011-11-16",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.189,
-      "vote_count": 9225
     },
     {
       "adult": false,
@@ -238,7 +238,7 @@
       "original_language": "es",
       "original_title": "Sexo con amor",
       "overview": "Estar en cuarto de primaria significa hacer muchas preguntas, y la maestra Luisa se reune con los padres de familia y apoderados para discutir la forma en que abordarán la educación sexual de los chicos. Sin embargo, la vida sexual de Luisa y de algunos de los padres está llena de sorpresas: Luisa vive en estos momentos un desenfrenado romance con Jorge, uno de los apoderados. Emilio y Macarena, padres de uno de los alumnos, están pasando por un difícil momento en cuanto a sus relaciones sexuales. Macarena está con un terrible bloqueo psicológico, y no puede ser penetrada por Emilio, que a su vez está terriblemente frustrado. Álvaro, otro de los apoderados, vive en un estado permanente de promiscuidad. Tiene varias amantes, pero sufre un estado obsesivo respecto al sexo. Sin embargo, es un excelente marido, muy amante de su mujer que está pronta a dar a luz a su segundo hijo.",
-      "popularity": 34.1419,
+      "popularity": 34.4664,
       "poster_path": "/s0pmacLZ9GOdHJqBv5sCltqwmqL.jpg",
       "release_date": "2003-03-27",
       "softcore": false,
@@ -258,53 +258,34 @@
       "original_language": "en",
       "original_title": "Titanic",
       "overview": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg.",
-      "popularity": 33.9355,
+      "popularity": 33.4123,
       "poster_path": "/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
       "release_date": "1997-12-18",
       "softcore": false,
       "video": false,
       "vote_average": 7.902,
-      "vote_count": 27027
+      "vote_count": 27029
     },
     {
       "adult": false,
-      "backdrop_path": "/yPbW94JRopYqjz2CLyEiUhEwbB5.jpg",
+      "backdrop_path": "/hBwDYiOPwXHuwiYGP82ekFNSeBr.jpg",
       "genre_ids": [
+        12,
+        14,
         10749
       ],
-      "id": 300496,
-      "title": "Nefele y las seductoras de Lesbos",
-      "original_language": "el",
-      "original_title": "Nefeli",
-      "overview": "Una bella joven se va a la isla de Lesbos a descansar, allí conocerá a otras dos hermosa jóvenes y se lo pasarán de maravilla haciendo el amor con todo el mundo.",
-      "popularity": 32.8104,
-      "poster_path": "/4EgkcisexFjGfQmGI0IrVxZUBIv.jpg",
-      "release_date": "1980-01-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 2.5,
-      "vote_count": 6
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/a9IQXoYCpsjqTOKXRTw1osLd5il.jpg",
-      "genre_ids": [
-        18,
-        10749,
-        36
-      ],
-      "id": 858024,
-      "title": "Hamnet",
+      "id": 50619,
+      "title": "La saga Crepúsculo: Amanecer - Parte 1",
       "original_language": "en",
-      "original_title": "Hamnet",
-      "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
-      "popularity": 32.7108,
-      "poster_path": "/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
-      "release_date": "2025-11-26",
+      "original_title": "The Twilight Saga: Breaking Dawn - Part 1",
+      "overview": "El amor que Edward y Bella sienten el uno por el otro se sella con la celebración de una gran ceremonia organizada por Alice. Durante la luna de miel, los recién casados tienen relaciones sexuales y Bella queda embarazada. El rápido crecimiento del feto, mitad humano mitad vampiro, afecta gravemente a su salud, llevándola al borde de la muerte...",
+      "popularity": 33.0861,
+      "poster_path": "/27WlKKz9f3vMr6JvSf0LDBVdtaZ.jpg",
+      "release_date": "2011-11-16",
       "softcore": false,
       "video": false,
-      "vote_average": 7.7,
-      "vote_count": 1256
+      "vote_average": 6.189,
+      "vote_count": 9226
     },
     {
       "adult": false,
@@ -319,13 +300,13 @@
       "original_language": "en",
       "original_title": "The Gorge",
       "overview": "Mandan a dos operativos de élite a vigilar lados opuestos de un misterioso abismo y allí intiman desde la distancia, pero deberán aunar fuerzas para sobrevivir al mal que esconde el abismo.",
-      "popularity": 28.7799,
+      "popularity": 29.2761,
       "poster_path": "/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
       "release_date": "2025-02-13",
       "softcore": false,
       "video": false,
       "vote_average": 7.616,
-      "vote_count": 3600
+      "vote_count": 3601
     },
     {
       "adult": false,
@@ -341,7 +322,7 @@
       "original_language": "ja",
       "original_title": "劇場版 チェンソーマン レゼ篇",
       "overview": "Denji trabajaba como cazador de demonios para la yakuza, tratando de saldar la deuda que había heredado de sus padres, pero la yakuza lo traicionó y lo mató. Antes de perder el conocimiento, Pochita, el perro-demonio motosierra de Denji, hizo un trato con él y le salvó la vida. Así se fusionaron, creando al imparable Chainsaw Man. Ahora, en medio de una brutal guerra entre demonios, cazadores y enemigos secretos, una misteriosa chica llamada Reze irrumpe en su mundo y Denji se enfrenta a su batalla más mortífera, impulsado por el amor, en un mundo donde la supervivencia no conoce reglas.",
-      "popularity": 27.9257,
+      "popularity": 27.834,
       "poster_path": "/fJdnp5OO2wh07tdy6noACNyaqMJ.jpg",
       "release_date": "2025-09-19",
       "softcore": false,
@@ -362,13 +343,53 @@
       "original_language": "en",
       "original_title": "Wicked",
       "overview": "Ambientada en la Tierra de Oz, mucho antes de la llegada de Dorothy Gale desde Kansas. Elphaba es una joven incomprendida por su inusual color verde que aún no ha descubierto su verdadero poder. Glinda es una popular joven marcada por sus privilegios y su ambición que aún no ha descubierto su verdadera pasión. Las dos se conocen como estudiantes de la Universidad Shiz, en la fantástica Tierra de Oz, y forjan una insólita pero profunda amistad. La trama abarca los acontecimientos del primer acto del musical de Broadway.",
-      "popularity": 26.7805,
+      "popularity": 27.9948,
       "poster_path": "/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
       "release_date": "2024-10-16",
       "softcore": false,
       "video": false,
       "vote_average": 6.9,
       "vote_count": 2974
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
+      "genre_ids": [
+        878,
+        18,
+        10749
+      ],
+      "id": 38,
+      "title": "¡Olvídate de mí!",
+      "original_language": "en",
+      "original_title": "Eternal Sunshine of the Spotless Mind",
+      "overview": "Una mujer usa los servicios de una empresa para borrar de su memoria todo recuerdo de su ex pareja. Ofendido, el hombre intenta hacer lo mismo que ella, pero el proceso no sucede según lo esperado y el protagonista debe atravesar la gigantesca marea de recuerdos de su propio cerebro para recomponer las cosas.",
+      "popularity": 25.6283,
+      "poster_path": "/2bHEXzzccUsBNOS6rn9uvi3vAGW.jpg",
+      "release_date": "2004-03-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.091,
+      "vote_count": 16234
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yPbW94JRopYqjz2CLyEiUhEwbB5.jpg",
+      "genre_ids": [
+        10749
+      ],
+      "id": 300496,
+      "title": "Nefele y las seductoras de Lesbos",
+      "original_language": "el",
+      "original_title": "Nefeli",
+      "overview": "Una bella joven se va a la isla de Lesbos a descansar, allí conocerá a otras dos hermosa jóvenes y se lo pasarán de maravilla haciendo el amor con todo el mundo.",
+      "popularity": 25.5714,
+      "poster_path": "/4EgkcisexFjGfQmGI0IrVxZUBIv.jpg",
+      "release_date": "1980-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.5,
+      "vote_count": 6
     },
     {
       "adult": false,
@@ -383,35 +404,15 @@
       "original_language": "en",
       "original_title": "Forrest Gump",
       "overview": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
-      "popularity": 25.7296,
+      "popularity": 25.2669,
       "poster_path": "/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
       "release_date": "1994-06-23",
       "softcore": false,
       "video": false,
       "vote_average": 8.464,
-      "vote_count": 29570
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1156594,
-      "title": "Culpa nuestra",
-      "original_language": "es",
-      "original_title": "Culpa nuestra",
-      "overview": "La boda de Jenna y Lion propicia el tan deseado reencuentro entre Noah y Nick tiempo después de su ruptura. La incapacidad de Nick para perdonar a Noah se alza como una barrera insalvable. Él, heredero de las empresas de su abuelo y ella, empezando su vida laboral, se resisten a alimentar una llama que aún sigue viva. Pero una vez que sus caminos se han vuelto a cruzar, ¿será el amor más fuerte que el rencor? Secuela de \"Culpa tuya\".",
-      "popularity": 25.4887,
-      "poster_path": "/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
-      "release_date": "2025-10-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.361,
-      "vote_count": 642
+      "vote_count": 29574
     }
   ],
   "total_pages": 3108,
-  "total_results": 62154
+  "total_results": 62160
 }

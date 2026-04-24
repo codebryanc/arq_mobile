@@ -24,7 +24,10 @@ void main() {
         const either = Left<String, int>(_kLeftValue);
 
         // Act
-        final result = either.fold((_) => _kFoldLeftResult, (_) => _kFoldRightResult);
+        final result = either.fold(
+          (_) => _kFoldLeftResult,
+          (_) => _kFoldRightResult,
+        );
 
         // Assert
         expect(result, equals(_kFoldLeftResult));
@@ -45,7 +48,10 @@ void main() {
         const either = Right<String, int>(_kRightValue);
 
         // Act
-        final result = either.fold((_) => _kFoldLeftResult, (_) => _kFoldRightResult);
+        final result = either.fold(
+          (_) => _kFoldLeftResult,
+          (_) => _kFoldRightResult,
+        );
 
         // Assert
         expect(result, equals(_kFoldRightResult));

@@ -70,14 +70,12 @@ void main() {
         'emits [Loading, Loaded] on success',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => Right(([_kMovie], _kTotalPages)));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => Right(([_kMovie], _kTotalPages)));
         },
         act: (bloc) => bloc.add(
-          const LoadMoviesByCategory(
-            categoryId: _kCategoryId,
-            isOnline: true,
-          ),
+          const LoadMoviesByCategory(categoryId: _kCategoryId, isOnline: true),
         ),
         expect: () => [
           isA<MoviesByCategoryLoading>(),
@@ -89,14 +87,12 @@ void main() {
         'loaded state contains movies, currentPage and totalPages',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => Right(([_kMovie], _kTotalPages)));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => Right(([_kMovie], _kTotalPages)));
         },
         act: (bloc) => bloc.add(
-          const LoadMoviesByCategory(
-            categoryId: _kCategoryId,
-            isOnline: true,
-          ),
+          const LoadMoviesByCategory(categoryId: _kCategoryId, isOnline: true),
         ),
         verify: (bloc) {
           final loaded = bloc.state as MoviesByCategoryLoaded;
@@ -110,14 +106,12 @@ void main() {
         'emits [Loading, Error] on failure',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => const Left(NetworkFailure()));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => const Left(NetworkFailure()));
         },
         act: (bloc) => bloc.add(
-          const LoadMoviesByCategory(
-            categoryId: _kCategoryId,
-            isOnline: false,
-          ),
+          const LoadMoviesByCategory(categoryId: _kCategoryId, isOnline: false),
         ),
         expect: () => [
           isA<MoviesByCategoryLoading>(),
@@ -163,8 +157,9 @@ void main() {
         'appends movies on success',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => Right(([_kMovie2], _kTotalPages)));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => Right(([_kMovie2], _kTotalPages)));
         },
         seed: () => MoviesByCategoryLoaded(
           [_kMovie],
@@ -201,8 +196,9 @@ void main() {
         'keeps existing movies and stops loading more on failure',
         build: buildBloc,
         setUp: () {
-          when(() => mockUseCase(any()))
-              .thenAnswer((_) async => const Left(NetworkFailure()));
+          when(
+            () => mockUseCase(any()),
+          ).thenAnswer((_) async => const Left(NetworkFailure()));
         },
         seed: () => MoviesByCategoryLoaded(
           [_kMovie],

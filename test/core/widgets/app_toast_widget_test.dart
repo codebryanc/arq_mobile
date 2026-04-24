@@ -8,24 +8,20 @@ import 'package:arq_mobile/core/widgets/app_toast.dart';
 const _kMessage = 'Test message';
 
 Widget _buildTestApp(VoidCallback onPressed) => MaterialApp(
-      theme: AppTheme.light,
-      home: Scaffold(
-        body: Builder(
-          builder: (context) => ElevatedButton(
-            onPressed: onPressed,
-            child: const Text('show'),
-          ),
-        ),
-      ),
-    );
+  theme: AppTheme.light,
+  home: Scaffold(
+    body: Builder(
+      builder: (context) =>
+          ElevatedButton(onPressed: onPressed, child: const Text('show')),
+    ),
+  ),
+);
 
 void main() {
   group('AppToast.show', () {
     testWidgets('success shows snackbar with check icon', (tester) async {
       // Arrange
-      await tester.pumpWidget(
-        _buildTestApp(() {}),
-      );
+      await tester.pumpWidget(_buildTestApp(() {}));
       final context = tester.element(find.byType(ElevatedButton));
 
       // Act
@@ -40,9 +36,7 @@ void main() {
 
     testWidgets('error shows snackbar with error icon', (tester) async {
       // Arrange
-      await tester.pumpWidget(
-        _buildTestApp(() {}),
-      );
+      await tester.pumpWidget(_buildTestApp(() {}));
       final context = tester.element(find.byType(ElevatedButton));
 
       // Act
@@ -57,9 +51,7 @@ void main() {
 
     testWidgets('alert shows snackbar with warning icon', (tester) async {
       // Arrange
-      await tester.pumpWidget(
-        _buildTestApp(() {}),
-      );
+      await tester.pumpWidget(_buildTestApp(() {}));
       final context = tester.element(find.byType(ElevatedButton));
 
       // Act

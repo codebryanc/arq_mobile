@@ -16,13 +16,13 @@
       "original_language": "en",
       "original_title": "The Super Mario Galaxy Movie",
       "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-      "popularity": 650.7446,
-      "poster_path": "/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
+      "popularity": 613.4012,
+      "poster_path": "/pLQQMO77ohibggTKV6wmFs5LHYf.jpg",
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.742,
-      "vote_count": 576
+      "vote_average": 6.75,
+      "vote_count": 581
     },
     {
       "adult": false,
@@ -37,13 +37,13 @@
       "original_language": "en",
       "original_title": "Send Help",
       "overview": "Después de que un accidente de avión deje varados en una isla remota a una competente empleada y a su insoportable jefe, ella deberá utilizar sus habilidades de supervivencia para mantenerlos a ambos con vida, a pesar de su difícil relación.",
-      "popularity": 309.1211,
+      "popularity": 318.5276,
       "poster_path": "/qXZZtyzuTX3KMfSLssCR6J0mODd.jpg",
       "release_date": "2026-01-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.041,
-      "vote_count": 1056
+      "vote_average": 7.042,
+      "vote_count": 1059
     },
     {
       "adult": false,
@@ -60,34 +60,13 @@
       "original_language": "en",
       "original_title": "Hoppers",
       "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "popularity": 182.0789,
+      "popularity": 171.4006,
       "poster_path": "/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.589,
-      "vote_count": 506
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
-      "genre_ids": [
-        35,
-        28,
-        12
-      ],
-      "id": 1084577,
-      "title": "Balls Up: Con un par",
-      "original_language": "en",
-      "original_title": "Balls Up",
-      "overview": "Los ejecutivos de marketing Brad y Elijah lanzan un audaz patrocinio de preservativos de cobertura total directamente a la Copa del Mundo. Después de que su ebria celebración en Brasil desencadene un escándalo mundial, deberán huir de hinchas furiosos, delincuentes y funcionarios sedientos de poder para salvar sus carreras y volver a casa con vida.",
-      "popularity": 160.7202,
-      "poster_path": "/50V1E3NE3UDFmq0fhMpByx1b4Ka.jpg",
-      "release_date": "2026-04-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.623,
-      "vote_count": 114
+      "vote_average": 7.6,
+      "vote_count": 507
     },
     {
       "adult": false,
@@ -102,13 +81,56 @@
       "original_language": "en",
       "original_title": "GOAT",
       "overview": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
-      "popularity": 132.4376,
+      "popularity": 133.8407,
       "poster_path": "/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 7.899,
-      "vote_count": 429
+      "vote_average": 7.918,
+      "vote_count": 433
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+      "genre_ids": [
+        35,
+        28,
+        12
+      ],
+      "id": 1084577,
+      "title": "Balls Up: Con un par",
+      "original_language": "en",
+      "original_title": "Balls Up",
+      "overview": "Los ejecutivos de marketing Brad y Elijah lanzan un audaz patrocinio de preservativos de cobertura total directamente a la Copa del Mundo. Después de que su ebria celebración en Brasil desencadene un escándalo mundial, deberán huir de hinchas furiosos, delincuentes y funcionarios sedientos de poder para salvar sus carreras y volver a casa con vida.",
+      "popularity": 132.821,
+      "poster_path": "/50V1E3NE3UDFmq0fhMpByx1b4Ka.jpg",
+      "release_date": "2026-04-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.636,
+      "vote_count": 118
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751,
+        10749
+      ],
+      "id": 848116,
+      "title": "रॉकी और रानी की प्रेम कहानी",
+      "original_language": "hi",
+      "original_title": "रॉकी और रानी की प्रेम कहानी",
+      "overview": "",
+      "popularity": 113.7921,
+      "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
+      "release_date": "2023-07-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.068,
+      "vote_count": 81
     },
     {
       "adult": false,
@@ -125,13 +147,13 @@
       "original_language": "en",
       "original_title": "The Super Mario Bros. Movie",
       "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
-      "popularity": 118.4745,
+      "popularity": 107.9423,
       "poster_path": "/k36QyeVsy851npTUQL08jO8hqip.jpg",
       "release_date": "2023-04-05",
       "softcore": false,
       "video": false,
-      "vote_average": 7.587,
-      "vote_count": 10513
+      "vote_average": 7.588,
+      "vote_count": 10516
     },
     {
       "adult": false,
@@ -148,35 +170,13 @@
       "original_language": "en",
       "original_title": "Zootopia 2",
       "overview": "Después de resolver el caso más importante en la historia de Zootrópolis, los policías novatos Judy Hopps y Nick Wilde descubren que su asociación no es tan sólida como pensaban cuando el Jefe Bogo les ordena unirse al programa de consejería \"Compañeros en Crisis\". Pero no pasa mucho tiempo para que su asociación se ponga a prueba al máximo, cuando la llegada de Gary, la serpiente, pone la ciudad patas arriba.",
-      "popularity": 100.5579,
+      "popularity": 102.4753,
       "poster_path": "/4fRdfQPjHiuDSkzaxFAV44k7Iem.jpg",
       "release_date": "2025-11-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.609,
+      "vote_average": 7.6,
       "vote_count": 2595
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10751,
-        10749
-      ],
-      "id": 848116,
-      "title": "रॉकी और रानी की प्रेम कहानी",
-      "original_language": "hi",
-      "original_title": "रॉकी और रानी की प्रेम कहानी",
-      "overview": "",
-      "popularity": 99.4974,
-      "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
-      "release_date": "2023-07-28",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.068,
-      "vote_count": 81
     },
     {
       "adult": false,
@@ -190,13 +190,13 @@
       "original_language": "en",
       "original_title": "The Devil Wears Prada",
       "overview": "En el vertiginoso mundo de la moda en Nueva York, la revista 'Runway' es el Santo Grial. Dirigida con puño de hierro y elegante manicura por Miranda Priestly, trabajar en ella es un temible reto para todo aquel que quiera triunfar en ese mundo. Hacerlo como ayudante de Miranda podría abrirle cualquier puerta a Andy Sachs, recientemente graduada. Pero ella es una chica que destaca por su desaliño dentro del pequeño ejército de guapísimas redactoras de la revista. Andy comprende muy pronto que para triunfar en ese negocio va a necesitar algo más que iniciativa y determinación. Y la prueba definitiva está delante de ella, vestida de Prada de pies a cabeza.",
-      "popularity": 98.0983,
+      "popularity": 99.7349,
       "poster_path": "/gvBvYFS9LVeukBYcdBX2HJZN4DL.jpg",
       "release_date": "2006-06-29",
       "softcore": false,
       "video": false,
-      "vote_average": 7.39,
-      "vote_count": 12966
+      "vote_average": 7.4,
+      "vote_count": 12972
     },
     {
       "adult": false,
@@ -210,13 +210,13 @@
       "original_language": "es",
       "original_title": "¿Quieres Ser Mi Novia?",
       "overview": "La relación de Javi y Lu enfrenta pruebas cuando surgen tentaciones: una joven con quien Javi tiene química, y un hombre maduro que persigue a Lu. Entre humor y enredos, su amor es puesto a prueba",
-      "popularity": 83.0942,
+      "popularity": 97.6989,
       "poster_path": "/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
       "release_date": "2026-02-12",
       "softcore": false,
       "video": false,
-      "vote_average": 8.196,
-      "vote_count": 28
+      "vote_average": 8.422,
+      "vote_count": 32
     },
     {
       "adult": false,
@@ -229,13 +229,13 @@
       "original_language": "en",
       "original_title": "Roommates",
       "overview": "Cuando Devon, tímida y recién llegada a la uni, le pide a la popular Celeste compartir cuarto, su nueva amistad se convierte en una guerra de pasivoagresividad.",
-      "popularity": 78.1851,
+      "popularity": 75.8206,
       "poster_path": "/hHOBxFzUK2CHmQ5djuOneyHkptS.jpg",
       "release_date": "2026-04-13",
       "softcore": false,
       "video": false,
-      "vote_average": 6.426,
-      "vote_count": 54
+      "vote_average": 6.386,
+      "vote_count": 57
     },
     {
       "adult": false,
@@ -250,13 +250,13 @@
       "original_language": "en",
       "original_title": "Anaconda",
       "overview": "Doug y Griff son muy buenos amigos desde que eran niños y siempre han soñado con hacer un remake de su película favorita de todos los tiempos: el «clásico cinematográfico» Anaconda. Cuando una crisis de mediana edad les anima a lanzarse por fin a la aventura, se adentran en la selva amazónica para empezar a rodar. Pero las cosas se ponen serias cuando aparece una anaconda gigante de verdad, convirtiendo su caótico y cómico plató de rodaje en una situación mortal.",
-      "popularity": 72.6251,
+      "popularity": 73.8447,
       "poster_path": "/zX1KJPiGTrzpFcjfOWlmqdRgpQd.jpg",
       "release_date": "2025-12-24",
       "softcore": false,
       "video": false,
-      "vote_average": 5.861,
-      "vote_count": 1036
+      "vote_average": 5.9,
+      "vote_count": 1038
     },
     {
       "adult": false,
@@ -271,33 +271,13 @@
       "original_language": "en",
       "original_title": "Mike & Nick & Nick & Alice",
       "overview": "Dos gángsters y la mujer a la que aman intentan sobrevivir a la noche más peligrosa de sus vidas, en la que está implicada una máquina del tiempo.",
-      "popularity": 59.2742,
+      "popularity": 57.7111,
       "poster_path": "/k6PSvLUs84QJsWLt0Zlkoa8ih6V.jpg",
       "release_date": "2026-03-14",
       "softcore": false,
       "video": false,
-      "vote_average": 6.729,
-      "vote_count": 260
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1049471,
-      "title": "Outcome",
-      "original_language": "en",
-      "original_title": "Outcome",
-      "overview": "Reef Hawk, emblema de Hollywood desde los seis años, está en crisis. Ante un chantaje relacionado con un misterioso vídeo, Reef decide emprender una gira de redención para enmendar sus errores, enfrentarse a sus demonios y evitar ser cancelado.",
-      "popularity": 58.6561,
-      "poster_path": "/9uriReigJBf5zVBNaHj5C9kDDTe.jpg",
-      "release_date": "2026-04-06",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.3,
-      "vote_count": 133
+      "vote_average": 6.746,
+      "vote_count": 262
     },
     {
       "adult": false,
@@ -312,13 +292,33 @@
       "original_language": "it",
       "original_title": "Il peccato di Lola",
       "overview": "Tras la marcha de su madre al extranjero por temas de negocios, Albert, de dieciséis años de edad, continua sus vacaciones en su maravillosa casa, con la única compañía del camarero. Pero la llegada de una nueva criada revolucionará el panorama.",
-      "popularity": 58.6463,
+      "popularity": 53.3178,
       "poster_path": "/iQt9Kydd8yn9xfBvYeKec56glyv.jpg",
       "release_date": "1984-05-04",
       "softcore": false,
       "video": false,
       "vote_average": 7.007,
       "vote_count": 70
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1049471,
+      "title": "Outcome",
+      "original_language": "en",
+      "original_title": "Outcome",
+      "overview": "Reef Hawk, emblema de Hollywood desde los seis años, está en crisis. Ante un chantaje relacionado con un misterioso vídeo, Reef decide emprender una gira de redención para enmendar sus errores, enfrentarse a sus demonios y evitar ser cancelado.",
+      "popularity": 50.863,
+      "poster_path": "/9uriReigJBf5zVBNaHj5C9kDDTe.jpg",
+      "release_date": "2026-04-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 136
     },
     {
       "adult": false,
@@ -334,13 +334,13 @@
       "original_language": "en",
       "original_title": "The Wrecking Crew",
       "overview": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.",
-      "popularity": 50.0539,
+      "popularity": 50.1777,
       "poster_path": "/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg",
       "release_date": "2026-01-28",
       "softcore": false,
       "video": false,
-      "vote_average": 6.88,
-      "vote_count": 907
+      "vote_average": 6.876,
+      "vote_count": 909
     },
     {
       "adult": false,
@@ -354,13 +354,13 @@
       "original_language": "en",
       "original_title": "Ready or Not 2: Here I Come",
       "overview": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
-      "popularity": 49.0355,
+      "popularity": 43.7585,
       "poster_path": "/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
       "release_date": "2026-03-19",
       "softcore": false,
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 254
+      "vote_average": 6.932,
+      "vote_count": 257
     },
     {
       "adult": false,
@@ -376,34 +376,33 @@
       "original_language": "en",
       "original_title": "KPop Demon Hunters",
       "overview": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
-      "popularity": 40.65,
+      "popularity": 40.3947,
       "poster_path": "/6EQMqEmdG5HoGe2zT1WwWUMvVhv.jpg",
       "release_date": "2025-06-20",
       "softcore": false,
       "video": false,
       "vote_average": 8.013,
-      "vote_count": 2663
+      "vote_count": 2665
     },
     {
       "adult": false,
-      "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+      "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
       "genre_ids": [
-        10749,
-        35,
-        18
+        18,
+        35
       ],
-      "id": 1325734,
-      "title": "El drama",
+      "id": 1314481,
+      "title": "El diablo viste de Prada 2",
       "original_language": "en",
-      "original_title": "The Drama",
-      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "popularity": 40.0885,
-      "poster_path": "/IsyXDsvsNthbtdpM4qMwop1Gwo.jpg",
-      "release_date": "2026-03-26",
+      "original_title": "The Devil Wears Prada 2",
+      "overview": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "popularity": 38.6816,
+      "poster_path": "/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
+      "release_date": "2026-04-29",
       "softcore": false,
       "video": false,
-      "vote_average": 7.041,
-      "vote_count": 511
+      "vote_average": 8.3,
+      "vote_count": 3
     },
     {
       "adult": false,
@@ -418,15 +417,15 @@
       "original_language": "en",
       "original_title": "Deadpool & Wolverine",
       "overview": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
-      "popularity": 39.7255,
+      "popularity": 38.1873,
       "poster_path": "/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
       "release_date": "2024-07-24",
       "softcore": false,
       "video": false,
       "vote_average": 7.558,
-      "vote_count": 8501
+      "vote_count": 8503
     }
   ],
-  "total_pages": 8411,
-  "total_results": 168207
+  "total_pages": 8412,
+  "total_results": 168235
 }
