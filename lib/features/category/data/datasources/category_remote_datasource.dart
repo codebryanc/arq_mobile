@@ -7,6 +7,12 @@ import 'package:arq_mobile/core/utils/mock_saver.dart';
 import 'package:arq_mobile/features/category/data/models/category_model.dart';
 import 'package:arq_mobile/core/config/features_config.dart';
 
+/// BEGIN: LISKOV SUBSTITUTION PRINCIPLE (SOLID) ///
+///
+/// Both CategoryRemoteDataSource and CategoryLocalDataSource share the same contract.
+/// The repository can swap between them based on connectivity without breaking behavior.
+///
+/// END: LISKOV SUBSTITUTION PRINCIPLE ///
 abstract class CategoryRemoteDataSource {
   Future<List<CategoryModel>> getCategories();
 }

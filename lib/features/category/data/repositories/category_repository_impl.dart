@@ -7,6 +7,13 @@ import 'package:arq_mobile/features/category/data/datasources/category_remote_da
 import 'package:arq_mobile/features/category/domain/entities/category.dart';
 import 'package:arq_mobile/features/category/domain/repositories/category_repository.dart';
 
+/// BEGIN: DEPENDENCY INVERSION PRINCIPLE (SOLID) ///
+///
+/// CategoryRepositoryImpl depends on abstractions (CategoryRemoteDataSource,
+/// CategoryLocalDataSource), not on concrete implementations.
+/// The actual implementations are injected via constructor, never instantiated here.
+///
+/// END: DEPENDENCY INVERSION PRINCIPLE ///
 class CategoryRepositoryImpl implements CategoryRepository {
   // [Properties]
   final CategoryRemoteDataSource remoteDataSource;

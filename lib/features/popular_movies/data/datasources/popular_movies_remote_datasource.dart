@@ -7,6 +7,13 @@ import 'package:arq_mobile/core/errors/exceptions.dart';
 import 'package:arq_mobile/core/utils/mock_saver.dart';
 import 'package:arq_mobile/features/popular_movies/data/models/movie_model.dart';
 
+/// BEGIN: INTERFACE SEGREGATION PRINCIPLE (SOLID) ///
+///
+/// Instead of one big PopularMoviesDataSource interface with remote and local methods,
+/// we split into two focused interfaces so each implementation only depends on
+/// what it actually needs — remote impl never forced to implement local methods.
+///
+/// END: INTERFACE SEGREGATION PRINCIPLE ///
 abstract class PopularMoviesRemoteDataSource {
   Future<List<MovieModel>> getPopularMovies();
 }
