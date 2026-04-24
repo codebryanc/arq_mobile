@@ -1,13 +1,13 @@
 {
   "adult": false,
-  "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+  "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
   "belongs_to_collection": {
     "id": 1434561,
     "name": "The Super Mario Collection",
     "poster_path": "/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
     "backdrop_path": "/hX6DycbhqpkHuYD5ia4YeQQ2RgV.jpg"
   },
-  "budget": 110000000,
+  "budget": 100000000,
   "genres": [
     {
       "id": 10751,
@@ -30,28 +30,28 @@
       "name": "Animación"
     }
   ],
-  "homepage": "https://www.supermariobros-lapelicula.es/entradas",
-  "id": 1226863,
-  "imdb_id": "tt28650488",
+  "homepage": "https://www.universalpictures.es/micro/super-mario-bros",
+  "id": 502356,
+  "imdb_id": "tt6718170",
   "origin_country": [
     "US"
   ],
   "original_language": "en",
-  "original_title": "The Super Mario Galaxy Movie",
-  "overview": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-  "popularity": 650.7446,
-  "poster_path": "/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
+  "original_title": "The Super Mario Bros. Movie",
+  "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+  "popularity": 118.4745,
+  "poster_path": "/k36QyeVsy851npTUQL08jO8hqip.jpg",
   "production_companies": [
-    {
-      "id": 6704,
-      "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
-      "name": "Illumination",
-      "origin_country": "US"
-    },
     {
       "id": 33,
       "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
       "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 6704,
+      "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+      "name": "Illumination",
       "origin_country": "US"
     },
     {
@@ -71,9 +71,9 @@
       "name": "United States of America"
     }
   ],
-  "release_date": "2026-04-01",
-  "revenue": 755815355,
-  "runtime": 98,
+  "release_date": "2023-04-05",
+  "revenue": 1360879735,
+  "runtime": 92,
   "softcore": false,
   "spoken_languages": [
     {
@@ -83,9 +83,9 @@
     }
   ],
   "status": "Released",
-  "tagline": "",
-  "title": "Super Mario Galaxy la película",
+  "tagline": "No todos los héroes usan capas. Algunos usan overoles.",
+  "title": "Super Mario Bros: La película",
   "video": false,
-  "vote_average": 6.749,
-  "vote_count": 574
+  "vote_average": 7.587,
+  "vote_count": 10513
 }

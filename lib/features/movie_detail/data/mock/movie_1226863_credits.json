@@ -636,32 +636,6 @@
     {
       "adult": false,
       "gender": 2,
-      "id": 113901,
-      "known_for_department": "Writing",
-      "name": "Michael Jelenic",
-      "original_name": "Michael Jelenic",
-      "popularity": 0.7775,
-      "profile_path": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
-      "credit_id": "65edb325447f9c018760f55e",
-      "department": "Directing",
-      "job": "Director"
-    },
-    {
-      "adult": false,
-      "gender": 2,
-      "id": 1719706,
-      "known_for_department": "Writing",
-      "name": "Aaron Horvath",
-      "original_name": "Aaron Horvath",
-      "popularity": 0.7433,
-      "profile_path": "/6AOmWzdJas3xh0xJOk1mHPstNs2.jpg",
-      "credit_id": "65edb330edeb430149c19e7c",
-      "department": "Directing",
-      "job": "Director"
-    },
-    {
-      "adult": false,
-      "gender": 2,
       "id": 1275812,
       "known_for_department": "Production",
       "name": "宮本茂",
@@ -684,6 +658,32 @@
       "credit_id": "65edb3cd91f0ea01638b38db",
       "department": "Production",
       "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1719706,
+      "known_for_department": "Writing",
+      "name": "Aaron Horvath",
+      "original_name": "Aaron Horvath",
+      "popularity": 0.7433,
+      "profile_path": "/6AOmWzdJas3xh0xJOk1mHPstNs2.jpg",
+      "credit_id": "65edb330edeb430149c19e7c",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 113901,
+      "known_for_department": "Writing",
+      "name": "Michael Jelenic",
+      "original_name": "Michael Jelenic",
+      "popularity": 0.7775,
+      "profile_path": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
+      "credit_id": "65edb325447f9c018760f55e",
+      "department": "Directing",
+      "job": "Director"
     },
     {
       "adult": false,

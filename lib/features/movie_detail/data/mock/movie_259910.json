@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/2l9yXhNtLC5SHa81m3MtLfpoXTr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documental"
+    },
+    {
+      "id": 10770,
+      "name": "Película de TV"
+    },
+    {
+      "id": 14,
+      "name": "Fantasía"
+    }
+  ],
+  "homepage": "",
+  "id": 259910,
+  "imdb_id": "tt3591568",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Marvel Studios: Assembling a Universe",
+  "overview": "Un repaso a la historia de Marvel Studios y el Universo Cinemático Marvel, con entrevistas y escenas making-of de todas las películas Marvel, los Marvel One-Shots y la serie \"Agents of S.H.I.E.L.D.\"",
+  "popularity": 21.5241,
+  "poster_path": "/41Ke02UzYoPsiTc3YbomPGiQKMl.jpg",
+  "production_companies": [
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 10567,
+      "logo_path": "/kbZu62C3ZwNfOtao1ECIFTzL40Q.png",
+      "name": "Mutant Enemy Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-03-18",
+  "revenue": 0,
+  "runtime": 43,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Marvel: Construyendo un universo",
+  "video": false,
+  "vote_average": 6.925,
+  "vote_count": 167
+}

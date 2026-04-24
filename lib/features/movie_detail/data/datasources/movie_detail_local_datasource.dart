@@ -26,8 +26,9 @@ class MovieDetailLocalDataSourceImpl implements MovieDetailLocalDataSource {
       FeaturesConfig.movieDetail,
       '$_endpoint/$movieId',
     );
-    if (content == null)
+    if (content == null) {
       throw ServerException(message: 'No mock for movie $movieId');
+    }
     return MovieDetailModel.fromJson(
       jsonDecode(content) as Map<String, dynamic>,
     );

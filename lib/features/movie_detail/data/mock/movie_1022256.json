@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/u3MWQCdHyCK7IADtat4sVmBXd9U.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documental"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    }
+  ],
+  "homepage": "https://tv.apple.com/es/movie/umc.cmc.39yw4dp13gshxq5bt9fsl0o5y",
+  "id": 1022256,
+  "imdb_id": "tt21819250",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Selena Gomez: My Mind & Me",
+  "overview": "Tras años en el candelero, Selena Gómez alcanza un estatus de estrella inimaginable. Sin embargo, justo cuando conquista una nueva cima, un giro inesperado la sume en la oscuridad. Este documental, de una crudeza e intimidad únicas, abarca su viaje de seis años hacia una nueva luz.",
+  "popularity": 11.9326,
+  "poster_path": "/tPlQkVzDoIuhV5he0kntNXDcBrK.jpg",
+  "production_companies": [
+    {
+      "id": 91390,
+      "logo_path": "/asfiFPtyptv1qW7fvGPe95RtKr7.png",
+      "name": "Lighthouse Management + Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 118381,
+      "logo_path": "/jXGMxHQREYFoojxN9BaLBbdkglQ.png",
+      "name": "Interscope Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-04",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Con cada aliento, un paso más.",
+  "title": "Selena Gomez: Mi mente y yo",
+  "video": false,
+  "vote_average": 8.519,
+  "vote_count": 585
+}

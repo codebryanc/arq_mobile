@@ -40,13 +40,12 @@ import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_bloc.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_event.dart';
 
-
-/// BEGIN: SINGLETON PATTERN (SOLID) /// 
-/// 
-/// We use Singleton here to avoid multiple instances of the same class 
+/// BEGIN: SINGLETON PATTERN (SOLID) ///
+///
+/// We use Singleton here to avoid multiple instances of the same class
 /// and to ensure that we have a single source of truth for our dependencies throughout the app.
-/// 
-/// END: SINGLETON PATTERN /// 
+///
+/// END: SINGLETON PATTERN ///
 
 // Dependency Injection setup using GetIt
 final sl = GetIt.instance;

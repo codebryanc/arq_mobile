@@ -20,8 +20,9 @@ class PopularMoviesLocalDataSourceImpl implements PopularMoviesLocalDataSource {
       FeaturesConfig.popularMovies,
       _endpoint,
     );
-    if (content == null)
+    if (content == null) {
       throw ServerException(message: 'No mock for $_endpoint');
+    }
     final data = jsonDecode(content) as Map<String, dynamic>;
     final results = data['results'] as List<dynamic>;
     return results

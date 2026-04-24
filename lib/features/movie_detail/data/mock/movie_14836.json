@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+  "belongs_to_collection": null,
+  "budget": 60000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animación"
+    },
+    {
+      "id": 10751,
+      "name": "Familia"
+    },
+    {
+      "id": 14,
+      "name": "Fantasía"
+    }
+  ],
+  "homepage": "https://www.laika.com",
+  "id": 14836,
+  "imdb_id": "tt0327597",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Coraline",
+  "overview": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
+  "popularity": 29.7717,
+  "poster_path": "/xz1HjxeqpIACyPtJMqv33Z2RjRP.jpg",
+  "production_companies": [
+    {
+      "id": 11537,
+      "logo_path": "/AgCkAk8EpUG9fTmK6mWcaJA2Zwh.png",
+      "name": "LAIKA",
+      "origin_country": "US"
+    },
+    {
+      "id": 8915,
+      "logo_path": null,
+      "name": "Pandemonium",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-02-05",
+  "revenue": 185860104,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Cuidado con lo que deseas. Se puede cumplir.",
+  "title": "Los mundos de Coraline",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 8878
+}

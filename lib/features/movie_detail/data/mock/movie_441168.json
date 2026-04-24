@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/8gBOpyW6iTDGZJR93YuF3L7dDuI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "Película de TV"
+    }
+  ],
+  "homepage": "",
+  "id": 441168,
+  "imdb_id": "tt6237208",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "From Straight A's to XXX",
+  "overview": "Cuando un cambio de circunstancias deja a Miriam incapaz de pagar sus estudios universitarios, toma una decisión sorprendente: comenzar a actuar en películas para adultos, usando el seudónimo Belle Knox. Miriam se encuentra con su familia y sus amigos en la escuela, manteniendo su doble vida en secreto. Pero pronto se difundieron rumores y Miriam se convirtió en el sujeto de ataques en línea viciosos y atención no deseada. Miriam responde: habla con los medios de comunicación, diciendo que su nueva línea de trabajo le da poder como feminista. Pero su postura confiada tiene consecuencias no deseadas. Miriam es rechazada por su familia conservadora y sus colegas en el mundo del cine adulto. Una decisión impulsiva ha salido rápidamente fuera de control y los problemas de Miriam apenas están comenzando.",
+  "popularity": 33.473,
+  "poster_path": "/kvcdaGcres9pGDwZfPN9jOKfZh.jpg",
+  "production_companies": [
+    {
+      "id": 10969,
+      "logo_path": "/hosgwAUsiimlKgxvE42NRMNa107.png",
+      "name": "Sepia Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 47441,
+      "logo_path": "/gkguCwbRf7gmBj4DtAYVWsOA0wH.png",
+      "name": "Just Singer Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 137763,
+      "logo_path": null,
+      "name": "La Femme Erotic",
+      "origin_country": "NL"
+    },
+    {
+      "id": 3431,
+      "logo_path": "/6LVLYfZAEQfhJey0MGvhFXdDEK1.png",
+      "name": "Lifetime",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-02-11",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La doble vida de Miriam",
+  "video": false,
+  "vote_average": 5.822,
+  "vote_count": 160
+}

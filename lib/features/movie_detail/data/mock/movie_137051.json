@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/A7BiqPOKvGNalAZhFn1WfSeG9aO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Misterio"
+    },
+    {
+      "id": 53,
+      "name": "Suspense"
+    },
+    {
+      "id": 10770,
+      "name": "Película de TV"
+    }
+  ],
+  "homepage": "",
+  "id": 137051,
+  "imdb_id": "tt0095602",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Midnight Matinee",
+  "overview": "A pesar de que un devastador asesinato tuvo lugar durante el festival de cine de terror de un pequeño pueblo dos años antes, la gente del pueblo quiere otro festival.",
+  "popularity": 18.4421,
+  "poster_path": "/czam6wq46B9UCZvq85vicElckFq.jpg",
+  "production_companies": [
+    {
+      "id": 10316,
+      "logo_path": null,
+      "name": "British Columbia Film",
+      "origin_country": "CA"
+    },
+    {
+      "id": 18217,
+      "logo_path": null,
+      "name": "D Slayer Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 8335,
+      "logo_path": null,
+      "name": "The Image Organization",
+      "origin_country": ""
+    },
+    {
+      "id": 18218,
+      "logo_path": null,
+      "name": "Malofilm Communications Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1988-10-12",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Midnight Matinee",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 6
+}

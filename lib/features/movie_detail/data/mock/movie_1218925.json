@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+  "belongs_to_collection": {
+    "id": 1544712,
+    "name": "チェンソーマン・コレクション",
+    "poster_path": "/7no7pAorfhiZ7bYXoSGFb2oCH2B.jpg",
+    "backdrop_path": "/yGlfZ3RmfmosFsaofrt1TraMPw0.jpg"
+  },
+  "budget": 4100000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animación"
+    },
+    {
+      "id": 28,
+      "name": "Acción"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasía"
+    }
+  ],
+  "homepage": "",
+  "id": 1218925,
+  "imdb_id": "tt30472557",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "劇場版 チェンソーマン レゼ篇",
+  "overview": "Denji trabajaba como cazador de demonios para la yakuza, tratando de saldar la deuda que había heredado de sus padres, pero la yakuza lo traicionó y lo mató. Antes de perder el conocimiento, Pochita, el perro-demonio motosierra de Denji, hizo un trato con él y le salvó la vida. Así se fusionaron, creando al imparable Chainsaw Man. Ahora, en medio de una brutal guerra entre demonios, cazadores y enemigos secretos, una misteriosa chica llamada Reze irrumpe en su mundo y Denji se enfrenta a su batalla más mortífera, impulsado por el amor, en un mundo donde la supervivencia no conoce reglas.",
+  "popularity": 27.9257,
+  "poster_path": "/fJdnp5OO2wh07tdy6noACNyaqMJ.jpg",
+  "production_companies": [
+    {
+      "id": 21444,
+      "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
+      "name": "MAPPA",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-09-19",
+  "revenue": 174502910,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Chainsaw Man - La película: El arco de Reze",
+  "video": false,
+  "vote_average": 8.328,
+  "vote_count": 804
+}

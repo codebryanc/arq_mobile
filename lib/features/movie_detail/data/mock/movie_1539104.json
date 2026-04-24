@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+  "belongs_to_collection": {
+    "id": 1529614,
+    "name": "呪術廻戦 シリーズ",
+    "poster_path": "/8IddvFXm6Txk3YAEIcgPm0ukY6K.jpg",
+    "backdrop_path": "/2HRyeMLdUvn3l9DqjPU3hWn3SiX.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animación"
+    },
+    {
+      "id": 28,
+      "name": "Acción"
+    },
+    {
+      "id": 14,
+      "name": "Fantasía"
+    }
+  ],
+  "homepage": "",
+  "id": 1539104,
+  "imdb_id": "tt38121182",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+  "overview": "Durante Halloween en Shibuya, un misterioso velo atrapa a la multitud dentro del distrito. Como consecuencia, diez colonias japonesas se convierten en zonas dominadas por maldiciones.",
+  "popularity": 39.574,
+  "poster_path": "/a4QuZ6oW71zCpwVW08u3fHBxc6E.jpg",
+  "production_companies": [
+    {
+      "id": 21444,
+      "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
+      "name": "MAPPA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3363,
+      "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+      "name": "MBS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 158200,
+      "logo_path": "/rf4ZArxPuqx5hdeU7rPIU8IQlYx.png",
+      "name": "Sumzap",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-11-07",
+  "revenue": 44457030,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "JUJUTSU KAISEN: Ejecución",
+  "video": false,
+  "vote_average": 5.938,
+  "vote_count": 96
+}
