@@ -1,0 +1,16 @@
+{
+  "id": 550,
+  "title": "Fight Club",
+  "overview": "",
+  "vote_average": 8.4,
+  "poster_path": "/poster.jpg",
+  "backdrop_path": "/backdrop.jpg",
+  "release_date": "1999-10-15",
+  "runtime": 139,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
