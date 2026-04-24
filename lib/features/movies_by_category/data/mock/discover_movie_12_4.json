@@ -1,0 +1,429 @@
+{
+  "page": 4,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 438631,
+      "title": "Dune",
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "popularity": 22.2835,
+      "poster_path": "/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
+      "release_date": "2021-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.779,
+      "vote_count": 14738
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 11,
+      "title": "La guerra de las galaxias",
+      "original_language": "en",
+      "original_title": "Star Wars",
+      "overview": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
+      "popularity": 21.7653,
+      "poster_path": "/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
+      "release_date": "1977-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.202,
+      "vote_count": 22187
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 693134,
+      "title": "Dune: Parte dos",
+      "original_language": "en",
+      "original_title": "Dune: Part Two",
+      "overview": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+      "popularity": 21.6403,
+      "poster_path": "/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg",
+      "release_date": "2024-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.127,
+      "vote_count": 7809
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        16
+      ],
+      "id": 1357633,
+      "title": "Solo Leveling: ReAwakening",
+      "original_language": "ja",
+      "original_title": "俺だけレベルアップな件 -ReAwakening-",
+      "overview": "Ha pasado más de una década desde que un camino llamado \"portal\" que conecta este mundo con una dimensión alternativa apareció de repente, y personas con poderes sobrehumanos llamados \"cazadores\" han despertado. Los cazadores usan sus poderes sobrehumanos para conquistar mazmorras dentro de los portales para ganarse la vida y Sung Jinwoo, un cazador del rango más bajo, es considerado como el Cazador Más débil de Toda la Humanidad. Un día se encuentra con una mazmorra doble, una mazmorra de alto nivel oculta dentro de una de bajo nivel. Frente a un Jinwoo gravemente herido, surge una misteriosa ventana hacia una misión. Al borde de la muerte, Jinwoo decide encargarse de la misión, que le convierte en la única persona capaz de subir de nivel. Largometraje formado por una recapitulación de la primera temporada de la serie de anime homónima junto con un avance exclusivo de los dos primeros episodios de la segunda temporada.",
+      "popularity": 21.3705,
+      "poster_path": "/diPEcLFEb1uuUpApol1Bit6ck3l.jpg",
+      "release_date": "2024-11-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.13,
+      "vote_count": 265
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3eOINbgRs8WiWfQfViXeuZ3enrs.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 1003596,
+      "title": "Vengadores: Doomsday",
+      "original_language": "en",
+      "original_title": "Avengers: Doomsday",
+      "overview": "Quinta entrega de la saga 'Vengadores' incluida en el Universo Cinematográfico Marvel (UCM). Sinopsis desconocido.",
+      "popularity": 21.3451,
+      "poster_path": "/rQKabpeIewLLNStFr3anEXI0xqu.jpg",
+      "release_date": "2026-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 99861,
+      "title": "Vengadores: La era de Ultrón",
+      "original_language": "en",
+      "original_title": "Avengers: Age of Ultron",
+      "overview": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultron emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura.",
+      "popularity": 21.2215,
+      "poster_path": "/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
+      "release_date": "2015-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.27,
+      "vote_count": 24303
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "genre_ids": [
+        12,
+        35,
+        878
+      ],
+      "id": 105,
+      "title": "Regreso al futuro",
+      "original_language": "en",
+      "original_title": "Back to the Future",
+      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "popularity": 20.6709,
+      "poster_path": "/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+      "release_date": "1985-07-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 21657
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        878,
+        12
+      ],
+      "id": 1184918,
+      "title": "Robot salvaje",
+      "original_language": "en",
+      "original_title": "The Wild Robot",
+      "overview": "Esta aventura épica cuenta la historia de una robot, Rozzum 7-1-3-4, \"Roz\" para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de una cría de ganso huérfana.",
+      "popularity": 20.5514,
+      "poster_path": "/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
+      "release_date": "2024-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.307,
+      "vote_count": 5936
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 673,
+      "title": "Harry Potter y el prisionero de Azkaban",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Prisoner of Azkaban",
+      "overview": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
+      "popularity": 20.2721,
+      "poster_path": "/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
+      "release_date": "2004-05-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.008,
+      "vote_count": 23028
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 672,
+      "title": "Harry Potter y la cámara secreta",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Chamber of Secrets",
+      "overview": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
+      "popularity": 20.2487,
+      "poster_path": "/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
+      "release_date": "2002-11-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.702,
+      "vote_count": 23461
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 333339,
+      "title": "Ready Player One",
+      "original_language": "en",
+      "original_title": "Ready Player One",
+      "overview": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
+      "popularity": 20.1556,
+      "poster_path": "/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
+      "release_date": "2018-03-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.584,
+      "vote_count": 16779
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        10402,
+        12
+      ],
+      "id": 354912,
+      "title": "Coco",
+      "original_language": "en",
+      "original_title": "Coco",
+      "overview": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+      "popularity": 20.153,
+      "poster_path": "/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
+      "release_date": "2017-10-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.197,
+      "vote_count": 20848
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m6ciqp691frwE1nNeMgWFBr0AZf.jpg",
+      "genre_ids": [
+        28,
+        14,
+        12
+      ],
+      "id": 931285,
+      "title": "Mortal Kombat II",
+      "original_language": "en",
+      "original_title": "Mortal Kombat II",
+      "overview": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+      "popularity": 19.7713,
+      "poster_path": "/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
+      "release_date": "2026-05-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        16,
+        28,
+        35
+      ],
+      "id": 177572,
+      "title": "Big Hero 6",
+      "original_language": "en",
+      "original_title": "Big Hero 6",
+      "overview": "En la metrópolis de San Fransokio (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genio de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokio, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio.",
+      "popularity": 19.7463,
+      "poster_path": "/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg",
+      "release_date": "2014-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.723,
+      "vote_count": 16490
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9qI2hBLrhwtynNF4P0DjE2edY9W.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14,
+        12
+      ],
+      "id": 1497970,
+      "title": "Tom y Jerry: Aventura en el tiempo",
+      "original_language": "zh",
+      "original_title": "猫和老鼠：星盘奇缘",
+      "overview": "Tom y Jerry viajan en el tiempo. Tras una loca persecución en el Museo Metropolitan de Nueva York, un portal del tiempo los transporta a una ciudad dorada inspirada en la Antigua China, llena de magia, guerreros y criaturas sorprendentes. Para regresar a casa, viven una increíble aventura repleta de acción y humor, donde deben enfrentarse a nuevos enemigos… ¡y quizás aprender a trabajar juntos!",
+      "popularity": 19.4998,
+      "poster_path": "/60IdSMKnGDXlFgBpUnW2DLQ0Wh2.jpg",
+      "release_date": "2025-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 122917,
+      "title": "El hobbit: La batalla de los cinco ejércitos",
+      "original_language": "en",
+      "original_title": "The Hobbit: The Battle of the Five Armies",
+      "overview": "Después de haber recuperado el reino del Dragón Smaug, la Compañía ha desencadenado, sin querer, una potencia maligna. Un Smaug enfurecido vuela hacia la Ciudad del Lago para acabar con cualquier resto de vida. Obsesionado sobre todo con el reino recuperado, Thorin sacrifica la amistad y el honor para mantenerlo mientras que Bilbo intenta frenéticamente hacerle ver la razón por la que el hobbit toma una decisión desesperada y peligrosa. Pero hay aún mayores peligros por delante. Sin la ayuda aparente del mago Gandalf, su gran enemigo Sauron ha enviado legiones de orcos hacia la Montaña Solitaria en un ataque furtivo. Cuando la oscuridad se cierna sobre ellos, las razas de los Enanos, Elfos y Hombres deben decidir si unirse o ser destruidos. Bilbo se encontrará así en la batalla épica de los Cinco Ejércitos, donde el futuro de la Tierra Media está en juego.",
+      "popularity": 19.4693,
+      "poster_path": "/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg",
+      "release_date": "2014-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.331,
+      "vote_count": 15262
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 102382,
+      "title": "The Amazing Spider-Man 2: El poder de Electro",
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man 2",
+      "overview": "Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniéndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiarán para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado.",
+      "popularity": 19.2536,
+      "poster_path": "/8W0mMrmaVdSoLz5LnX61gJOXfEb.jpg",
+      "release_date": "2014-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.532,
+      "vote_count": 14136
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 12445,
+      "title": "Harry Potter y las Reliquias de la Muerte - Parte 2",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Deathly Hallows: Part 2",
+      "overview": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…",
+      "popularity": 19.2011,
+      "poster_path": "/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+      "release_date": "2011-07-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.08,
+      "vote_count": 21867
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 22,
+      "title": "Piratas del Caribe: La maldición de la Perla Negra",
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "overview": "El aventurero capitán Jack Sparrow recorre las aguas caribeñas. Pero su andanzas terminan cuando su enemigo, el capitán Barbossa le roba su barco, la Perla Negra, y ataca la ciudad de Port Royal, secuestrando a Elizabeth Swann, hija del gobernador. Will Turner, el amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar la Perla Negra. Pero el prometido de Elizabeth, comodoro Norrington, les persigue a bordo del HMS Impávido. Además, Barbossa y su tripulación son víctimas de un conjuro por el que están condenados a vivir eternamente, y a transformarse cada noche en esqueletos vivientes, en fantasmas guerreros.",
+      "popularity": 19.1898,
+      "poster_path": "/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg",
+      "release_date": "2003-07-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.82,
+      "vote_count": 22099
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "id": 293660,
+      "title": "Deadpool",
+      "original_language": "en",
+      "original_title": "Deadpool",
+      "overview": "Basado en el anti-héroe menos convencional de Marvel, Deadpool narra el origen de un ex agente de las fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento para curar su cáncer adquiere poderes de curación rápida, adoptando entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
+      "popularity": 19.1004,
+      "poster_path": "/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg",
+      "release_date": "2016-02-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.623,
+      "vote_count": 32599
+    }
+  ],
+  "total_pages": 1354,
+  "total_results": 27069
+}

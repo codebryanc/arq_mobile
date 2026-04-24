@@ -3,42 +3,62 @@
   "results": [
     {
       "adult": false,
-      "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+      "backdrop_path": "/s4su6J8opkWW9ibqfBdG6oae5iw.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1266992,
+      "title": "Balinsasayaw",
+      "original_language": "tl",
+      "original_title": "Balinsasayaw",
+      "overview": "",
+      "popularity": 42.9466,
+      "poster_path": "/5gotyf6pPf9ZbDSW0yBLXMpDmmP.jpg",
+      "release_date": "2024-05-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aouxo2EaR7QSGBBUNTITuW0lj4z.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 875828,
+      "title": "Peaky Blinders: El hombre inmortal",
+      "original_language": "en",
+      "original_title": "Peaky Blinders: The Immortal Man",
+      "overview": "El gánster Tommy Shelby regresa a Birmingham para salvar a su familia —y a su país— cuando su hijo, del que se ha distanciado, se ve envuelto en un complot nazi.",
+      "popularity": 41.5291,
+      "poster_path": "/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
+      "release_date": "2026-03-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.223,
+      "vote_count": 819
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
       "genre_ids": [
         18,
         80
       ],
-      "id": 278,
-      "title": "Cadena perpetua",
+      "id": 238,
+      "title": "El padrino",
       "original_language": "en",
-      "original_title": "The Shawshank Redemption",
-      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
-      "popularity": 42.3959,
-      "poster_path": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
-      "release_date": "1994-09-23",
+      "original_title": "The Godfather",
+      "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "popularity": 40.657,
+      "poster_path": "/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
+      "release_date": "1972-03-14",
       "softcore": false,
       "video": false,
-      "vote_average": 8.7,
-      "vote_count": 30159
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 10867,
-      "title": "Malèna",
-      "original_language": "it",
-      "original_title": "Malèna",
-      "overview": "Malena es la belleza más encantadora e irresistible de Castelcuto, un aburrido pueblo de la soleada costa siciliana. Es nueva en la población y estando su marido en la guerra, cada paseo que da por el pueblo se convierte en un espectáculo, acompañado por las lujuriosas miradas de los hombres de la localidad y de los resentidos cotilleos de sus envidiosas esposas. Un ejército de flacos adolescentes en bicicleta la sigue allí donde vaya, con la única intención de observar su exquisita y arquetípica belleza. Entre ellos se encuentra Renato Amoroso, un chico de trece años con mucha imaginación que lleva su deseo a unos límites inesperados de obsesiva fantasía.",
-      "popularity": 41.6252,
-      "poster_path": "/zdnjZa9HfBxlQnCX4dqCbbzxsLI.jpg",
-      "release_date": "2000-10-27",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.427,
-      "vote_count": 2474
+      "vote_average": 8.686,
+      "vote_count": 22786
     },
     {
       "adult": false,
@@ -53,93 +73,13 @@
       "original_language": "es",
       "original_title": "Culpa mía",
       "overview": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión de William Leister, el flamante y rico marido de su madre Rafaela. Por otro lado, con 17 años, orgullosa e independiente, Noah se resiste a vivir en una mansión rodeada de lujo. Allí conoce a Nick, su nuevo hermanastro, y el choque de sus fuertes personalidades se hace evidente desde el primer momento.",
-      "popularity": 40.1905,
+      "popularity": 39.7169,
       "poster_path": "/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
       "release_date": "2023-06-08",
       "softcore": false,
       "video": false,
       "vote_average": 7.747,
-      "vote_count": 4033
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
-      "genre_ids": [
-        10749,
-        35,
-        18
-      ],
-      "id": 1325734,
-      "title": "El drama",
-      "original_language": "en",
-      "original_title": "The Drama",
-      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "popularity": 40.0885,
-      "poster_path": "/IsyXDsvsNthbtdpM4qMwop1Gwo.jpg",
-      "release_date": "2026-03-26",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.034,
-      "vote_count": 502
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/dqmeFUrf6Hs2ejcGGGfv69vtbbR.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 226674,
-      "title": "La adolescente",
-      "original_language": "fr",
-      "original_title": "L'Adolescente",
-      "overview": "Verano de 1939. Marie, de 13 años, va con sus padres a visitar a su abuela a un pequeño pueblo cerca de Aviñón. Ya hay rumores de guerra, pero ellos se encuentran en un lugar remoto e idílico. Los padres de Marie se pasan el día haciendo el amor. Ella, por su parte, ya en los albores del despertar sexual, fantasea con Alexander, el joven médico judío del pueblo, pero se desanima al ver que él la trata como una niña",
-      "popularity": 38.9602,
-      "poster_path": "/v7yCEzF9BCF82lbp42X5ZLjIieo.jpg",
-      "release_date": "1979-01-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 4.192,
-      "vote_count": 13
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/mxdiaM2tsx8M6W3zLgiPwAkhQfq.jpg",
-      "genre_ids": [
-        18,
-        10749
-      ],
-      "id": 744275,
-      "title": "After: Almas perdidas",
-      "original_language": "en",
-      "original_title": "After We Fell",
-      "overview": "Cuando Tessa toma la decisión más importante de su vida, todo cambia. Los secretos que salen a la luz sobre su familia y la de Hardin ponen en peligro su relación y su futuro juntos. La vida de Tessa empieza a romperse en pedazos y ya nada será como antes. Aunque sabe que Hardin la quiere, estas dos almas perdidas están rodeadas de celos, odio... y perdón. Hasta ahora, el amor era suficiente para mantener su relación a flote, pero ¿de verdad sigue mereciendo la pena?",
-      "popularity": 37.1063,
-      "poster_path": "/cAvUp7ngPyuhx1nLjmCOTCBNo91.jpg",
-      "release_date": "2021-09-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.005,
-      "vote_count": 2724
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6xVAbjvUWKJlPSVYduQgkRzEQNy.jpg",
-      "genre_ids": [
-        18,
-        53
-      ],
-      "id": 1424965,
-      "title": "Infierno bajo cero",
-      "original_language": "en",
-      "original_title": "Ice Skater",
-      "overview": "Atrapada en una placa de hielo a la deriva en el Ártico, una patinadora artística lucha por sobrevivir mientras el hielo se fragmenta y la arrastra hacia aguas abiertas. Sin posibilidad de rescate, cada minuto es una batalla contra el frío extremo, el hambre y el agotamiento.",
-      "popularity": 35.581,
-      "poster_path": "/dQyyx00wZSiJlJEAT0oIo9NZVjn.jpg",
-      "release_date": "2026-02-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 4.447,
-      "vote_count": 19
+      "vote_count": 4034
     },
     {
       "adult": false,
@@ -153,73 +93,13 @@
       "original_language": "en",
       "original_title": "The Devil Wears Prada 2",
       "overview": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
-      "popularity": 35.5721,
+      "popularity": 38.6816,
       "poster_path": "/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
       "release_date": "2026-04-29",
       "softcore": false,
       "video": false,
-      "vote_average": 7.5,
-      "vote_count": 2
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qBChUbS8ksbJoPTfZpogsnxG5tY.jpg",
-      "genre_ids": [
-        18,
-        10749
-      ],
-      "id": 597,
-      "title": "Titanic",
-      "original_language": "en",
-      "original_title": "Titanic",
-      "overview": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg.",
-      "popularity": 33.9355,
-      "poster_path": "/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
-      "release_date": "1997-12-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.902,
-      "vote_count": 27026
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8gBOpyW6iTDGZJR93YuF3L7dDuI.jpg",
-      "genre_ids": [
-        18,
-        10770
-      ],
-      "id": 441168,
-      "title": "La doble vida de Miriam",
-      "original_language": "en",
-      "original_title": "From Straight A's to XXX",
-      "overview": "Cuando un cambio de circunstancias deja a Miriam incapaz de pagar sus estudios universitarios, toma una decisión sorprendente: comenzar a actuar en películas para adultos, usando el seudónimo Belle Knox. Miriam se encuentra con su familia y sus amigos en la escuela, manteniendo su doble vida en secreto. Pero pronto se difundieron rumores y Miriam se convirtió en el sujeto de ataques en línea viciosos y atención no deseada. Miriam responde: habla con los medios de comunicación, diciendo que su nueva línea de trabajo le da poder como feminista. Pero su postura confiada tiene consecuencias no deseadas. Miriam es rechazada por su familia conservadora y sus colegas en el mundo del cine adulto. Una decisión impulsiva ha salido rápidamente fuera de control y los problemas de Miriam apenas están comenzando.",
-      "popularity": 33.473,
-      "poster_path": "/kvcdaGcres9pGDwZfPN9jOKfZh.jpg",
-      "release_date": "2017-02-11",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.822,
-      "vote_count": 160
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 81774,
-      "title": "La iniciación (Las hazañas de un joven Don Juan)",
-      "original_language": "fr",
-      "original_title": "Les Exploits d'un jeune Don Juan",
-      "overview": "La película describe el despertar sexual y las aventuras de un adolescente Roger durante la época del estallido de la Primera Guerra Mundial.",
-      "popularity": 33.001,
-      "poster_path": "/jp8LYiQzEoUuMqu2lGSZZ1A4Nsf.jpg",
-      "release_date": "1986-11-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.0,
-      "vote_count": 307
+      "vote_average": 8.3,
+      "vote_count": 3
     },
     {
       "adult": false,
@@ -234,94 +114,114 @@
       "original_language": "en",
       "original_title": "Hamnet",
       "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
-      "popularity": 32.7108,
+      "popularity": 37.6592,
       "poster_path": "/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
       "release_date": "2025-11-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.731,
-      "vote_count": 1253
+      "vote_average": 7.736,
+      "vote_count": 1258
     },
     {
       "adult": false,
-      "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+      "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
       "genre_ids": [
-        28,
+        10749,
+        35,
+        18
+      ],
+      "id": 1325734,
+      "title": "El drama",
+      "original_language": "en",
+      "original_title": "The Drama",
+      "overview": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "popularity": 37.4316,
+      "poster_path": "/IsyXDsvsNthbtdpM4qMwop1Gwo.jpg",
+      "release_date": "2026-03-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 512
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mxdiaM2tsx8M6W3zLgiPwAkhQfq.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 744275,
+      "title": "After: Almas perdidas",
+      "original_language": "en",
+      "original_title": "After We Fell",
+      "overview": "Cuando Tessa toma la decisión más importante de su vida, todo cambia. Los secretos que salen a la luz sobre su familia y la de Hardin ponen en peligro su relación y su futuro juntos. La vida de Tessa empieza a romperse en pedazos y ya nada será como antes. Aunque sabe que Hardin la quiere, estas dos almas perdidas están rodeadas de celos, odio... y perdón. Hasta ahora, el amor era suficiente para mantener su relación a flote, pero ¿de verdad sigue mereciendo la pena?",
+      "popularity": 36.0858,
+      "poster_path": "/cAvUp7ngPyuhx1nLjmCOTCBNo91.jpg",
+      "release_date": "2021-09-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.005,
+      "vote_count": 2724
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 81774,
+      "title": "La iniciación (Las hazañas de un joven Don Juan)",
+      "original_language": "fr",
+      "original_title": "Les Exploits d'un jeune Don Juan",
+      "overview": "La película describe el despertar sexual y las aventuras de un adolescente Roger durante la época del estallido de la Primera Guerra Mundial.",
+      "popularity": 35.6784,
+      "poster_path": "/jp8LYiQzEoUuMqu2lGSZZ1A4Nsf.jpg",
+      "release_date": "1986-11-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.036,
+      "vote_count": 308
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8gBOpyW6iTDGZJR93YuF3L7dDuI.jpg",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 441168,
+      "title": "La doble vida de Miriam",
+      "original_language": "en",
+      "original_title": "From Straight A's to XXX",
+      "overview": "Cuando un cambio de circunstancias deja a Miriam incapaz de pagar sus estudios universitarios, toma una decisión sorprendente: comenzar a actuar en películas para adultos, usando el seudónimo Belle Knox. Miriam se encuentra con su familia y sus amigos en la escuela, manteniendo su doble vida en secreto. Pero pronto se difundieron rumores y Miriam se convirtió en el sujeto de ataques en línea viciosos y atención no deseada. Miriam responde: habla con los medios de comunicación, diciendo que su nueva línea de trabajo le da poder como feminista. Pero su postura confiada tiene consecuencias no deseadas. Miriam es rechazada por su familia conservadora y sus colegas en el mundo del cine adulto. Una decisión impulsiva ha salido rápidamente fuera de control y los problemas de Miriam apenas están comenzando.",
+      "popularity": 35.3504,
+      "poster_path": "/kvcdaGcres9pGDwZfPN9jOKfZh.jpg",
+      "release_date": "2017-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.822,
+      "vote_count": 160
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6xVAbjvUWKJlPSVYduQgkRzEQNy.jpg",
+      "genre_ids": [
         18,
         53
       ],
-      "id": 1387382,
-      "title": "Hunting Season",
+      "id": 1424965,
+      "title": "Infierno bajo cero",
       "original_language": "en",
-      "original_title": "Hunting Season",
-      "overview": "Cuando una misteriosa joven aparece en la orilla de un río local, tanto la niña de doce años que la descubre como su sobreprotector padre cambian para siempre con la llegada de esta extraña a su hogar. Mientras, un despiadado capo de la droga no se detendrá ante nada para matarla de una vez por todas.",
-      "popularity": 31.7675,
-      "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
-      "release_date": "2025-12-05",
+      "original_title": "Ice Skater",
+      "overview": "Atrapada en una placa de hielo a la deriva en el Ártico, una patinadora artística lucha por sobrevivir mientras el hielo se fragmenta y la arrastra hacia aguas abiertas. Sin posibilidad de rescate, cada minuto es una batalla contra el frío extremo, el hambre y el agotamiento.",
+      "popularity": 35.07,
+      "poster_path": "/dQyyx00wZSiJlJEAT0oIo9NZVjn.jpg",
+      "release_date": "2026-02-24",
       "softcore": false,
       "video": false,
-      "vote_average": 6.886,
-      "vote_count": 189
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cK070s3Qdn1Ib7Gq8RgIyJKgvu3.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "id": 77338,
-      "title": "Intocable",
-      "original_language": "fr",
-      "original_title": "Intouchables",
-      "overview": "Un hombre tetraplégico y millonario contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque no parece la persona más indicada, congenian hasta forjar una amistad tan sólida como inesperada.",
-      "popularity": 31.6811,
-      "poster_path": "/edPWyHqknFuxFY3sdmC3LtJITWC.jpg",
-      "release_date": "2011-11-02",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.269,
-      "vote_count": 18319
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
-      "genre_ids": [
-        35,
-        53,
-        18
-      ],
-      "id": 496243,
-      "title": "Parásitos",
-      "original_language": "ko",
-      "original_title": "기생충",
-      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-      "popularity": 31.3543,
-      "poster_path": "/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
-      "release_date": "2019-05-30",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.494,
-      "vote_count": 20458
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yARPQVuQTZv5vHUbBVNPt6B0AqF.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1669050,
-      "title": "Tayuan 2",
-      "original_language": "tl",
-      "original_title": "Tayuan 2",
-      "overview": "",
-      "popularity": 31.2871,
-      "poster_path": "/gkHNa8q3RNhgj2EMuoYWJUHsMa6.jpg",
-      "release_date": "2026-04-17",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0.0,
-      "vote_count": 0
+      "vote_average": 4.447,
+      "vote_count": 19
     },
     {
       "adult": false,
@@ -336,13 +236,113 @@
       "original_language": "en",
       "original_title": "Apocalypto",
       "overview": "Historia ambientada en la época del imperio maya. Cuando la idílica existencia de los mayas es brutalmente interrumpida por el ataque de una fuerza invasora, un hombre emprende un arriesgado viaje a un mundo regido por el miedo y la opresión en el que le espera un incierto final. Debido a un giro del destino y espoleado por el amor a su esposa y a su familia, emprenderá el regreso a su hogar en un desesperado esfuerzo por preservar su forma de vida...",
-      "popularity": 31.0829,
+      "popularity": 34.8104,
       "poster_path": "/yQ4uC13IYVerbxMMXeSogSQUkOT.jpg",
       "release_date": "2006-12-07",
       "softcore": false,
       "video": false,
       "vote_average": 7.598,
-      "vote_count": 6198
+      "vote_count": 6199
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dqmeFUrf6Hs2ejcGGGfv69vtbbR.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 226674,
+      "title": "La adolescente",
+      "original_language": "fr",
+      "original_title": "L'Adolescente",
+      "overview": "Verano de 1939. Marie, de 13 años, va con sus padres a visitar a su abuela a un pequeño pueblo cerca de Aviñón. Ya hay rumores de guerra, pero ellos se encuentran en un lugar remoto e idílico. Los padres de Marie se pasan el día haciendo el amor. Ella, por su parte, ya en los albores del despertar sexual, fantasea con Alexander, el joven médico judío del pueblo, pero se desanima al ver que él la trata como una niña",
+      "popularity": 33.8089,
+      "poster_path": "/v7yCEzF9BCF82lbp42X5ZLjIieo.jpg",
+      "release_date": "1979-01-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.192,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qBChUbS8ksbJoPTfZpogsnxG5tY.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 597,
+      "title": "Titanic",
+      "original_language": "en",
+      "original_title": "Titanic",
+      "overview": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg.",
+      "popularity": 33.4123,
+      "poster_path": "/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
+      "release_date": "1997-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.902,
+      "vote_count": 27029
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18
+      ],
+      "id": 496243,
+      "title": "Parásitos",
+      "original_language": "ko",
+      "original_title": "기생충",
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "popularity": 33.3874,
+      "poster_path": "/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "release_date": "2019-05-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.494,
+      "vote_count": 20463
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yARPQVuQTZv5vHUbBVNPt6B0AqF.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1669050,
+      "title": "Tayuan 2",
+      "original_language": "tl",
+      "original_title": "Tayuan 2",
+      "overview": "",
+      "popularity": 30.6375,
+      "poster_path": "/gkHNa8q3RNhgj2EMuoYWJUHsMa6.jpg",
+      "release_date": "2026-04-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 1387382,
+      "title": "Hunting Season",
+      "original_language": "en",
+      "original_title": "Hunting Season",
+      "overview": "Cuando una misteriosa joven aparece en la orilla de un río local, tanto la niña de doce años que la descubre como su sobreprotector padre cambian para siempre con la llegada de esta extraña a su hogar. Mientras, un despiadado capo de la droga no se detendrá ante nada para matarla de una vez por todas.",
+      "popularity": 30.3914,
+      "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+      "release_date": "2025-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.886,
+      "vote_count": 189
     },
     {
       "adult": false,
@@ -356,33 +356,13 @@
       "original_language": "en",
       "original_title": "Top Gun: Maverick",
       "overview": "Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell se encuentra dónde siempre quiso estar, empujando los límites como un valiente piloto de prueba y esquivando el alcance en su rango, que no le dejaría volar emplazándolo en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especializada, Maverick se encuentra allí con el teniente Bradley Bradshaw, el hijo de su difunto amigo \"Goose\".",
-      "popularity": 30.8625,
+      "popularity": 29.8021,
       "poster_path": "/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
       "release_date": "2022-05-21",
       "softcore": false,
       "video": false,
-      "vote_average": 8.152,
-      "vote_count": 10789
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        18,
-        80
-      ],
-      "id": 252969,
-      "title": "Secret Pleasures",
-      "original_language": "en",
-      "original_title": "Secret Pleasures",
-      "overview": "",
-      "popularity": 30.3678,
-      "poster_path": "/j0Qu5opplDTot70kMqVqzURFXHY.jpg",
-      "release_date": "2002-10-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 2.6,
-      "vote_count": 9
+      "vote_average": 8.2,
+      "vote_count": 10791
     },
     {
       "adult": false,
@@ -396,15 +376,35 @@
       "original_language": "en",
       "original_title": "F1",
       "overview": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
-      "popularity": 28.5058,
+      "popularity": 29.7745,
       "poster_path": "/wfpqaxoPKvcqzLy8FO0enGXBzU.jpg",
       "release_date": "2025-06-25",
       "softcore": false,
       "video": false,
       "vote_average": 7.75,
-      "vote_count": 3766
+      "vote_count": 3769
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 550,
+      "title": "El club de la lucha",
+      "original_language": "en",
+      "original_title": "Fight Club",
+      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "popularity": 28.4297,
+      "poster_path": "/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "release_date": "1999-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.438,
+      "vote_count": 31842
     }
   ],
-  "total_pages": 14270,
-  "total_results": 285397
+  "total_pages": 14275,
+  "total_results": 285486
 }

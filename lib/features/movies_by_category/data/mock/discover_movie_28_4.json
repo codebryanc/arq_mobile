@@ -3,44 +3,44 @@
   "results": [
     {
       "adult": false,
+      "backdrop_path": "/i2GPnSwsdxHtI19e7gZwFVndpqg.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1511417,
+      "title": "Baahubali: The Epic",
+      "original_language": "te",
+      "original_title": "Bāhubali: The Epic",
+      "overview": "Cuando una pareja tribal encuentra a un niño misterioso cerca de una estruendosa cascada, lo crían como si fuera suyo. A medida que crece, Sivudu se siente atraído por el mundo más allá de los acantilados, donde descubre el antiguo reino de Mahishmati, gobernado por un tirano cruel, asolado por la rebelión y ligado a su propio pasado. Lo que comienza como una búsqueda por amor, pronto desentraña un legado de traición, sacrificio y un príncipe olvidado.",
+      "popularity": 23.7765,
+      "poster_path": "/4sLSorDKKDN944kWngxgQlpdDeg.jpg",
+      "release_date": "2025-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.986,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
       "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
       "genre_ids": [
         28,
-        10752
+        10752,
+        53
       ],
       "id": 1223601,
       "title": "Sisu: Camino a la venganza",
       "original_language": "fi",
       "original_title": "Sisu 2",
       "overview": "Al regresar a la casa donde su familia fue brutalmente asesinada durante la guerra, «el hombre que se niega a morir» la desmantela, la carga en un camión y se propone reconstruirla en un lugar seguro en honor a ellos. Cuando el comandante del Ejército Rojo que mató a su familia regresa empeñado en terminar el trabajo, se produce una implacable y espectacular persecución a través del país, una lucha a muerte llena de escenas de acción increíbles e ingeniosas.",
-      "popularity": 24.0698,
+      "popularity": 25.262,
       "poster_path": "/qQyc6t9dHS5dlIUt3ccCQnRIAc1.jpg",
       "release_date": "2025-10-21",
       "softcore": false,
       "video": false,
-      "vote_average": 7.318,
-      "vote_count": 685
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
-      "genre_ids": [
-        12,
-        28,
-        878
-      ],
-      "id": 333339,
-      "title": "Ready Player One",
-      "original_language": "en",
-      "original_title": "Ready Player One",
-      "overview": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
-      "popularity": 24.048,
-      "poster_path": "/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
-      "release_date": "2018-03-28",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.584,
-      "vote_count": 16777
+      "vote_average": 7.321,
+      "vote_count": 686
     },
     {
       "adult": false,
@@ -55,13 +55,13 @@
       "original_language": "en",
       "original_title": "The Fantastic 4: First Steps",
       "overview": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
-      "popularity": 23.7735,
+      "popularity": 24.2047,
       "poster_path": "/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
       "release_date": "2025-07-23",
       "softcore": false,
       "video": false,
-      "vote_average": 6.96,
-      "vote_count": 3218
+      "vote_average": 6.961,
+      "vote_count": 3222
     },
     {
       "adult": false,
@@ -78,13 +78,13 @@
       "original_language": "en",
       "original_title": "Despicable Me 4",
       "overview": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gru Junior, que parece llegar con el propósito de ser un suplicio para su padre. Gru tendrá que enfrentarse en esta ocasión a su nueva némesis Maxime Le Mal y su sofisticada y malévola novia Valentina, lo que obligará a la familia a tener que darse a la fuga. Cuarta entrega de 'Gru, mi villano favorito'.",
-      "popularity": 23.568,
+      "popularity": 23.8549,
       "poster_path": "/b6JX0fBne5yPFNBtdp4Imi3CpiE.jpg",
       "release_date": "2024-06-20",
       "softcore": false,
       "video": false,
       "vote_average": 6.981,
-      "vote_count": 3153
+      "vote_count": 3155
     },
     {
       "adult": false,
@@ -98,33 +98,13 @@
       "original_language": "en",
       "original_title": "Spider-Man",
       "overview": "Peter Parker es un joven y tímido estudiante que vive con su tía May y su tío Ben desde la muerte de sus padres. Un día es mordido por una araña que ha sido modificada genéticamente, descubriendo al día siguiente que posee unos poderes poco habituales: tiene la fuerza y agilidad de una araña.",
-      "popularity": 23.4966,
+      "popularity": 23.9283,
       "poster_path": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
       "release_date": "2002-05-01",
       "softcore": false,
       "video": false,
       "vote_average": 7.325,
-      "vote_count": 20533
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uQmr1eJvNwa7mCd3rXEXquA6Z3c.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1383731,
-      "title": "Protector",
-      "original_language": "en",
-      "original_title": "Protector",
-      "overview": "La vida pacífica de Nikki, una exheroína de guerra, se ve destrozada cuando su hija es secuestrada. Inmersa en el submundo criminal mientras es perseguida por policías y militares, debe luchar para rescatar a su hija.",
-      "popularity": 23.4391,
-      "poster_path": "/Awvlydvag364audeksfRFldVslq.jpg",
-      "release_date": "2026-03-05",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.2,
-      "vote_count": 20
+      "vote_count": 20535
     },
     {
       "adult": false,
@@ -139,13 +119,13 @@
       "original_language": "en",
       "original_title": "Van Helsing",
       "overview": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone... y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
-      "popularity": 23.2477,
+      "popularity": 24.0963,
       "poster_path": "/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
       "release_date": "2004-05-03",
       "softcore": false,
       "video": false,
       "vote_average": 6.399,
-      "vote_count": 6567
+      "vote_count": 6569
     },
     {
       "adult": false,
@@ -160,7 +140,7 @@
       "original_language": "en",
       "original_title": "Avengers: Doomsday",
       "overview": "Quinta entrega de la saga 'Vengadores' incluida en el Universo Cinematográfico Marvel (UCM). Sinopsis desconocido.",
-      "popularity": 23.1289,
+      "popularity": 21.3451,
       "poster_path": "/rQKabpeIewLLNStFr3anEXI0xqu.jpg",
       "release_date": "2026-12-16",
       "softcore": false,
@@ -181,13 +161,13 @@
       "original_language": "en",
       "original_title": "Star Wars",
       "overview": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
-      "popularity": 23.1058,
+      "popularity": 21.7653,
       "poster_path": "/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
       "release_date": "1977-05-25",
       "softcore": false,
       "video": false,
-      "vote_average": 8.203,
-      "vote_count": 22183
+      "vote_average": 8.202,
+      "vote_count": 22187
     },
     {
       "adult": false,
@@ -203,12 +183,12 @@
       "original_language": "en",
       "original_title": "Sonic the Hedgehog 3",
       "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
-      "popularity": 22.9411,
+      "popularity": 24.1774,
       "poster_path": "/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
       "release_date": "2024-12-19",
       "softcore": false,
       "video": false,
-      "vote_average": 7.611,
+      "vote_average": 7.6,
       "vote_count": 3224
     },
     {
@@ -224,13 +204,13 @@
       "original_language": "en",
       "original_title": "Spider-Man: Far From Home",
       "overview": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
-      "popularity": 22.3454,
+      "popularity": 22.3961,
       "poster_path": "/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
       "release_date": "2019-06-28",
       "softcore": false,
       "video": false,
       "vote_average": 7.396,
-      "vote_count": 16855
+      "vote_count": 16859
     },
     {
       "adult": false,
@@ -245,7 +225,7 @@
       "original_language": "en",
       "original_title": "Mission: Impossible - The Final Reckoning",
       "overview": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\".",
-      "popularity": 22.2402,
+      "popularity": 22.4963,
       "poster_path": "/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg",
       "release_date": "2025-05-17",
       "softcore": false,
@@ -266,13 +246,13 @@
       "original_language": "en",
       "original_title": "A Working Man",
       "overview": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
-      "popularity": 22.1128,
+      "popularity": 22.0005,
       "poster_path": "/eLBWBW4hariYCgTS5BL1tpMAYiG.jpg",
       "release_date": "2025-03-26",
       "softcore": false,
       "video": false,
-      "vote_average": 6.68,
-      "vote_count": 1854
+      "vote_average": 6.682,
+      "vote_count": 1855
     },
     {
       "adult": false,
@@ -288,13 +268,13 @@
       "original_language": "en",
       "original_title": "Greenland",
       "overview": "Cuando el mundo es consciente de que el asteroide más grande de la historia va a impactar en la Tierra y aniquilar todo rastro de vida, los gobiernos de todo el mundo realizan un sorteo en el cual los afortunados podrán sobrevivir en refugios secretos. Esta decisión desata un caos a nivel mundial. Muchos tendrán que emprender un peligroso viaje donde se enfrentarán a los más imponentes peligros de la naturaleza, lo que les obligará a encontrar la manera de mantenerse unidos mientras encuentran la forma de sobrevivir.",
-      "popularity": 21.9048,
+      "popularity": 22.4077,
       "poster_path": "/9iFkwShRf5M29yLABAdsEZyr9w6.jpg",
       "release_date": "2020-07-29",
       "softcore": false,
       "video": false,
       "vote_average": 7.125,
-      "vote_count": 5219
+      "vote_count": 5221
     },
     {
       "adult": false,
@@ -308,7 +288,7 @@
       "original_language": "en",
       "original_title": "Wildcat",
       "overview": "Londres, hoy. Kate Beckinsale es Ada Williams, una exoperativa de fuerzas especiales que dejó la violencia por su hija. Cuando una deuda criminal provoca el secuestro de la niña, Ada solo tiene una noche para salvarla. Con la ciudad sumida en el caos, reúne a su antiguo equipo y se adentra en el inframundo londinense en una carrera contrarreloj donde cada decisión puede ser mortal.",
-      "popularity": 21.6036,
+      "popularity": 22.254,
       "poster_path": "/2eQspDQBLDTvDOQtmErmi6uIi2.jpg",
       "release_date": "2025-11-19",
       "softcore": false,
@@ -329,13 +309,13 @@
       "original_language": "hi",
       "original_title": "धुरंधर",
       "overview": "",
-      "popularity": 21.5799,
+      "popularity": 19.0267,
       "poster_path": "/kOLkpkS2T4HAdA6J7uq4eipNTup.jpg",
       "release_date": "2025-12-05",
       "softcore": false,
       "video": false,
-      "vote_average": 7.074,
-      "vote_count": 257
+      "vote_average": 7.085,
+      "vote_count": 258
     },
     {
       "adult": false,
@@ -351,7 +331,7 @@
       "original_language": "ja",
       "original_title": "俺だけレベルアップな件 -ReAwakening-",
       "overview": "Ha pasado más de una década desde que un camino llamado \"portal\" que conecta este mundo con una dimensión alternativa apareció de repente, y personas con poderes sobrehumanos llamados \"cazadores\" han despertado. Los cazadores usan sus poderes sobrehumanos para conquistar mazmorras dentro de los portales para ganarse la vida y Sung Jinwoo, un cazador del rango más bajo, es considerado como el Cazador Más débil de Toda la Humanidad. Un día se encuentra con una mazmorra doble, una mazmorra de alto nivel oculta dentro de una de bajo nivel. Frente a un Jinwoo gravemente herido, surge una misteriosa ventana hacia una misión. Al borde de la muerte, Jinwoo decide encargarse de la misión, que le convierte en la única persona capaz de subir de nivel. Largometraje formado por una recapitulación de la primera temporada de la serie de anime homónima junto con un avance exclusivo de los dos primeros episodios de la segunda temporada.",
-      "popularity": 21.5022,
+      "popularity": 21.3705,
       "poster_path": "/diPEcLFEb1uuUpApol1Bit6ck3l.jpg",
       "release_date": "2024-11-26",
       "softcore": false,
@@ -372,13 +352,13 @@
       "original_language": "en",
       "original_title": "Iron Man 3",
       "overview": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
-      "popularity": 21.4699,
+      "popularity": 18.5005,
       "poster_path": "/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
       "release_date": "2013-04-18",
       "softcore": false,
       "video": false,
       "vote_average": 6.931,
-      "vote_count": 23323
+      "vote_count": 23325
     },
     {
       "adult": false,
@@ -393,13 +373,13 @@
       "original_language": "en",
       "original_title": "Avengers: Age of Ultron",
       "overview": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultron emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura.",
-      "popularity": 21.4488,
+      "popularity": 21.2215,
       "poster_path": "/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
       "release_date": "2015-04-22",
       "softcore": false,
       "video": false,
       "vote_average": 7.27,
-      "vote_count": 24300
+      "vote_count": 24303
     },
     {
       "adult": false,
@@ -415,15 +395,36 @@
       "original_language": "en",
       "original_title": "How to Train Your Dragon",
       "overview": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
-      "popularity": 21.4351,
+      "popularity": 22.3356,
       "poster_path": "/kjQXYc2Abhy3TBgAZGzJRhN1JaV.jpg",
       "release_date": "2025-06-06",
       "softcore": false,
       "video": false,
-      "vote_average": 7.924,
-      "vote_count": 2729
+      "vote_average": 7.923,
+      "vote_count": 2730
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 121,
+      "title": "El señor de los anillos: Las dos torres",
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+      "popularity": 23.1148,
+      "poster_path": "/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
+      "release_date": "2002-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.415,
+      "vote_count": 23731
     }
   ],
-  "total_pages": 2406,
-  "total_results": 48112
+  "total_pages": 2407,
+  "total_results": 48129
 }

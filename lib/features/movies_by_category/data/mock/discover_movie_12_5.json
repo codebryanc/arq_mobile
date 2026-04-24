@@ -1,0 +1,430 @@
+{
+  "page": 5,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/otkJlfjB7zJ5h34FEIfemenMbCy.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12,
+        53
+      ],
+      "id": 106,
+      "title": "Depredador",
+      "original_language": "en",
+      "original_title": "Predator",
+      "overview": "Un comando de mercenarios es contratados por la CIA para rescatar a unos pilotos apresados por las guerrillas en la selva Centroamericana. La misión resulta satisfactoria, pero durante su viaje de regreso se dan cuenta de que algo está dándoles caza uno a uno, ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos",
+      "popularity": 19.0929,
+      "poster_path": "/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg",
+      "release_date": "1987-06-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.546,
+      "vote_count": 9012
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
+      "genre_ids": [
+        27,
+        53,
+        28,
+        12
+      ],
+      "id": 396535,
+      "title": "Train to Busan",
+      "original_language": "ko",
+      "original_title": "부산행",
+      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
+      "popularity": 19.0523,
+      "poster_path": "/anomz7b3GQtHPFH34SODDBBIUad.jpg",
+      "release_date": "2016-07-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.748,
+      "vote_count": 8292
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 674,
+      "title": "Harry Potter y el cáliz de fuego",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Goblet of Fire",
+      "overview": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
+      "popularity": 19.036,
+      "poster_path": "/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+      "release_date": "2005-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.801,
+      "vote_count": 22039
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 559,
+      "title": "Spider-Man 3",
+      "original_language": "en",
+      "original_title": "Spider-Man 3",
+      "overview": "Parece que Parker ha conseguido por fin el equilibrio entre su devoción por Mary Jane y sus deberes como superhéroe. Pero, de repente, su traje se vuelve negro y adquiere nuevos poderes; también él se transforma, mostrando el lado más oscuro y vengativo de su personalidad. Bajo la influencia del nuevo traje, Peter se convierte en un ser egoísta que sólo se preocupa por sí mismo. Tiene, pues, que afrontar un dilema: disfrutar de sus nuevos poderes o seguir siendo un héroe compasivo. Mientras tanto, sobre él se cierne la amenaza de dos temibles enemigos: Venom y el Hombre de Arena.",
+      "popularity": 18.8687,
+      "poster_path": "/anEWMsTkHXMf17Q2qypm44inbR9.jpg",
+      "release_date": "2007-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.454,
+      "vote_count": 15118
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 12444,
+      "title": "Harry Potter y las Reliquias de la Muerte - Parte 1",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+      "overview": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
+      "popularity": 18.5915,
+      "poster_path": "/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
+      "release_date": "2010-11-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.734,
+      "vote_count": 20269
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 58,
+      "title": "Piratas del Caribe: El cofre del hombre muerto",
+      "original_language": "en",
+      "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+      "overview": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante.",
+      "popularity": 18.5872,
+      "poster_path": "/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
+      "release_date": "2006-07-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.375,
+      "vote_count": 17044
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 271110,
+      "title": "Capitán América: Civil War",
+      "original_language": "en",
+      "original_title": "Captain America: Civil War",
+      "overview": "Continúa la historia de “Avengers: Age of Ultron”, con Steve Rogers liderando un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano.",
+      "popularity": 18.5763,
+      "poster_path": "/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg",
+      "release_date": "2016-04-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.447,
+      "vote_count": 23921
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 68721,
+      "title": "Iron Man 3",
+      "original_language": "en",
+      "original_title": "Iron Man 3",
+      "overview": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
+      "popularity": 18.5005,
+      "poster_path": "/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
+      "release_date": "2013-04-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.931,
+      "vote_count": 23325
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8FWLJHuWB72UXBmiMtxwTvQVumN.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        80,
+        12,
+        16
+      ],
+      "id": 1175942,
+      "title": "Los tipos malos 2",
+      "original_language": "en",
+      "original_title": "The Bad Guys 2",
+      "overview": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
+      "popularity": 18.4297,
+      "poster_path": "/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg",
+      "release_date": "2025-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 754
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 767,
+      "title": "Harry Potter y el misterio del príncipe",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Half-Blood Prince",
+      "overview": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
+      "popularity": 18.4113,
+      "poster_path": "/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg",
+      "release_date": "2009-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.681,
+      "vote_count": 20672
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14
+      ],
+      "id": 109445,
+      "title": "Frozen: El reino del hielo",
+      "original_language": "en",
+      "original_title": "Frozen",
+      "overview": "Cuando una profecía condena a un reino a un invierno eterno, Anna, una joven optimista se une a un temerario montañero llamado Kristoff y a su compinche el reno Sven. Juntos emprenden un viaje épico en busca de Elsa, hermana de Anna y reina de Las Nieves para poner fin al gélido hechizo.",
+      "popularity": 18.3267,
+      "poster_path": "/sGNuWC4BwqOB4l0tkbKwLy70tXC.jpg",
+      "release_date": "2013-11-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.248,
+      "vote_count": 17497
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+      "genre_ids": [
+        28,
+        18,
+        12
+      ],
+      "id": 98,
+      "title": "Gladiator",
+      "original_language": "en",
+      "original_title": "Gladiator",
+      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "popularity": 18.3206,
+      "poster_path": "/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
+      "release_date": "2000-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.225,
+      "vote_count": 20758
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "id": 12,
+      "title": "Buscando a Nemo",
+      "original_language": "en",
+      "original_title": "Finding Nemo",
+      "overview": "Nemo, un pececillo, hijo único muy querido y protegido por su padre, ha sido capturado en un arrecife australiano y ahora vive en una pecera en la oficina de un dentista de Sidney. El tímido padre de Nemo se embarcará en una peligrosa aventura para rescatar a su hijo. Pero Nemo y sus nuevos amigos tienen también un astuto plan para escapar de la pecera y volver al mar.",
+      "popularity": 18.2393,
+      "poster_path": "/jPhak722pNGxQIXSEfeWIUqBrO5.jpg",
+      "release_date": "2003-05-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.817,
+      "vote_count": 20447
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        16
+      ],
+      "id": 762509,
+      "title": "Mufasa: El rey león",
+      "original_language": "en",
+      "original_title": "Mufasa: The Lion King",
+      "overview": "Rafiki debe transmitir la leyenda de Mufasa a la joven cachorro de león Kiara, hija de Simba y Nala, y con Timón y Pumba prestando su estilo característico. Mufasa, un cachorro huérfano, perdido y solo, conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
+      "popularity": 18.1326,
+      "poster_path": "/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+      "release_date": "2024-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.311,
+      "vote_count": 2619
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 675,
+      "title": "Harry Potter y la Orden del Fénix",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Order of the Phoenix",
+      "overview": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
+      "popularity": 17.979,
+      "poster_path": "/xxXiM2Ij7plbzibKWW9BfDk23aI.jpg",
+      "release_date": "2007-07-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.672,
+      "vote_count": 20695
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 986056,
+      "title": "Thunderbolts*",
+      "original_language": "en",
+      "original_title": "Thunderbolts*",
+      "overview": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
+      "popularity": 17.9231,
+      "poster_path": "/yDWU8YyFkPnlVY627QXPvct8bz9.jpg",
+      "release_date": "2025-04-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.288,
+      "vote_count": 3404
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1930,
+      "title": "The Amazing Spider-Man",
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man",
+      "overview": "Como la mayoría de los adolescentes de su edad, Peter está intentando descubrir quién es y cómo ha llegado a ser lo que es. En su viaje para atar los cabos de su pasado descubre un secreto que guardaba su padre, un secreto que finalmente dará forma a su destino como Spiderman.",
+      "popularity": 17.7305,
+      "poster_path": "/swjygVNvJ84ztpgfFX9gRr2MPBZ.jpg",
+      "release_date": "2012-06-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.732,
+      "vote_count": 18407
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7s7WkAFPBsMTprYMbqbgKoppQsR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "id": 1734,
+      "title": "El regreso de la momia",
+      "original_language": "en",
+      "original_title": "The Mummy Returns",
+      "overview": "Han pasado diez años, Rick O'Connell se ha casado con Evelyn, y ambos son padres del pequeño Alex, de ocho años. Cuando, tras una serie de acontecimientos, la momia del antiguo sacerdote egipcio Im-Ho-Tep es resucitada por una extraña secta en el British Museum, y la maldición milenaria del Rey Escorpión -que seis mil años atrás traicionó al dios Anubis- lo devuelve a la vida, el choque entre ambas fuerzas malignas desencadenará el caos en el mundo... si Rick y Evelyn no consiguen evitarlo.",
+      "popularity": 17.7057,
+      "poster_path": "/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg",
+      "release_date": "2001-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.398,
+      "vote_count": 7610
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        14
+      ],
+      "id": 411,
+      "title": "Las crónicas de Narnia: El león, la bruja y el armario",
+      "original_language": "en",
+      "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "overview": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío.",
+      "popularity": 17.4617,
+      "poster_path": "/2Lv2wKf2YocOcRfzmvQYOUGRhFg.jpg",
+      "release_date": "2005-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.135,
+      "vote_count": 11432
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        35,
+        10751
+      ],
+      "id": 315162,
+      "title": "El Gato con Botas: El último deseo",
+      "original_language": "en",
+      "original_title": "Puss in Boots: The Last Wish",
+      "overview": "El Gato con Botas se embarca en un viaje épico para encontrar al mítico Último Deseo y recuperar sus nueve vidas.",
+      "popularity": 17.4058,
+      "poster_path": "/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
+      "release_date": "2022-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.201,
+      "vote_count": 8748
+    }
+  ],
+  "total_pages": 1354,
+  "total_results": 27068
+}

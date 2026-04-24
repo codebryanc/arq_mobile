@@ -15,13 +15,33 @@
       "original_language": "en",
       "original_title": "Mercy",
       "overview": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
-      "popularity": 41.9953,
+      "popularity": 35.5938,
       "poster_path": "/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
       "release_date": "2026-01-20",
       "softcore": false,
       "video": false,
-      "vote_average": 6.969,
-      "vote_count": 1145
+      "vote_average": 7.0,
+      "vote_count": 1151
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fyv3Cmsdq4pfiKU6M3azRATwBBU.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1088434,
+      "title": "Hellfire",
+      "original_language": "en",
+      "original_title": "Hellfire",
+      "overview": "Un hombre solitario llega a un pequeño pueblo y descubre que sus habitantes viven bajo el control de un líder cruel, así que decide intervenir para intentar liberarlos.",
+      "popularity": 40.5042,
+      "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "release_date": "2026-02-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 73
     },
     {
       "adult": false,
@@ -36,159 +56,13 @@
       "original_language": "en",
       "original_title": "Avengers: Endgame",
       "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "popularity": 39.9831,
+      "popularity": 37.9709,
       "poster_path": "/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "release_date": "2019-04-24",
       "softcore": false,
       "video": false,
       "vote_average": 8.234,
-      "vote_count": 27539
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
-      "genre_ids": [
-        878,
-        28,
-        35
-      ],
-      "id": 1119449,
-      "title": "Buena suerte, pásalo bien, no mueras",
-      "original_language": "en",
-      "original_title": "Good Luck, Have Fun, Don't Die",
-      "overview": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
-      "popularity": 38.2909,
-      "poster_path": "/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "release_date": "2026-02-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 371
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
-      "genre_ids": [
-        16,
-        28,
-        14
-      ],
-      "id": 1539104,
-      "title": "JUJUTSU KAISEN: Ejecución",
-      "original_language": "ja",
-      "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
-      "overview": "Durante Halloween en Shibuya, un misterioso velo atrapa a la multitud dentro del distrito. Como consecuencia, diez colonias japonesas se convierten en zonas dominadas por maldiciones.",
-      "popularity": 39.574,
-      "poster_path": "/a4QuZ6oW71zCpwVW08u3fHBxc6E.jpg",
-      "release_date": "2025-11-07",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.938,
-      "vote_count": 96
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
-      "genre_ids": [
-        53,
-        28,
-        80
-      ],
-      "id": 28322,
-      "title": "Vacaciones para matar",
-      "original_language": "it",
-      "original_title": "Vacanze per un massacro",
-      "overview": "Un fugitivo trata de recuperar el botí­n de un robo que había escondido en una casa de montaña antes de ser detenido. Allí en lugar de pasar el fin de semana solos un matrimonio y la joven hermana de la mujer serán espiados a la espera de aprovechar la oportunidad idónea para recuperar los bienes robados, descubre sus secretos más morbosos antes de agredirlos para recuperar su botín.",
-      "popularity": 44.5776,
-      "poster_path": "/q05X1TcL8ZHdGzznx7I8EjdYFnU.jpg",
-      "release_date": "1980-03-20",
-      "softcore": false,
-      "video": false,
-      "vote_average": 4.929,
-      "vote_count": 28
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cfDHxkco8RrslL0Vk2XPTwTVFCe.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1472951,
-      "title": "Infiltrate",
-      "original_language": "en",
-      "original_title": "Infiltrate",
-      "overview": "En una ciudad invadida por el crimen, la agente del gobierno Lily Chen se ve obligada a elegir entre su deber y su familia cuando secuestran a su marido y la chantajean para que asesine a criminales de alto nivel para salvarlo. A medida que se adentra en el submundo criminal, la implacable búsqueda de justicia de Lily desenmaraña una red de corrupción que la llevará a tomar una decisión final que cambiará su mundo para siempre.",
-      "popularity": 37.3442,
-      "poster_path": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
-      "release_date": "2026-04-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.5,
-      "vote_count": 9
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg",
-      "genre_ids": [
-        35,
-        80,
-        28
-      ],
-      "id": 1416391,
-      "title": "La tostadora",
-      "original_language": "hi",
-      "original_title": "टोस्टर",
-      "overview": "Un hombre muy tacaño intenta recuperar una tostadora que regaló en una boda que acabó cancelándose, pero, sin querer, se ve envuelto en un asesinato.",
-      "popularity": 33.306,
-      "poster_path": "/2tTUscTlshVovvUnk1qlkQrkbum.jpg",
-      "release_date": "2026-04-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.267,
-      "vote_count": 15
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "id": 1306368,
-      "title": "El botín",
-      "original_language": "en",
-      "original_title": "The Rip",
-      "overview": "El descubrimiento de varios millones de dólares en efectivo en un zulo abandonado de Miami quiebra la confianza de un grupo de policías. Ahora, todo y todos están bajo sospecha.",
-      "popularity": 37.1037,
-      "poster_path": "/55C5loKFkw7Cj0nMLWux4FJCRHI.jpg",
-      "release_date": "2026-01-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.052,
-      "vote_count": 1524
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bIUaCtWaRgd78SnoHJDI8TNf7Sd.jpg",
-      "genre_ids": [
-        12,
-        28,
-        878
-      ],
-      "id": 181808,
-      "title": "Star Wars: Los últimos Jedi",
-      "original_language": "en",
-      "original_title": "Star Wars: The Last Jedi",
-      "overview": "La malvada Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
-      "popularity": 36.4235,
-      "poster_path": "/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg",
-      "release_date": "2017-12-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.755,
-      "vote_count": 16241
+      "vote_count": 27544
     },
     {
       "adult": false,
@@ -203,13 +77,117 @@
       "original_language": "en",
       "original_title": "Deadpool & Wolverine",
       "overview": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
-      "popularity": 39.7255,
+      "popularity": 38.1873,
       "poster_path": "/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
       "release_date": "2024-07-24",
       "softcore": false,
       "video": false,
       "vote_average": 7.558,
-      "vote_count": 8500
+      "vote_count": 8502
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1539104,
+      "title": "JUJUTSU KAISEN: Ejecución",
+      "original_language": "ja",
+      "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+      "overview": "Durante Halloween en Shibuya, un misterioso velo atrapa a la multitud dentro del distrito. Como consecuencia, diez colonias japonesas se convierten en zonas dominadas por maldiciones.",
+      "popularity": 38.1315,
+      "poster_path": "/a4QuZ6oW71zCpwVW08u3fHBxc6E.jpg",
+      "release_date": "2025-11-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 96
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cfDHxkco8RrslL0Vk2XPTwTVFCe.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1472951,
+      "title": "Infiltrate",
+      "original_language": "en",
+      "original_title": "Infiltrate",
+      "overview": "En una ciudad invadida por el crimen, la agente del gobierno Lily Chen se ve obligada a elegir entre su deber y su familia cuando secuestran a su marido y la chantajean para que asesine a criminales de alto nivel para salvarlo. A medida que se adentra en el submundo criminal, la implacable búsqueda de justicia de Lily desenmaraña una red de corrupción que la llevará a tomar una decisión final que cambiará su mundo para siempre.",
+      "popularity": 37.4072,
+      "poster_path": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+      "release_date": "2026-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.35,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1306368,
+      "title": "El botín",
+      "original_language": "en",
+      "original_title": "The Rip",
+      "overview": "El descubrimiento de varios millones de dólares en efectivo en un zulo abandonado de Miami quiebra la confianza de un grupo de policías. Ahora, todo y todos están bajo sospecha.",
+      "popularity": 39.874,
+      "poster_path": "/55C5loKFkw7Cj0nMLWux4FJCRHI.jpg",
+      "release_date": "2026-01-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.054,
+      "vote_count": 1527
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bIUaCtWaRgd78SnoHJDI8TNf7Sd.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 181808,
+      "title": "Star Wars: Los últimos Jedi",
+      "original_language": "en",
+      "original_title": "Star Wars: The Last Jedi",
+      "overview": "La malvada Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
+      "popularity": 36.3419,
+      "poster_path": "/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg",
+      "release_date": "2017-12-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.755,
+      "vote_count": 16243
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+      "genre_ids": [
+        878,
+        28,
+        35
+      ],
+      "id": 1119449,
+      "title": "Buena suerte, pásalo bien, no mueras",
+      "original_language": "en",
+      "original_title": "Good Luck, Have Fun, Don't Die",
+      "overview": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+      "popularity": 35.8799,
+      "poster_path": "/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+      "release_date": "2026-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 374
     },
     {
       "adult": false,
@@ -224,34 +202,34 @@
       "original_language": "en",
       "original_title": "Inception",
       "overview": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
-      "popularity": 33.6412,
+      "popularity": 32.5576,
       "poster_path": "/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
       "release_date": "2010-07-15",
       "softcore": false,
       "video": false,
       "vote_average": 8.372,
-      "vote_count": 39056
+      "vote_count": 39060
     },
     {
       "adult": false,
-      "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+      "backdrop_path": "/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg",
       "genre_ids": [
-        878,
-        28,
-        12
+        35,
+        80,
+        28
       ],
-      "id": 19995,
-      "title": "Avatar",
-      "original_language": "en",
-      "original_title": "Avatar",
-      "overview": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo.",
-      "popularity": 33.1805,
-      "poster_path": "/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
-      "release_date": "2009-12-16",
+      "id": 1416391,
+      "title": "La tostadora",
+      "original_language": "hi",
+      "original_title": "टोस्टर",
+      "overview": "Un hombre muy tacaño intenta recuperar una tostadora que regaló en una boda que acabó cancelándose, pero, sin querer, se ve envuelto en un asesinato.",
+      "popularity": 27.3523,
+      "poster_path": "/2tTUscTlshVovvUnk1qlkQrkbum.jpg",
+      "release_date": "2026-04-15",
       "softcore": false,
       "video": false,
-      "vote_average": 7.602,
-      "vote_count": 33817
+      "vote_average": 5.267,
+      "vote_count": 15
     },
     {
       "adult": false,
@@ -266,7 +244,7 @@
       "original_language": "hi",
       "original_title": "मर्दानी 3",
       "overview": "Es una carrera contra el tiempo y no habrá piedad. Shivani Shivaji Roy regresa para rescatar a las chicas que desaparecen sin dejar rastro.",
-      "popularity": 33.3041,
+      "popularity": 31.6749,
       "poster_path": "/o9aV83ZxGafGseLK8us9QNKKWzG.jpg",
       "release_date": "2026-01-30",
       "softcore": false,
@@ -276,45 +254,24 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+      "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
       "genre_ids": [
-        12,
-        14,
-        28
-      ],
-      "id": 120,
-      "title": "El señor de los anillos: La comunidad del anillo",
-      "original_language": "en",
-      "original_title": "The Lord of the Rings: The Fellowship of the Ring",
-      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
-      "popularity": 31.5818,
-      "poster_path": "/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
-      "release_date": "2001-12-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.431,
-      "vote_count": 27357
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "genre_ids": [
+        878,
         28,
-        80,
-        53
+        12
       ],
-      "id": 1582770,
-      "title": "Dhurandhar The Revenge",
-      "original_language": "hi",
-      "original_title": "धुरंधर: द रिवेंज",
-      "overview": "Hamza Ali Mazari, cuya verdadera identidad es Jaskirat Singh Rangi, continúa su operación encubierta en el mundo criminal de Pakistán mientras rastrea a Majo.",
-      "popularity": 31.4561,
-      "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
-      "release_date": "2026-03-18",
+      "id": 19995,
+      "title": "Avatar",
+      "original_language": "en",
+      "original_title": "Avatar",
+      "overview": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo.",
+      "popularity": 32.4735,
+      "poster_path": "/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+      "release_date": "2009-12-16",
       "softcore": false,
       "video": false,
-      "vote_average": 7.697,
-      "vote_count": 61
+      "vote_average": 7.602,
+      "vote_count": 33822
     },
     {
       "adult": false,
@@ -329,13 +286,97 @@
       "original_language": "en",
       "original_title": "The Dark Knight",
       "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
-      "popularity": 32.0855,
+      "popularity": 32.1946,
       "poster_path": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
       "release_date": "2008-07-16",
       "softcore": false,
       "video": false,
       "vote_average": 8.528,
-      "vote_count": 35537
+      "vote_count": 35541
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 1387382,
+      "title": "Hunting Season",
+      "original_language": "en",
+      "original_title": "Hunting Season",
+      "overview": "Cuando una misteriosa joven aparece en la orilla de un río local, tanto la niña de doce años que la descubre como su sobreprotector padre cambian para siempre con la llegada de esta extraña a su hogar. Mientras, un despiadado capo de la droga no se detendrá ante nada para matarla de una vez por todas.",
+      "popularity": 30.3914,
+      "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+      "release_date": "2025-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.886,
+      "vote_count": 189
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 120,
+      "title": "El señor de los anillos: La comunidad del anillo",
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "popularity": 31.1221,
+      "poster_path": "/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "release_date": "2001-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.432,
+      "vote_count": 27360
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1582770,
+      "title": "Dhurandhar The Revenge",
+      "original_language": "hi",
+      "original_title": "धुरंधर: द रिवेंज",
+      "overview": "Hamza Ali Mazari, cuya verdadera identidad es Jaskirat Singh Rangi, continúa su operación encubierta en el mundo criminal de Pakistán mientras rastrea a Majo.",
+      "popularity": 28.2126,
+      "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "release_date": "2026-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.697,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 1579,
+      "title": "Apocalypto",
+      "original_language": "en",
+      "original_title": "Apocalypto",
+      "overview": "Historia ambientada en la época del imperio maya. Cuando la idílica existencia de los mayas es brutalmente interrumpida por el ataque de una fuerza invasora, un hombre emprende un arriesgado viaje a un mundo regido por el miedo y la opresión en el que le espera un incierto final. Debido a un giro del destino y espoleado por el amor a su esposa y a su familia, emprenderá el regreso a su hogar en un desesperado esfuerzo por preservar su forma de vida...",
+      "popularity": 34.8104,
+      "poster_path": "/yQ4uC13IYVerbxMMXeSogSQUkOT.jpg",
+      "release_date": "2006-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.598,
+      "vote_count": 6198
     },
     {
       "adult": false,
@@ -353,78 +394,35 @@
       "original_language": "en",
       "original_title": "Kung Fu Panda 4",
       "overview": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado \"el Camaleón\", que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
-      "popularity": 30.8986,
+      "popularity": 32.5708,
       "poster_path": "/2xgGWjM3a38E4KTLapvC53RnpN1.jpg",
       "release_date": "2024-03-02",
       "softcore": false,
       "video": false,
       "vote_average": 7.0,
-      "vote_count": 3458
+      "vote_count": 3459
     },
     {
       "adult": false,
-      "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+      "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
       "genre_ids": [
         28,
-        18,
-        53
+        18
       ],
-      "id": 1387382,
-      "title": "Hunting Season",
+      "id": 361743,
+      "title": "Top Gun: Maverick",
       "original_language": "en",
-      "original_title": "Hunting Season",
-      "overview": "Cuando una misteriosa joven aparece en la orilla de un río local, tanto la niña de doce años que la descubre como su sobreprotector padre cambian para siempre con la llegada de esta extraña a su hogar. Mientras, un despiadado capo de la droga no se detendrá ante nada para matarla de una vez por todas.",
-      "popularity": 31.7675,
-      "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
-      "release_date": "2025-12-05",
+      "original_title": "Top Gun: Maverick",
+      "overview": "Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell se encuentra dónde siempre quiso estar, empujando los límites como un valiente piloto de prueba y esquivando el alcance en su rango, que no le dejaría volar emplazándolo en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especializada, Maverick se encuentra allí con el teniente Bradley Bradshaw, el hijo de su difunto amigo \"Goose\".",
+      "popularity": 29.8021,
+      "poster_path": "/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
+      "release_date": "2022-05-21",
       "softcore": false,
       "video": false,
-      "vote_average": 6.896,
-      "vote_count": 188
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg",
-      "genre_ids": [
-        28,
-        18,
-        36
-      ],
-      "id": 1579,
-      "title": "Apocalypto",
-      "original_language": "en",
-      "original_title": "Apocalypto",
-      "overview": "Historia ambientada en la época del imperio maya. Cuando la idílica existencia de los mayas es brutalmente interrumpida por el ataque de una fuerza invasora, un hombre emprende un arriesgado viaje a un mundo regido por el miedo y la opresión en el que le espera un incierto final. Debido a un giro del destino y espoleado por el amor a su esposa y a su familia, emprenderá el regreso a su hogar en un desesperado esfuerzo por preservar su forma de vida...",
-      "popularity": 31.0829,
-      "poster_path": "/yQ4uC13IYVerbxMMXeSogSQUkOT.jpg",
-      "release_date": "2006-12-07",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.598,
-      "vote_count": 6198
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 76600,
-      "title": "Avatar: El sentido del agua",
-      "original_language": "en",
-      "original_title": "Avatar: The Way of Water",
-      "overview": "Más de una década después de los acontecimientos de 'Avatar', los Na'vi Jake Sully, Neytiri y sus hijos viven en paz en los bosques de Pandora hasta que regresan los hombres del cielo. Entonces comienzan los problemas que persiguen sin descanso a la familia Sully, que decide hacer un gran sacrificio para mantener a su pueblo a salvo y seguir ellos con vida.",
-      "popularity": 29.0511,
-      "poster_path": "/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg",
-      "release_date": "2022-12-14",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.593,
-      "vote_count": 13990
+      "vote_average": 8.152,
+      "vote_count": 10790
     }
   ],
-  "total_pages": 2406,
-  "total_results": 48112
+  "total_pages": 2407,
+  "total_results": 48125
 }

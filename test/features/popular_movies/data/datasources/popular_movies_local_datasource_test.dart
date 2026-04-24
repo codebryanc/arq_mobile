@@ -8,7 +8,8 @@ import 'package:arq_mobile/core/errors/exceptions.dart';
 import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movies_local_datasource.dart';
 
 // Test constants
-const _kAssetPath = 'lib/features/popular_movies/data/mock/movie_popular_test.json';
+const _kAssetPath =
+    'lib/features/popular_movies/data/mock/movie_popular_test.json';
 const _kMovieId = 550;
 const _kMovieTitle = 'Fight Club';
 const _kPosterPath = '/poster.jpg';

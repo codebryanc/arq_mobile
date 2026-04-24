@@ -3,47 +3,48 @@
   "results": [
     {
       "adult": false,
-      "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+      "backdrop_path": "/3N5QNUqS76GFYNoEayfkkJyAyTN.jpg",
       "genre_ids": [
-        16,
+        35,
         12,
-        10751,
-        35
+        14,
+        10751
       ],
-      "id": 269149,
-      "title": "Zootrópolis",
+      "id": 346698,
+      "title": "Barbie",
       "original_language": "en",
-      "original_title": "Zootopia",
-      "overview": "La moderna metrópoli mamífera de Zootrópolis es una ciudad absolutamente única. Está compuesta de barrios con diferentes hábitats como la lujosa Plaza Sahara, el Distrito Selva Tropical y el gélido Distrito Tundra. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña más diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada fácil. Pero está decidida a demostrar su valía y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchín y estafador, para resolver el misterio.",
-      "popularity": 22.4687,
-      "poster_path": "/4zIlT48TgNLuJpUtFOkFITHoCQE.jpg",
-      "release_date": "2016-02-11",
+      "original_title": "Barbie",
+      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
+      "popularity": 23.6027,
+      "poster_path": "/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+      "release_date": "2023-07-19",
       "softcore": false,
       "video": false,
-      "vote_average": 7.759,
-      "vote_count": 17967
+      "vote_average": 6.9,
+      "vote_count": 10990
     },
     {
       "adult": false,
-      "backdrop_path": "/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+      "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
       "genre_ids": [
         10751,
+        35,
         16,
         878,
-        12
+        28
       ],
-      "id": 1184918,
-      "title": "Robot salvaje",
+      "id": 519182,
+      "title": "Gru 4. Mi villano favorito",
       "original_language": "en",
-      "original_title": "The Wild Robot",
-      "overview": "Esta aventura épica cuenta la historia de una robot, Rozzum 7-1-3-4, \"Roz\" para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de una cría de ganso huérfana.",
-      "popularity": 24.2745,
-      "poster_path": "/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
-      "release_date": "2024-09-12",
+      "original_title": "Despicable Me 4",
+      "overview": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gru Junior, que parece llegar con el propósito de ser un suplicio para su padre. Gru tendrá que enfrentarse en esta ocasión a su nueva némesis Maxime Le Mal y su sofisticada y malévola novia Valentina, lo que obligará a la familia a tener que darse a la fuga. Cuarta entrega de 'Gru, mi villano favorito'.",
+      "popularity": 23.8549,
+      "poster_path": "/b6JX0fBne5yPFNBtdp4Imi3CpiE.jpg",
+      "release_date": "2024-06-20",
       "softcore": false,
       "video": false,
-      "vote_average": 8.307,
-      "vote_count": 5929
+      "vote_average": 6.981,
+      "vote_count": 3155
     },
     {
       "adult": false,
@@ -59,56 +60,13 @@
       "original_language": "en",
       "original_title": "Toy Story",
       "overview": "Los juguetes de Andy, un niño de seis años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano, pero su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa.",
-      "popularity": 23.2229,
+      "popularity": 22.3757,
       "poster_path": "/y59d8PjuFSgJJN4VRS7jDoRgSM9.jpg",
       "release_date": "1995-11-22",
       "softcore": false,
       "video": false,
       "vote_average": 7.971,
-      "vote_count": 19753
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751
-      ],
-      "id": 585,
-      "title": "Monstruos, S.A.",
-      "original_language": "en",
-      "original_title": "Monsters, Inc.",
-      "overview": "Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos.",
-      "popularity": 22.0194,
-      "poster_path": "/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
-      "release_date": "2001-11-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.848,
-      "vote_count": 19659
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/79PNOxNXSe5e0bhEj11QJPlsdCN.jpg",
-      "genre_ids": [
-        14,
-        10751,
-        28,
-        12
-      ],
-      "id": 1087192,
-      "title": "Cómo entrenar a tu dragón",
-      "original_language": "en",
-      "original_title": "How to Train Your Dragon",
-      "overview": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
-      "popularity": 21.4351,
-      "poster_path": "/kjQXYc2Abhy3TBgAZGzJRhN1JaV.jpg",
-      "release_date": "2025-06-06",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.924,
-      "vote_count": 2729
+      "vote_count": 19757
     },
     {
       "adult": false,
@@ -124,13 +82,78 @@
       "original_language": "en",
       "original_title": "Sonic the Hedgehog 3",
       "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
-      "popularity": 22.9411,
+      "popularity": 24.1774,
       "poster_path": "/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
       "release_date": "2024-12-19",
       "softcore": false,
       "video": false,
-      "vote_average": 7.611,
+      "vote_average": 7.6,
       "vote_count": 3224
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35
+      ],
+      "id": 269149,
+      "title": "Zootrópolis",
+      "original_language": "en",
+      "original_title": "Zootopia",
+      "overview": "La moderna metrópoli mamífera de Zootrópolis es una ciudad absolutamente única. Está compuesta de barrios con diferentes hábitats como la lujosa Plaza Sahara, el Distrito Selva Tropical y el gélido Distrito Tundra. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña más diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada fácil. Pero está decidida a demostrar su valía y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchín y estafador, para resolver el misterio.",
+      "popularity": 23.0079,
+      "poster_path": "/4zIlT48TgNLuJpUtFOkFITHoCQE.jpg",
+      "release_date": "2016-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.759,
+      "vote_count": 17971
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 585,
+      "title": "Monstruos, S.A.",
+      "original_language": "en",
+      "original_title": "Monsters, Inc.",
+      "overview": "Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos.",
+      "popularity": 22.0308,
+      "poster_path": "/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
+      "release_date": "2001-11-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.848,
+      "vote_count": 19662
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/79PNOxNXSe5e0bhEj11QJPlsdCN.jpg",
+      "genre_ids": [
+        14,
+        10751,
+        28,
+        12
+      ],
+      "id": 1087192,
+      "title": "Cómo entrenar a tu dragón",
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon",
+      "overview": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+      "popularity": 22.3356,
+      "poster_path": "/kjQXYc2Abhy3TBgAZGzJRhN1JaV.jpg",
+      "release_date": "2025-06-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 2729
     },
     {
       "adult": false,
@@ -147,13 +170,13 @@
       "original_language": "en",
       "original_title": "Big Hero 6",
       "overview": "En la metrópolis de San Fransokio (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genio de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokio, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio.",
-      "popularity": 21.1892,
+      "popularity": 19.7463,
       "poster_path": "/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg",
       "release_date": "2014-10-24",
       "softcore": false,
       "video": false,
-      "vote_average": 7.724,
-      "vote_count": 16488
+      "vote_average": 7.723,
+      "vote_count": 16489
     },
     {
       "adult": false,
@@ -168,13 +191,13 @@
       "original_language": "en",
       "original_title": "The Lion King",
       "overview": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde.",
-      "popularity": 20.7117,
+      "popularity": 21.4217,
       "poster_path": "/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
       "release_date": "1994-06-15",
       "softcore": false,
       "video": false,
       "vote_average": 8.253,
-      "vote_count": 19583
+      "vote_count": 19586
     },
     {
       "adult": false,
@@ -191,13 +214,34 @@
       "original_language": "zh",
       "original_title": "猫和老鼠：星盘奇缘",
       "overview": "Tom y Jerry viajan en el tiempo. Tras una loca persecución en el Museo Metropolitan de Nueva York, un portal del tiempo los transporta a una ciudad dorada inspirada en la Antigua China, llena de magia, guerreros y criaturas sorprendentes. Para regresar a casa, viven una increíble aventura repleta de acción y humor, donde deben enfrentarse a nuevos enemigos… ¡y quizás aprender a trabajar juntos!",
-      "popularity": 20.6945,
+      "popularity": 19.4998,
       "poster_path": "/60IdSMKnGDXlFgBpUnW2DLQ0Wh2.jpg",
       "release_date": "2025-08-02",
       "softcore": false,
       "video": false,
       "vote_average": 6.4,
       "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+      "genre_ids": [
+        10751,
+        878,
+        35
+      ],
+      "id": 552524,
+      "title": "Lilo y Stitch",
+      "original_language": "en",
+      "original_title": "Lilo & Stitch",
+      "overview": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
+      "popularity": 22.3389,
+      "poster_path": "/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
+      "release_date": "2025-05-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.194,
+      "vote_count": 2117
     },
     {
       "adult": false,
@@ -214,55 +258,13 @@
       "original_language": "en",
       "original_title": "Inside Out",
       "overview": "Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegría y Tristeza se mezclen en una peligrosa aventura que dará un vuelco al mundo de Riley.",
-      "popularity": 20.2618,
+      "popularity": 17.388,
       "poster_path": "/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg",
       "release_date": "2015-06-17",
       "softcore": false,
       "video": false,
       "vote_average": 7.909,
-      "vote_count": 23351
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
-      "genre_ids": [
-        10751,
-        878,
-        35
-      ],
-      "id": 552524,
-      "title": "Lilo y Stitch",
-      "original_language": "en",
-      "original_title": "Lilo & Stitch",
-      "overview": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
-      "popularity": 20.5191,
-      "poster_path": "/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
-      "release_date": "2025-05-17",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.2,
-      "vote_count": 2116
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        878
-      ],
-      "id": 10681,
-      "title": "WALL·E: Batallón de limpieza",
-      "original_language": "en",
-      "original_title": "WALL·E",
-      "overview": "En el año 2800, en un planeta Tierra devastado y sin vida, tras cientos de solitarios años haciendo aquello para lo que fue construido -limpiar el planeta de basura- el pequeño robot WALL•E descubre una nueva misión en su vida cuando se encuentra con una moderna y lustrosa robot exploradora llamada EVE. Ambos viajarán a lo largo de la galaxia y vivirán una emocionante e inolvidable aventura.",
-      "popularity": 18.6058,
-      "poster_path": "/5CXpoYB2YAZRPBcv9pjkgR6tZ0X.jpg",
-      "release_date": "2008-06-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.11,
-      "vote_count": 20135
+      "vote_count": 23354
     },
     {
       "adult": false,
@@ -278,13 +280,34 @@
       "original_language": "en",
       "original_title": "Coco",
       "overview": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
-      "popularity": 19.3477,
+      "popularity": 20.153,
       "poster_path": "/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
       "release_date": "2017-10-27",
       "softcore": false,
       "video": false,
-      "vote_average": 8.196,
-      "vote_count": 20844
+      "vote_average": 8.197,
+      "vote_count": 20847
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        878
+      ],
+      "id": 10681,
+      "title": "WALL·E: Batallón de limpieza",
+      "original_language": "en",
+      "original_title": "WALL·E",
+      "overview": "En el año 2800, en un planeta Tierra devastado y sin vida, tras cientos de solitarios años haciendo aquello para lo que fue construido -limpiar el planeta de basura- el pequeño robot WALL•E descubre una nueva misión en su vida cuando se encuentra con una moderna y lustrosa robot exploradora llamada EVE. Ambos viajarán a lo largo de la galaxia y vivirán una emocionante e inolvidable aventura.",
+      "popularity": 17.9091,
+      "poster_path": "/5CXpoYB2YAZRPBcv9pjkgR6tZ0X.jpg",
+      "release_date": "2008-06-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.11,
+      "vote_count": 20136
     },
     {
       "adult": false,
@@ -301,12 +324,12 @@
       "original_language": "en",
       "original_title": "The Bad Guys 2",
       "overview": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
-      "popularity": 19.1515,
+      "popularity": 18.4297,
       "poster_path": "/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg",
       "release_date": "2025-07-24",
       "softcore": false,
       "video": false,
-      "vote_average": 7.651,
+      "vote_average": 7.7,
       "vote_count": 754
     },
     {
@@ -322,13 +345,13 @@
       "original_language": "en",
       "original_title": "Finding Nemo",
       "overview": "Nemo, un pececillo, hijo único muy querido y protegido por su padre, ha sido capturado en un arrecife australiano y ahora vive en una pecera en la oficina de un dentista de Sidney. El tímido padre de Nemo se embarcará en una peligrosa aventura para rescatar a su hijo. Pero Nemo y sus nuevos amigos tienen también un astuto plan para escapar de la pecera y volver al mar.",
-      "popularity": 17.9928,
+      "popularity": 18.2393,
       "poster_path": "/jPhak722pNGxQIXSEfeWIUqBrO5.jpg",
       "release_date": "2003-05-30",
       "softcore": false,
       "video": false,
       "vote_average": 7.817,
-      "vote_count": 20443
+      "vote_count": 20446
     },
     {
       "adult": false,
@@ -344,13 +367,55 @@
       "original_language": "en",
       "original_title": "Frozen",
       "overview": "Cuando una profecía condena a un reino a un invierno eterno, Anna, una joven optimista se une a un temerario montañero llamado Kristoff y a su compinche el reno Sven. Juntos emprenden un viaje épico en busca de Elsa, hermana de Anna y reina de Las Nieves para poner fin al gélido hechizo.",
-      "popularity": 17.9141,
+      "popularity": 18.3267,
       "poster_path": "/sGNuWC4BwqOB4l0tkbKwLy70tXC.jpg",
       "release_date": "2013-11-20",
       "softcore": false,
       "video": false,
       "vote_average": 7.248,
-      "vote_count": 17493
+      "vote_count": 17496
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        16
+      ],
+      "id": 762509,
+      "title": "Mufasa: El rey león",
+      "original_language": "en",
+      "original_title": "Mufasa: The Lion King",
+      "overview": "Rafiki debe transmitir la leyenda de Mufasa a la joven cachorro de león Kiara, hija de Simba y Nala, y con Timón y Pumba prestando su estilo característico. Mufasa, un cachorro huérfano, perdido y solo, conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
+      "popularity": 18.1326,
+      "poster_path": "/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+      "release_date": "2024-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.31,
+      "vote_count": 2618
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        14
+      ],
+      "id": 411,
+      "title": "Las crónicas de Narnia: El león, la bruja y el armario",
+      "original_language": "en",
+      "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "overview": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío.",
+      "popularity": 17.4617,
+      "poster_path": "/2Lv2wKf2YocOcRfzmvQYOUGRhFg.jpg",
+      "release_date": "2005-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.135,
+      "vote_count": 11431
     },
     {
       "adult": false,
@@ -367,79 +432,15 @@
       "original_language": "en",
       "original_title": "Puss in Boots: The Last Wish",
       "overview": "El Gato con Botas se embarca en un viaje épico para encontrar al mítico Último Deseo y recuperar sus nueve vidas.",
-      "popularity": 17.7628,
+      "popularity": 17.4058,
       "poster_path": "/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
       "release_date": "2022-12-07",
       "softcore": false,
       "video": false,
-      "vote_average": 8.2,
-      "vote_count": 8745
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
-      "genre_ids": [
-        12,
-        10751,
-        16
-      ],
-      "id": 762509,
-      "title": "Mufasa: El rey león",
-      "original_language": "en",
-      "original_title": "Mufasa: The Lion King",
-      "overview": "Rafiki debe transmitir la leyenda de Mufasa a la joven cachorro de león Kiara, hija de Simba y Nala, y con Timón y Pumba prestando su estilo característico. Mufasa, un cachorro huérfano, perdido y solo, conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
-      "popularity": 17.8985,
-      "poster_path": "/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
-      "release_date": "2024-12-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.309,
-      "vote_count": 2615
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751,
-        14
-      ],
-      "id": 2062,
-      "title": "Ratatouille",
-      "original_language": "en",
-      "original_title": "Ratatouille",
-      "overview": "Remy es una simpática rata que sueña con convertirse en un gran chef francés a pesar de la oposición de su familia y del problema evidente que supone ser una rata en una profesión que detesta a los roedores. El destino lleva entonces a Remy a las alcantarillas de París, pero su situación no podría ser mejor, ya que se encuentra justo debajo de un restaurante que se ha hecho famoso gracias a Auguste Gusteau, una estrella de la cuisine. A pesar del peligro que representa ser un visitante poco común (y desde luego nada deseado) en los fogones de un exquisito restaurante francés, la pasión de Remy por la cocina pone patas arriba el mundo culinario parisino en una trepidante y emocionante aventura.",
-      "popularity": 16.1291,
-      "poster_path": "/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg",
-      "release_date": "2007-06-28",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.8,
-      "vote_count": 18363
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kTrgxhRSj2sun89bDbnGCPBiey6.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        35
-      ],
-      "id": 378236,
-      "title": "Emoji: La película",
-      "original_language": "en",
-      "original_title": "The Emoji Movie",
-      "overview": "Los protagonistas habitarán la misteriosa tierra de Textopolis, donde todos los emojis favoritos de la gente cobran vida, mientras esperan ser seleccionados por el usuario del teléfono. Todos los personajes tienen una sola expresión facial a excepción de Gen, un emoji que nació sin filtro y se llena de múltiples expresiones. Para lograr ser normal, Gen se embarcará en una aventura o “app-ventura”, junto a sus amigos Hi-5 y Jailbreak. Pero pronto, una gran amenaza hará que el destino de estos personajes dependa de los tres amigos, teniendo que salvar su mundo antes que sea borrado por completo.",
-      "popularity": 16.6837,
-      "poster_path": "/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg",
-      "release_date": "2017-07-23",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.392,
-      "vote_count": 3300
+      "vote_average": 8.201,
+      "vote_count": 8748
     }
   ],
   "total_pages": 1593,
-  "total_results": 31850
+  "total_results": 31858
 }

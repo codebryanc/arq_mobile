@@ -1,0 +1,426 @@
+{
+  "page": 9,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 786892,
+      "title": "Furiosa: De la saga Mad Max",
+      "original_language": "en",
+      "original_title": "Furiosa: A Mad Max Saga",
+      "overview": "En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015).",
+      "popularity": 15.5603,
+      "poster_path": "/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg",
+      "release_date": "2024-05-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 4792
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gQimJqYMKCkwHIo8wwYKhmnCfBr.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1242501,
+      "title": "Icefall",
+      "original_language": "en",
+      "original_title": "Icefall",
+      "overview": "Un exmarine y cazador furtivo llamado Harlan (Joel Kinnaman) descubre un avión cargado con millones de dólares que ha caído en un lago congelado. Tras ser arrestado por una guardabosques nativa, un grupo de criminales y policías corruptos se enteran de su paradero. Por ello, Harlan y la ranger se unen para luchar e intentar escapar a través del peligroso lago antes de que el hielo se derrita.",
+      "popularity": 13.6603,
+      "poster_path": "/8qQdun8426bfcQePFSZnucWGSbQ.jpg",
+      "release_date": "2025-10-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.345,
+      "vote_count": 152
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 679,
+      "title": "Aliens: El regreso",
+      "original_language": "en",
+      "original_title": "Aliens",
+      "overview": "Alien es un organismo perfecto, una máquina de matar cuya superioridad física sólo puede competir con su agresividad. La oficial Ripley y la tripulación de la nave «Nostromo» se habían enfrentado, en el pasado, a esa monstruosa criatura. Y sólo Ripley sobrevivió a la masacre. Después de vagar por el espacio durante varios años, Ripley fue rescatada. Durante ese tiempo, el planeta de Alien ha sido colonizado. Pero, de repente, se pierde la comunicación con la colonia y, para investigar los motivos, se envía una expedición de marines espaciales, capitaneados por Ripley. Allí les esperan miles de espeluznantes criaturas. Alien se ha reproducido y esta vez la lucha es por la supervivencia de la Humanidad.",
+      "popularity": 13.9159,
+      "poster_path": "/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
+      "release_date": "1986-07-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.961,
+      "vote_count": 10758
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iQcCAm8hKWZyUntqrvzyEGtXyJl.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 670292,
+      "title": "The Creator",
+      "original_language": "en",
+      "original_title": "The Creator",
+      "overview": "En medio de una guerra futura entre la raza humana y las fuerzas de la inteligencia artificial, Joshua, un duro ex-agente de las fuerzas especiales que llora la desaparición de su esposa, es reclutado para cazar y matar al Creador, el escurridizo arquitecto de la IA avanzada que ha desarrollado una misteriosa arma con el poder de acabar con la guerra... y con la propia humanidad.",
+      "popularity": 13.4894,
+      "poster_path": "/kf8MQ2HfBHWFriUjKCmrFH8vSIa.jpg",
+      "release_date": "2023-09-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.007,
+      "vote_count": 3767
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+      "genre_ids": [
+        28,
+        14,
+        12
+      ],
+      "id": 460465,
+      "title": "Mortal Kombat",
+      "original_language": "en",
+      "original_title": "Mortal Kombat",
+      "overview": "Un boxeador fracasado descubre un secreto familiar que lo lleva a un torneo místico llamado Mortal Kombat donde se encuentra con un grupo de guerreros que luchan hasta la muerte para salvar los reinos del malvado hechicero Shang Tsung.",
+      "popularity": 14.5531,
+      "poster_path": "/2acqTZDykiX8U4oDVBIsNcm5O2o.jpg",
+      "release_date": "2021-04-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.982,
+      "vote_count": 6274
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 615457,
+      "title": "Nadie",
+      "original_language": "en",
+      "original_title": "Nobody",
+      "overview": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
+      "popularity": 14.8703,
+      "poster_path": "/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
+      "release_date": "2021-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.881,
+      "vote_count": 8233
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+      "genre_ids": [
+        28,
+        35,
+        12
+      ],
+      "id": 436969,
+      "title": "El escuadrón suicida",
+      "original_language": "en",
+      "original_title": "The Suicide Squad",
+      "overview": "Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos.",
+      "popularity": 14.5947,
+      "poster_path": "/fPJWlhXA2VXf4MlQ3JenVsz1iba.jpg",
+      "release_date": "2021-07-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.463,
+      "vote_count": 9516
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg",
+      "genre_ids": [
+        53,
+        28,
+        12,
+        18,
+        14
+      ],
+      "id": 1401778,
+      "title": "Turbulencias",
+      "original_language": "en",
+      "original_title": "Turbulence",
+      "overview": "Un matrimonio se embarca en una aventura en globo aerostático, pero circunstancias imprevistas provocan situaciones de riesgo vital que ponen a prueba su amor y resistencia mientras luchan por sobrevivir.",
+      "popularity": 13.6454,
+      "poster_path": "/kdCiVGBmk9IVMT0BPf030hkQB41.jpg",
+      "release_date": "2025-11-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.616,
+      "vote_count": 108
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 324552,
+      "title": "John Wick: Pacto de sangre",
+      "original_language": "en",
+      "original_title": "John Wick: Chapter 2",
+      "overview": "El legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre, John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos más peligrosos del mundo.",
+      "popularity": 14.2641,
+      "poster_path": "/tAAikrL3kH3TopsDC2Bgo4ARUiP.jpg",
+      "release_date": "2017-02-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.336,
+      "vote_count": 14158
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4hvK1uenpT7VVClzoNqXanvgdjX.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "id": 558449,
+      "title": "Gladiator II",
+      "original_language": "en",
+      "original_title": "Gladiator II",
+      "overview": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
+      "popularity": 13.7011,
+      "poster_path": "/ckTXrwlr4cRVxpBFEZcEmDzrmea.jpg",
+      "release_date": "2024-11-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.615,
+      "vote_count": 4334
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z9qFZHT8K7tG2PlpKBSAqlmGST8.jpg",
+      "genre_ids": [
+        14,
+        28,
+        27
+      ],
+      "id": 561,
+      "title": "Constantine",
+      "original_language": "en",
+      "original_title": "Constantine",
+      "overview": "John Constantine ha estado en el infierno y ha vuelto. Nació con un don que no deseaba, la capacidad de reconocer claramente a los ángeles y a los demonios que andan por la tierra bajo un aspecto humano, Constantine se vio empujado al suicido para escapar de la atormentadora claridad de su visión. Pero fracasó. Ahora, marcado por su intento de suicidio, patrulla la frontera terrenal entre el cielo y el infierno, esperando en vano ganarse el camino a la salvación enviando a los esbirros de Luciffer de vuelta al averno. Cuando una desesperada pero escéptica detective de policía consigue su ayuda para resolver la misteriosa muerte de su querida hermana gemela, su investigación les lleva a través del mundo de demonios y ángeles que subyace justo bajo el paisaje de la actual ciudad de Los Angeles. Atrapados en una catastrófica serie de acontecimientos sobrenaturales, los dos se encuentran inextricablemente involucrados y tratan de encontrar su propia paz a cualquier precio.",
+      "popularity": 13.8834,
+      "poster_path": "/oj0s9jvCyMSCMvw7pNWt7nELykW.jpg",
+      "release_date": "2005-02-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.122,
+      "vote_count": 7940
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "id": 85,
+      "title": "En busca del arca perdida",
+      "original_language": "en",
+      "original_title": "Raiders of the Lost Ark",
+      "overview": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
+      "popularity": 12.6667,
+      "poster_path": "/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
+      "release_date": "1981-06-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.923,
+      "vote_count": 13550
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/19Ed4XgjahPm4U8JT7SnntERIlt.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 284054,
+      "title": "Black Panther",
+      "original_language": "en",
+      "original_title": "Black Panther",
+      "overview": "Después de los acontecimientos de \"Capitán América: Civil War\", T'Challa vuelve a casa, la nación aislada y muy avanzada tecnológicamente de Wakanda, para ser proclamado Rey. Pero la reaparición de un viejo enemigo pone a prueba el temple de T'Challa como Rey y Black Panther ya que se ve arrastrado a un conflicto que pone en peligro todo el destino de Wakanda y del mundo.",
+      "popularity": 14.3612,
+      "poster_path": "/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
+      "release_date": "2018-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.361,
+      "vote_count": 23379
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8eifdha9GQeZAkexgtD45546XKx.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 822119,
+      "title": "Capitán América: Brave New World",
+      "original_language": "en",
+      "original_title": "Captain America: Brave New World",
+      "overview": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+      "popularity": 14.187,
+      "poster_path": "/vUNj55xlF0pSU5FU3yDHC6L5wVX.jpg",
+      "release_date": "2025-02-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 3032
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648
+      ],
+      "id": 1439112,
+      "title": "Ajuste de cuentas: La ciudad de los lobos",
+      "original_language": "en",
+      "original_title": "Muzzle: City of Wolves",
+      "overview": "Jake Rosser está atormentado por el trastorno de estrés postraumático de sus días como oficial K-9 y se esfuerza por llevar una vida pacífica con su familia y su compañero K-9 retirado, Socks. Pero la tranquilidad se disuelve rápidamente cuando una despiadada banda los persigue en un brutal ataque. Decidido a proteger a sus seres queridos, Jake y su nuevo compañero K-9 «Argos» se adentran en los violentos entresijos de la delincuencia, donde Jake se enfrenta a funcionarios corruptos, descubre una peligrosa red de tráfico de drogas y lucha contra sus propios demonios internos.",
+      "popularity": 13.2141,
+      "poster_path": "/6oOyMLOP7wL3yl11E6BURRm2eqZ.jpg",
+      "release_date": "2025-11-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.681,
+      "vote_count": 127
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hNsYUryiwxcdeTMkaBcPF3iEg0p.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 335983,
+      "title": "Venom",
+      "original_language": "en",
+      "original_title": "Venom",
+      "overview": "Eddie Brock es un consolidado periodista y astuto reportero que está investigando una empresa llamada Fundación Vida. Esta fundación, dirigida por el eminente científico Carlton Drake, está ejecutando secretamente experimentos ilegales en seres humanos y realizando pruebas que involucran formas de vida extraterrestres y amorfas conocidas como simbiontes. Durante una visita furtiva a la central, el periodista quedará infectado por un simbionte. Comenzará entonces a experimentar cambios en su cuerpo que no entiende, y escuchará una voz interior, la del simbionte Venom, que le dirá lo que tiene que hacer. Cuando Brock adquiera los poderes del simbionte que le usa como huésped, Venom tomará posesión de su cuerpo, convirtiéndole en un despiadado y peligroso súpervillano.",
+      "popularity": 13.8029,
+      "poster_path": "/jMBTJQiHAyGlZR05J2sq5coA6ew.jpg",
+      "release_date": "2018-09-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.825,
+      "vote_count": 17151
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 628847,
+      "title": "Trap House",
+      "original_language": "en",
+      "original_title": "Trap House",
+      "overview": "Un agente de la DEA y su compañero persiguen un peculiar grupo de ladrones: sus propios hijos adolescentes rebeldes, que han empezado a robar a un peligroso cártel, utilizando para ello las tácticas de sus padres y la información de alto secreto.",
+      "popularity": 14.3549,
+      "poster_path": "/p9zbrDpAKyj3jeemkyAoBmlo3KG.jpg",
+      "release_date": "2025-11-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.539,
+      "vote_count": 254
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4P71rDf6roxVskbvdcbNayVMpXd.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 14161,
+      "title": "2012",
+      "original_language": "en",
+      "original_title": "2012",
+      "overview": "El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo \"venden\" plazas para escapar del cataclismo. El escritor Curtis Jackson tropieza con esa información... y luchará por salvar a su familia mientras el suelo se hunde bajo sus pies, y los terremotos y las erupciones volcánicas destruyen el mundo tal y como lo conocemos.",
+      "popularity": 14.2106,
+      "poster_path": "/gWE2GIrIqqf1OLV2Talxph11MC.jpg",
+      "release_date": "2009-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.873,
+      "vote_count": 12668
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cFcXilLbI7yjPIYB58AZiOyUnoh.jpg",
+      "genre_ids": [
+        28,
+        12,
+        80
+      ],
+      "id": 47971,
+      "title": "xXx: Reactivated",
+      "original_language": "en",
+      "original_title": "xXx: Return of Xander Cage",
+      "overview": "La película gira en torno al regreso de Xander Cage, a quien todos creían muerto. Cage, alias xXx (Triple X), es un rebelde amante de los deportes extremos que adora romper las leyes y que por ello acaba siendo atrapado por las autoridades de EE.UU. Entonces se ve obligado a colaborar como agente encubierto participando en numerosos episodios de riesgo. Tras un fatídico incidente, Xander es dado por muerto. Pero ahora, vuelve a la acción de incógnita acompañado de su agente instructor Augustus Gibbons.",
+      "popularity": 12.8402,
+      "poster_path": "/rc830XBY2h8HBtHeISpR9qb2PU6.jpg",
+      "release_date": "2017-01-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.132,
+      "vote_count": 9204
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vlmiJOeDMbiyaJCAjFPtlkDcOEv.jpg",
+      "genre_ids": [
+        878,
+        27,
+        28
+      ],
+      "id": 940721,
+      "title": "Godzilla Minus One",
+      "original_language": "ja",
+      "original_title": "ゴジラ-1.0",
+      "overview": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+      "popularity": 13.7638,
+      "poster_path": "/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "release_date": "2023-11-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 3104
+    }
+  ],
+  "total_pages": 2407,
+  "total_results": 48126
+}

@@ -1,0 +1,430 @@
+{
+  "page": 10,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 140607,
+      "title": "Star Wars: El despertar de la fuerza",
+      "original_language": "en",
+      "original_title": "Star Wars: The Force Awakens",
+      "overview": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.",
+      "popularity": 13.5926,
+      "poster_path": "/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg",
+      "release_date": "2015-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.25,
+      "vote_count": 20446
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 497698,
+      "title": "Viuda Negra",
+      "original_language": "en",
+      "original_title": "Black Widow",
+      "overview": "Natasha Romanoff, alias Viuda Negra, se enfrenta a las partes más oscuras de su historia cuando surge una peligrosa conspiración con vínculos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe enfrentarse a su historia como espía y a las relaciones rotas que dejó a su paso mucho antes de convertirse en una Vengadora.",
+      "popularity": 13.568,
+      "poster_path": "/rjnciyF6Rj2fwZ7mtrj88RB0z8u.jpg",
+      "release_date": "2021-07-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.17,
+      "vote_count": 11154
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 588228,
+      "title": "La guerra del mañana",
+      "original_language": "en",
+      "original_title": "The Tomorrow War",
+      "overview": "Unos viajeros llegan desde el año 2051 para dar un mensaje: 30 años en el futuro, la humanidad estará perdiendo la guerra contra unos alienígenas. La única esperanza para sobrevivir es que los soldados y civiles vayan al futuro y se sumen a la batalla. Decidido a salvar el mundo por su hija, Dan Forester se une a una científica brillante y a su distante padre para reescribir el destino del planeta.",
+      "popularity": 13.4933,
+      "poster_path": "/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",
+      "release_date": "2021-09-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.468,
+      "vote_count": 4056
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iQcCAm8hKWZyUntqrvzyEGtXyJl.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 670292,
+      "title": "The Creator",
+      "original_language": "en",
+      "original_title": "The Creator",
+      "overview": "En medio de una guerra futura entre la raza humana y las fuerzas de la inteligencia artificial, Joshua, un duro ex-agente de las fuerzas especiales que llora la desaparición de su esposa, es reclutado para cazar y matar al Creador, el escurridizo arquitecto de la IA avanzada que ha desarrollado una misteriosa arma con el poder de acabar con la guerra... y con la propia humanidad.",
+      "popularity": 13.4894,
+      "poster_path": "/kf8MQ2HfBHWFriUjKCmrFH8vSIa.jpg",
+      "release_date": "2023-09-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.007,
+      "vote_count": 3768
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 791373,
+      "title": "La liga de la justicia de Zack Snyder",
+      "original_language": "en",
+      "original_title": "Zack Snyder's Justice League",
+      "overview": "Con la determinación de asegurar que el sacrificio definitivo de Superman no fue en vano, Bruce Wayne une fuerzas con Diana Prince para reclutar a un equipo de metahumanos que protejan el mundo de una amenaza inminente de proporciones catastróficas. La tarea es más difícil de lo que Bruce imaginaba, ya que cada uno de los reclutas deberá enfrentarse a sus propios demonios para trascender aquello que los detenía, para unirse y formar de manera definitiva una liga de héroes sin precedentes. Ahora unidos, Batman, Wonder Woman, Aquaman, Cyborg y Flash deberán salvar al planeta de la amenaza de Steppenwolf, DeSaad y Darkseid, antes de que sea demasiado tarde.",
+      "popularity": 13.4843,
+      "poster_path": "/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
+      "release_date": "2021-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.089,
+      "vote_count": 10740
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10751
+      ],
+      "id": 1248226,
+      "title": "Juegos de niños",
+      "original_language": "en",
+      "original_title": "Playdate",
+      "overview": "Brian acaba de ser despedido de su trabajo, y se convierte en un padre que se queda en casa. Acepta una invitación para jugar de otro padre, que resulta ser un bala perdida.",
+      "popularity": 13.4123,
+      "poster_path": "/sWhglhFoGA0T7n5U6Yi0t8LBGjA.jpg",
+      "release_date": "2025-11-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.031,
+      "vote_count": 573
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hwPnxzIgQFfXl5zP0Yh8bViCMzf.jpg",
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "id": 57158,
+      "title": "El hobbit: La desolación de Smaug",
+      "original_language": "en",
+      "original_title": "The Hobbit: The Desolation of Smaug",
+      "overview": "Tras sobrevivir al inicio de su inesperado viaje, la Compañía sigue hacia el este y se encuentra por el camino con Beorn, el cambiador de piel, y con un enjambre de Arañas gigantes en el peligroso monte Mirkwood. Tras evitar que los Elfos del Bosque los capturen, los Enanos prosiguen su viaje hacia Ciudad del Lago, y finalmente llegan a la Montaña Solitaria, donde tienen que enfrentarse al mayor de los peligros, una criatura más terrorífica que cualquier otra que pondrá a prueba no solo lo profundo de su valentía sino también los límites de su amistad y la sabiduría del viaje: el dragón Smaug.",
+      "popularity": 13.4095,
+      "poster_path": "/1s8xZDmG5IkDU0m1LeW28YcwTRx.jpg",
+      "release_date": "2013-12-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.577,
+      "vote_count": 14108
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18,
+        80
+      ],
+      "id": 343611,
+      "title": "Jack Reacher: Nunca vuelvas atrás",
+      "original_language": "en",
+      "original_title": "Jack Reacher: Never Go Back",
+      "overview": "La Mayor Susan Turner, líder de la antigua unidad militar de Reacher, es falsamente acusada de traición. Jack Reacher tendrá que sacarla de prisión y descubrir la verdad detrás de una conspiración gubernamental para limpiar sus nombres y salvar sus vidas. Durante el escape, Reacher descubrirá un secreto de su pasado que podría cambiar su vida para siempre. Secuela de \"Jack Reacher\" (2012).",
+      "popularity": 13.3549,
+      "poster_path": "/eLzStFuergouErSQlfABthuQHCJ.jpg",
+      "release_date": "2016-10-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.007,
+      "vote_count": 5297
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4ZZiOP4Imzv6ULF9QczvfQ1VdEO.jpg",
+      "genre_ids": [
+        16,
+        28,
+        18,
+        878
+      ],
+      "id": 1406657,
+      "title": "Scarlet",
+      "original_language": "ja",
+      "original_title": "果てしなきスカーレット",
+      "overview": "Una princesa medieval experta en el manejo de la espada se embarca en una peligrosa misión para vengar la muerte de su padre. Tras fracasar en su misión y encontrarse gravemente herida en un 'Otromundo', conoce a un joven idealista de nuestro presente que no solo la ayuda a curarse, sino que le muestra la posibilidad de un futuro libre de amargura y rabia. Cuando se enfrenta de nuevo al asesino de su padre, Scarlet se enfrenta a su batalla más difícil: ¿podrá romper el ciclo del odio y encontrar un sentido a la vida más allá de la venganza?",
+      "popularity": 13.3532,
+      "poster_path": "/q02d53qC6VGL3Di53bAuIR13rYf.jpg",
+      "release_date": "2025-11-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 78
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 458156,
+      "title": "John Wick: Capítulo 3 - Parabellum",
+      "original_language": "en",
+      "original_title": "John Wick: Chapter 3 - Parabellum",
+      "overview": "John Wick (Keanu Reeves) regresa a la acción, solo que esta vez con una recompensa de 14 millones de dólares sobre su cabeza y con un ejército de mercenarios intentando darle caza. Tras asesinar a uno de los miembros del gremio de asesinos al que pertenecía, Wick es expulsado de la organización, pasando a convertirse en el centro de atención de multitud de asesinos a sueldo que esperan detrás de cada esquina para tratar de deshacerse de él.",
+      "popularity": 13.3401,
+      "poster_path": "/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg",
+      "release_date": "2019-05-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.437,
+      "vote_count": 11644
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o9puyKpayQoX8ikIaYtf2PfKv3.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        878
+      ],
+      "id": 607,
+      "title": "Men in Black",
+      "original_language": "en",
+      "original_title": "Men in Black",
+      "overview": "Un agente de policía se une a una organización secreta que controla y monitoriza la actividad extraterrestre en la Tierra.",
+      "popularity": 13.3091,
+      "poster_path": "/8HHIw2ZCyFp26EpZC8BW5jGP7kd.jpg",
+      "release_date": "1997-07-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.219,
+      "vote_count": 14745
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 399579,
+      "title": "Alita: Ángel de combate",
+      "original_language": "en",
+      "original_title": "Alita: Battle Angel",
+      "overview": "Ido, un compasivo médico de cíborgs, encuentra a Alita abandonada en el desguace de Iron City. Cuando Alita despierta, no sabe quién es, ni reconoce el mundo en el que se encuentra, todo es nuevo para ella. Ido intentará proteger a Alita de su misterioso pasado, mientras que su nuevo amigo Hugo le ayudará a despertar sus recuerdos. En ese momento, Alita descubre que posee habilidades de combate extraordinarias, que podría usar para salvar a su nueva familia y amigos. Decidida a encontrar la verdad tras sus orígenes, Alita comienza un viaje que le enfrentará a las injusticias de un mundo oscuro y corrupto, descubriendo que sólo ella puede cambiarlo.",
+      "popularity": 13.253,
+      "poster_path": "/gn2OqceeLGLrPy5Abz2dceB0po8.jpg",
+      "release_date": "2019-01-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.244,
+      "vote_count": 9913
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 11770,
+      "title": "Shaolin Soccer",
+      "original_language": "cn",
+      "original_title": "少林足球",
+      "overview": "Un joven seguidor de Shaolin reúne a sus hermanos para formar un equipo de fútbol usando sus habilidades en artes marciales a su favor.",
+      "popularity": 13.252,
+      "poster_path": "/gMqHA1CoURwncG1iKBukFtTCSrG.jpg",
+      "release_date": "2001-07-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.15,
+      "vote_count": 2501
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
+      "genre_ids": [
+        28,
+        12,
+        10751,
+        35
+      ],
+      "id": 675353,
+      "title": "Sonic 2: La película",
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog 2",
+      "overview": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe. La prueba de fuego llega con el retorno del malvado Robotnik, en esta ocasión con un nuevo compinche, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas.",
+      "popularity": 13.2338,
+      "poster_path": "/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg",
+      "release_date": "2022-03-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.432,
+      "vote_count": 5831
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648
+      ],
+      "id": 1439112,
+      "title": "Ajuste de cuentas: La ciudad de los lobos",
+      "original_language": "en",
+      "original_title": "Muzzle: City of Wolves",
+      "overview": "Jake Rosser está atormentado por el trastorno de estrés postraumático de sus días como oficial K-9 y se esfuerza por llevar una vida pacífica con su familia y su compañero K-9 retirado, Socks. Pero la tranquilidad se disuelve rápidamente cuando una despiadada banda los persigue en un brutal ataque. Decidido a proteger a sus seres queridos, Jake y su nuevo compañero K-9 «Argos» se adentran en los violentos entresijos de la delincuencia, donde Jake se enfrenta a funcionarios corruptos, descubre una peligrosa red de tráfico de drogas y lucha contra sus propios demonios internos.",
+      "popularity": 13.2141,
+      "poster_path": "/6oOyMLOP7wL3yl11E6BURRm2eqZ.jpg",
+      "release_date": "2025-11-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.681,
+      "vote_count": 127
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        14
+      ],
+      "id": 9470,
+      "title": "Kung Fu Sion",
+      "original_language": "cn",
+      "original_title": "功夫",
+      "overview": "Ambientada en el caos de la China prerrevolucionaria, un ladrón de poca monta, Sing (Ste-phen Chow), aspira a ser uno de los crueles y sofisticados miembros de la Banda del Hacha cuyas actividades ilegales ensombrecen la ciudad. Sing intenta extorsionar a uno de los habitantes de un complejo de apartamentos llamado 'Pig Sty Alley', pero los vecinos no son lo que parecen. Sin pretenderlo, los cómicos intentos de intimidación de Sing atraen a la Banda del Hacha, desencadenando una serie de sucesos que enfrentan cara a cara los dos mundos tan diferentes. Mientras los habitantes de Pig Sty luchan por sus vidas, el choque de titanes de kung fu que sigue desentierra algunos maestros legendarios de artes marciales.",
+      "popularity": 13.1938,
+      "poster_path": "/cMVfbypyu34ckTBgMsoRT92j2pN.jpg",
+      "release_date": "2004-02-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 3135
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 24,
+      "title": "Kill Bill: Volumen 1",
+      "original_language": "en",
+      "original_title": "Kill Bill: Vol. 1",
+      "overview": "Uma Thurman es una asesina que, el día de su boda, es atacada por los miembros de la banda de su jefe, Bill (David Carradine). Logra sobrevivir al ataque, aunque queda en coma. Cinco años después despierta con un trozo de metal en la cabeza y un gran deseo de venganza en su corazón.",
+      "popularity": 13.1781,
+      "poster_path": "/j5HFN6ZbGqZepIQ7sZRX9dMu8uk.jpg",
+      "release_date": "2003-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.971,
+      "vote_count": 18814
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10749
+      ],
+      "id": 746036,
+      "title": "El especialista",
+      "original_language": "en",
+      "original_title": "The Fall Guy",
+      "overview": "Es un doble de acción, y al igual que todos en la comunidad de especialistas, sale volando, le disparan, se estrella, se tira desde ventanas y cae desde las alturas más extremas, todo para nuestro entretenimiento. Y ahora, tras un accidente que casi acaba con su carrera, este héroe de clase trabajadora debe seguir la pista de una estrella de cine desaparecida, resolver una conspiración y tratar de recuperar el amor de su vida mientras sigue haciendo su trabajo. ¿Qué podría salir bien?",
+      "popularity": 13.1657,
+      "poster_path": "/A5LijwDVZsupBTL0qKoagMfUiKR.jpg",
+      "release_date": "2024-04-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.958,
+      "vote_count": 3657
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/44Yi72Ut3NchXewQzx814ViE2dy.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 22832,
+      "title": "Ninja Assassin",
+      "original_language": "en",
+      "original_title": "Ninja Assassin",
+      "overview": "Ninja Assassin narra la historia de Raizo (Rain), uno de los mejores asesinos del mundo. Raizo es un niño de la calle transformado en una máquina entrenada por el Clan Ozunu, una sociedad secreta la cual se cree que es un mito. El asesinato de uno de los amigos de Raizo por el mismo Clan hace que él huya y desaparezca. Ahora el espera el momento indicado para la venganza. En Berlin, la agente de Europol Mika Coretti (Naomie Harris) ha chocado con una pista que demuestra que asesinatos políticos tienen vinculación con asesinos del Lejano Oriente. Desafiando las ordenes de su superior, Ryan Maslow (Ben Miles), Mika investiga mas a fondo para saber la verdad detrás de los asesinatos. Este descubrimiento la convierte en un blanco del Clan Ozunu y asesinos son enviados tras ella liderados por el letal Takeshi (Rick Yune), para silenciarla para siempreto. Raizo salva a Mika de sus atacantes, pero ahora el sabe que el Clan no descansará hasta que ambos sean eliminados.",
+      "popularity": 13.0987,
+      "poster_path": "/9BVwATUyspEyWwW4H6ZbfBY0HxM.jpg",
+      "release_date": "2009-09-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.672,
+      "vote_count": 1748
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+      "genre_ids": [
+        14,
+        28,
+        35
+      ],
+      "id": 616037,
+      "title": "Thor: Love and Thunder",
+      "original_language": "en",
+      "original_title": "Thor: Love and Thunder",
+      "overview": "El Dios del Trueno emprende un viaje que no se parece en nada a lo que se ha enfrentado hasta ahora: una búsqueda de la paz interior. Pero el retiro de Thor se ve interrumpido por un asesino galáctico conocido como Gorr el Carnicero de Dioses. Para hacer frente a la amenaza, Thor solicita la ayuda de Valkiria, de Korg y de su ex novia Jane Foster que, para sorpresa de Thor, empuña su martillo mágico, Mjolnir, como la Poderosa Thor. Juntos, se embarcan en una aventura cósmica en la que tendrán que descubrir el misterio de la venganza del Carnicero de Dioses y detenerlo antes de que sea demasiado tarde.",
+      "popularity": 13.0656,
+      "poster_path": "/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg",
+      "release_date": "2022-07-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.371,
+      "vote_count": 8496
+    }
+  ],
+  "total_pages": 2407,
+  "total_results": 48127
+}

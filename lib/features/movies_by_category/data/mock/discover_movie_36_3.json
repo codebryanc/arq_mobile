@@ -1,0 +1,433 @@
+{
+  "page": 3,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/n0FDJI9c0uWiZwm8wgXVjaMBn96.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 568,
+      "title": "Apolo 13",
+      "original_language": "en",
+      "original_title": "Apollo 13",
+      "overview": "El Apolo 13 inicia su viaje a la luna en abril de 1970. Cuando la tripulación está a punto de llegar a su destino, una explosión en el espacio les hace perder oxígeno, energía y el curso de la nave... Todo se convierte en una situación desesperada para los tres hombres tripulantes, especialmente cuando el oxígeno amenaza con agotarse. Mientras, el mundo entero, que apenas un año antes conoció la gloria de la aventura espacial cuando el hombre pisó la luna, contiene la respiración a la espera de ver cómo acaba tan angustiosa espera.",
+      "popularity": 8.3802,
+      "poster_path": "/h6RBssorNWZQYZN5M4ys9V6Uy0I.jpg",
+      "release_date": "1995-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.454,
+      "vote_count": 5851
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AmN8ozRE0AbMGgZhqBu4fUjZkRt.jpg",
+      "genre_ids": [
+        12,
+        18,
+        36,
+        28,
+        53
+      ],
+      "id": 11362,
+      "title": "La venganza del conde de Montecristo",
+      "original_language": "en",
+      "original_title": "The Count of Monte Cristo",
+      "overview": "El honrado e inocente Edmundo Dantes es traicionado por su mejor amigo y encerrado de por vida en las mazmorras del castillo de If. Con el paso de los años va cambiando y elabora los más despiadados planes de venganza. Tras una milagrosa fuga, Edmundo se convierte en el misterioso y acaudalado conde de Montecristo, y se introduce en los círculos de la nobleza francesa para llevar a cabo sus proyectos y conseguir vengarse de todos los que le traicionaron.",
+      "popularity": 9.0015,
+      "poster_path": "/udaGNhjNcfW2Y2EQKk75SYIeBYl.jpg",
+      "release_date": "2002-01-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.669,
+      "vote_count": 1998
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gOi18HJqiuOYoXMH4CgpFnTHgUJ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        36,
+        18
+      ],
+      "id": 20662,
+      "title": "Robin Hood",
+      "original_language": "en",
+      "original_title": "Robin Hood",
+      "overview": "Inglaterra, siglo XIII. Robin Longstride, un magnífico arquero al servicio del rey Ricardo Corazón de León, vuelve de las cruzadas en tierra santa saqueando poblados mientras lucha contra las tropas francesas. Cuando Ricardo muere bajo una fecha francesa, Robin se traslada a Nottingham con el objetivo de cumplir una promesa que hizo a Sir Robert Loxley antes de morir: devolver una espada a su padre, Sir Walter Loxley. Allí conoce a lady Marion, su viuda, una mujer con carácter. Mientras tanto, en un país debilitado por una larga guerra, regido por Juan, un rey débil y poco eficaz, contra las rebeliones internas y las amenazas externas maquinadas por el pérfido Godfrey, Robin y sus hombres se dejan llevar hacia una aventura mayor: deciden ayudar a impedir que el país caiga irremediablemente en una sangrienta guerra civil, y devolver la gloria a Inglaterra.",
+      "popularity": 7.7707,
+      "poster_path": "/8jI4VDUWPVM4I91xBhObCLMQhnM.jpg",
+      "release_date": "2010-05-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.396,
+      "vote_count": 4986
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tRUWudISYy3vMFAT7p3ebkTDTpH.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 1287322,
+      "title": "Christy (El combate de su vida)",
+      "original_language": "en",
+      "original_title": "Christy",
+      "overview": "Biopic de Christy Martin, la boxeadora de más éxito de los años 90.",
+      "popularity": 8.4899,
+      "poster_path": "/A34zGQkOsi9iTOlwnh1vVDxtlfN.jpg",
+      "release_date": "2025-11-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.19,
+      "vote_count": 150
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+      "genre_ids": [
+        36,
+        10402,
+        18
+      ],
+      "id": 279,
+      "title": "Amadeus",
+      "original_language": "en",
+      "original_title": "Amadeus",
+      "overview": "Antonio Salieri es el músico más destacado de la corte del Emperador José II de Austria. Entregado completamente a la música, le promete a Dios humildad y castidad si, a cambio, conserva sus extraordinarias dotes musicales. Pero, después de la llegada a la corte de un joven llamado Wolfang Amadeus Mozart, Salieri queda relegado a un segundo plano. Irritado por la pérdida de protagonismo, hará todo lo posible para arruinar la carrera del joven músico. Mientras tanto, Mozart, ajeno a las maquinaciones de Salieri, sorprende a todos con su genialidad como músico, pero también con sus excentricidades.",
+      "popularity": 7.7192,
+      "poster_path": "/nI24KqCadkHbjF4LpVHmUhQRNDn.jpg",
+      "release_date": "1984-09-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.022,
+      "vote_count": 4721
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        36,
+        18,
+        53
+      ],
+      "id": 300671,
+      "title": "13 Horas: Los soldados secretos de Bengasi",
+      "original_language": "en",
+      "original_title": "13 Hours: The Secret Soldiers of Benghazi",
+      "overview": "El 11 de septiembre de 2012, en el aniversario de los ataques terroristas a las Torres Gemelas y al Pentágono, un grupo de milicianos islamistas atentaron contra el consulado estadounidense y un anexo cercano de la CIA en Bengasi, Libia. Un equipo de seis miembros de Operaciones Especiales de Estados Unidos fue enviado para rescatar a los supervivientes.",
+      "popularity": 7.8429,
+      "poster_path": "/uRBj8FbGfub5JVXWqXCmLMNUQNX.jpg",
+      "release_date": "2016-01-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.27,
+      "vote_count": 3912
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+      "genre_ids": [
+        80,
+        18,
+        36
+      ],
+      "id": 398978,
+      "title": "El irlandés",
+      "original_language": "en",
+      "original_title": "The Irishman",
+      "overview": "Pennsylvania, 1956. Frank Sheeran, un veterano de guerra de origen irlandés que trabaja como camionero, conoce accidentalmente al mafioso Russell Bufalino. Una vez convertido en su hombre de confianza, Bufalino envía a Frank a Chicago con el encargo de ayudar a Jimmy Hoffa, un poderoso líder sindical relacionado con el crimen organizado, con quien Frank mantendrá una estrecha amistad durante casi veinte años.",
+      "popularity": 8.0517,
+      "poster_path": "/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",
+      "release_date": "2019-11-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.575,
+      "vote_count": 7453
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qFq2Ixo3XApoTp1H7JCTgLfGwVk.jpg",
+      "genre_ids": [
+        18,
+        36,
+        80
+      ],
+      "id": 338803,
+      "title": "The Treacherous",
+      "original_language": "ko",
+      "original_title": "간신",
+      "overview": "1504 . El tirano Yeonsan-gun ordena a Im Soong-jae recorrer todo el país buscando bellas jóvenes a las que entrenar para satisfacer su lujuria. Entre ellas se encuentra Dan-hee, que quiere convertirse en concubina para matar al rey y vengar la muerte de su padre. Una suntuosa epopeya histórica, inspirada en uno de los personajes más infames de la historia de Corea.",
+      "popularity": 7.2581,
+      "poster_path": "/wjHi19IHTq6VmOtSENnLbkhUiMk.jpg",
+      "release_date": "2015-05-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 89
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xyS0NgcQ2pbGWcwvSSu3xKEBhoO.jpg",
+      "genre_ids": [
+        10402,
+        36,
+        18
+      ],
+      "id": 614934,
+      "title": "Elvis",
+      "original_language": "en",
+      "original_title": "Elvis",
+      "overview": "La película explora la vida y la música de Elvis Presley a través del prisma de su relación con el coronel Tom Parker, su enigmático manager. La historia profundiza en la compleja dinámica que existía entre Presley y Parker que abarca más de veinte años, desde el ascenso de Presley a la fama hasta su estrellato sin precedentes, en el contexto de la revolución cultural y la pérdida de la inocencia en Estados Unidos. Y en el centro de ese periplo está Priscilla Presley, una de las personas más importantes e influyentes en la vida de Elvis.",
+      "popularity": 7.6737,
+      "poster_path": "/z4miRBGEqhkIkUr0ausHLfUytgq.jpg",
+      "release_date": "2022-06-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.461,
+      "vote_count": 3846
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wSMaPDDwqfYbwg1GX9B5MaMnmxe.jpg",
+      "genre_ids": [
+        10752,
+        36
+      ],
+      "id": 853,
+      "title": "Enemigo a las puertas",
+      "original_language": "en",
+      "original_title": "Enemy at the Gates",
+      "overview": "Mientras los ejércitos de Alemania y la Unión Soviética luchan encarnizadamente y el mundo espera con ansiedad el desenlace de la batalla de Stalingrado, un francotirador ruso, Vassili Zaitsev, persevera en la empresa de eliminar a sus enemigos uno por uno. Modesto y reservado, Vassili es un hombre corriente que simplemente cumple con su deber con una destreza extraordinaria. Danilov -el oficial encargado de la propaganda soviética- se da cuenta del enorme valor de este antiguo campesino, y convierte al sencillo pastor de los Urales en un héroe nacional",
+      "popularity": 8.0025,
+      "poster_path": "/kuZOlBI4zvPqnT5ZoREzatvs608.jpg",
+      "release_date": "2001-02-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.417,
+      "vote_count": 4003
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ykqSwE2vUrcocu4w9e99bxLBrXd.jpg",
+      "genre_ids": [
+        18,
+        36,
+        80
+      ],
+      "id": 3131,
+      "title": "Gangs of New York",
+      "original_language": "en",
+      "original_title": "Gangs of New York",
+      "overview": "New York City, 1863. Antes de la ciudad que conocemos hoy, llena de riqueza, poder y sueños infinitos, New York era un lugar diferente, una ciudad naciente donde el deseo por una vida mejor enfurecía a su gente y generaba violencia en las calles. Mientras la superviviencia del país se debatía en la Guerra Civil, un vasto y peligroso grupo de personas crecía en el bajo mundo. Pero en la joven y naciente ciudad, llegaba el momento de luchar contra los despiadados, contra la intolerancia y el miedo. Había llegado el momento del extraordinario valor de aquellos que impulsaron al borde de la lucha la libertad de futuras generaciones.",
+      "popularity": 7.1616,
+      "poster_path": "/gB7aaHAT1yEj49beaII6pudpode.jpg",
+      "release_date": "2002-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.315,
+      "vote_count": 7162
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sF2REAiVUcN90lrMeLfmEuHJl4B.jpg",
+      "genre_ids": [
+        80,
+        36,
+        53
+      ],
+      "id": 117,
+      "title": "Los intocables de Eliot Ness",
+      "original_language": "en",
+      "original_title": "The Untouchables",
+      "overview": "El joven agente del tesoro Elliot Ness llega a Chicago con la determinación de detener a Al Capone. No va a ser tarea fácil, puesto que Capone tiene a la policía en el bolsillo. Ness conoce a Jimmy Malone, un guardia veterano y probablemente el más honrado de todo el cuerpo, al que Ness pide ayuda en su cruzada contra Capone.",
+      "popularity": 7.1555,
+      "poster_path": "/pVcWaUbFDL76ObIsReIBQ5ILMHv.jpg",
+      "release_date": "1987-06-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.754,
+      "vote_count": 6130
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h21dxRjtR7xOhyZljtSYeTETCht.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        28,
+        12,
+        18,
+        10749
+      ],
+      "id": 1966,
+      "title": "Alejandro Magno",
+      "original_language": "en",
+      "original_title": "Alexander",
+      "overview": "Fue muchas cosas para muchas personas: un apuesto rey guerrero lleno de la ambición, el coraje y la arrogancia de la juventud, encabezando a su pequeño ejército contra las gigantescas fuerzas persas… un hijo que buscaba desesperadamente la aprobación de su severo padre, endurecido por las batallas, y que se debatía entre su lealtad a éste y su amor por su madre… un conquistador despiadado que nunca perdió una batalla y empujó a sus soldados a los confines del mundo conocido… un visionario cuyos sueños, hazañas y destino dejaron huella a lo largo de la historia, ayudando a dar forma a nuestro mundo actual. Fue todo eso y más. Fue Alejandro Magno.",
+      "popularity": 6.6078,
+      "poster_path": "/ff0oH0VnpszrqvBkg78zaFCUPts.jpg",
+      "release_date": "2004-11-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.953,
+      "vote_count": 3482
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jSHHUHRcShP6DJbg0H2lO4A8m9x.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752,
+        28
+      ],
+      "id": 2024,
+      "title": "El patriota",
+      "original_language": "en",
+      "original_title": "The Patriot",
+      "overview": "Año 1776, Guerra de Independencia entre los colonos de Nueva Inglaterra y las tropas de Jorge III (1760-1820). En Carolina del Sur, el viudo Benjamin Martin (Mel Gibson), heroico soldado en Francia y en la India, renuncia a combatir para cuidar de sus siete hijos. Pero la pacífica vida de la familia Martin se ve alterada cuando Gabriel (Heath Ledger), el hijo mayor, se alista en el ejército; mientras tanto su padre se esfuerza por sacar adelante a la prole. Sin embargo, los británicos, al mando del cruel coronel Tavington (Jason Isaacs), llegarán hasta las puertas de su casa poniendo en peligro a toda la familia...",
+      "popularity": 7.9717,
+      "poster_path": "/cizgIaq65fpq2Ft08dPmZtUxDYv.jpg",
+      "release_date": "2000-06-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.184,
+      "vote_count": 4264
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6u4zm2EiOHbDS6A6VWaybdWkdNL.jpg",
+      "genre_ids": [
+        53,
+        18,
+        9648,
+        10749,
+        36
+      ],
+      "id": 2057,
+      "title": "Pecado original",
+      "original_language": "en",
+      "original_title": "Original Sin",
+      "overview": "En Cuba, Luis Vargas (Antonio Banderas) sostiene una relación epistolar con Julia Russell (Angelina Jolie), una atractiva americana. En principio ella es todo lo que él necesita para casarse y el hecho de que sea norteamericana, es ideal para proyectar el estatus al que él aspira. Pero un buen día Julia desaparece... con el dinero de Luis. Ahora, Luis sólo piensa en vengarse y emprende un viaje hacia el complicado pasado de Julia. Las consecuencias de esa odisea de mentiras descubiertas y pasiones encontradas son devastadoras tanto para él como para ella",
+      "popularity": 8.1669,
+      "poster_path": "/4CjNBYaYYiGa4Yatg5eRMTly78a.jpg",
+      "release_date": "2001-05-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.128,
+      "vote_count": 893
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sv8nSUSXb7ldLOg4dm6KDIDdSEU.jpg",
+      "genre_ids": [
+        35,
+        36
+      ],
+      "id": 14257,
+      "title": "Delirios de grandeza",
+      "original_language": "fr",
+      "original_title": "La Folie des grandeurs",
+      "overview": "Siglo XVIII. Narra las aventuras y desventuras de un recaudador de impuestos que intenta estafar al rey, pero, al ser descubierto, será objeto de las burlas de los contribuyentes.",
+      "popularity": 6.6721,
+      "poster_path": "/c6m0Td6fPOxY2W65z0olU8VsbmL.jpg",
+      "release_date": "1971-12-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.402,
+      "vote_count": 734
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yshotagFpG4Eebnec8tF6EGHeLq.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 284552,
+      "title": "慈禧秘密生活",
+      "original_language": "cn",
+      "original_title": "慈禧秘密生活",
+      "overview": "",
+      "popularity": 6.6395,
+      "poster_path": "/aBMD9XUaerpZxJDBnHEJ1Qev0tj.jpg",
+      "release_date": "1995-03-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 26
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jZNR5onRZijwyGr5iWbs3J9QcYr.jpg",
+      "genre_ids": [
+        36,
+        18,
+        10402
+      ],
+      "id": 1401281,
+      "title": "El testamento de Ann Lee",
+      "original_language": "en",
+      "original_title": "The Testament of Ann Lee",
+      "overview": "Inspirada en hechos reales, se centra en la líder religiosa Ann Lee, fundadora del Movimiento Shaker a finales de la década de 1770, llegó a construir una de las sociedades utópicas más grandes de la historia de Estados Unidos. Los seguidores de Lee la consideraban el Jesucristo femenino, y sus fieles le rezaban cantando y bailando.",
+      "popularity": 7.2929,
+      "poster_path": "/aMnG77IPQEePqCraNJDVQSHcXUm.jpg",
+      "release_date": "2025-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 114
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 467244,
+      "title": "La zona de interés",
+      "original_language": "en",
+      "original_title": "The Zone of Interest",
+      "overview": "El comandante de Auschwitz Rudolf Höss y su esposa Hedwig se esfuerzan en construir una vida de ensueño para su familia en una casa con jardín cerca del campo.",
+      "popularity": 6.9349,
+      "poster_path": "/jjBgrAsz0vFerjesnM3NnyU3Bm5.jpg",
+      "release_date": "2023-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.015,
+      "vote_count": 2558
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fOcAU0Jzw4sx4aUTopRavJrLHeF.jpg",
+      "genre_ids": [
+        12,
+        18,
+        28,
+        36
+      ],
+      "id": 584855,
+      "title": "Los salvajes",
+      "original_language": "ru",
+      "original_title": "Fierce Town",
+      "overview": "En el siglo XIII, Batu Khan pasó dos meses intentando tomar la ciudad de Kozelsk. Perdió muchos hombres y máquinas de asedio en el proceso. Cuando por fin la tomó, mató a todos los habitantes, incluidos mujeres y niños, y ordenó que se olvidara el nombre de Kozelsk. La llamó Ciudad Feroz.",
+      "popularity": 5.09,
+      "poster_path": "/inDlRPwUPbHkkQQa3KnlNSxTnhJ.jpg",
+      "release_date": "2025-01-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 39
+    }
+  ],
+  "total_pages": 1077,
+  "total_results": 21540
+}
