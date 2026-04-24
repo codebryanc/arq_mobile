@@ -1,5 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 
+import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/features/movie_detail/domain/usecases/get_movie_cast_usecase.dart';
 import 'package:arq_mobile/features/movie_detail/domain/usecases/get_movie_detail_usecase.dart';
 import 'package:arq_mobile/features/movie_detail/domain/usecases/get_movie_images_usecase.dart';
@@ -33,26 +34,34 @@ class MovieDetailBloc extends Bloc<MovieDetailEvent, MovieDetailState> {
     emit(const MovieDetailLoading());
 
     // Call all 3 endpoints in parallel
-    final params = MovieDetailParams(movieId: event.movieId, isOnline: event.isOnline);
-    final (detailResult, castResult, imagesResult) = await (
-      _getMovieDetail(params),
-      _getMovieCast(params),
-      _getMovieImages(params),
-    ).wait;
+    try {
+      final params = MovieDetailParams(
+        movieId: event.movieId,
+        isOnline: event.isOnline,
+      );
+      final (detailResult, castResult, imagesResult) = await (
+        _getMovieDetail(params),
+        _getMovieCast(params),
+        _getMovieImages(params),
+      ).wait;
 
-    detailResult.fold(
-      (failure) =>
-          // Error
-          emit(MovieDetailError(failure)),
-      (detail) =>
-          // Loaded — cast and images degrade gracefully to empty list if they fail
-          emit(
-            MovieDetailLoaded(
-              detail: detail,
-              cast: castResult.fold((_) => [], (c) => c),
-              images: imagesResult.fold((_) => [], (i) => i),
+      detailResult.fold(
+        (failure) =>
+            // Error
+            emit(MovieDetailError(failure)),
+        (detail) =>
+            // Loaded — cast and images degrade gracefully to empty list if they fail
+            emit(
+              MovieDetailLoaded(
+                detail: detail,
+                cast: castResult.fold((_) => [], (c) => c),
+                images: imagesResult.fold((_) => [], (i) => i),
+              ),
             ),
-          ),
-    );
+      );
+    } catch (_) {
+      // Error — ParallelWaitError or any unexpected exception
+      emit(const MovieDetailError(NotFoundFailure()));
+    }
   }
 }

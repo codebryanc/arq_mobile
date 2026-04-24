@@ -32,7 +32,7 @@ class MoviesByCategoryPage extends StatelessWidget {
       children: [
         // Section title
         Padding(
-          padding: const EdgeInsets.only(top: 12, left: 16),
+          padding: const EdgeInsets.only(left: 16),
           child: Text(
             '${AppLocalizations.of(context)!.moviesByCategoryTitle} $categoryName',
             style: Theme.of(context).textTheme.titleSmall?.copyWith(

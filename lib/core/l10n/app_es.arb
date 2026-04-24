@@ -16,6 +16,10 @@
   "@errorServer": {
       "description": "Error message shown when there is a server error"
   },
+  "errorNoInfo": "Sin información",
+  "@errorNoInfo": {
+      "description": "Error message shown when no offline data is available for the requested content"
+  },
   "homeGreeting": "Saludos nuevamente",
   "@homeGreeting": {
       "description": "Greeting shown on the home screen"

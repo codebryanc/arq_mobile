@@ -32,7 +32,11 @@ class MoviesByCategoryBloc
     emit(const MoviesByCategoryLoading());
 
     final result = await _getMoviesByCategory(
-      CategoryParams(categoryId: event.categoryId, page: event.page, isOnline: event.isOnline),
+      CategoryParams(
+        categoryId: event.categoryId,
+        page: event.page,
+        isOnline: event.isOnline,
+      ),
     );
     result.fold(
       (failure) =>
@@ -67,7 +71,11 @@ class MoviesByCategoryBloc
     emit(current.copyWith(isLoadingMore: true));
 
     final result = await _getMoviesByCategory(
-      CategoryParams(categoryId: _currentCategoryId!, page: nextPage, isOnline: _isOnline),
+      CategoryParams(
+        categoryId: _currentCategoryId!,
+        page: nextPage,
+        isOnline: _isOnline,
+      ),
     );
     result.fold(
       (failure) =>

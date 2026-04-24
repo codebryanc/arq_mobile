@@ -16,3 +16,7 @@ class CacheFailure extends Failure {
   final String message;
   const CacheFailure(this.message);
 }
+
+class NotFoundFailure extends Failure {
+  const NotFoundFailure();
+}

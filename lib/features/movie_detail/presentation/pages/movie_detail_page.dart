@@ -27,8 +27,9 @@ class MovieDetailPage extends StatelessWidget {
   Widget build(BuildContext context) {
     final isOnline = context.read<HomeBloc>().state.isOnline;
     return BlocProvider(
-      create: (_) => sl<MovieDetailBloc>()
-        ..add(LoadMovieDetail(movieId: movieId, isOnline: isOnline)),
+      create: (_) =>
+          sl<MovieDetailBloc>()
+            ..add(LoadMovieDetail(movieId: movieId, isOnline: isOnline)),
       child: const _MovieDetailView(),
     );
   }
@@ -173,6 +174,7 @@ class _BackdropPlaceholder extends StatelessWidget {
 String _mapFailure(BuildContext context, Failure failure) {
   final l10n = AppLocalizations.of(context)!;
   if (failure is NetworkFailure) return l10n.errorNetwork;
+  if (failure is NotFoundFailure) return l10n.errorNoInfo;
   if (failure is ServerFailure) {
     return failure.message.isEmpty ? l10n.errorServer : failure.message;
   }

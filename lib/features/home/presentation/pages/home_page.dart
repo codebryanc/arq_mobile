@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:arq_mobile/core/theme/app_colors.dart';
 import 'package:arq_mobile/core/l10n/app_localizations.dart';
+import 'package:arq_mobile/core/theme/app_colors.dart';
 import 'package:arq_mobile/features/category/domain/entities/category.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_bloc.dart';
+import 'package:arq_mobile/features/category/presentation/bloc/category_event.dart';
 import 'package:arq_mobile/features/category/presentation/bloc/category_state.dart';
 import 'package:arq_mobile/features/category/presentation/pages/category_page.dart';
 import 'package:arq_mobile/features/home/presentation/bloc/home_bloc.dart';
@@ -13,6 +14,8 @@ import 'package:arq_mobile/features/home/presentation/widgets/header_widget.dart
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_bloc.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/bloc/movies_by_category_event.dart';
 import 'package:arq_mobile/features/movies_by_category/presentation/pages/movies_by_category_page.dart';
+import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_bloc.dart';
+import 'package:arq_mobile/features/popular_movies/presentation/bloc/popular_movies_event.dart';
 import 'package:arq_mobile/features/popular_movies/presentation/pages/popular_movies_page.dart';
 
 class HomePage extends StatelessWidget {
@@ -23,18 +26,38 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: BlocListener<CategoryBloc, CategoryState>(
-        listenWhen: (prev, curr) =>
-            curr is CategoryLoaded &&
-            (curr.selectedCategory?.id !=
-                (prev is CategoryLoaded ? prev.selectedCategory?.id : null)),
-        listener: (context, state) {
-          if (state is CategoryLoaded && state.selectedCategory != null) {
-            context.read<MoviesByCategoryBloc>().add(
-              LoadMoviesByCategory(categoryId: state.selectedCategory!.id),
-            );
-          }
-        },
+      body: MultiBlocListener(
+        listeners: [
+          BlocListener<HomeBloc, HomeState>(
+            listenWhen: (prev, curr) => prev.isOnline != curr.isOnline,
+            listener: (context, state) {
+              context.read<PopularMoviesBloc>().add(
+                LoadPopularMovies(isOnline: state.isOnline),
+              );
+              context.read<CategoryBloc>().add(
+                LoadCategories(isOnline: state.isOnline),
+              );
+            },
+          ),
+          BlocListener<CategoryBloc, CategoryState>(
+            listenWhen: (prev, curr) =>
+                curr is CategoryLoaded &&
+                (curr.selectedCategory?.id !=
+                    (prev is CategoryLoaded
+                        ? prev.selectedCategory?.id
+                        : null)),
+            listener: (context, state) {
+              if (state is CategoryLoaded && state.selectedCategory != null) {
+                context.read<MoviesByCategoryBloc>().add(
+                  LoadMoviesByCategory(
+                    categoryId: state.selectedCategory!.id,
+                    isOnline: context.read<HomeBloc>().state.isOnline,
+                  ),
+                );
+              }
+            },
+          ),
+        ],
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [

@@ -20,9 +20,11 @@ import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movi
 import 'package:arq_mobile/features/popular_movies/data/datasources/popular_movies_remote_datasource.dart';
 import 'package:arq_mobile/features/popular_movies/domain/repositories/popular_movies_repository.dart';
 import 'package:arq_mobile/features/popular_movies/domain/usecases/get_popular_movies_usecase.dart';
+import 'package:arq_mobile/features/movies_by_category/data/datasources/movies_by_category_local_datasource.dart';
 import 'package:arq_mobile/features/movies_by_category/data/datasources/movies_by_category_remote_datasource.dart';
 import 'package:arq_mobile/features/movies_by_category/domain/repositories/movies_by_category_repository.dart';
 import 'package:arq_mobile/features/movies_by_category/domain/usecases/get_movies_by_category_usecase.dart';
+import 'package:arq_mobile/features/movie_detail/data/datasources/movie_detail_local_datasource.dart';
 import 'package:arq_mobile/features/movie_detail/data/datasources/movie_detail_remote_datasource.dart';
 import 'package:arq_mobile/features/movies_by_category/data/repositories/movies_by_category_repository_impl.dart';
 import 'package:arq_mobile/features/category/data/repositories/category_repository_impl.dart';
@@ -72,8 +74,14 @@ class DependencyInjection {
     sl.registerLazySingleton<MoviesByCategoryRemoteDataSource>(
       () => MoviesByCategoryRemoteDataSourceImpl(dio: sl()),
     );
+    sl.registerLazySingleton<MoviesByCategoryLocalDataSource>(
+      () => MoviesByCategoryLocalDataSourceImpl(),
+    );
     sl.registerLazySingleton<MovieDetailRemoteDataSource>(
       () => MovieDetailRemoteDataSourceImpl(dio: sl()),
+    );
+    sl.registerLazySingleton<MovieDetailLocalDataSource>(
+      () => MovieDetailLocalDataSourceImpl(),
     );
 
     // Repositories
@@ -88,10 +96,16 @@ class DependencyInjection {
       ),
     );
     sl.registerLazySingleton<MoviesByCategoryRepository>(
-      () => MoviesByCategoryRepositoryImpl(remoteDataSource: sl()),
+      () => MoviesByCategoryRepositoryImpl(
+        remoteDataSource: sl(),
+        localDataSource: sl(),
+      ),
     );
     sl.registerLazySingleton<MovieDetailRepository>(
-      () => MovieDetailRepositoryImpl(remoteDataSource: sl()),
+      () => MovieDetailRepositoryImpl(
+        remoteDataSource: sl(),
+        localDataSource: sl(),
+      ),
     );
 
     // Use cases
@@ -124,7 +138,9 @@ class DependencyInjection {
       ),
     );
     sl.registerFactory<CategoryBloc>(
-      () => CategoryBloc(getCategories: sl())..add(const LoadCategories(isOnline: true)),
+      () =>
+          CategoryBloc(getCategories: sl())
+            ..add(const LoadCategories(isOnline: true)),
     );
     sl.registerFactory<PopularMoviesBloc>(
       () =>

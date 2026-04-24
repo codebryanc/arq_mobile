@@ -63,3 +63,7 @@ flutter:
   assets:
     - assets/splash/
     - assets/image/
+    - lib/features/category/data/mock/
+    - lib/features/popular_movies/data/mock/
+    - lib/features/movies_by_category/data/mock/
+    - lib/features/movie_detail/data/mock/

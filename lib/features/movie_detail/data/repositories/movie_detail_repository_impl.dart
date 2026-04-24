@@ -1,6 +1,8 @@
 import 'package:arq_mobile/core/errors/exceptions.dart';
 import 'package:arq_mobile/core/errors/failures.dart';
 import 'package:arq_mobile/core/utils/either.dart';
+
+import 'package:arq_mobile/features/movie_detail/data/datasources/movie_detail_local_datasource.dart';
 import 'package:arq_mobile/features/movie_detail/data/datasources/movie_detail_remote_datasource.dart';
 import 'package:arq_mobile/features/movie_detail/domain/entities/actor.dart';
 import 'package:arq_mobile/features/movie_detail/domain/entities/movie_detail.dart';
@@ -10,9 +12,13 @@ import 'package:arq_mobile/features/movie_detail/domain/repositories/movie_detai
 class MovieDetailRepositoryImpl implements MovieDetailRepository {
   // [Properties]
   final MovieDetailRemoteDataSource remoteDataSource;
+  final MovieDetailLocalDataSource localDataSource;
 
   // [Constructor]
-  const MovieDetailRepositoryImpl({required this.remoteDataSource});
+  const MovieDetailRepositoryImpl({
+    required this.remoteDataSource,
+    required this.localDataSource,
+  });
 
   // [Methods]
   @override
@@ -20,7 +26,13 @@ class MovieDetailRepositoryImpl implements MovieDetailRepository {
     int movieId, {
     required bool isOnline,
   }) async {
-    if (!isOnline) return Left(const NetworkFailure());
+    if (!isOnline) {
+      try {
+        return Right(await localDataSource.getMovieDetail(movieId));
+      } catch (_) {
+        return Left(const NotFoundFailure());
+      }
+    }
 
     try {
       return Right(await remoteDataSource.getMovieDetail(movieId));
@@ -36,7 +48,9 @@ class MovieDetailRepositoryImpl implements MovieDetailRepository {
     int movieId, {
     required bool isOnline,
   }) async {
-    if (!isOnline) return const Right([]);
+    if (!isOnline) {
+      return Right(await localDataSource.getMovieCast(movieId));
+    }
 
     try {
       return Right(await remoteDataSource.getMovieCast(movieId));
@@ -52,7 +66,9 @@ class MovieDetailRepositoryImpl implements MovieDetailRepository {
     int movieId, {
     required bool isOnline,
   }) async {
-    if (!isOnline) return const Right([]);
+    if (!isOnline) {
+      return Right(await localDataSource.getMovieImages(movieId));
+    }
 
     try {
       return Right(await remoteDataSource.getMovieImages(movieId));

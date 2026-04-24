@@ -35,7 +35,9 @@ class _CategoryMoviesHorizontalWidgetState
     super.initState();
     final isOnline = context.read<HomeBloc>().state.isOnline;
     _bloc = sl<MoviesByCategoryBloc>()
-      ..add(LoadMoviesByCategory(categoryId: widget.categoryId, isOnline: isOnline));
+      ..add(
+        LoadMoviesByCategory(categoryId: widget.categoryId, isOnline: isOnline),
+      );
     _scrollController = ScrollController()..addListener(_onScroll);
   }
 

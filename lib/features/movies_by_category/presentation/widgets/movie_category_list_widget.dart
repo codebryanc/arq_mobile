@@ -19,6 +19,7 @@ class MovieCategoryListWidget extends StatelessWidget {
     return ListView.builder(
       // This is for the main ListView, so it should be scrollable. The inner GridViews will have their scrolling disabled.
       shrinkWrap: true,
+      padding: EdgeInsets.zero,
       physics: const NeverScrollableScrollPhysics(),
       itemCount: categories.length,
       itemBuilder: (_, i) {
@@ -28,7 +29,7 @@ class MovieCategoryListWidget extends StatelessWidget {
           children: [
             // [Category name]
             Padding(
-              padding: const EdgeInsets.only(top: 16, left: 16, bottom: 8),
+              padding: const EdgeInsets.only(left: 16, bottom: 8),
               child: Text(
                 category.name,
                 style: textTheme.titleSmall?.copyWith(

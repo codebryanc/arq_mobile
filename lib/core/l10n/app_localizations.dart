@@ -118,6 +118,12 @@ abstract class AppLocalizations {
   /// **'Error del servidor'**
   String get errorServer;
 
+  /// Error message shown when no offline data is available for the requested content
+  ///
+  /// In es, this message translates to:
+  /// **'Sin información'**
+  String get errorNoInfo;
+
   /// Greeting shown on the home screen
   ///
   /// In es, this message translates to:

@@ -40,7 +40,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 5.449,
-      "vote_count": 78
+      "vote_count": 79
     },
     {
       "adult": false,
@@ -59,8 +59,8 @@
       "release_date": "2026-04-15",
       "softcore": false,
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 126
+      "vote_average": 6.925,
+      "vote_count": 127
     },
     {
       "adult": false,
@@ -79,8 +79,8 @@
       "release_date": "2026-04-10",
       "softcore": false,
       "video": false,
-      "vote_average": 5.967,
-      "vote_count": 390
+      "vote_average": 5.975,
+      "vote_count": 396
     },
     {
       "adult": false,
@@ -118,8 +118,8 @@
       "release_date": "2026-02-05",
       "softcore": false,
       "video": false,
-      "vote_average": 5.672,
-      "vote_count": 116
+      "vote_average": 5.658,
+      "vote_count": 117
     },
     {
       "adult": false,
@@ -138,8 +138,8 @@
       "release_date": "2026-03-12",
       "softcore": false,
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 92
+      "vote_average": 6.547,
+      "vote_count": 95
     },
     {
       "adult": false,
@@ -179,8 +179,8 @@
       "release_date": "2026-01-20",
       "softcore": false,
       "video": false,
-      "vote_average": 6.0,
-      "vote_count": 247
+      "vote_average": 6.034,
+      "vote_count": 248
     },
     {
       "adult": false,
@@ -200,8 +200,8 @@
       "release_date": "2026-01-21",
       "softcore": false,
       "video": false,
-      "vote_average": 5.211,
-      "vote_count": 403
+      "vote_average": 5.2,
+      "vote_count": 404
     },
     {
       "adult": false,
@@ -241,8 +241,8 @@
       "release_date": "2025-12-24",
       "softcore": false,
       "video": false,
-      "vote_average": 5.86,
-      "vote_count": 1033
+      "vote_average": 5.861,
+      "vote_count": 1036
     },
     {
       "adult": false,
@@ -263,7 +263,7 @@
       "release_date": "2026-03-13",
       "softcore": false,
       "video": false,
-      "vote_average": 6.798,
+      "vote_average": 6.8,
       "vote_count": 297
     },
     {
@@ -284,8 +284,8 @@
       "release_date": "2026-02-19",
       "softcore": false,
       "video": false,
-      "vote_average": 5.714,
-      "vote_count": 35
+      "vote_average": 5.611,
+      "vote_count": 36
     },
     {
       "adult": false,
@@ -326,7 +326,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 6.254,
-      "vote_count": 350
+      "vote_count": 351
     },
     {
       "adult": false,
@@ -380,7 +380,7 @@
       "id": 1266127,
       "title": "Noche de bodas 2",
       "original_language": "en",
-      "original_title": "Ready or Not: Here I Come",
+      "original_title": "Ready or Not 2: Here I Come",
       "overview": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
       "popularity": 49.0355,
       "poster_path": "/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
@@ -411,5 +411,5 @@
     }
   ],
   "total_pages": 3486,
-  "total_results": 69701
+  "total_results": 69711
 }
