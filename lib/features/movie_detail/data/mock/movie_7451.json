@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
+  "belongs_to_collection": {
+    "id": 52785,
+    "name": "xXx - Colección",
+    "poster_path": "/s5m6a8uRG8BcJC7XsFF5bTJ5NLG.jpg",
+    "backdrop_path": "/jSfCi0onZRDxbeg2dPJgB5iAoxX.jpg"
+  },
+  "budget": 70000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Acción"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 53,
+      "name": "Suspense"
+    },
+    {
+      "id": 80,
+      "name": "Crimen"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 7451,
+  "imdb_id": "tt0295701",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "xXx",
+  "overview": "Xander Cage es XXX, un antiguo ganador de X-Games y atleta profesional de deportes de extremo, que sobrevive vendiendo videos de sus increíbles hazañas, las cuales hacen emitir adrenalina por todo el cuerpo. Pero después de incontables encuentros con la ley, su mundo está a punto de tomar un rumbo aún más extremo... Porque Xander no sabe que ha sido \"espiado\" por Augustus Gibbons, un agente veterano de la Agencia Nacional de Seguridad que se encuentra en una desesperada situación en la distante ciudad de Praga, en donde su operativo secreto ha sido asesinado por una pandilla de mafiosos con un estilo muy propio, que se llaman así mismos Anarchy 99, encabezados por el brutal ex-Comandante del Ejército Ruso Yorgi.",
+  "popularity": 63.9721,
+  "poster_path": "/gd4hRY3pFXRY7YVbMdVBpnKV7wC.jpg",
+  "production_companies": [
+    {
+      "id": 497,
+      "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
+      "name": "Revolution Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-08-09",
+  "revenue": 277448382,
+  "runtime": 124,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Una nueva raza de agente secreto.",
+  "title": "xXx",
+  "video": false,
+  "vote_average": 5.986,
+  "vote_count": 4864
+}

@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 53,
+      "name": "Suspense"
+    },
+    {
+      "id": 28,
+      "name": "Acción"
+    },
+    {
+      "id": 27,
+      "name": "Terror"
+    }
+  ],
+  "homepage": "",
+  "id": 1084187,
+  "imdb_id": "tt26678938",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Pretty Lethal",
+  "overview": "Un grupo de bailarinas lucha por sobrevivir mientras intentan escapar de una remota posada después de que su autobús se averíe de camino a una competición.",
+  "popularity": 64.0874,
+  "poster_path": "/cmZqxJQ9MdNQEoD49HYghOXsiwH.jpg",
+  "production_companies": [
+    {
+      "id": 121470,
+      "logo_path": "/zvJFu1C6gB80A98n6IGXBvMtgVl.png",
+      "name": "87North Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 20788,
+      "logo_path": "/7hBlD2RPUo6LHgSDSSnyYuXdigU.png",
+      "name": "GulfStream Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 74933,
+      "logo_path": null,
+      "name": "Pioneer Stillking",
+      "origin_country": "HU"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-03-13",
+  "revenue": 0,
+  "runtime": 89,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lindas y letales",
+  "video": false,
+  "vote_average": 6.78,
+  "vote_count": 300
+}

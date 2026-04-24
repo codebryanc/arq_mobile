@@ -22,7 +22,7 @@
   "original_language": "en",
   "original_title": "Project Hail Mary",
   "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-  "popularity": 213.1689,
+  "popularity": 206.8121,
   "poster_path": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
   "production_companies": [
     {
@@ -63,19 +63,19 @@
     }
   ],
   "release_date": "2026-03-15",
-  "revenue": 573150314,
+  "revenue": 577222148,
   "runtime": 157,
   "softcore": false,
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Mandarin",
       "iso_639_1": "zh",
       "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "Russian",
@@ -87,6 +87,6 @@
   "tagline": "",
   "title": "Proyecto Salvación",
   "video": false,
-  "vote_average": 8.224,
-  "vote_count": 1666
+  "vote_average": 8.218,
+  "vote_count": 1674
 }

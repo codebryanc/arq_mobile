@@ -19,8 +19,8 @@
       "release_date": "2025-11-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.7,
-      "vote_count": 1256
+      "vote_average": 7.736,
+      "vote_count": 1258
     },
     {
       "adult": false,
@@ -41,7 +41,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.598,
-      "vote_count": 6198
+      "vote_count": 6199
     },
     {
       "adult": false,
@@ -60,8 +60,8 @@
       "release_date": "2023-07-19",
       "softcore": false,
       "video": false,
-      "vote_average": 8.031,
-      "vote_count": 11629
+      "vote_average": 8.0,
+      "vote_count": 11630
     },
     {
       "adult": false,
@@ -82,27 +82,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.567,
-      "vote_count": 17339
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/t35dVtLN4H12XXtipJfIDEy2h7Y.jpg",
-      "genre_ids": [
-        18,
-        36
-      ],
-      "id": 3291,
-      "title": "Buenas noches, y buena suerte",
-      "original_language": "en",
-      "original_title": "Good Night, and Good Luck.",
-      "overview": "Basada en hechos reales. Narra el enfrentamiento que mantuvieron el famoso periodista de la CBS Edward R. Murrow (David Strathairn) y su productor Fred Friendly (George Clooney) contra el senador Joseph McCarthy, hecho que determinó el final de la \"caza de brujas\".",
-      "popularity": 10.2613,
-      "poster_path": "/pIcFwnTLqU3ASLqG43AbxYXwm6J.jpg",
-      "release_date": "2005-09-16",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.071,
-      "vote_count": 1096
+      "vote_count": 17341
     },
     {
       "adult": false,
@@ -121,28 +101,8 @@
       "release_date": "2025-11-06",
       "softcore": false,
       "video": false,
-      "vote_average": 7.401,
-      "vote_count": 877
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
-      "genre_ids": [
-        18,
-        36
-      ],
-      "id": 1317149,
-      "title": "Incontrolable (I Swear)",
-      "original_language": "en",
-      "original_title": "I Swear",
-      "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
-      "popularity": 18.1149,
-      "poster_path": "/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
-      "release_date": "2025-09-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.297,
-      "vote_count": 232
+      "vote_average": 7.403,
+      "vote_count": 879
     },
     {
       "adult": false,
@@ -163,7 +123,27 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.189,
-      "vote_count": 14750
+      "vote_count": 14751
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1317149,
+      "title": "Incontrolable (I Swear)",
+      "original_language": "en",
+      "original_title": "I Swear",
+      "overview": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+      "popularity": 18.1149,
+      "poster_path": "/zcbGacD569vOB1iXthB7bVe2sW2.jpg",
+      "release_date": "2025-09-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 232
     },
     {
       "adult": false,
@@ -184,7 +164,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.168,
-      "vote_count": 10964
+      "vote_count": 10965
     },
     {
       "adult": false,
@@ -209,44 +189,23 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+      "backdrop_path": "/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
       "genre_ids": [
-        28,
         18,
         36
       ],
-      "id": 1305781,
-      "title": "镖人：风起大漠",
-      "original_language": "zh",
-      "original_title": "镖人：风起大漠",
-      "overview": "",
-      "popularity": 14.6221,
-      "poster_path": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-      "release_date": "2026-02-17",
+      "id": 1396,
+      "title": "El espejo",
+      "original_language": "ru",
+      "original_title": "Зеркало",
+      "overview": "Un hombre, Alekséi, habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. La película es una evocación continua de recuerdos y sentimientos que viajan en diferentes tiempos sin orden aparente: la relación con su madre, su infancia,...que se mezclan con material fílmico de noticiario sobre la Guerra civil española, la Segunda guerra mundial y el enfrentamiento entre la URSS y China por la isla Damanski. En la película suenan poemas escritos y recitados por Arseni Tarkovski, padre del director. Retrata un pasado que es el suyo, pero también el de un país y el del acontecer mundial.",
+      "popularity": 16.1018,
+      "poster_path": "/hLzhdirfOApuoXoS8SnGNotu1bf.jpg",
+      "release_date": "1975-03-07",
       "softcore": false,
       "video": false,
-      "vote_average": 7.2,
-      "vote_count": 35
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
-      "genre_ids": [
-        36,
-        18
-      ],
-      "id": 1321179,
-      "title": "왕과 사는 남자",
-      "original_language": "ko",
-      "original_title": "왕과 사는 남자",
-      "overview": "",
-      "popularity": 15.0402,
-      "poster_path": "/zEH1FQTEnRY05i8gQIYdR10Vp92.jpg",
-      "release_date": "2026-02-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 10
+      "vote_average": 7.954,
+      "vote_count": 1084
     },
     {
       "adult": false,
@@ -293,23 +252,65 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
+      "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
       "genre_ids": [
+        36,
+        18
+      ],
+      "id": 1321179,
+      "title": "왕과 사는 남자",
+      "original_language": "ko",
+      "original_title": "왕과 사는 남자",
+      "overview": "",
+      "popularity": 15.0402,
+      "poster_path": "/zEH1FQTEnRY05i8gQIYdR10Vp92.jpg",
+      "release_date": "2026-02-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+      "genre_ids": [
+        28,
         18,
         36
       ],
-      "id": 1396,
-      "title": "El espejo",
-      "original_language": "ru",
-      "original_title": "Зеркало",
-      "overview": "Un hombre, Alekséi, habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. La película es una evocación continua de recuerdos y sentimientos que viajan en diferentes tiempos sin orden aparente: la relación con su madre, su infancia,...que se mezclan con material fílmico de noticiario sobre la Guerra civil española, la Segunda guerra mundial y el enfrentamiento entre la URSS y China por la isla Damanski. En la película suenan poemas escritos y recitados por Arseni Tarkovski, padre del director. Retrata un pasado que es el suyo, pero también el de un país y el del acontecer mundial.",
-      "popularity": 16.1018,
-      "poster_path": "/hLzhdirfOApuoXoS8SnGNotu1bf.jpg",
-      "release_date": "1975-03-07",
+      "id": 1305781,
+      "title": "镖人：风起大漠",
+      "original_language": "zh",
+      "original_title": "镖人：风起大漠",
+      "overview": "",
+      "popularity": 14.6221,
+      "poster_path": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
+      "release_date": "2026-02-17",
       "softcore": false,
       "video": false,
-      "vote_average": 7.954,
-      "vote_count": 1084
+      "vote_average": 7.139,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        36
+      ],
+      "id": 857,
+      "title": "Salvar al soldado Ryan",
+      "original_language": "en",
+      "original_title": "Saving Private Ryan",
+      "overview": "Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
+      "popularity": 14.3814,
+      "poster_path": "/dcKfD8xWf8XnS3tHVp7v331wdNT.jpg",
+      "release_date": "1998-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.223,
+      "vote_count": 17087
     },
     {
       "adult": false,
@@ -331,28 +332,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.985,
-      "vote_count": 17981
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
-      "genre_ids": [
-        10752,
-        18,
-        36
-      ],
-      "id": 857,
-      "title": "Salvar al soldado Ryan",
-      "original_language": "en",
-      "original_title": "Saving Private Ryan",
-      "overview": "Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
-      "popularity": 14.3814,
-      "poster_path": "/dcKfD8xWf8XnS3tHVp7v331wdNT.jpg",
-      "release_date": "1998-07-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.223,
-      "vote_count": 17086
+      "vote_count": 17982
     },
     {
       "adult": false,
@@ -393,30 +373,53 @@
       "release_date": "2018-11-16",
       "softcore": false,
       "video": false,
-      "vote_average": 8.2,
-      "vote_count": 12771
+      "vote_average": 8.222,
+      "vote_count": 12772
     },
     {
       "adult": false,
-      "backdrop_path": "/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
+      "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
       "genre_ids": [
         18,
+        28,
         36
       ],
-      "id": 457136,
-      "title": "María reina de Escocia",
+      "id": 359724,
+      "title": "Le Mans '66",
       "original_language": "en",
-      "original_title": "Mary Queen of Scots",
-      "overview": "Relato biográfico de una etapa de la vida de la reina María Estuardo de Escocia, que se enfrentó a su prima Isabel I cuando, al volver de Francia tras haber enviudado, reclamaba su derecho a la corona de Inglaterra.",
-      "popularity": 10.5512,
-      "poster_path": "/f4rwu6nuTOr1cZNG6lgLuaZufnL.jpg",
-      "release_date": "2018-12-07",
+      "original_title": "Ford v Ferrari",
+      "overview": "Se centra en un excéntrico y decidido equipo americano de ingenieros y diseñadores liderados por el visionario automovilístico Carroll Shelby y su conductor británico Ken Miles. Henry Ford II y Lee Iacocca les dan la misión de construir desde cero un nuevo automóvil con el fin de derrocar el dominio de Ferrari en el Campeonato del Mundo de Le Mans de 1966.",
+      "popularity": 11.9265,
+      "poster_path": "/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg",
+      "release_date": "2019-11-13",
       "softcore": false,
       "video": false,
-      "vote_average": 6.558,
-      "vote_count": 1936
+      "vote_average": 8.005,
+      "vote_count": 8899
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 197,
+      "title": "Braveheart",
+      "original_language": "en",
+      "original_title": "Braveheart",
+      "overview": "¿Qué clase de hombre desafiaría a un rey? 'Braveheart' es una historia épica medieval sobre la independencia de Escocia en el siglo XIII, basada en la leyenda de William Wallace, un montañés escocés que arrastra a su clan a luchar contra la tiranía del rey Eduardo I de Inglaterra. Después del brutal asesinato de su joven esposa por los ingleses, Wallace sólo busca venganza. Hambrientos y en inferior número, Wallace lidera a los patriotas escoceses y consigue organizar un ejército de guerreros sedientos de libertad logrando recuperar con ello el espíritu que haría a Escocia libre para siempre.",
+      "popularity": 11.2411,
+      "poster_path": "/cDMYybBU4COJfTwcPgnihwY5EiP.jpg",
+      "release_date": "1995-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.943,
+      "vote_count": 11028
     }
   ],
   "total_pages": 1077,
-  "total_results": 21538
+  "total_results": 21540
 }

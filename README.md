@@ -107,8 +107,16 @@ flutter pub get
 
 ### 3. Correr en desarrollo
 
+El archivo `.env.json` con la API key ya está incluido en el repositorio, no requiere configuración adicional.
+
+**Opción A — VS Code (recomendado)**
+
+Presiona `F5` o selecciona `arq_mobile` en Run & Debug. El `.vscode/launch.json` ya pasa todo lo necesario.
+
+**Opción B — Terminal**
+
 ```bash
-flutter run
+flutter run --dart-define-from-file=.env.json --dart-define=PROJECT_ROOT=$(pwd)
 ```
 
 ### 4. Script de compilación iOS

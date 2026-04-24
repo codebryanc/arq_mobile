@@ -1,7 +1,11 @@
+import 'dart:io' show Directory;
+
 abstract class FeaturesConfig {
   static const bool recordSession = true;
-  static const String mockPath =
-      '/Users/bryanc/data/study/arq_mobile/lib/features/';
+  // Pass project root at run time: flutter run --dart-define=PROJECT_ROOT=$(pwd)
+  static const _root = String.fromEnvironment('PROJECT_ROOT');
+  static String get mockPath =>
+      '${_root.isNotEmpty ? _root : Directory.current.path}/lib/features/';
   static const String mockAssetsPath = 'lib/features/';
   static const String category = 'category';
   static const String home = 'home';

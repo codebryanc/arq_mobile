@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+  "belongs_to_collection": {
+    "id": 531241,
+    "name": "Spider-Man (Vengadores) - Colección",
+    "poster_path": "/2E7Jukg8JvyJgKlql7UIWqVwOMU.jpg",
+    "backdrop_path": "/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg"
+  },
+  "budget": 200000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Acción"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 878,
+      "name": "Ciencia ficción"
+    }
+  ],
+  "homepage": "https://www.sonypictures.es/peliculas/spider-man-no-way-home",
+  "id": 634649,
+  "imdb_id": "tt10872600",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Spider-Man: No Way Home",
+  "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+  "popularity": 70.9393,
+  "poster_path": "/miZFgV81xG324rpUknQX8dtXuBl.jpg",
+  "production_companies": [
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 84041,
+      "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+      "name": "Pascal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-12-15",
+  "revenue": 1921847111,
+  "runtime": 148,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "El multiverso desatado.",
+  "title": "Spider-Man: No Way Home",
+  "video": false,
+  "vote_average": 7.933,
+  "vote_count": 21828
+}

@@ -19,8 +19,8 @@
       "release_date": "2026-01-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.04,
-      "vote_count": 1057
+      "vote_average": 7.042,
+      "vote_count": 1059
     },
     {
       "adult": false,
@@ -60,8 +60,68 @@
       "release_date": "2026-01-28",
       "softcore": false,
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 587
+      "vote_average": 6.783,
+      "vote_count": 588
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1290417,
+      "title": "Embestida",
+      "original_language": "en",
+      "original_title": "Thrash",
+      "overview": "Cuando un catastrófico huracán azota un pueblo costero, el nivel del mar sube rápidamente y sus habitantes deben sobrevivir a un montón de hambrientos tiburones.",
+      "popularity": 142.4595,
+      "poster_path": "/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
+      "release_date": "2026-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.974,
+      "vote_count": 406
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 1171145,
+      "title": "Ruta de escape",
+      "original_language": "en",
+      "original_title": "Crime 101",
+      "overview": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis está planeando su mayor golpe, con la esperanza de que sea el último, cuando se cruza en su camino Sharon, una desilusionada ejecutiva de seguros con la que se ve obligado a trabajar, y Orman un ladrón rival, con métodos mucho más inquietantes que los de Davis. A medida que se acerca el golpe multimillonario, el implacable teniente Lubesnik, se acerca a la operación, aumentando considerablemente el riesgo de lo que está en juego y difuminando la línea entre cazador y presa. Pronto, cada uno tendrá que aceptar el coste de sus decisiones asumiendo que no hay vuelta atrás.",
+      "popularity": 135.4819,
+      "poster_path": "/oUF0tTmbwlfkhiYSU5nXJccr5K0.jpg",
+      "release_date": "2026-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.958,
+      "vote_count": 759
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1641319,
+      "title": "Sniper: En tierra de nadie",
+      "original_language": "en",
+      "original_title": "Sniper: No Nation",
+      "overview": "Cuando el francotirador Brandon Beckett es tachado de terrorista, se ve obligado a desaparecer y embarcarse en una misión de rescate imposible junto a su legendario padre.",
+      "popularity": 134.4964,
+      "poster_path": "/hdSt80XqI2IWu9WOWZQVecuPT7D.jpg",
+      "release_date": "2026-04-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 34
     },
     {
       "adult": false,
@@ -81,68 +141,8 @@
       "release_date": "2026-01-07",
       "softcore": false,
       "video": false,
-      "vote_average": 6.458,
-      "vote_count": 902
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1290417,
-      "title": "Embestida",
-      "original_language": "en",
-      "original_title": "Thrash",
-      "overview": "Cuando un catastrófico huracán azota un pueblo costero, el nivel del mar sube rápidamente y sus habitantes deben sobrevivir a un montón de hambrientos tiburones.",
-      "popularity": 142.4595,
-      "poster_path": "/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
-      "release_date": "2026-04-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.96,
-      "vote_count": 401
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1641319,
-      "title": "Sniper: En tierra de nadie",
-      "original_language": "en",
-      "original_title": "Sniper: No Nation",
-      "overview": "Cuando el francotirador Brandon Beckett es tachado de terrorista, se ve obligado a desaparecer y embarcarse en una misión de rescate imposible junto a su legendario padre.",
-      "popularity": 134.4964,
-      "poster_path": "/hdSt80XqI2IWu9WOWZQVecuPT7D.jpg",
-      "release_date": "2026-04-07",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.221,
-      "vote_count": 34
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
-      "genre_ids": [
-        80,
-        53
-      ],
-      "id": 1171145,
-      "title": "Ruta de escape",
-      "original_language": "en",
-      "original_title": "Crime 101",
-      "overview": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis está planeando su mayor golpe, con la esperanza de que sea el último, cuando se cruza en su camino Sharon, una desilusionada ejecutiva de seguros con la que se ve obligado a trabajar, y Orman un ladrón rival, con métodos mucho más inquietantes que los de Davis. A medida que se acerca el golpe multimillonario, el implacable teniente Lubesnik, se acerca a la operación, aumentando considerablemente el riesgo de lo que está en juego y difuminando la línea entre cazador y presa. Pronto, cada uno tendrá que aceptar el coste de sus decisiones asumiendo que no hay vuelta atrás.",
-      "popularity": 135.4819,
-      "poster_path": "/oUF0tTmbwlfkhiYSU5nXJccr5K0.jpg",
-      "release_date": "2026-02-11",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.962,
-      "vote_count": 756
+      "vote_average": 6.5,
+      "vote_count": 905
     },
     {
       "adult": false,
@@ -166,6 +166,26 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+      "genre_ids": [
+        9648,
+        53
+      ],
+      "id": 1368166,
+      "title": "La asistenta",
+      "original_language": "en",
+      "original_title": "The Housemaid",
+      "overview": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+      "popularity": 89.6385,
+      "poster_path": "/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "release_date": "2025-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 1903
+    },
+    {
+      "adult": false,
       "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
       "genre_ids": [
         28,
@@ -183,49 +203,8 @@
       "release_date": "2025-08-16",
       "softcore": false,
       "video": false,
-      "vote_average": 7.222,
-      "vote_count": 585
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
-      "genre_ids": [
-        9648,
-        53
-      ],
-      "id": 1368166,
-      "title": "La asistenta",
-      "original_language": "en",
-      "original_title": "The Housemaid",
-      "overview": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-      "popularity": 89.6385,
-      "poster_path": "/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
-      "release_date": "2025-12-18",
-      "softcore": false,
-      "video": false,
       "vote_average": 7.227,
-      "vote_count": 1903
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
-      "genre_ids": [
-        28,
-        878,
-        53
-      ],
-      "id": 1265609,
-      "title": "Máquina de guerra",
-      "original_language": "en",
-      "original_title": "War Machine",
-      "overview": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
-      "popularity": 74.9979,
-      "poster_path": "/5C18uOTbDZRvVIZcVRO747k2fUi.jpg",
-      "release_date": "2026-02-12",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.2,
-      "vote_count": 1497
+      "vote_count": 586
     },
     {
       "adult": false,
@@ -249,6 +228,48 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 1265609,
+      "title": "Máquina de guerra",
+      "original_language": "en",
+      "original_title": "War Machine",
+      "overview": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
+      "popularity": 74.9979,
+      "poster_path": "/5C18uOTbDZRvVIZcVRO747k2fUi.jpg",
+      "release_date": "2026-02-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.23,
+      "vote_count": 1498
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+      "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "id": 1659087,
+      "title": "180",
+      "original_language": "en",
+      "original_title": "180",
+      "overview": "Un inesperado incidente de tráfico deja a su hijo en estado crítico. El padre, enfurecido, se adentra en una oscura espiral de confusión emocional y venganza.",
+      "popularity": 74.1539,
+      "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+      "release_date": "2026-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 43
+    },
+    {
+      "adult": false,
       "backdrop_path": "/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
       "genre_ids": [
         27,
@@ -269,27 +290,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
-      "genre_ids": [
-        53,
-        80,
-        18
-      ],
-      "id": 1659087,
-      "title": "180",
-      "original_language": "en",
-      "original_title": "180",
-      "overview": "Un inesperado incidente de tráfico deja a su hijo en estado crítico. El padre, enfurecido, se adentra en una oscura espiral de confusión emocional y venganza.",
-      "popularity": 74.1539,
-      "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
-      "release_date": "2026-04-16",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.667,
-      "vote_count": 42
-    },
-    {
-      "adult": false,
       "backdrop_path": "/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
       "genre_ids": [
         10402,
@@ -307,28 +307,8 @@
       "release_date": "2026-03-13",
       "softcore": false,
       "video": false,
-      "vote_average": 6.779,
-      "vote_count": 299
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pmGkvEWKFDapogIzkG7TqB0aeYE.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1526650,
-      "title": "El muñeco de arcilla",
-      "original_language": "zh",
-      "original_title": "泥娃娃",
-      "overview": "Mientras diseña un videojuego de terror, Hsu-Chuan se lleva por error a casa un muñeco de arcilla de la empresa, sin sospechar que alberga un espíritu vengativo que ansía liberarse.",
-      "popularity": 59.4546,
-      "poster_path": "/zawpsRiy2GFeVsnvEmuJ9TKggIT.jpg",
-      "release_date": "2025-10-09",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.904,
-      "vote_count": 26
+      "vote_average": 6.78,
+      "vote_count": 300
     },
     {
       "adult": false,
@@ -351,7 +331,27 @@
       "softcore": false,
       "video": false,
       "vote_average": 5.986,
-      "vote_count": 4864
+      "vote_count": 4866
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pmGkvEWKFDapogIzkG7TqB0aeYE.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1526650,
+      "title": "El muñeco de arcilla",
+      "original_language": "zh",
+      "original_title": "泥娃娃",
+      "overview": "Mientras diseña un videojuego de terror, Hsu-Chuan se lleva por error a casa un muñeco de arcilla de la empresa, sin sospechar que alberga un espíritu vengativo que ansía liberarse.",
+      "popularity": 59.4546,
+      "poster_path": "/zawpsRiy2GFeVsnvEmuJ9TKggIT.jpg",
+      "release_date": "2025-10-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.904,
+      "vote_count": 26
     },
     {
       "adult": false,
@@ -393,7 +393,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.143,
-      "vote_count": 1045
+      "vote_count": 1047
     },
     {
       "adult": false,
@@ -417,6 +417,6 @@
       "vote_count": 28
     }
   ],
-  "total_pages": 2959,
-  "total_results": 59174
+  "total_pages": 2960,
+  "total_results": 59183
 }

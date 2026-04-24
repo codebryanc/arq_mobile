@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+  "belongs_to_collection": null,
+  "budget": 16000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Suspense"
+    },
+    {
+      "id": 28,
+      "name": "Acción"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1268127,
+  "imdb_id": "tt32606470",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "휴민트",
+  "overview": "Un agente surcoreano investiga una red de narcotráfico en Rusia y debe colaborar con un agente norcoreano, lo cual los lleva correr riesgos y descubrir secretos muy turbios.",
+  "popularity": 56.7227,
+  "poster_path": "/3xI81SsZHRKY0ltVKbILbvU3wa4.jpg",
+  "production_companies": [
+    {
+      "id": 12987,
+      "logo_path": "/32ea3CCKrNNO8jZBOcN2tbjPpuf.png",
+      "name": "Filmmaker R&K",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2026-02-11",
+  "revenue": 13207600,
+  "runtime": 120,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Humint",
+  "video": false,
+  "vote_average": 7.214,
+  "vote_count": 103
+}
