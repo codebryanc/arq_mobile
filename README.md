@@ -2,9 +2,12 @@
 
 ---
 
-## Resultado 
+## Resultado
 
-https://www.youtube.com/watch?v=lKb8wD1HD0g 
+| [Demo](https://www.youtube.com/watch?v=lKb8wD1HD0g) | [Firebase + Unit test](https://youtu.be/jURM6pg3Sh8)|
+|:---:|:---:|
+| <img src="assets/image/app.png" width="250" /> | <img src="assets/image/test.png" width="450" /> |
+| https://www.youtube.com/watch?v=lKb8wD1HD0g  | https://youtu.be/jURM6pg3Sh8  |
 
 
 ## Resumen
@@ -165,3 +168,5 @@ Base URL: `https://api.themoviedb.org/3`
 
 - Unit tests: UseCases, Repositories, BLoCs
 - Widget tests: componentes de UI
+
+<img src="assets/image/test.png" width="250" />
