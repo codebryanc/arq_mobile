@@ -1,7 +1,7 @@
 import 'dart:io' show Directory;
 
 abstract class FeaturesConfig {
-  static const bool recordSession = true;
+  static const bool recordSession = false;
   // Pass project root at run time: flutter run --dart-define=PROJECT_ROOT=$(pwd)
   static const _root = String.fromEnvironment('PROJECT_ROOT');
   static String get mockPath =>

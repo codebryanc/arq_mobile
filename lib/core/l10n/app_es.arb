@@ -20,10 +20,6 @@
   "@errorNoInfo": {
       "description": "Error message shown when no offline data is available for the requested content"
   },
-  "homeGreeting": "Saludos nuevamente",
-  "@homeGreeting": {
-      "description": "Greeting shown on the home screen"
-  },
   "categorySelectPlaceholder": "Selecciona una categoría",
   "@categorySelectPlaceholder": {
       "description": "Placeholder shown in the category dropdown when no category is selected"

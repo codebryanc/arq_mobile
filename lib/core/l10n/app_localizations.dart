@@ -124,12 +124,6 @@ abstract class AppLocalizations {
   /// **'Sin información'**
   String get errorNoInfo;
 
-  /// Greeting shown on the home screen
-  ///
-  /// In es, this message translates to:
-  /// **'Saludos nuevamente'**
-  String get homeGreeting;
-
   /// Placeholder shown in the category dropdown when no category is selected
   ///
   /// In es, this message translates to:

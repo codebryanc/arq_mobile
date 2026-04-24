@@ -19,8 +19,8 @@
       "release_date": "2026-01-28",
       "softcore": false,
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 587
+      "vote_average": 6.791,
+      "vote_count": 590
     },
     {
       "adult": false,
@@ -39,8 +39,8 @@
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 6.962,
-      "vote_count": 756
+      "vote_average": 6.957,
+      "vote_count": 760
     },
     {
       "adult": false,
@@ -60,8 +60,8 @@
       "release_date": "2026-02-25",
       "softcore": false,
       "video": false,
-      "vote_average": 6.059,
-      "vote_count": 786
+      "vote_average": 6.057,
+      "vote_count": 787
     },
     {
       "adult": false,
@@ -82,8 +82,8 @@
       "release_date": "2025-08-16",
       "softcore": false,
       "video": false,
-      "vote_average": 7.222,
-      "vote_count": 585
+      "vote_average": 7.227,
+      "vote_count": 586
     },
     {
       "adult": false,
@@ -103,8 +103,8 @@
       "release_date": "2026-04-16",
       "softcore": false,
       "video": false,
-      "vote_average": 5.674,
-      "vote_count": 43
+      "vote_average": 5.6,
+      "vote_count": 45
     },
     {
       "adult": false,
@@ -148,7 +148,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 5.986,
-      "vote_count": 4864
+      "vote_count": 4866
     },
     {
       "adult": false,
@@ -168,8 +168,8 @@
       "release_date": "2026-03-14",
       "softcore": false,
       "video": false,
-      "vote_average": 6.734,
-      "vote_count": 261
+      "vote_average": 6.746,
+      "vote_count": 262
     },
     {
       "adult": false,
@@ -216,23 +216,23 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/aouxo2EaR7QSGBBUNTITuW0lj4z.jpg",
+      "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
       "genre_ids": [
-        80,
-        18
+        18,
+        80
       ],
-      "id": 875828,
-      "title": "Peaky Blinders: El hombre inmortal",
+      "id": 278,
+      "title": "Cadena perpetua",
       "original_language": "en",
-      "original_title": "Peaky Blinders: The Immortal Man",
-      "overview": "El gánster Tommy Shelby regresa a Birmingham para salvar a su familia —y a su país— cuando su hijo, del que se ha distanciado, se ve envuelto en un complot nazi.",
-      "popularity": 41.5291,
-      "poster_path": "/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
-      "release_date": "2026-03-05",
+      "original_title": "The Shawshank Redemption",
+      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+      "popularity": 43.801,
+      "poster_path": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+      "release_date": "1994-09-23",
       "softcore": false,
       "video": false,
-      "vote_average": 7.2,
-      "vote_count": 818
+      "vote_average": 8.718,
+      "vote_count": 30167
     },
     {
       "adult": false,
@@ -256,6 +256,46 @@
     },
     {
       "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 252969,
+      "title": "Secret Pleasures",
+      "original_language": "en",
+      "original_title": "Secret Pleasures",
+      "overview": "",
+      "popularity": 43.1325,
+      "poster_path": "/j0Qu5opplDTot70kMqVqzURFXHY.jpg",
+      "release_date": "2002-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.6,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aouxo2EaR7QSGBBUNTITuW0lj4z.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 875828,
+      "title": "Peaky Blinders: El hombre inmortal",
+      "original_language": "en",
+      "original_title": "Peaky Blinders: The Immortal Man",
+      "overview": "El gánster Tommy Shelby regresa a Birmingham para salvar a su familia —y a su país— cuando su hijo, del que se ha distanciado, se ve envuelto en un complot nazi.",
+      "popularity": 41.5291,
+      "poster_path": "/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
+      "release_date": "2026-03-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.227,
+      "vote_count": 819
+    },
+    {
+      "adult": false,
       "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
       "genre_ids": [
         18,
@@ -271,50 +311,8 @@
       "release_date": "1972-03-14",
       "softcore": false,
       "video": false,
-      "vote_average": 8.686,
-      "vote_count": 22784
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
-      "genre_ids": [
-        18,
-        80
-      ],
-      "id": 278,
-      "title": "Cadena perpetua",
-      "original_language": "en",
-      "original_title": "The Shawshank Redemption",
-      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
-      "popularity": 43.801,
-      "poster_path": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
-      "release_date": "1994-09-23",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.718,
-      "vote_count": 30163
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/po1niVuud0tX86xOFegO5omQ2wX.jpg",
-      "genre_ids": [
-        878,
-        28,
-        53,
-        80
-      ],
-      "id": 1236153,
-      "title": "Sin piedad",
-      "original_language": "en",
-      "original_title": "Mercy",
-      "overview": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
-      "popularity": 35.5938,
-      "poster_path": "/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
-      "release_date": "2026-01-20",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.974,
-      "vote_count": 1151
+      "vote_average": 8.7,
+      "vote_count": 22786
     },
     {
       "adult": false,
@@ -339,6 +337,28 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/po1niVuud0tX86xOFegO5omQ2wX.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53,
+        80
+      ],
+      "id": 1236153,
+      "title": "Sin piedad",
+      "original_language": "en",
+      "original_title": "Mercy",
+      "overview": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
+      "popularity": 35.5938,
+      "poster_path": "/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
+      "release_date": "2026-01-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.973,
+      "vote_count": 1152
+    },
+    {
+      "adult": false,
       "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
       "genre_ids": [
         53,
@@ -356,28 +376,28 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.485,
-      "vote_count": 30032
+      "vote_count": 30035
     },
     {
       "adult": false,
-      "backdrop_path": "/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg",
+      "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
       "genre_ids": [
-        35,
+        28,
         80,
-        28
+        53
       ],
-      "id": 1416391,
-      "title": "La tostadora",
-      "original_language": "hi",
-      "original_title": "टोस्टर",
-      "overview": "Un hombre muy tacaño intenta recuperar una tostadora que regaló en una boda que acabó cancelándose, pero, sin querer, se ve envuelto en un asesinato.",
-      "popularity": 27.3523,
-      "poster_path": "/2tTUscTlshVovvUnk1qlkQrkbum.jpg",
-      "release_date": "2026-04-15",
+      "id": 155,
+      "title": "El caballero oscuro",
+      "original_language": "en",
+      "original_title": "The Dark Knight",
+      "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+      "popularity": 32.1946,
+      "poster_path": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "release_date": "2008-07-16",
       "softcore": false,
       "video": false,
-      "vote_average": 5.267,
-      "vote_count": 15
+      "vote_average": 8.528,
+      "vote_count": 35543
     },
     {
       "adult": false,
@@ -399,27 +419,6 @@
       "video": false,
       "vote_average": 7.3,
       "vote_count": 25
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 155,
-      "title": "El caballero oscuro",
-      "original_language": "en",
-      "original_title": "The Dark Knight",
-      "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
-      "popularity": 32.1946,
-      "poster_path": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
-      "release_date": "2008-07-16",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.528,
-      "vote_count": 35541
     }
   ],
   "total_pages": 2055,

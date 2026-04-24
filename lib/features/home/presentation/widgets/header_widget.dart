@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:arq_mobile/core/l10n/app_localizations.dart';
+import 'package:arq_mobile/core/di/dependency_injection.dart';
+import 'package:arq_mobile/core/firebase/remote_config_service.dart';
 import 'package:arq_mobile/core/theme/app_colors.dart';
 import 'package:arq_mobile/core/theme/app_semantic_colors.dart';
 import 'package:arq_mobile/features/home/presentation/bloc/home_bloc.dart';
@@ -22,7 +23,9 @@ class HeaderWidget extends StatelessWidget {
             child: Padding(
               padding: const EdgeInsets.only(left: 16),
               child: Text(
-                AppLocalizations.of(context)!.homeGreeting,
+                // *** FIREBASE ***
+                // Get welcome text from Firebase Remote Config
+                sl<RemoteConfigService>().getString('welcome_text'),
                 style: Theme.of(context).textTheme.titleMedium?.copyWith(
                   color: AppColors.white,
                   fontWeight: FontWeight.bold,

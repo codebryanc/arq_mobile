@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625282000724",
+    "project_id": "pinapp-93c31",
+    "storage_bucket": "pinapp-93c31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625282000724:android:a51c3ef20b380e1c314ac1",
+        "android_client_info": {
+          "package_name": "com.example.arq_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDwIwbLYT_YQ6j6I9NtAiUXMeSZpwjVI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

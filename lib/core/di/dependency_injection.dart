@@ -1,7 +1,9 @@
 import 'package:dio/dio.dart';
+import 'package:firebase_remote_config/firebase_remote_config.dart';
 import 'package:get_it/get_it.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'package:arq_mobile/core/firebase/remote_config_service.dart';
 import 'package:arq_mobile/core/network/dio_client.dart';
 import 'package:arq_mobile/features/category/data/datasources/category_local_datasource.dart';
 import 'package:arq_mobile/features/category/data/datasources/category_remote_datasource.dart';
@@ -56,6 +58,17 @@ class DependencyInjection {
 
   // [Methods]
   static Future<void> init({required String defaultServerError}) async {
+    // Remote Config
+    final rc = FirebaseRemoteConfig.instance;
+    await rc.setConfigSettings(
+      RemoteConfigSettings(
+        fetchTimeout: const Duration(seconds: 10),
+        minimumFetchInterval: Duration.zero,
+      ),
+    );
+    await rc.fetchAndActivate();
+    sl.registerSingleton<RemoteConfigService>(RemoteConfigServiceImpl(rc));
+
     // Local storage
     final prefs = await SharedPreferences.getInstance();
     sl.registerSingleton<SharedPreferences>(prefs);

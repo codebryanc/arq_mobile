@@ -24,9 +24,6 @@ class AppLocalizationsEs extends AppLocalizations {
   String get errorNoInfo => 'Sin información';
 
   @override
-  String get homeGreeting => 'Saludos nuevamente';
-
-  @override
   String get categorySelectPlaceholder => 'Selecciona una categoría';
 
   @override

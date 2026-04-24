@@ -38,8 +38,8 @@
       "release_date": "2026-04-15",
       "softcore": false,
       "video": false,
-      "vote_average": 6.934,
-      "vote_count": 128
+      "vote_average": 6.9,
+      "vote_count": 129
     },
     {
       "adult": false,
@@ -102,8 +102,8 @@
       "release_date": "2025-11-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 2595
+      "vote_average": 7.609,
+      "vote_count": 2596
     },
     {
       "adult": false,
@@ -122,8 +122,8 @@
       "release_date": "2025-12-18",
       "softcore": false,
       "video": false,
-      "vote_average": 7.227,
-      "vote_count": 1903
+      "vote_average": 7.226,
+      "vote_count": 1904
     },
     {
       "adult": false,
@@ -142,7 +142,7 @@
       "release_date": "2026-01-20",
       "softcore": false,
       "video": false,
-      "vote_average": 6.042,
+      "vote_average": 6.0,
       "vote_count": 249
     },
     {
@@ -163,8 +163,8 @@
       "release_date": "2026-01-21",
       "softcore": false,
       "video": false,
-      "vote_average": 5.236,
-      "vote_count": 406
+      "vote_average": 5.247,
+      "vote_count": 405
     },
     {
       "adult": false,
@@ -226,30 +226,8 @@
       "release_date": "2025-08-28",
       "softcore": false,
       "video": false,
-      "vote_average": 6.616,
-      "vote_count": 298
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Mq428bLVcBixhsKP4dAyEL1Ycu.jpg",
-      "genre_ids": [
-        35,
-        80,
-        9648,
-        53
-      ],
-      "id": 5236,
-      "title": "Kiss Kiss Bang Bang",
-      "original_language": "en",
-      "original_title": "Kiss Kiss Bang Bang",
-      "overview": "Harry Lockhart es en esencia un tipo decente. Es cierto que es un ladrón de poca monta, pero quiere hacer lo correcto. La eterna mala suerte de Harry empieza a mejorar cuando él y su socio están haciendo algunas \"compras\" navideñas fuera de horas en una tienda de juguetes de Nueva York y la alarma de seguridad acaba con la fiesta. En su frenética huída de la policía, Harry se ve metido sin querer en una audición para una película de detectives de Hollywood y, en un abrir y cerrar de ojos, el productor lo lleva en avión a Los Angeles para hacerle una prueba.",
-      "popularity": 12.2714,
-      "poster_path": "/yMAoom93EhCzp39vG59ka42hGIk.jpg",
-      "release_date": "2005-09-14",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.16,
-      "vote_count": 2984
+      "vote_average": 6.612,
+      "vote_count": 300
     },
     {
       "adult": false,
@@ -270,47 +248,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.38,
-      "vote_count": 22928
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 1078605,
-      "title": "Weapons",
-      "original_language": "en",
-      "original_title": "Weapons",
-      "overview": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
-      "popularity": 19.5579,
-      "poster_path": "/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "release_date": "2025-08-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.252,
-      "vote_count": 3257
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 574475,
-      "title": "Destino final: Lazos de sangre",
-      "original_language": "en",
-      "original_title": "Final Destination Bloodlines",
-      "overview": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
-      "popularity": 19.3122,
-      "poster_path": "/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
-      "release_date": "2025-05-14",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.1,
-      "vote_count": 2777
+      "vote_count": 22929
     },
     {
       "adult": false,
@@ -337,45 +275,43 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
+      "backdrop_path": "/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
       "genre_ids": [
-        9648,
-        53,
-        18
+        27,
+        9648
       ],
-      "id": 210577,
-      "title": "Perdida",
+      "id": 1078605,
+      "title": "Weapons",
       "original_language": "en",
-      "original_title": "Gone Girl",
-      "overview": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
-      "popularity": 17.7814,
-      "poster_path": "/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
-      "release_date": "2014-10-01",
+      "original_title": "Weapons",
+      "overview": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "popularity": 19.5579,
+      "poster_path": "/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "release_date": "2025-08-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.9,
-      "vote_count": 19842
+      "vote_average": 7.253,
+      "vote_count": 3257
     },
     {
       "adult": false,
-      "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+      "backdrop_path": "/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
       "genre_ids": [
-        80,
-        9648,
-        53
+        27,
+        9648
       ],
-      "id": 414906,
-      "title": "The Batman",
+      "id": 574475,
+      "title": "Destino final: Lazos de sangre",
       "original_language": "en",
-      "original_title": "The Batman",
-      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "popularity": 17.8616,
-      "poster_path": "/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
-      "release_date": "2022-03-01",
+      "original_title": "Final Destination Bloodlines",
+      "overview": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
+      "popularity": 19.3122,
+      "poster_path": "/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+      "release_date": "2025-05-14",
       "softcore": false,
       "video": false,
-      "vote_average": 7.7,
-      "vote_count": 11807
+      "vote_average": 7.051,
+      "vote_count": 2777
     },
     {
       "adult": false,
@@ -397,7 +333,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.238,
-      "vote_count": 9747
+      "vote_count": 9748
     },
     {
       "adult": false,
@@ -420,8 +356,71 @@
       "video": false,
       "vote_average": 5.0,
       "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uKPbFF08QkRMvIAsgCh1soeyPhZ.jpg",
+      "genre_ids": [
+        18,
+        878,
+        9648
+      ],
+      "id": 329865,
+      "title": "La llegada",
+      "original_language": "en",
+      "original_title": "Arrival",
+      "overview": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+      "popularity": 17.9689,
+      "poster_path": "/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "release_date": "2016-11-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.624,
+      "vote_count": 19210
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 414906,
+      "title": "The Batman",
+      "original_language": "en",
+      "original_title": "The Batman",
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "popularity": 17.8616,
+      "poster_path": "/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "release_date": "2022-03-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.658,
+      "vote_count": 11807
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "id": 210577,
+      "title": "Perdida",
+      "original_language": "en",
+      "original_title": "Gone Girl",
+      "overview": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
+      "popularity": 17.7814,
+      "poster_path": "/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
+      "release_date": "2014-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.889,
+      "vote_count": 19842
     }
   ],
-  "total_pages": 1287,
-  "total_results": 25738
+  "total_pages": 1288,
+  "total_results": 25751
 }
