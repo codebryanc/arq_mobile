@@ -16,7 +16,7 @@ const _kPosterPath = '/poster.jpg';
 const _kVoteAverage = 8.4;
 const _kReleaseDate = '1999-10-15';
 const _kAssetPath =
-    'lib/features/movies_by_category/data/mock/discover_movie_${_kCategoryId}_${_kPage}.json';
+    'lib/features/movies_by_category/data/mock/discover_movie_${_kCategoryId}_${_kPage}_test.json';
 
 Map<String, dynamic> _buildMovieJson({String? posterPath = _kPosterPath}) => {
   'id': _kMovieId,

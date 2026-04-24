@@ -6,8 +6,10 @@ import 'package:flutter/services.dart';
 
 import 'package:arq_mobile/core/config/features_config.dart';
 
+bool get _isTest => Platform.environment.containsKey('FLUTTER_TEST');
+
 Future<void> saveMock(String feature, String fileName, dynamic data) async {
-  if (!kDebugMode) return;
+  if (!kDebugMode || _isTest) return;
   final file = File('${FeaturesConfig.mockPath}$feature/data/mock/$fileName');
   await file.create(recursive: true);
   await file.writeAsString(const JsonEncoder.withIndent('  ').convert(data));
@@ -21,8 +23,10 @@ String endpointToFileName(String endpoint) {
       .replaceAll(RegExp(r'[^a-zA-Z0-9_]'), '');
 }
 
-String _mockAssetPath(String feature, String endpoint, [String suffix = '']) =>
-    '${FeaturesConfig.mockAssetsPath}$feature/data/mock/${endpointToFileName(endpoint)}$suffix.json';
+String _mockAssetPath(String feature, String endpoint, [String suffix = '']) {
+  final testSuffix = _isTest ? '_test' : '';
+  return '${FeaturesConfig.mockAssetsPath}$feature/data/mock/${endpointToFileName(endpoint)}$suffix$testSuffix.json';
+}
 
 Future<bool> mockAssetExists(
   String feature,
