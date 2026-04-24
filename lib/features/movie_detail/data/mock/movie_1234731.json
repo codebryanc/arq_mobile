@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+  "belongs_to_collection": null,
+  "budget": 45000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 35,
+      "name": "Comedia"
+    },
+    {
+      "id": 27,
+      "name": "Terror"
+    }
+  ],
+  "homepage": "https://www.sonypictures.es/pelicula/anaconda-pelicula",
+  "id": 1234731,
+  "imdb_id": "tt33244668",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Anaconda",
+  "overview": "Doug y Griff son muy buenos amigos desde que eran niños y siempre han soñado con hacer un remake de su película favorita de todos los tiempos: el «clásico cinematográfico» Anaconda. Cuando una crisis de mediana edad les anima a lanzarse por fin a la aventura, se adentran en la selva amazónica para empezar a rodar. Pero las cosas se ponen serias cuando aparece una anaconda gigante de verdad, convirtiendo su caótico y cómico plató de rodaje en una situación mortal.",
+  "popularity": 73.8447,
+  "poster_path": "/zX1KJPiGTrzpFcjfOWlmqdRgpQd.jpg",
+  "production_companies": [
+    {
+      "id": 134756,
+      "logo_path": "/saCxMqh2hFSbDeojykvP2qc6zNX.png",
+      "name": "Fully Formed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-24",
+  "revenue": 135148320,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Una aventura que te dejará temblando.",
+  "title": "Anaconda",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 1038
+}

@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+  "belongs_to_collection": null,
+  "budget": 200000000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 936075,
+  "imdb_id": "tt11378946",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Michael",
+  "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+  "popularity": 113.6273,
+  "poster_path": "/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 3281,
+      "logo_path": "/pfmb82VUfN9VKB1YuBSY69WVNVm.png",
+      "name": "GK Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 19222,
+      "logo_path": null,
+      "name": "Optimum Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-22",
+  "revenue": 31000000,
+  "runtime": 127,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Michael",
+  "video": false,
+  "vote_average": 7.305,
+  "vote_count": 105
+}

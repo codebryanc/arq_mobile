@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
+  "belongs_to_collection": null,
+  "budget": 60900000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animación"
+    },
+    {
+      "id": 10751,
+      "name": "Familia"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    }
+  ],
+  "homepage": "",
+  "id": 1167307,
+  "imdb_id": "tt15678738",
+  "origin_country": [
+    "GB",
+    "US",
+    "ZA"
+  ],
+  "original_language": "en",
+  "original_title": "David",
+  "overview": "En un reino gobernado por el miedo, un joven pastor se atreve a enfrentarse a un gigante y a la oscuridad que se oculta tras él. Su valor despertará a una nación y demostrará que la verdadera fuerza proviene de la confianza, no del poder.",
+  "popularity": 25.3668,
+  "poster_path": "/dRGOzTWMvRPGeOXKU0FIyG3YVO5.jpg",
+  "production_companies": [
+    {
+      "id": 30216,
+      "logo_path": "/AwgLu0qw2UifWdDYExBNlZXWwx.png",
+      "name": "Sunrise Productions",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 206626,
+      "logo_path": null,
+      "name": "Slingshot USA",
+      "origin_country": ""
+    },
+    {
+      "id": 165435,
+      "logo_path": "/pDh2WDdOajWST9jlkFo6TOvETnB.png",
+      "name": "Angel Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 223271,
+      "logo_path": "/2Rc6Dvg3tpIfDzgQE6ycWxNj0kT.png",
+      "name": "2521 Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "release_date": "2025-12-14",
+  "revenue": 85865995,
+  "runtime": 115,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "David",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 129
+}

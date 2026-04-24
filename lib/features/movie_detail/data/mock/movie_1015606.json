@@ -1,0 +1,60 @@
+{
+  "adult": false,
+  "backdrop_path": "/c8jqJ502BzvkCXy2enrao1PuQEE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documental"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/es-es/movies/obi-wan-kenobi-el-retorno-de-un-jedi/21AO9P5B09vI",
+  "id": 1015606,
+  "imdb_id": "tt21860836",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Obi-Wan Kenobi: A Jedi's Return",
+  "overview": "\"Este especial explora el regreso de Obi-Wan Kenobi y Anakin Skywalker a la pantalla, así como de Ewan McGregor y Hayden Christensen a sus ya clásicos papeles. La directora Deborah Chow se pone al frente del elenco y del equipo para crear nuevos héroes y villanos, que coexisten con las nuevas reencarnaciones de algunos personajes muy queridos de \"\"Star Wars\"\", y para narrar una épica aventura que entronca con las películas de la saga.\"",
+  "popularity": 22.6021,
+  "poster_path": "/c0sIhCySZLmBm8cjk961Qx4pbeZ.jpg",
+  "production_companies": [
+    {
+      "id": 1,
+      "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+      "name": "Lucasfilm Ltd.",
+      "origin_country": "US"
+    },
+    {
+      "id": 126200,
+      "logo_path": "/lvGUhh8CR2qDy16Qe5LBSZU53Iu.png",
+      "name": "Supper Club",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-09-07",
+  "revenue": 0,
+  "runtime": 60,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Obi-Wan Kenobi: El retorno del Jedi",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 1010
+}

@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/a9IQXoYCpsjqTOKXRTw1osLd5il.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "Historia"
+    }
+  ],
+  "homepage": "",
+  "id": 858024,
+  "imdb_id": "tt14905854",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hamnet",
+  "overview": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.  La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+  "popularity": 37.6592,
+  "poster_path": "/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
+  "production_companies": [
+    {
+      "id": 122908,
+      "logo_path": "/iVPAyAXjzbHjzRamNcc1R8Ra7sD.png",
+      "name": "Hera Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1522,
+      "logo_path": "/8uaoEVgNxFH0R94O53gUiByahVr.png",
+      "name": "Neal Street Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 197107,
+      "logo_path": null,
+      "name": "Book of Shadows",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-26",
+  "revenue": 100600000,
+  "runtime": 126,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Escucha a tu corazón",
+  "title": "Hamnet",
+  "video": false,
+  "vote_average": 7.734,
+  "vote_count": 1257
+}

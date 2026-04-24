@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/CpLAfXgSNeNRRbRzPrTuzKmIHO.jpg",
+  "belongs_to_collection": {
+    "id": 1314623,
+    "name": "El diablo viste de Prada 2 - Colección",
+    "poster_path": "/rxzd0UeVgErb4r736NdxbCMdvlV.jpg",
+    "backdrop_path": "/mtefhDkoYsJ8NtguqAdQBh2e91i.jpg"
+  },
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedia"
+    }
+  ],
+  "homepage": "",
+  "id": 350,
+  "imdb_id": "tt0458352",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Devil Wears Prada",
+  "overview": "En el vertiginoso mundo de la moda en Nueva York, la revista 'Runway' es el Santo Grial. Dirigida con puño de hierro y elegante manicura por Miranda Priestly, trabajar en ella es un temible reto para todo aquel que quiera triunfar en ese mundo. Hacerlo como ayudante de Miranda podría abrirle cualquier puerta a Andy Sachs, recientemente graduada. Pero ella es una chica que destaca por su desaliño dentro del pequeño ejército de guapísimas redactoras de la revista. Andy comprende muy pronto que para triunfar en ese negocio va a necesitar algo más que iniciativa y determinación. Y la prueba definitiva está delante de ella, vestida de Prada de pies a cabeza.",
+  "popularity": 99.7349,
+  "poster_path": "/gvBvYFS9LVeukBYcdBX2HJZN4DL.jpg",
+  "production_companies": [
+    {
+      "id": 711,
+      "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+      "name": "Fox 2000 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 412,
+      "logo_path": null,
+      "name": "Wendy Finerman Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 444,
+      "logo_path": null,
+      "name": "Dune Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 445,
+      "logo_path": null,
+      "name": "Major Studio Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-06-29",
+  "revenue": 326706115,
+  "runtime": 109,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "El trabajo de tus sueños viene con una jefa diabólica.",
+  "title": "El diablo viste de Prada",
+  "video": false,
+  "vote_average": 7.39,
+  "vote_count": 12972
+}

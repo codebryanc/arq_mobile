@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+  "belongs_to_collection": null,
+  "budget": 70000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Ciencia ficción"
+    },
+    {
+      "id": 53,
+      "name": "Suspense"
+    }
+  ],
+  "homepage": "https://tv.apple.com/es/movie/umc.cmc.26o403koqo2klixc0jtqy6tmc",
+  "id": 950396,
+  "imdb_id": "tt13654226",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Gorge",
+  "overview": "Mandan a dos operativos de élite a vigilar lados opuestos de un misterioso abismo y allí intiman desde la distancia, pero deberán aunar fuerzas para sobrevivir al mal que esconde el abismo.",
+  "popularity": 29.2761,
+  "poster_path": "/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
+  "production_companies": [
+    {
+      "id": 82819,
+      "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+      "name": "Skydance Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 162439,
+      "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
+      "name": "Crooked Highway",
+      "origin_country": "US"
+    },
+    {
+      "id": 194232,
+      "logo_path": "/oE7H93u8sy5vvW5EH3fpCp68vvB.png",
+      "name": "Apple Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-02-13",
+  "revenue": 0,
+  "runtime": 127,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvių"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Entre ellos se oculta el secreto más peligroso del mundo.",
+  "title": "El abismo secreto",
+  "video": false,
+  "vote_average": 7.616,
+  "vote_count": 3600
+}

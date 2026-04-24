@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Acción"
+    },
+    {
+      "id": 80,
+      "name": "Crimen"
+    },
+    {
+      "id": 53,
+      "name": "Suspense"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 1601243,
+  "imdb_id": "tt27674706",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Oscar Shaw",
+  "overview": "Tras retirarse de la policía, un implacable detective atormentado por la trágica pérdida de su mejor amigo emprende una peligrosa búsqueda de venganza, buscando la redención y luchando también por devolver la justicia a las calles que una vez juró proteger.",
+  "popularity": 17.4057,
+  "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-01-09",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Oscar Shaw",
+  "video": false,
+  "vote_average": 6.483,
+  "vote_count": 29
+}

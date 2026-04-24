@@ -826,6 +826,16 @@
       "width": 2000
     },
     {
+      "aspect_ratio": 0.667,
+      "height": 3000,
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "file_path": "/oIiP1EaBwjK2XNoSDHwpKMUe5Wm.jpg",
+      "vote_average": 1.75,
+      "vote_count": 2,
+      "width": 2000
+    },
+    {
       "aspect_ratio": 0.675,
       "height": 2963,
       "iso_3166_1": "US",
@@ -941,16 +951,6 @@
       "iso_3166_1": "US",
       "iso_639_1": "en",
       "file_path": "/h1dP8kkbRMZ6N9LzqSMyB0Yob0S.jpg",
-      "vote_average": 0.166,
-      "vote_count": 1,
-      "width": 2000
-    },
-    {
-      "aspect_ratio": 0.667,
-      "height": 3000,
-      "iso_3166_1": "US",
-      "iso_639_1": "en",
-      "file_path": "/oIiP1EaBwjK2XNoSDHwpKMUe5Wm.jpg",
       "vote_average": 0.166,
       "vote_count": 1,
       "width": 2000

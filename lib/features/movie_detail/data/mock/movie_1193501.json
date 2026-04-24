@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Misterio"
+    }
+  ],
+  "homepage": "",
+  "id": 1193501,
+  "imdb_id": "tt29550683",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Whistle",
+  "overview": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
+  "popularity": 80.7629,
+  "poster_path": "/trmpaFGqzMBcy99PKbSDfRNTbf1.jpg",
+  "production_companies": [
+    {
+      "id": 35846,
+      "logo_path": "/tOJlsgZNRdMurnJgSiuRFIUz0te.png",
+      "name": "No Trace Camping",
+      "origin_country": "US"
+    },
+    {
+      "id": 129815,
+      "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+      "name": "Wild Atlantic Pictures",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-20",
+  "revenue": 4633854,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Whistle: El silbido del mal",
+  "video": false,
+  "vote_average": 6.042,
+  "vote_count": 249
+}

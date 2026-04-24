@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crimen"
+    },
+    {
+      "id": 53,
+      "name": "Suspense"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 6977,
+  "imdb_id": "tt0477348",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "No Country for Old Men",
+  "overview": "El veterano de la Guerra de Vietnam ahora cazador Llewellyn Moss descubre por casualidad una sangrienta escena en algún lugar de la frontera entre Texas y México, mientras estaba cazando algunos animales en el árido paisaje. Se trata de un negocio que se cerró mal entre contrabandistas de drogas y algunos hombres locales de la zona, provocando la muerte de varios de ellos. Además de los cuerpos y paquetes de heroína, Llewellyn descubre en una maleta algo más de dos millones de dólares. Cuando Llewellyn toma la maleta con el dinero, provoca una reacción en cadena de catastrófica violencia y una carrera sangrienta de los que quieren darle caza.",
+  "popularity": 13.1909,
+  "poster_path": "/x9sQnOXhvec93L6cfWMGIx7BS4h.jpg",
+  "production_companies": [
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 838,
+      "logo_path": "/tcW3UqV46Mdq6GyaS1ydEDocEDF.png",
+      "name": "Paramount Vantage",
+      "origin_country": "US"
+    },
+    {
+      "id": 258,
+      "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2092,
+      "logo_path": "/9IAf3DxvsjOVSQVjX5F22jTU4Nh.png",
+      "name": "Mike Zoss Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-11-09",
+  "revenue": 171627166,
+  "runtime": 122,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No hay escapatoria.",
+  "title": "No es país para viejos",
+  "video": false,
+  "vote_average": 7.951,
+  "vote_count": 13200
+}

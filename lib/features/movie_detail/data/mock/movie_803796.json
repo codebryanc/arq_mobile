@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+  "belongs_to_collection": null,
+  "budget": 100000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasía"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 35,
+      "name": "Comedia"
+    },
+    {
+      "id": 16,
+      "name": "Animación"
+    }
+  ],
+  "homepage": "https://www.netflix.com/es/title/81498621",
+  "id": 803796,
+  "imdb_id": "tt14205554",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "KPop Demon Hunters",
+  "overview": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
+  "popularity": 40.3947,
+  "poster_path": "/6EQMqEmdG5HoGe2zT1WwWUMvVhv.jpg",
+  "production_companies": [
+    {
+      "id": 2251,
+      "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+      "name": "Sony Pictures Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-20",
+  "revenue": 24619953,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Cantan. Bailan. Luchan contra demonios.",
+  "title": "Las guerreras k-pop",
+  "video": false,
+  "vote_average": 8.013,
+  "vote_count": 2665
+}

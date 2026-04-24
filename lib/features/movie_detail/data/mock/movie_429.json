@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+  "belongs_to_collection": {
+    "id": 1680034,
+    "name": "The Dollar Trilogy",
+    "poster_path": null,
+    "backdrop_path": "/qinK1JiS5JEmmKjIbbuMyceZsdQ.jpg"
+  },
+  "budget": 1200000,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 429,
+  "imdb_id": "tt0060196",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il buono, il brutto, il cattivo",
+  "overview": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
+  "popularity": 20.4058,
+  "poster_path": "/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
+  "production_companies": [
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 7508,
+      "logo_path": null,
+      "name": "PEA",
+      "origin_country": "IT"
+    },
+    {
+      "id": 42498,
+      "logo_path": null,
+      "name": "Arturo González PC",
+      "origin_country": "ES"
+    },
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1966-12-23",
+  "revenue": 38900000,
+  "runtime": 161,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Para estos tres, la Guerra Civil no fue un infierno, ¡sino un campo de entrenamiento!",
+  "title": "El bueno, el feo y el malo",
+  "video": false,
+  "vote_average": 8.468,
+  "vote_count": 9564
+}

@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+  "belongs_to_collection": null,
+  "budget": 22000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "Historia"
+    },
+    {
+      "id": 10752,
+      "name": "Bélica"
+    }
+  ],
+  "homepage": "",
+  "id": 424,
+  "imdb_id": "tt0108052",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Schindler's List",
+  "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+  "popularity": 22.2869,
+  "poster_path": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+  "production_companies": [
+    {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-12-15",
+  "revenue": 321365567,
+  "runtime": 195,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Quien salva una vida, salva al mundo entero.",
+  "title": "La lista de Schindler",
+  "video": false,
+  "vote_average": 8.567,
+  "vote_count": 17341
+}

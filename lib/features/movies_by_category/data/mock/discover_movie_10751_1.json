@@ -21,8 +21,8 @@
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.737,
-      "vote_count": 578
+      "vote_average": 6.8,
+      "vote_count": 581
     },
     {
       "adult": false,
@@ -44,7 +44,7 @@
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.586,
+      "vote_average": 7.6,
       "vote_count": 507
     },
     {
@@ -65,54 +65,8 @@
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 7.908,
-      "vote_count": 431
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
-      "genre_ids": [
-        10751,
-        35,
-        12,
-        14,
-        16
-      ],
-      "id": 502356,
-      "title": "Super Mario Bros: La película",
-      "original_language": "en",
-      "original_title": "The Super Mario Bros. Movie",
-      "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
-      "popularity": 107.9423,
-      "poster_path": "/k36QyeVsy851npTUQL08jO8hqip.jpg",
-      "release_date": "2023-04-05",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.6,
-      "vote_count": 10514
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        9648,
-        12,
-        35
-      ],
-      "id": 1084242,
-      "title": "Zootrópolis 2",
-      "original_language": "en",
-      "original_title": "Zootopia 2",
-      "overview": "Después de resolver el caso más importante en la historia de Zootrópolis, los policías novatos Judy Hopps y Nick Wilde descubren que su asociación no es tan sólida como pensaban cuando el Jefe Bogo les ordena unirse al programa de consejería \"Compañeros en Crisis\". Pero no pasa mucho tiempo para que su asociación se ponga a prueba al máximo, cuando la llegada de Gary, la serpiente, pone la ciudad patas arriba.",
-      "popularity": 102.4753,
-      "poster_path": "/4fRdfQPjHiuDSkzaxFAV44k7Iem.jpg",
-      "release_date": "2025-11-26",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.609,
-      "vote_count": 2595
+      "vote_average": 7.918,
+      "vote_count": 433
     },
     {
       "adult": false,
@@ -138,25 +92,49 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/lniL0aoEvuWxfZOcZss7vWQfi1x.jpg",
+      "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
       "genre_ids": [
         10751,
-        14,
         35,
-        12
+        12,
+        14,
+        16
       ],
-      "id": 1108427,
-      "title": "Vaiana",
+      "id": 502356,
+      "title": "Super Mario Bros: La película",
       "original_language": "en",
-      "original_title": "Moana",
-      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "popularity": 28.1746,
-      "poster_path": "/u1dGuYo8OsNlXJVRRRrKeAQxyKk.jpg",
-      "release_date": "2026-07-08",
+      "original_title": "The Super Mario Bros. Movie",
+      "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+      "popularity": 107.9423,
+      "poster_path": "/k36QyeVsy851npTUQL08jO8hqip.jpg",
+      "release_date": "2023-04-05",
       "softcore": false,
       "video": false,
-      "vote_average": 0.0,
-      "vote_count": 0
+      "vote_average": 7.588,
+      "vote_count": 10516
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        9648,
+        12,
+        35
+      ],
+      "id": 1084242,
+      "title": "Zootrópolis 2",
+      "original_language": "en",
+      "original_title": "Zootopia 2",
+      "overview": "Después de resolver el caso más importante en la historia de Zootrópolis, los policías novatos Judy Hopps y Nick Wilde descubren que su asociación no es tan sólida como pensaban cuando el Jefe Bogo les ordena unirse al programa de consejería \"Compañeros en Crisis\". Pero no pasa mucho tiempo para que su asociación se ponga a prueba al máximo, cuando la llegada de Gary, la serpiente, pone la ciudad patas arriba.",
+      "popularity": 102.4753,
+      "poster_path": "/4fRdfQPjHiuDSkzaxFAV44k7Iem.jpg",
+      "release_date": "2025-11-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 2595
     },
     {
       "adult": false,
@@ -180,51 +158,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.0,
-      "vote_count": 3459
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        14
-      ],
-      "id": 14836,
-      "title": "Los mundos de Coraline",
-      "original_language": "en",
-      "original_title": "Coraline",
-      "overview": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
-      "popularity": 30.6957,
-      "poster_path": "/xz1HjxeqpIACyPtJMqv33Z2RjRP.jpg",
-      "release_date": "2009-02-05",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.9,
-      "vote_count": 8878
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
-      "genre_ids": [
-        16,
-        12,
-        10751,
-        35,
-        14
-      ],
-      "id": 1241982,
-      "title": "Vaiana 2",
-      "original_language": "en",
-      "original_title": "Moana 2",
-      "overview": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
-      "popularity": 26.0475,
-      "poster_path": "/bit1B5F7IQydiWqdwAAD8f9TkXs.jpg",
-      "release_date": "2024-11-21",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.995,
-      "vote_count": 3031
+      "vote_count": 3460
     },
     {
       "adult": false,
@@ -249,7 +183,73 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
+      "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 14836,
+      "title": "Los mundos de Coraline",
+      "original_language": "en",
+      "original_title": "Coraline",
+      "overview": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
+      "popularity": 30.6957,
+      "poster_path": "/xz1HjxeqpIACyPtJMqv33Z2RjRP.jpg",
+      "release_date": "2009-02-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 8878
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A9vaGg3tfuhB5qctaIKlsG2Gnpy.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        878,
+        14
+      ],
+      "id": 192904,
+      "title": "Doraemon y la Leyenda del Espacio Tiempo",
+      "original_language": "ja",
+      "original_title": "映画ドラえもん のび太のワンニャン時空伝",
+      "overview": "Después de crear un refugio para gatos y perros abandonados hace 300 millones de años, Nobita regresa y descubre que la tierra está al borde de la destrucción.  Un perro anciano se dirige a una máquina del tiempo, que planea usar para viajar al futuro y encontrarse con \"alguien\" que le entrega un \"kendama\". Sin embargo, la máquina falla y el perro regresa a su estado infantil, donde finalmente es encontrado por un gato investigador.",
+      "popularity": 29.6304,
+      "poster_path": "/gBYEK5Kv8uVZGoTbBcovIcWjKNI.jpg",
+      "release_date": "2004-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.267,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lniL0aoEvuWxfZOcZss7vWQfi1x.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        35,
+        12
+      ],
+      "id": 1108427,
+      "title": "Vaiana",
+      "original_language": "en",
+      "original_title": "Moana",
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "popularity": 28.1746,
+      "poster_path": "/u1dGuYo8OsNlXJVRRRrKeAQxyKk.jpg",
+      "release_date": "2026-07-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",
       "genre_ids": [
         16,
         10751,
@@ -257,18 +257,18 @@
         12,
         14
       ],
-      "id": 1117857,
-      "title": "En sueños",
+      "id": 991494,
+      "title": "Bob Esponja: Una aventura pirata",
       "original_language": "en",
-      "original_title": "In Your Dreams",
-      "overview": "Stevie y su hermano pequeño Elliot viajan al absurdo mundo de sus sueños para pedirle a Sandman que les conceda un deseo: la familia perfecta.",
-      "popularity": 25.5216,
-      "poster_path": "/z2v3lNAA2ymrZuKof4J2vqFIBdw.jpg",
-      "release_date": "2025-11-07",
+      "original_title": "The SpongeBob Movie: Search for SquarePants",
+      "overview": "Desesperado por ser un gran tipo, Bob Esponja se propone demostrar su valentía al Sr. Krabs siguiendo a The Flying Dutchman, un misterioso pirata fantasma, en una aventura marítima que lo lleva a las profundidades más profundas del mar profundo, donde ninguna Esponja ha ido antes.",
+      "popularity": 27.9063,
+      "poster_path": "/8pE6H7PHwINoQYPPU1fEcQz5gQ6.jpg",
+      "release_date": "2025-12-16",
       "softcore": false,
       "video": false,
-      "vote_average": 6.978,
-      "vote_count": 207
+      "vote_average": 6.8,
+      "vote_count": 268
     },
     {
       "adult": false,
@@ -291,6 +291,97 @@
       "video": false,
       "vote_average": 7.544,
       "vote_count": 6606
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35,
+        14
+      ],
+      "id": 1241982,
+      "title": "Vaiana 2",
+      "original_language": "en",
+      "original_title": "Moana 2",
+      "overview": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+      "popularity": 26.0475,
+      "poster_path": "/bit1B5F7IQydiWqdwAAD8f9TkXs.jpg",
+      "release_date": "2024-11-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.995,
+      "vote_count": 3032
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        12,
+        14
+      ],
+      "id": 1117857,
+      "title": "En sueños",
+      "original_language": "en",
+      "original_title": "In Your Dreams",
+      "overview": "Stevie y su hermano pequeño Elliot viajan al absurdo mundo de sus sueños para pedirle a Sandman que les conceda un deseo: la familia perfecta.",
+      "popularity": 25.5216,
+      "poster_path": "/z2v3lNAA2ymrZuKof4J2vqFIBdw.jpg",
+      "release_date": "2025-11-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.983,
+      "vote_count": 208
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
+      "genre_ids": [
+        16,
+        35,
+        14,
+        12,
+        10751
+      ],
+      "id": 808,
+      "title": "Shrek",
+      "original_language": "en",
+      "original_title": "Shrek",
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "popularity": 25.381,
+      "poster_path": "/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
+      "release_date": "2001-05-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.759,
+      "vote_count": 18615
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        18,
+        10402
+      ],
+      "id": 1167307,
+      "title": "David",
+      "original_language": "en",
+      "original_title": "David",
+      "overview": "En un reino gobernado por el miedo, un joven pastor se atreve a enfrentarse a un gigante y a la oscuridad que se oculta tras él. Su valor despertará a una nación y demostrará que la verdadera fuerza proviene de la confianza, no del poder.",
+      "popularity": 25.3668,
+      "poster_path": "/dRGOzTWMvRPGeOXKU0FIyG3YVO5.jpg",
+      "release_date": "2025-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 129
     },
     {
       "adult": false,
@@ -317,51 +408,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        18,
-        10402
-      ],
-      "id": 1167307,
-      "title": "David",
-      "original_language": "en",
-      "original_title": "David",
-      "overview": "En un reino gobernado por el miedo, un joven pastor se atreve a enfrentarse a un gigante y a la oscuridad que se oculta tras él. Su valor despertará a una nación y demostrará que la verdadera fuerza proviene de la confianza, no del poder.",
-      "popularity": 25.3668,
-      "poster_path": "/dRGOzTWMvRPGeOXKU0FIyG3YVO5.jpg",
-      "release_date": "2025-12-14",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.1,
-      "vote_count": 129
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        35,
-        12,
-        14
-      ],
-      "id": 991494,
-      "title": "Bob Esponja: Una aventura pirata",
-      "original_language": "en",
-      "original_title": "The SpongeBob Movie: Search for SquarePants",
-      "overview": "Desesperado por ser un gran tipo, Bob Esponja se propone demostrar su valentía al Sr. Krabs siguiendo a The Flying Dutchman, un misterioso pirata fantasma, en una aventura marítima que lo lleva a las profundidades más profundas del mar profundo, donde ninguna Esponja ha ido antes.",
-      "popularity": 27.9063,
-      "poster_path": "/8pE6H7PHwINoQYPPU1fEcQz5gQ6.jpg",
-      "release_date": "2025-12-16",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.78,
-      "vote_count": 268
-    },
-    {
-      "adult": false,
       "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
       "genre_ids": [
         10751,
@@ -379,77 +425,32 @@
       "release_date": "2025-03-31",
       "softcore": false,
       "video": false,
-      "vote_average": 6.3,
-      "vote_count": 2929
+      "vote_average": 6.256,
+      "vote_count": 2931
     },
     {
       "adult": false,
-      "backdrop_path": "/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+      "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
       "genre_ids": [
-        10751,
-        16,
+        28,
         878,
-        12
-      ],
-      "id": 1184918,
-      "title": "Robot salvaje",
-      "original_language": "en",
-      "original_title": "The Wild Robot",
-      "overview": "Esta aventura épica cuenta la historia de una robot, Rozzum 7-1-3-4, \"Roz\" para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de una cría de ganso huérfana.",
-      "popularity": 20.5514,
-      "poster_path": "/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
-      "release_date": "2024-09-12",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.307,
-      "vote_count": 5933
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
-      "genre_ids": [
-        16,
         35,
-        14,
-        12,
         10751
       ],
-      "id": 808,
-      "title": "Shrek",
+      "id": 939243,
+      "title": "Sonic 3: La película",
       "original_language": "en",
-      "original_title": "Shrek",
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "popularity": 25.381,
-      "poster_path": "/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
-      "release_date": "2001-05-18",
+      "original_title": "Sonic the Hedgehog 3",
+      "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
+      "popularity": 24.1774,
+      "poster_path": "/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
+      "release_date": "2024-12-19",
       "softcore": false,
       "video": false,
-      "vote_average": 7.759,
-      "vote_count": 18613
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        35,
-        14
-      ],
-      "id": 508947,
-      "title": "Red",
-      "original_language": "en",
-      "original_title": "Turning Red",
-      "overview": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.",
-      "popularity": 23.0681,
-      "poster_path": "/djM4COTksd5YRIdd9uEl8eA3iaa.jpg",
-      "release_date": "2022-03-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.317,
-      "vote_count": 5746
+      "vote_average": 7.6,
+      "vote_count": 3224
     }
   ],
   "total_pages": 1593,
-  "total_results": 31856
+  "total_results": 31859
 }

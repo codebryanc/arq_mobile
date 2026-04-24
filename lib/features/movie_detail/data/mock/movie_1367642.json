@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1367642,
+  "imdb_id": "tt33714084",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Reminders of Him",
+  "overview": "Cuando los abuelos y tutores de Diem se niegan categóricamente a permitir que la vea, Kenna descubre una compasión inesperada seguida de un sentimiento más profundo y real con Ledger, exjugador de la NFL y propietario de un bar local. A medida que su romance secreto va cobrando forma, surgen problemas para los dos, lo que llevará a Kenna a una situación sentimental desoladora y, en último término, a reavivar la esperanza de una segunda oportunidad.",
+  "popularity": 60.1119,
+  "poster_path": "/iPJ4V6o5PttdBmHoehdOtWqQ6gx.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 241073,
+      "logo_path": null,
+      "name": "Heartbones Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 235046,
+      "logo_path": null,
+      "name": "Little Engine Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-11",
+  "revenue": 86783235,
+  "runtime": 114,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "No te olvidaré",
+  "video": false,
+  "vote_average": 7.226,
+  "vote_count": 148
+}
